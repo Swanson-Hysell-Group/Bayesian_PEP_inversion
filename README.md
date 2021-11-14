@@ -39,3 +39,18 @@ ipython kernel install --user --name=pymc3_env
 
 
 Now you should be able to see the new kernel available in your Jupyter Notebook or Jupyter Lab from the base environment.
+
+
+
+You may run into a shapely issue with this package which can produce error of `IllegalArgumentException: ` when plotting figures.
+
+To solve this, use the command below in your terminal and install the shapely package with no binary files.
+
+`pip uninstall shapely`
+
+`pip install shapely --no-binary shapely`
+
+
+
+
+
