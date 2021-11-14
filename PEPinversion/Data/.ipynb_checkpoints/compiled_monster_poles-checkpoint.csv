@@ -1,8 +1,0 @@
-,PoleName,SLat,SLon,PLat,PLon,A95,K,N,PolarityZone,PmagRef,AgeNominal,AgeLower,AgeUpper,AgeInfo,AgeRef,Gaussian_2sigma,GaussianOrUniform,Q,color
-Ithaca kimberlites,Ithaca kimberlites,42.5,283.5,58.1,203.1,3.8,256.9,7,Ithaca normal and reversed,"VanFossen & Kent, 1993",142.0,138.0,146.0,K-Ar date on kimberlite dikes yielding 142 $\pm$ 4 Ma),"Basu et al., 1984",4.0,Gaussian,0,C3
-Peddie_kimberlite,Peddie kimberlites,47.443,280.318,73.5,184.1,3.7,83.7,19,Peddie normal,"Kent et al., 2015",154.9,153.8,156.0,U-Pb date on perovskite from kimberlite yielding 154.9 $\pm$ 1.1 Ma),"Kent et al., 2015",1.1,Gaussian,0,C2
-Triple_B_kimberlite,Triple B kimberlites,47.454,280.238,77.9,198.9,4.1,86.1,15,Triple B reversed,"Kent et al., 2015",157.5,156.3,158.7,U-Pb date on perovskite from kimberlite yielding 157.5 $\pm$ 1.2 Ma),"Kent et al., 2015",1.2,Gaussian,0,C2
-Moat_volcanics,Moat Volcanics,47.443,44.08,78.7,90.3,7.4,39.8,9,Moat early reversed,"Van-Fossen & Kent, 1990",169.0,161.0,177.0,Rb-Sr age fro mplutonic rocks associated with the Moat Volcanics,"VanFossen & Kent, 1990",8.0,Gaussian,0,C0
-Anticosti_2_dikes,Anticosti dikes,49.8,296.8,84.7,75.7,1.04,18121.301775147927,"0    2
-Name: dir_n_sites, dtype: int64",Anticosti normal,"Larochelle, 1971",183.0,171.5,194.5,not sure what dating method was used,"Larochelle, 1971",11.5,Gaussian,0,C0
-Newark_volcanics,Newark Supergroup Volcanics,42.614,287.449,65.27419283785504,102.20583395348359,2.8405435570105917,329.4912451752735,9,Newark normal,"Prevot & McWilliams, 1989",189.0,194.0,185.0,a broad estimate based on several studies,"de Boer, 1968; Armstrong and Besancon, 1970; Sutter and Smith, 1979; Seidemann et al., 1984",5.0,Gaussian,0,C0

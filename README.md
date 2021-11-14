@@ -4,9 +4,31 @@ This repository is for storing code related to Bayesian framework of doing paleo
 
 
 
+### bayesian_pep
+
+This folder contains the Python library.
 
 
-### setting up Python environment
+
+#### data 
+
+This folder contains compiled data used for generating examples of apparent polar wander path inversions.
+
+
+
+#### Jupyter Notebooks
+
+Notebooks are used to demonstrate the functions of the package.
+
+
+
+#### code_output 
+
+This folder contains output figures and data from the Jupyter Notebooks.
+
+
+
+#### setting up Python environment
 
 Conda users can use the _environment.yml_ file in the repository to generate a working Conda Python environment  that can execute the code in this repository. 
 
