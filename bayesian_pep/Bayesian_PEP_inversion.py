@@ -8,7 +8,8 @@ import cartopy.crs as ccrs
 import random
 import copy
 from scipy.constants import Julian_year
-
+import scipy.special as sc
+import scipy.stats as st
 import pymc3 as pm
 
 from pymc3 import distributions
@@ -300,7 +301,6 @@ class Pole(object):
     def add(self, pole):
         self._pole = self._pole + pole._pole
 
-    # 4/9/2020 YZ corrected the transform for the circle path from PlateCarree to Geodetic so that the poles and circles won't look odd at high latitudes. 
     def plot(self, axes, south_pole=False, **kwargs):
         artists = []
         if self._A95 is not None:
@@ -316,7 +316,7 @@ class Pole(object):
             if south_pole is True:
                 lons = lons-180.
                 lats = -lats
-            path = matplotlib.path.Path(np.transpose(np.array([lons, lats])))
+            path = matplotlib.path.Path(np.array([lons, lats]).T)
             circ_patch = matplotlib.patches.PathPatch(
                 path, transform=ccrs.PlateCarree(), alpha=0.5, **kwargs)
             circ_artist = axes.add_patch(circ_patch)
@@ -439,6 +439,8 @@ class VMF(Continuous):
     def __init__(self, lon_lat=[0,0], k=None, dtype = np.float64,
                  *args, **kwargs):
         super(VMF, self).__init__(*args, **kwargs)
+        if k < eps:
+            k = np.log(1. / 4. / np.pi)
         
         self._k = T.as_tensor_variable(floatX(k))
         self._lon_lat = T.as_tensor_variable(lon_lat)
@@ -458,20 +460,43 @@ class VMF(Continuous):
         gamma = lon_lat[0] * d2r
 
         rotation_matrix = construct_euler_rotation_matrix(alpha, beta, gamma)
+        
+        zeta = st.uniform.rvs(loc=0., scale=1.)
+        if k < eps:
+            z = np.array([2. * zeta - 1.])
+        else:
+            z = 1. + 1. / k * \
+                np.log(zeta + (1. - zeta) * np.exp(-2. * k))
 
-        lamda = np.exp(-2*k)
-
-        r1 = np.random.random()
-        r2 = np.random.random()
-        colat = 2*np.arcsin(np.sqrt(-np.log(r1*(1-lamda)+lamda)/2/k))
-        this_lon = 2*np.pi*r2
-        lat = 90-colat*r2d
-        lon = this_lon*r2d
-
-        unrotated = pmag.dir2cart([lon, lat])[0]
-        rotated = np.transpose(np.dot(rotation_matrix, unrotated))
-        rotated_dir = pmag.cart2dir(rotated)
+        # x and y coordinates can be determined by a
+        # uniform distribution in longitude.
+        phi = st.uniform.rvs(loc=0., scale=2. * np.pi)
+        x = np.sqrt(1. - z * z) * np.cos(phi)
+        y = np.sqrt(1. - z * z) * np.sin(phi)
+        
+#         print(x,y,z)
+        # Rotate the samples to have the correct mean direction
+        unrotated_samples = np.array((x, y, z))
+        rotated = np.transpose(np.dot(rotation_matrix, unrotated_samples))
+        rotated_dir = pmag.cart2dir(rotated)[0]
+#         print(unrotated_samples, rotated, rotated_dir)
         return np.array([rotated_dir[0], rotated_dir[1]])
+    
+
+
+#         lamda = np.exp(-2*k)
+
+#         r1 = np.random.random()
+#         r2 = np.random.random()
+#         colat = 2*np.arcsin(np.sqrt(-np.log(r1*(1-lamda)+lamda)/2/k))
+#         this_lon = 2*np.pi*r2
+#         lat = 90-colat*r2d
+#         lon = this_lon*r2d
+
+#         unrotated = pmag.dir2cart([lon, lat])[0]
+#         rotated = np.transpose(np.dot(rotation_matrix, unrotated))
+#         rotated_dir = pmag.cart2dir(rotated)
+#         return np.array([rotated_dir[0], rotated_dir[1]])
     
     def random(self, point=None, size=None):
         
@@ -481,13 +506,28 @@ class VMF(Continuous):
                                 size=size)
     
 
-
+@as_op(itypes=[T.dvector, T.dscalar, T.dvector], otypes=[T.dscalar])
+def watson_girdle_logp(lon_lat, k, x):
+    
+    if k > 0:
+        raise ValueError('k has to be negative!')
+        return 
+    if k == 0:
+        return np.log(1. / 4. / np.pi)
+    
+    theta = pmag.angle(x, lon_lat)[0]
+    pw = 1/sc.hyp1f1(1/2, 3/2, k)/4/np.pi*np.exp(k*np.cos(theta*d2r)**2)
+    log_pw = np.log(pw)
+    
+    return np.array(log_pw)
 
 class Watson_Girdle(Continuous):
     def __init__(self, lon_lat=[0,0], k=None, dtype = np.float64, 
                  *args, **kwargs):
         super(Watson_Girdle, self).__init__(*args, **kwargs)
-        
+        if k == 0:
+            k = np.log(1. / 4. / np.pi)
+            
         self._lon_lat = T.as_tensor(lon_lat)
         self._k = T.as_tensor_variable(floatX(k))
     
@@ -682,3 +722,90 @@ def plot_trace_1e( trace, lon_lats, ages, central_lon = 30., central_lat = 30., 
     if savefig == True:
         plt.savefig(figname)
     plt.show()
+    
+    
+def bin_trace(lon_samples, lat_samples, resolution):
+    """
+    Given a trace of samples in longitude and latitude, bin them
+    in latitude and longitude, and normalize the bins so that
+    the integral of probability density over the sphere is one.
+
+    The resolution keyword gives the number of divisions in latitude.
+    The divisions in longitude is twice that.
+    """
+    lats = np.linspace(-90., 90., resolution, endpoint=True)
+    lons = np.linspace(-180., 180., 2. * resolution, endpoint=True)
+    lon_grid, lat_grid = np.meshgrid(lons, lats)
+    hist = np.zeros_like(lon_grid)
+
+    dlon = 360. / (2. * resolution)
+    dlat = 180. / resolution
+
+    for lon, lat in zip(lon_samples, lat_samples):
+
+        lon = np.mod(lon, 360.)
+        if lon > 180.:
+            lon = lon - 360.
+        if lat < -90. or lat > 90.:
+            # Just skip invalid latitudes if they happen to arise
+            continue
+
+        lon_index = int(np.floor((lon + 180.) / dlon))
+        lat_index = int(np.floor((lat + 90.) / dlat))
+        hist[lat_index, lon_index] += 1
+
+    lat_grid += dlat / 2.
+    lon_grid += dlon / 2.
+    return lon_grid, lat_grid, hist
+
+
+def density_distribution(lon_samples, lat_samples, resolution=30):
+    count = len(lon_samples)
+    lon_grid, lat_grid, hist = bin_trace(lon_samples, lat_samples, resolution)
+    return lon_grid, lat_grid, hist / count
+
+
+def cumulative_density_distribution(lon_samples, lat_samples, resolution=30):
+
+    lon_grid, lat_grid, hist = bin_trace(lon_samples, lat_samples, resolution)
+
+    # Compute the cumulative density
+    hist = hist.ravel()
+    i_sort = np.argsort(hist)[::-1]
+    i_unsort = np.argsort(i_sort)
+    hist_cumsum = hist[i_sort].cumsum()
+    hist_cumsum /= hist_cumsum[-1]
+
+    return lon_grid, lat_grid, hist_cumsum[i_unsort].reshape(lat_grid.shape)
+
+
+def plot_distribution(ax, lon_samples, lat_samples, to_plot='d', resolution=30, **kwargs):
+
+    if 'cmap' in kwargs:
+        cmap = kwargs.pop('cmap')
+    else:
+        cmap = next(cmaps)
+
+    artists = []
+
+    if 'd' in to_plot:
+        lon_grid, lat_grid, density = density_distribution(
+            lon_samples, lat_samples, resolution)
+        density = ma.masked_where(density <= 0.05*density.max(), density)
+        a = ax.pcolormesh(lon_grid, lat_grid, density, cmap=cmap,
+                          transform=ccrs.PlateCarree(), **kwargs)
+        artists.append(a)
+
+    if 'e' in to_plot:
+        lon_grid, lat_grid, cumulative_density = cumulative_density_distribution(
+            lon_samples, lat_samples, resolution)
+        a = ax.contour(lon_grid, lat_grid, cumulative_density, levels=[
+                       0.683, 0.955], cmap=cmap, transform=ccrs.PlateCarree())
+        artists.append(a)
+
+    if 's' in to_plot:
+        a = ax.scatter(lon_samples, lat_samples, color=cmap(
+            [0., 0.5, 1.])[-1], alpha=0.1, transform=ccrs.PlateCarree(), edgecolors=None, **kwargs)
+        artists.append(a)
+
+    return artists
