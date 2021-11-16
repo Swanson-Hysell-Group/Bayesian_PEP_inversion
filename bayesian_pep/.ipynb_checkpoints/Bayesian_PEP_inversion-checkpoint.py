@@ -1,8 +1,10 @@
+from itertools import cycle
 import pmagpy.pmag as pmag
 import pmagpy.ipmag as ipmag
 import pandas as pd
 import matplotlib
 import numpy as np
+import matplotlib.colors as colors
 import matplotlib.pyplot as plt
 import cartopy.crs as ccrs
 import random
@@ -20,10 +22,26 @@ from theano import shared
 import theano
 from pymc3.theanof import floatX
 
+theano.config.floatX = 'float64'
+
+
 d2r = np.pi/180
 r2d = 180/np.pi
 eps = 1.e-6
 
+cmap_blue = plt.get_cmap('Blues')
+cmap_red = plt.get_cmap('Reds')
+cmap_green = plt.get_cmap('Greens')
+cmap_orange = plt.get_cmap('Oranges')
+cmap_purple = plt.get_cmap('Purples')
+cmap_blue.set_bad('w', alpha=0.0)
+cmap_red.set_bad('w', alpha=0.0)
+cmap_green.set_bad('w', alpha=0.0)
+cmap_orange.set_bad('w', alpha=0.0)
+cmap_purple.set_bad('w', alpha=0.0)
+
+cmap_list = [cmap_blue, cmap_red, cmap_green, cmap_orange, cmap_purple]
+cmaps = cycle(cmap_list)
 
 # @as_op(itypes=[T.dvector, T.dvector, T.dscalar], otypes=[T.dvector])
 def rotate(pole, rotation_pole, angle):
@@ -86,22 +104,7 @@ def atan2(y, x):
         return -np.pi/2
     if x == y == 0:
         return
-    
-# def atan2(y, x):
-    
-#     if T.gt(x,0):
-#         return np.arctan(y/x)
-#     if T.gt(0,x) and T.ge(y,0):
-#         return np.arctan(y/x) + np.pi
-#     if T.gt(0,x) and T.gt(0,y):
-#         return np.arctan(y/x) - np.pi
-    
-#     if T.eq(x,0) and T.gt(y,0):
-#         return np.pi/2
-#     if x == 0 and T.gt(0,y):
-#         return -np.pi/2
-#     if T.eq(x,0) and T.eq(y,0):
-#         return
+
 
 def cartesian_to_spherical(vecs):
     v = np.reshape(vecs, (3, -1))
@@ -539,7 +542,8 @@ class Watson_Girdle(Continuous):
         return watson_girdle_logp(lon_lat, k, value)
     
     def _random(self, lon_lat, k, size = None):
-        
+        if np.abs(k) < 0:
+            k = np.log(1. / 4. / np.pi)
         beta = np.pi / 2. - lon_lat[1] * d2r
         gamma = lon_lat[0] * d2r
         rotation_matrix = construct_euler_rotation_matrix(0, beta, gamma)
@@ -573,9 +577,46 @@ class Watson_Girdle(Continuous):
         z = np.sin(this_lat*d2r)
         
         unrotated = pmag.dir2cart([this_lon, this_lat])[0]
-        rotated = np.transpose(np.dot(rotation_matrix, unrotated))
-        rotated_dir = pmag.cart2dir(rotated)
-        return np.array([rotated_dir[0], rotated_dir[1]])
+        if np.abs(k) < eps:
+            return np.array([this_lon, this_lat])
+        else:
+            rotated = np.transpose(np.dot(rotation_matrix, unrotated))
+            rotated_dir = pmag.cart2dir(rotated)
+        
+            return np.array([rotated_dir[0], rotated_dir[1]])
+                
+            
+#         beta = np.pi / 2. - lon_lat[1] * d2r
+#         gamma = lon_lat[0] * d2r
+#         rot_beta = np.array([[np.cos(beta), 0., np.sin(beta)],
+#                              [0., 1., 0.],
+#                              [-np.sin(beta), 0., np.cos(beta)]])
+#         rot_gamma = np.array([[np.cos(gamma), -np.sin(gamma), 0.],
+#                               [np.sin(gamma), np.cos(gamma), 0.],
+#                               [0., 0., 1.]])
+#         rotation_matrix = np.dot(rot_gamma, rot_beta)
+
+#         if np.abs(k) < eps:
+#             z = st.uniform.rvs(loc=-1., scale=2.)
+#         else:
+#             sigma = np.sqrt(-1. / 2. / k)
+#             mu = 0.0
+#             z = st.truncnorm.rvs(a=(-1. - mu) / sigma,
+#                                  b=(1. - mu) / sigma, loc=0., scale=sigma)
+
+#         # x and y coordinates can be determined by a
+#         # uniform distribution in longitude.
+#         phi = st.uniform.rvs(loc=0., scale=2. * np.pi)
+#         x = np.sqrt(1. - z * z) * np.cos(phi)
+#         y = np.sqrt(1. - z * z) * np.sin(phi)
+
+#         # Rotate the samples to have the correct mean direction
+#         unrotated_samples = np.array([x, y, z])
+#         s = np.transpose(np.dot(rotation_matrix, unrotated_samples))
+
+#         lon_lat = np.array([np.arctan2(s[1], s[0]), np.pi /
+#                             2. - np.arccos(s[2] / np.sqrt(np.dot(s, s)))]) * r2d
+#         return lon_lat
     
 #         unrotated_samples = np.array([x, y, z])
 #         s = np.transpose(np.dot(rotation_matrix, unrotated_samples))
@@ -701,9 +742,9 @@ def plot_trace_1e( trace, lon_lats, ages, central_lon = 30., central_lat = 30., 
 
     interval = max([1,int(len(rates_1)/num_paths_to_plot)])
 
-    ax = ipmag.make_orthographic_map(central_lon, central_lat)
+    ax = ipmag.make_orthographic_map(0., 90., add_land=0, grid_lines = 1)
     
-    ax.scatter(euler_1_directions[:,0][:num_points_to_plot], euler_1_directions[:,1][:num_points_to_plot], transform=ccrs.PlateCarree(), marker = 's', color='b', alpha=0.1)
+    plot_distributions(ax, euler_1_directions[:,0], euler_1_directions[:,1])
 
     age_list = np.linspace(ages[0], ages[-1], num_paths_to_plot)
     pathlons = np.empty_like(age_list)
@@ -717,7 +758,7 @@ def plot_trace_1e( trace, lon_lats, ages, central_lon = 30., central_lat = 30., 
 
         ax.plot(pathlons,pathlats,color='b', transform=ccrs.PlateCarree(), alpha=0.05)
     for i in range(len(lon_lats)):
-        this_pole = Pole(lon_lats[i][0], lon_lats[i][1], A95=10.)
+        this_pole = Pole(lon_lats[i][0], lon_lats[i][1], A95=5.)
         this_pole.plot(ax, color='C'+str(i))
     if savefig == True:
         plt.savefig(figname)
@@ -779,7 +820,7 @@ def cumulative_density_distribution(lon_samples, lat_samples, resolution=30):
     return lon_grid, lat_grid, hist_cumsum[i_unsort].reshape(lat_grid.shape)
 
 
-def plot_distribution(ax, lon_samples, lat_samples, to_plot='d', resolution=30, **kwargs):
+def plot_distributions(ax, lon_samples, lat_samples, to_plot='d', resolution=30, **kwargs):
 
     if 'cmap' in kwargs:
         cmap = kwargs.pop('cmap')
