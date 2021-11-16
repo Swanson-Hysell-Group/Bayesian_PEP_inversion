@@ -4,6 +4,7 @@ import pmagpy.ipmag as ipmag
 import pandas as pd
 import matplotlib
 import numpy as np
+import numpy.ma as ma
 import matplotlib.colors as colors
 import matplotlib.pyplot as plt
 import cartopy.crs as ccrs
@@ -775,7 +776,7 @@ def bin_trace(lon_samples, lat_samples, resolution):
     The divisions in longitude is twice that.
     """
     lats = np.linspace(-90., 90., resolution, endpoint=True)
-    lons = np.linspace(-180., 180., 2. * resolution, endpoint=True)
+    lons = np.linspace(-180., 180., 2 * resolution, endpoint=True)
     lon_grid, lat_grid = np.meshgrid(lons, lats)
     hist = np.zeros_like(lon_grid)
 
