@@ -695,7 +695,7 @@ def plot_trace_1e( trace, lon_lats, ages, central_lon = 30., central_lat = 30., 
     pole_colors = [colors.rgb2hex(scalarMap.to_rgba(ages[i])) for i in range(len(ages))]
         
     cbar = plt.colorbar(scalarMap, shrink=0.85)
-    
+    cbar.ax.set_xlabel('Age (Ma)', fontsize=12) 
     for i in range(len(lon_lats)):
         this_pole = Pole(lon_lats[i][0], lon_lats[i][1], A95=5.)
         this_pole.plot(ax, color=pole_colors[i])
@@ -704,25 +704,26 @@ def plot_trace_1e( trace, lon_lats, ages, central_lon = 30., central_lat = 30., 
     plt.show()
     
     
-@as_op(itypes=[T.dvector, T.dvector, T.dscalar, T.dvector, T.dscalar,  T.dscalar,  T.dscalar], otypes=[T.dvector])
-def pole_position_2e( start, euler_1, rate_1, euler_2, rate_2, switchpoint, time ):
+@as_op(itypes=[T.dvector, T.dvector, T.dscalar, T.dvector, T.dscalar,  T.dscalar,  T.dscalar, T.dscalar], otypes=[T.dvector])
+def pole_position_2e( start, euler_1, rate_1, euler_2, rate_2, switchpoint, start_age, age ):
 
     euler_pole_1 = EulerPole( euler_1[0], euler_1[1], rate_1)
     euler_pole_2 = EulerPole( euler_2[0], euler_2[1], rate_2)
-    start_pole = PaleomagneticPole(start[0], start[1], age=time)
+    start_pole = PaleomagneticPole(start[0], start[1], age=start_age)
 
-    if time <= switchpoint:
-        start_pole.rotate( euler_pole_1, euler_pole_1.rate*time)
+    if age >= switchpoint:
+        start_pole.rotate( euler_pole_1, euler_pole_1.rate*(start_age-age))
     else:
-        start_pole.rotate( euler_pole_1, euler_pole_1.rate*switchpoint)
-        start_pole.rotate( euler_pole_2, euler_pole_2.rate*(time-switchpoint))
+        start_pole.rotate( euler_pole_1, euler_pole_1.rate*(start_age-switchpoint))
+        start_pole.rotate( euler_pole_2, euler_pole_2.rate*(switchpoint-age))
 
     lon_lat = np.array([start_pole.longitude, start_pole.latitude])
 
     return lon_lat
 
 
-def plot_trace_2e( trace, lon_lats, age, central_lon = 30., central_lat = 30., num_points_to_plot = 500, num_paths_to_plot = 500, savefig = False, figname = '2_Euler_inversion_test.pdf'):
+def plot_trace_2e( trace, lon_lats, ages, central_lon = 30., central_lat = 30., num_points_to_plot = 500, num_paths_to_plot = 500, 
+                  savefig = False, figname = '2_Euler_inversion_test.pdf', **kwargs):
     def pole_position( start, euler_1, rate_1, euler_2, rate_2, switchpoint, time ):
 
         euler_pole_1 = EulerPole( euler_1[0], euler_1[1], rate_1)
@@ -745,23 +746,21 @@ def plot_trace_2e( trace, lon_lats, age, central_lon = 30., central_lat = 30., n
     euler_2_directions = trace.euler_2
     rates_2 = trace.rate_2
 
-    start_directions = trace.start
+    start_directions = trace.start_pole
     switchpoints = trace.switchpoint
 
     interval = max([1,int(len(rates_1)/num_paths_to_plot)])
 
     #ax = plt.axes(projection = ccrs.Orthographic(0.,30.))
-    ax = ipmag.make_orthographic_map(central_lon, central_lat)
+    ax = ipmag.make_orthographic_map(central_lon, central_lat, add_land=0, grid_lines = 1)
     
-    ax.scatter(euler_1_directions[:,0][:num_points_to_plot], euler_1_directions[:,1][:num_points_to_plot], transform=ccrs.PlateCarree(), marker = 's', color='b', alpha=0.1)
-    ax.scatter(euler_2_directions[:,0][:num_points_to_plot], euler_2_directions[:,1][:num_points_to_plot], transform=ccrs.PlateCarree(), marker = 's', color='r', alpha=0.1)
+    plot_distributions(ax, euler_1_directions[:,0], euler_1_directions[:,1], cmap = 'Blues', **kwargs)
+    plot_distributions(ax, euler_2_directions[:,0], euler_2_directions[:,1], cmap = 'Reds', **kwargs)
     
-#     ipmag.plot_vgp( ax, euler_1_directions[:,0][:num_points_to_plot], euler_1_directions[:,1][:num_points_to_plot])
-#     ipmag.plot_vgp( ax, euler_2_directions[:,0][:num_points_to_plot], euler_2_directions[:,1][:num_points_to_plot])
-
     age_list = np.linspace(ages[0], ages[-1], num_paths_to_plot)
     pathlons = np.empty_like(age_list)
     pathlats = np.empty_like(age_list)
+    
     for start, e1, r1, e2, r2, switch \
                  in zip(start_directions[::interval], 
                         euler_1_directions[::interval], rates_1[::interval],
@@ -771,11 +770,21 @@ def plot_trace_2e( trace, lon_lats, age, central_lon = 30., central_lat = 30., n
             lon_lat = pole_position( start, e1, r1, e2, r2, switch, a)
             pathlons[i] = lon_lat[0]
             pathlats[i] = lon_lat[1]
+        
+        ax.plot(pathlons[int(switch):],pathlats[int(switch):],color='b', transform=ccrs.PlateCarree(), alpha=0.05)
+        ax.plot(pathlons[:int(switch)],pathlats[:int(switch)],color='r', transform=ccrs.PlateCarree(), alpha=0.05)
+        
+    # plot paleomagnetic observation poles here
+    cNorm  = matplotlib.colors.Normalize(vmin=min(ages), vmax=max(ages))
+    scalarMap = matplotlib.cm.ScalarMappable(norm=cNorm, cmap='viridis_r')
 
-        ax.plot(pathlons,pathlats,color='b', transform=ccrs.Geodetic(), alpha=0.05)
+    pole_colors = [colors.rgb2hex(scalarMap.to_rgba(ages[i])) for i in range(len(ages))]
+        
+    cbar = plt.colorbar(scalarMap, shrink=0.85)
+    cbar.ax.set_xlabel('Age (Ma)', fontsize=12) 
     for i in range(len(lon_lats)):
         this_pole = Pole(lon_lats[i][0], lon_lats[i][1], A95=5.)
-        this_pole.plot(ax, color='C'+str(i))
+        this_pole.plot(ax, color=pole_colors[i])
     if savefig == True:
         plt.savefig(figname)
     plt.show()
