@@ -1,0 +1,722 @@
+tab 	samples
+azimuth	citations	description	dip	dir_dec	dir_inc	dir_n_specimens	dir_n_specimens_lines	dir_tilt_correction	geologic_classes	geologic_types	lat	lithologies	lon	method_codes	sample	site	specimens
+271.0	This study	oriented core	-92	73.0	-72.7	1	1	100	Extrusive:Igneous	Lava Flow	48.8062	Basalt	272.3366	FS-FD:SO-CMD-NORTH:SO-POM	SI1-116.9	SI1(116.3 to 118.8)	SI1-116.9a
+264.0	This study	oriented core	-85	56.8	-66.2	1	1	100	Extrusive:Igneous	Lava Flow	48.8062	Basalt	272.3366	FS-FD:SO-CMD-NORTH:SO-POM	SI1-116.95	SI1(116.3 to 118.8)	SI1-116.95a
+11.0	This study	oriented core	-20	90.7	-68.9	1	1	100	Extrusive:Igneous	Lava Flow	48.8062	Basalt	272.3366	FS-FD:SO-CMD-NORTH:SO-POM	SI1-116.96	SI1(116.3 to 118.8)	SI1-116.96a
+29.0	This study	oriented core	-18	53.7	-65.0	1	1	100	Extrusive:Igneous	Lava Flow	48.8062	Basalt	272.3366	FS-FD:SO-CMD-NORTH:SO-POM	SI1-116.97	SI1(116.3 to 118.8)	SI1-116.97a
+251.0	This study	oriented core	-58	76.8	-75.5	1	1	100	Extrusive:Igneous	Lava Flow	48.8062	Basalt	272.3366	FS-FD:SO-CMD-NORTH:SO-POM	SI1-117.05	SI1(116.3 to 118.8)	SI1-117.05a
+278.0	This study	oriented core	-80	99.7	-68.3	1	1	100	Extrusive:Igneous	Lava Flow	48.8062	Basalt	272.3366	FS-FD:SO-CMD-NORTH:SO-POM	SI1-117.2	SI1(116.3 to 118.8)	SI1-117.2a
+266.0	This study	oriented core	-63	69.2	-71.9	1	1	100	Extrusive:Igneous	Lava Flow	48.8122	Basalt	272.338	FS-FD:SO-CMD-NORTH:SO-POM	SI1-12.5	SI1(11.8 to 26.4)	SI1-12.5-D
+186.0	This study	oriented core	-47	90.9	-70.7	1	1	100	Extrusive:Igneous	Lava Flow	48.8122	Basalt	272.338	FS-FD:SO-CMD-NORTH:SO-POM	SI1-12.55	SI1(11.8 to 26.4)	SI1-12.55-D
+310.0	This study	oriented core	-25						Extrusive:Igneous	Lava Flow	48.8122	Basalt	272.338	FS-FD:SO-CMD-NORTH:SO-POM	SI1-12.95	SI1(11.8 to 26.4)	
+253.0	This study	oriented core	-64	62.9	-72.9	1	1	100	Extrusive:Igneous	Lava Flow	48.806	Basalt	272.3366	FS-FD:SO-CMD-NORTH:SO-POM	SI1-120.4	SI1(119.7 to 122.1)	SI1-120.4a
+254.0	This study	oriented core	-70	73.3	-70.7	1	1	100	Extrusive:Igneous	Lava Flow	48.806	Basalt	272.3366	FS-FD:SO-CMD-NORTH:SO-POM	SI1-120.42	SI1(119.7 to 122.1)	SI1-120.42a
+255.0	This study	oriented core	-72	103.8	-62.8	1	1	100	Extrusive:Igneous	Lava Flow	48.806	Basalt	272.3366	FS-FD:SO-CMD-NORTH:SO-POM	SI1-120.45	SI1(119.7 to 122.1)	SI1-120.45a
+223.0	This study	oriented core	-30	95.5	-68.2	1	1	100	Extrusive:Igneous	Lava Flow	48.806	Basalt	272.3366	FS-FD:SO-CMD-NORTH:SO-POM	SI1-120.5	SI1(119.7 to 122.1)	SI1-120.5a
+297.0	This study	oriented core	-16	91.0	-66.5	1	1	100	Extrusive:Igneous	Lava Flow	48.806	Basalt	272.3366	FS-FD:SO-CMD-NORTH:SO-POM	SI1-120.52	SI1(119.7 to 122.1)	SI1-120.52a
+243.0	This study	oriented core	-14	51.9	-57.3	1	1	100	Extrusive:Igneous	Lava Flow	48.806	Basalt	272.3366	FS-FD:SO-CMD-NORTH:SO-POM	SI1-120.6	SI1(119.7 to 122.1)	SI1-120.6a
+192.0	This study	oriented core	-79	64.5	-73.2	1	1	100	Extrusive:Igneous	Lava Flow	48.8058	Basalt	272.3367	FS-FD:SO-CMD-NORTH:SO-POM	SI1-122.4	SI1(122.1 to 123.7)	SI1-122.4a
+305.0	This study	oriented core	-7	59.5	-68.9	1	1	100	Extrusive:Igneous	Lava Flow	48.8058	Basalt	272.3367	FS-FD:SO-CMD-NORTH:SO-POM	SI1-122.5	SI1(122.1 to 123.7)	SI1-122.5a
+227.0	This study	oriented core	-32	79.5	-61.4	1	1	100	Extrusive:Igneous	Lava Flow	48.8058	Basalt	272.3367	FS-FD:SO-CMD-NORTH:SO-POM	SI1-122.65	SI1(122.1 to 123.7)	SI1-122.65a
+223.0	This study	oriented core	-35	82.7	-70.9	1	1	100	Extrusive:Igneous	Lava Flow	48.8058	Basalt	272.3367	FS-FD:SO-CMD-NORTH:SO-POM	SI1-122.69	SI1(122.1 to 123.7)	SI1-122.69a
+316.0	This study	oriented core	-24	90.1	-66.8	1	1	100	Extrusive:Igneous	Lava Flow	48.8058	Basalt	272.3367	FS-FD:SO-CMD-NORTH:SO-POM	SI1-123.35	SI1(122.1 to 123.7)	SI1-123.35a
+297.0	This study	oriented core	-13	73.2	-71.6	1	1	100	Extrusive:Igneous	Lava Flow	48.8058	Basalt	272.3367	FS-FD:SO-CMD-NORTH:SO-POM	SI1-123.4	SI1(122.1 to 123.7)	SI1-123.4a
+336.0	This study	oriented core	-29	83.4	-69.7	1	1	100	Extrusive:Igneous	Lava Flow	48.8122	Basalt	272.338	FS-FD:SO-CMD-NORTH:SO-POM	SI1-13.0	SI1(11.8 to 26.4)	SI1-13.0-D
+253.0	This study	oriented core	-53	84.8	-69	1	1	100	Extrusive:Igneous	Lava Flow	48.8122	Basalt	272.338	FS-FD:SO-CMD-NORTH:SO-POM	SI1-13.4	SI1(11.8 to 26.4)	SI1-13.4-D
+294.0	This study	oriented core	-26	69.7	-75.2	1	1	100	Extrusive:Igneous	Lava Flow	48.8122	Basalt	272.338	FS-FD:SO-CMD-NORTH:SO-POM	SI1-14.2	SI1(11.8 to 26.4)	SI1-14.2-D
+289.0	This study	oriented core	-40	82.0	-68.3	1	1	100	Extrusive:Igneous	Lava Flow	48.8122	Basalt	272.338	FS-FD:SO-CMD-NORTH:SO-POM	SI1-14.4	SI1(11.8 to 26.4)	SI1-14.4-D
+272.0	This study	oriented core	-66	74.9	-68	1	1	100	Extrusive:Igneous	Lava Flow	48.8122	Basalt	272.338	FS-FD:SO-CMD-NORTH:SO-POM	SI1-14.9	SI1(11.8 to 26.4)	SI1-14.9-D
+241.0	This study	oriented core	-75	114.2	-64	1	1	100	Extrusive:Igneous	Lava Flow	48.8104	Basalt	272.3378	FS-FD:SO-CMD-NORTH:SO-POM	SI1-28.68	SI1(28.3 to 29.2)	SI1-28.68-D
+255.0	This study	oriented core	-81	108.6	-64.6	1	1	100	Extrusive:Igneous	Lava Flow	48.8104	Basalt	272.3378	FS-FD:SO-CMD-NORTH:SO-POM	SI1-28.7	SI1(28.3 to 29.2)	SI1-28.7-D
+273.0	This study	oriented core	-69	127.5	-69.3	1	1	100	Extrusive:Igneous	Lava Flow	48.8104	Basalt	272.3378	FS-FD:SO-CMD-NORTH:SO-POM	SI1-28.8	SI1(28.3 to 29.2)	SI1-28.8-D
+276.0	This study	oriented core	-70						Extrusive:Igneous	Lava Flow	48.8104	Basalt	272.3378	FS-FD:SO-CMD-NORTH:SO-POM	SI1-28.85	SI1(28.3 to 29.2)	
+249.0	This study	oriented core	-87	107.0	-70.6	1	1	100	Extrusive:Igneous	Lava Flow	48.8104	Basalt	272.3378	FS-FD:SO-CMD-NORTH:SO-POM	SI1-28.9	SI1(28.3 to 29.2)	SI1-28.9-D
+252.0	This study	oriented core	-83	117.5	-64	1	1	100	Extrusive:Igneous	Lava Flow	48.8104	Basalt	272.3378	FS-FD:SO-CMD-NORTH:SO-POM	SI1-29.0	SI1(28.3 to 29.2)	SI1-29.0-D
+291.0	This study	oriented core	-77	91.3	-66.5	1	1	100	Extrusive:Igneous	Lava Flow	48.8104	Basalt	272.3377	FS-FD:SO-CMD-NORTH:SO-POM	SI1-29.1	SI1(28.3 to 29.2)	SI1-29.1-D
+269.0	This study	oriented core	-107	62.5	-59.9	1	1	100	Extrusive:Igneous	Lava Flow	48.8104	Basalt	272.3377	FS-FD:SO-CMD-NORTH:SO-POM	SI1-29.15	SI1(29.2 to 29.7)	SI1-29.15-D
+278.0	This study	oriented core	-80	102.9	-66.1	1	1	100	Extrusive:Igneous	Lava Flow	48.8104	Basalt	272.3377	FS-FD:SO-CMD-NORTH:SO-POM	SI1-29.2	SI1(28.3 to 29.2)	SI1-29.2-D
+230.0	This study	oriented core	-61	100.0	-69.4	1	1	100	Extrusive:Igneous	Lava Flow	48.8104	Basalt	272.3377	FS-FD:SO-CMD-NORTH:SO-POM	SI1-29.24	SI1(29.2 to 29.7)	SI1-29.24-D
+295.0	This study	oriented core	-79	94.5	-65.7	1	1	100	Extrusive:Igneous	Lava Flow	48.8104	Basalt	272.3377	FS-FD:SO-CMD-NORTH:SO-POM	SI1-29.25	SI1(29.2 to 29.7)	SI1-29.25-D
+263.0	This study	oriented core	-76	104.3	-63.3	1	1	100	Extrusive:Igneous	Lava Flow	48.8104	Basalt	272.3377	FS-FD:SO-CMD-NORTH:SO-POM	SI1-29.4	SI1(29.2 to 29.7)	SI1-29.4-D
+213.0	This study	oriented core	-59	75.6	-63	1	1	100	Extrusive:Igneous	Lava Flow	48.81	Basalt	272.3377	FS-FD:SO-CMD-NORTH:SO-POM	SI1-33.4	SI1(33.3 to 37.1)	SI1-33.4a
+309.0	This study	oriented core	-39						Extrusive:Igneous	Lava Flow	48.81	Basalt	272.3377	FS-FD:SO-CMD-NORTH:SO-POM	SI1-33.5	SI1(33.3 to 37.1)	
+218.0	This study	oriented core	-37	104.4	-79.4	1	1	100	Extrusive:Igneous	Lava Flow	48.81	Basalt	272.3377	FS-FD:SO-CMD-NORTH:SO-POM	SI1-34.2	SI1(33.3 to 37.1)	SI1-34.2a
+232.0	This study	oriented core	-89	89.8	-67.7	1	1	100	Extrusive:Igneous	Lava Flow	48.81	Basalt	272.3377	FS-FD:SO-CMD-NORTH:SO-POM	SI1-34.7	SI1(33.3 to 37.1)	SI1-34.7a
+232.0	This study	oriented core	-90	99.4	-65.7	1	1	100	Extrusive:Igneous	Lava Flow	48.81	Basalt	272.3377	FS-FD:SO-CMD-NORTH:SO-POM	SI1-34.75	SI1(33.3 to 37.1)	SI1-34.75a
+229.0	This study	oriented core	-91	101.0	-63.2	1	1	100	Extrusive:Igneous	Lava Flow	48.81	Basalt	272.3377	FS-FD:SO-CMD-NORTH:SO-POM	SI1-34.8	SI1(33.3 to 37.1)	SI1-34.8a
+265.0	This study	oriented core	-53	80.5	-77.2	1	1	100	Extrusive:Igneous	Lava Flow	48.8096	Basalt	272.3374	FS-FD:SO-CMD-NORTH:SO-POM	SI1-40.9	SI1(40.6 to 42.5)	SI1-40.9a
+268.0	This study	oriented core	-48	89.9	-75.9	1	1	100	Extrusive:Igneous	Lava Flow	48.8096	Basalt	272.3374	FS-FD:SO-CMD-NORTH:SO-POM	SI1-40.95	SI1(40.6 to 42.5)	SI1-40.95a
+275.0	This study	oriented core	-44	82.7	-75.2	1	1	100	Extrusive:Igneous	Lava Flow	48.8096	Basalt	272.3374	FS-FD:SO-CMD-NORTH:SO-POM	SI1-40.96	SI1(40.6 to 42.5)	SI1-40.96a
+259.8	This study	oriented core	-41	79.1	-72	1	1	100	Extrusive:Igneous	Lava Flow	48.8096	Basalt	272.3374	FS-FD:SO-CMD-NORTH:SO-POM	SI1-41	SI1(40.6 to 42.5)	SI1-41a
+260.0	This study	oriented core	-41						Extrusive:Igneous	Lava Flow	48.8096	Basalt	272.3374	FS-FD:SO-CMD-NORTH:SO-POM	SI1-41.0	SI1(40.6 to 42.5)	
+272.0	This study	oriented core	-65	90.0	-72.9	1	1	100	Extrusive:Igneous	Lava Flow	48.8096	Basalt	272.3374	FS-FD:SO-CMD-NORTH:SO-POM	SI1-41.1	SI1(40.6 to 42.5)	SI1-41.1a
+205.0	This study	oriented core	-79	88.5	-66.2	1	1	100	Extrusive:Igneous	Lava Flow	48.8096	Basalt	272.3374	FS-FD:SO-CMD-NORTH:SO-POM	SI1-41.15	SI1(40.6 to 42.5)	SI1-41.15a
+224.0	This study	oriented core	-70	89.8	-70.3	1	1	100	Extrusive:Igneous	Lava Flow	48.8095	Basalt	272.3373	FS-FD:SO-CMD-NORTH:SO-POM	SI1-43.19	SI1(40.6 to 42.5)	SI1-43.19-D
+270.0	This study	oriented core	-58	77.4	-67.6	1	1	100	Extrusive:Igneous	Lava Flow	48.8095	Basalt	272.3373	FS-FD:SO-CMD-NORTH:SO-POM	SI1-43.2	SI1(40.6 to 42.5)	SI1-43.2-D
+251.0	This study	oriented core	-72						Extrusive:Igneous	Lava Flow	48.8095	Basalt	272.3373	FS-FD:SO-CMD-NORTH:SO-POM	SI1-43.3	SI1(42.5 to 44.4)	
+188.0	This study	oriented core	-77						Extrusive:Igneous	Lava Flow	48.8095	Basalt	272.3373	FS-FD:SO-CMD-NORTH:SO-POM	SI1-43.31	SI1(42.5 to 44.4)	
+258.0	This study	oriented core	-79	75.8	-60.2	1	1	100	Extrusive:Igneous	Lava Flow	48.8095	Basalt	272.3373	FS-FD:SO-CMD-NORTH:SO-POM	SI1-43.4	SI1(40.6 to 42.5)	SI1-43.4-D
+267.0	This study	oriented core	-76						Extrusive:Igneous	Lava Flow	48.8095	Basalt	272.3373	FS-FD:SO-CMD-NORTH:SO-POM	SI1-43.5	SI1(42.5 to 44.4)	
+228.0	This study	oriented core	-86	73.8	-60.2	1	1	100	Extrusive:Igneous	Lava Flow	48.8095	Basalt	272.3373	FS-FD:SO-CMD-NORTH:SO-POM	SI1-43.51	SI1(40.6 to 42.5)	SI1-43.51-D
+243.0	This study	oriented core	-91						Extrusive:Igneous	Lava Flow	48.8095	Basalt	272.3373	FS-FD:SO-CMD-NORTH:SO-POM	SI1-43.59	SI1(42.5 to 44.4)	
+294.0	This study	oriented core	-99	81.5	-63.7	1	1	100	Extrusive:Igneous	Lava Flow	48.8095	Basalt	272.3373	FS-FD:SO-CMD-NORTH:SO-POM	SI1-43.6	SI1(40.6 to 42.5)	SI1-43.6-D
+276.0	This study	oriented core	-102	72.8	-58.4	1	1	100	Extrusive:Igneous	Lava Flow	48.8095	Basalt	272.3373	FS-FD:SO-CMD-NORTH:SO-POM	SI1-43.61	SI1(40.6 to 42.5)	SI1-43.61-D
+254.0	This study	oriented core	-24						Extrusive:Igneous	Lava Flow	48.8086	Basalt	272.3378	FS-FD:SO-CMD-NORTH:SO-POM	SI1-60.59	SI1(58.1 to 64.1)	
+239.0	This study	oriented core	-31						Extrusive:Igneous	Lava Flow	48.8086	Basalt	272.3378	FS-FD:SO-CMD-NORTH:SO-POM	SI1-60.6	SI1(58.1 to 64.1)	
+219.0	This study	oriented core	-64	85.0	-53.5	1	1	100	Extrusive:Igneous	Lava Flow	48.8086	Basalt	272.3378	FS-FD:SO-CMD-NORTH:SO-POM	SI1-61.1	SI1(58.1 to 64.1)	SI1-61.1-D
+286.0	This study	oriented core	-77						Extrusive:Igneous	Lava Flow	48.8086	Basalt	272.3378	FS-FD:SO-CMD-NORTH:SO-POM	SI1-61.13	SI1(58.1 to 64.1)	
+216.0	This study	oriented core	-67	83.6	-59.6	1	1	100	Extrusive:Igneous	Lava Flow	48.8086	Basalt	272.3378	FS-FD:SO-CMD-NORTH:SO-POM	SI1-61.15	SI1(58.1 to 64.1)	SI1-61.15-D
+219.0	This study	oriented core	-73	66.1	-70.1	1	1	100	Extrusive:Igneous	Lava Flow	48.8086	Basalt	272.3378	FS-FD:SO-CMD-NORTH:SO-POM	SI1-61.2	SI1(58.1 to 64.1)	SI1-61.2-D
+256.0	This study	oriented core	-71	106.4	-70	1	1	100	Extrusive:Igneous	Lava Flow	48.8086	Basalt	272.3378	FS-FD:SO-CMD-NORTH:SO-POM	SI1-61.73	SI1(58.1 to 64.1)	SI1-61.73-D
+261.0	This study	oriented core	-72	90.6	-66.7	1	1	100	Extrusive:Igneous	Lava Flow	48.8086	Basalt	272.3378	FS-FD:SO-CMD-NORTH:SO-POM	SI1-61.78	SI1(58.1 to 64.1)	SI1-61.78-D
+254.0	This study	oriented core	-77						Extrusive:Igneous	Lava Flow	48.8086	Basalt	272.3378	FS-FD:SO-CMD-NORTH:SO-POM	SI1-61.8	SI1(58.1 to 64.1)	
+300.0	This study	oriented core	-20	314.8	52	1	1	100	Igneous:Intrusive	Sill	48.8078	Diabase	272.3382	FS-FD:SO-CMD-NORTH:SO-POM	SI1-80.3	SI1(69.7 to 87.6)	SI1-80.3-D
+275.0	This study	oriented core	-69	310.7	50.8	1	1	100	Igneous:Intrusive	Sill	48.8078	Diabase	272.3382	FS-FD:SO-CMD-NORTH:SO-POM	SI1-80.7	SI1(69.7 to 87.6)	SI1-80.7-D
+278.0	This study	oriented core	-59	306.0	43.4	1	1	100	Igneous:Intrusive	Sill	48.8078	Diabase	272.3382	FS-FD:SO-CMD-NORTH:SO-POM	SI1-81.8	SI1(69.7 to 87.6)	SI1-81.8-D
+299.0	This study	oriented core	-96	311.8	50.1	1	1	100	Igneous:Intrusive	Sill	48.8078	Diabase	272.3382	FS-FD:SO-CMD-NORTH:SO-POM	SI1-82.1	SI1(69.7 to 87.6)	SI1-82.1-D
+1.0	This study	oriented core	-84	306.7	54	1	1	100	Igneous:Intrusive	Sill	48.8078	Diabase	272.3382	FS-FD:SO-CMD-NORTH:SO-POM	SI1-84.5	SI1(69.7 to 87.6)	SI1-84.5-D
+340.0	This study	oriented core	-82	304.9	53.3	1	1	100	Igneous:Intrusive	Sill	48.8078	Diabase	272.3382	FS-FD:SO-CMD-NORTH:SO-POM	SI1-86.1	SI1(69.7 to 87.6)	SI1-86.1-D
+176.0	This study	oriented core	-19	311.7	42	1	1	100	Igneous:Intrusive	Sill	48.8078	Diabase	272.3382	FS-FD:SO-CMD-NORTH:SO-POM	SI1-86.4	SI1(69.7 to 87.6)	SI1-86.4-D
+162.0	This study	oriented core	-72	90.9	-72.8	1	1	100	Extrusive:Igneous	Lava Flow	48.8073	Basalt	272.338	FS-FD:SO-CMD-NORTH:SO-POM	SI1-88.25	SI1(87.6 to 88.5)	SI1-88.25-D
+165.0	This study	oriented core	-75						Extrusive:Igneous	Lava Flow	48.8073	Basalt	272.338	FS-FD:SO-CMD-NORTH:SO-POM	SI1-88.3	SI1(87.6 to 88.5)	
+159.0	This study	oriented core	-72	86.7	-73.8	1	1	100	Extrusive:Igneous	Lava Flow	48.8073	Basalt	272.338	FS-FD:SO-CMD-NORTH:SO-POM	SI1-88.35	SI1(87.6 to 88.5)	SI1-88.35-D
+275.0	This study	oriented core	-77	99.6	-70.9	1	1	100	Extrusive:Igneous	Lava Flow	48.8073	Basalt	272.338	FS-FD:SO-CMD-NORTH:SO-POM	SI1-88.37	SI1(87.6 to 88.5)	SI1-88.37-D
+277.0	This study	oriented core	-80	84.5	-70.4	1	1	100	Extrusive:Igneous	Lava Flow	48.8073	Basalt	272.338	FS-FD:SO-CMD-NORTH:SO-POM	SI1-88.4	SI1(87.6 to 88.5)	SI1-88.4-D
+274.0	This study	oriented core	-83	86.3	-70.6	1	1	100	Extrusive:Igneous	Lava Flow	48.8073	Basalt	272.338	FS-FD:SO-CMD-NORTH:SO-POM	SI1-88.43	SI1(87.6 to 88.5)	SI1-88.43-D
+221.0	This study	oriented core	-83	95.7	-73	1	1	100	Extrusive:Igneous	Lava Flow	48.8071	Basalt	272.3381	FS-FD:SO-CMD-NORTH:SO-POM	SI1-88.55	SI1(88.5 to 89.2)	SI1-88.55-D
+179.0	This study	oriented core	-84	91.2	-72.7	1	1	100	Extrusive:Igneous	Lava Flow	48.8071	Basalt	272.3381	FS-FD:SO-CMD-NORTH:SO-POM	SI1-88.9	SI1(88.5 to 89.2)	SI1-88.9-D
+173.0	This study	oriented core	-90	92.8	-68.9	1	1	100	Extrusive:Igneous	Lava Flow	48.8071	Basalt	272.3381	FS-FD:SO-CMD-NORTH:SO-POM	SI1-88.93	SI1(88.5 to 89.2)	SI1-88.93-D
+170.0	This study	oriented core	-92	80.1	-74.3	1	1	100	Extrusive:Igneous	Lava Flow	48.8071	Basalt	272.3381	FS-FD:SO-CMD-NORTH:SO-POM	SI1-88.97	SI1(88.5 to 89.2)	SI1-88.97-D
+171.0	This study	oriented core	-92	98.7	-68.8	1	1	100	Extrusive:Igneous	Lava Flow	48.8071	Basalt	272.3381	FS-FD:SO-CMD-NORTH:SO-POM	SI1-89.0	SI1(88.5 to 89.2)	SI1-89.0-D
+176.0	This study	oriented core	-87	78.7	-63.9	1	1	100	Extrusive:Igneous	Lava Flow	48.8071	Basalt	272.3381	FS-FD:SO-CMD-NORTH:SO-POM	SI1-89.15	SI1(88.5 to 89.2)	SI1-89.15-D
+250.0	This study	oriented core	-68	102.0	-69.6	1	1	100	Extrusive:Igneous	Lava Flow	48.807	Basalt	272.3382	FS-FD:SO-CMD-NORTH:SO-POM	SI1-89.25	SI1(89.2 to 91.5)	SI1-89.25-A
+215.0	This study	oriented core	-87	94.6	-61.4	1	1	100	Extrusive:Igneous	Lava Flow	48.807	Basalt	272.3382	FS-FD:SO-CMD-NORTH:SO-POM	SI1-89.92	SI1(89.2 to 91.5)	SI1-89.92-A
+215.0	This study	oriented core	-85	89.0	-62	1	1	100	Extrusive:Igneous	Lava Flow	48.807	Basalt	272.3382	FS-FD:SO-CMD-NORTH:SO-POM	SI1-90.0	SI1(89.2 to 91.5)	SI1-90.0-A
+209.0	This study	oriented core	-97	82.4	-66	1	1	100	Extrusive:Igneous	Lava Flow	48.807	Basalt	272.3382	FS-FD:SO-CMD-NORTH:SO-POM	SI1-90.05	SI1(89.2 to 91.5)	SI1-90.05-A
+332.0	This study	oriented core	-93	56.4	-74.3	1	1	100	Extrusive:Igneous	Lava Flow	48.807	Basalt	272.3382	FS-FD:SO-CMD-NORTH:SO-POM	SI1-91.1	SI1(89.2 to 91.5)	SI1-91.1-A
+259.0	This study	oriented core	-85	124.7	-52.7	1	1	100	Extrusive:Igneous	Lava Flow	48.807	Basalt	272.3382	FS-FD:SO-CMD-NORTH:SO-POM	SI1-91.2	SI1(89.2 to 91.5)	SI1-91.2-A
+239.0	This study	oriented core	-77	74.1	-67.6	1	1	100	Extrusive:Igneous	Lava Flow	48.8069	Basalt	272.3382	FS-FD:SO-CMD-NORTH:SO-POM	SI1-91.6	SI1(91.5 to 92.6)	SI1-91.6-A
+262.0	This study	oriented core	-86	85.7	-68.3	1	1	100	Extrusive:Igneous	Lava Flow	48.8069	Basalt	272.3382	FS-FD:SO-CMD-NORTH:SO-POM	SI1-91.61	SI1(91.5 to 92.6)	SI1-91.61-A
+252.0	This study	oriented core	-59	85.2	-71	1	1	100	Extrusive:Igneous	Lava Flow	48.8069	Basalt	272.3382	FS-FD:SO-CMD-NORTH:SO-POM	SI1-91.64	SI1(91.5 to 92.6)	SI1-91.64-A
+242.0	This study	oriented core	-68	92.2	-69.3	1	1	100	Extrusive:Igneous	Lava Flow	48.8069	Basalt	272.3382	FS-FD:SO-CMD-NORTH:SO-POM	SI1-91.67	SI1(91.5 to 92.6)	SI1-91.67-A
+250.0	This study	oriented core	-60						Extrusive:Igneous	Lava Flow	48.8069	Basalt	272.3382	FS-FD:SO-CMD-NORTH:SO-POM	SI1-91.7	SI1(91.5 to 92.6)	
+247.0	This study	oriented core	-31	85.1	-70.7	1	1	100	Extrusive:Igneous	Lava Flow	48.8069	Basalt	272.3382	FS-FD:SO-CMD-NORTH:SO-POM	SI1-91.75	SI1(91.5 to 92.6)	SI1-91.75-A
+163.0	This study	oriented core	-90	77.1	-63.6	1	1	100	Extrusive:Igneous	Lava Flow	48.8069	Basalt	272.3382	FS-FD:SO-CMD-NORTH:SO-POM	SI1-92.0	SI1(91.5 to 92.6)	SI1-92.0-A
+194.0	This study	oriented core	-29	86.6	-74.3	1	1	100	Extrusive:Igneous	Lava Flow	48.8068	Basalt	272.338	FS-FD:SO-CMD-NORTH:SO-POM	SI1-94.57	SI1(94.3 to 94.9)	SI1-94.57a
+201.0	This study	oriented core	-20	105.1	-73.9	1	1	100	Extrusive:Igneous	Lava Flow	48.8068	Basalt	272.338	FS-FD:SO-CMD-NORTH:SO-POM	SI1-94.6	SI1(94.3 to 94.9)	SI1-94.6a
+209.0	This study	oriented core	-40						Extrusive:Igneous	Lava Flow	48.8068	Basalt	272.338	FS-FD:SO-CMD-NORTH:SO-POM	SI1-94.64	SI1(94.3 to 94.9)	
+188.0	This study	oriented core	-47	111.7	-74.5	1	1	100	Extrusive:Igneous	Lava Flow	48.8068	Basalt	272.338	FS-FD:SO-CMD-NORTH:SO-POM	SI1-94.67	SI1(94.3 to 94.9)	SI1-94.67a
+255.0	This study	oriented core	-33	80.6	-69.9	1	1	100	Extrusive:Igneous	Lava Flow	48.8068	Basalt	272.338	FS-FD:SO-CMD-NORTH:SO-POM	SI1-94.7	SI1(94.3 to 94.9)	SI1-94.7a
+191.0	This study	oriented core	-43	89.4	-77.6	1	1	100	Extrusive:Igneous	Lava Flow	48.8068	Basalt	272.338	FS-FD:SO-CMD-NORTH:SO-POM	SI1-94.8	SI1(94.3 to 94.9)	SI1-94.8a
+10.8	This study	oriented core	-13	80.1	-76.4	1	1	100	Extrusive:Igneous	Lava Flow	48.8066	Basalt	272.3379	FS-FD:SO-CMD-NORTH:SO-POM	SI1-95	SI1(94.9 to 96.6)	SI1-95a
+11.0	This study	oriented core	-13						Extrusive:Igneous	Lava Flow	48.8066	Basalt	272.3379	FS-FD:SO-CMD-NORTH:SO-POM	SI1-95.0	SI1(94.9 to 96.6)	
+293.8	This study	oriented core	-100	74.8	-74.3	1	1	100	Extrusive:Igneous	Lava Flow	48.8066	Basalt	272.3379	FS-FD:SO-CMD-NORTH:SO-POM	SI1-96	SI1(94.9 to 96.6)	SI1-96a
+294.0	This study	oriented core	-100						Extrusive:Igneous	Lava Flow	48.8066	Basalt	272.3379	FS-FD:SO-CMD-NORTH:SO-POM	SI1-96.0	SI1(94.9 to 96.6)	
+289.0	This study	oriented core	-95	84.2	-72.2	1	1	100	Extrusive:Igneous	Lava Flow	48.8066	Basalt	272.3379	FS-FD:SO-CMD-NORTH:SO-POM	SI1-96.02	SI1(94.9 to 96.6)	SI1-96.02a
+282.0	This study	oriented core	-79	87.0	-75.8	1	1	100	Extrusive:Igneous	Lava Flow	48.8066	Basalt	272.3379	FS-FD:SO-CMD-NORTH:SO-POM	SI1-96.04	SI1(94.9 to 96.6)	SI1-96.04a
+275.0	This study	oriented core	-86						Extrusive:Igneous	Lava Flow	48.8066	Basalt	272.3379	FS-FD:SO-CMD-NORTH:SO-POM	SI1-96.06	SI1(94.9 to 96.6)	
+320.0	This study	oriented core	-35	68.9	-75.6	1	1	100	Extrusive:Igneous	Lava Flow	48.8066	Basalt	272.3379	FS-FD:SO-CMD-NORTH:SO-POM	SI1-96.1	SI1(94.9 to 96.6)	SI1-96.1a
+218.0	This study	oriented core	-86	114.4	-54.2	1	1	100	Extrusive:Igneous	Lava Flow	48.7943	Basalt	272.3444	FS-FD:SO-CMD-NORTH:SO-POM	SI2a-1.1	SI2a(1.1 to 1.6)	SI2a-1.1a
+243.0	This study	oriented core	-95	116.4	-59.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7943	Basalt	272.3444	FS-FD:SO-CMD-NORTH:SO-POM	SI2a-1.3	SI2a(1.1 to 1.6)	SI2a-1.3a
+235.0	This study	oriented core	-80	114.2	-56.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7943	Basalt	272.3444	FS-FD:SO-CMD-NORTH:SO-POM	SI2a-1.35	SI2a(1.1 to 1.6)	SI2a-1.35a
+111.0	This study	oriented core	-5	110.0	-56.3	1	1	100	Extrusive:Igneous	Lava Flow	48.7943	Basalt	272.3444	FS-FD:SO-CMD-NORTH:SO-POM	SI2a-1.4	SI2a(1.1 to 1.6)	SI2a-1.4a
+227.0	This study	oriented core	-89	122.8	-56.4	1	1	100	Extrusive:Igneous	Lava Flow	48.7943	Basalt	272.3444	FS-FD:SO-CMD-NORTH:SO-POM	SI2a-1.5	SI2a(1.1 to 1.6)	SI2a-1.5a
+230.0	This study	oriented core	-14	127.4	-64.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7943	Basalt	272.3444	FS-FD:SO-CMD-NORTH:SO-POM	SI2a-1.6	SI2a(1.1 to 1.6)	SI2a-1.6a
+195.0	This study	oriented core	-66	139.5	-69.3	1	1	100	Extrusive:Igneous	Lava Flow	48.7942	Basalt	272.3444	FS-FD:SO-CMD-NORTH:SO-POM	SI2a-10.2	SI2a(10.2 to 12.8)	SI2a-10.2a
+181.0	This study	oriented core	-85	137.8	-71.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7942	Basalt	272.3444	FS-FD:SO-CMD-NORTH:SO-POM	SI2a-10.4	SI2a(10.2 to 12.8)	SI2a-10.4a
+273.0	This study	oriented core	-108	148.0	-67.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7942	Basalt	272.3444	FS-FD:SO-CMD-NORTH:SO-POM	SI2a-10.5	SI2a(10.2 to 12.8)	SI2a-10.5a
+278.0	This study	oriented core	-67	161.0	-71.4	1	1	100	Extrusive:Igneous	Lava Flow	48.7942	Basalt	272.3444	FS-FD:SO-CMD-NORTH:SO-POM	SI2a-12.2	SI2a(10.2 to 12.8)	SI2a-12.2a
+275.0	This study	oriented core	-60	165.2	-60.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7942	Basalt	272.3444	FS-FD:SO-CMD-NORTH:SO-POM	SI2a-12.7	SI2a(10.2 to 12.8)	SI2a-12.7a
+278.0	This study	oriented core	-65	157.0	-69.5	1	1	100	Extrusive:Igneous	Lava Flow	48.7942	Basalt	272.3444	FS-FD:SO-CMD-NORTH:SO-POM	SI2a-12.8	SI2a(10.2 to 12.8)	SI2a-12.8a
+326.0	This study	oriented core	-29						Extrusive:Igneous	Lava Flow	48.792	Basalt	272.3454	FS-FD:SO-CMD-NORTH:SO-POM	SI2b-10.3	SI2b(10.5 to 10.6)	
+299.0	This study	oriented core	-25	122.0	-67.1	1	1	100	Extrusive:Igneous	Lava Flow	48.792	Basalt	272.3454	FS-FD:SO-CMD-NORTH:SO-POM	SI2b-10.5	SI2b(10.5 to 10.6)	SI2b-10.5a
+190.0	This study	oriented core	-78	102.0	-71.5	1	1	100	Extrusive:Igneous	Lava Flow	48.792	Basalt	272.3454	FS-FD:SO-CMD-NORTH:SO-POM	SI2b-10.56	SI2b(10.5 to 10.6)	SI2b-10.56a
+192.0	This study	oriented core	-71	104.2	-68.6	1	1	100	Extrusive:Igneous	Lava Flow	48.792	Basalt	272.3454	FS-FD:SO-CMD-NORTH:SO-POM	SI2b-10.58	SI2b(10.5 to 10.6)	SI2b-10.58a
+186.0	This study	oriented core	-74	107.6	-65.4	1	1	100	Extrusive:Igneous	Lava Flow	48.792	Basalt	272.3454	FS-FD:SO-CMD-NORTH:SO-POM	SI2b-10.6	SI2b(10.5 to 10.6)	SI2b-10.6a
+180.0	This study	oriented core	-74	101.0	-62.8	1	1	100	Extrusive:Igneous	Lava Flow	48.792	Basalt	272.3454	FS-FD:SO-CMD-NORTH:SO-POM	SI2b-10.63	SI2b(10.5 to 10.6)	SI2b-10.63a
+202.0	This study	oriented core	-50	137.2	-66.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7921	Basalt	272.3454	FS-FD:SO-CMD-NORTH:SO-POM	SI2b-2.2	SI2b(2.2 to 2.6)	SI2b-2.2a
+64.0	This study	oriented core	-43	114.4	-67.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7921	Basalt	272.3454	FS-FD:SO-CMD-NORTH:SO-POM	SI2b-2.3	SI2b(2.2 to 2.6)	SI2b-2.3a
+186.0	This study	oriented core	-68						Extrusive:Igneous	Lava Flow	48.7921	Basalt	272.3454	FS-FD:SO-CMD-NORTH:SO-POM	SI2b-2.38	SI2b(2.2 to 2.6)	
+190.0	This study	oriented core	-60	119.4	-61.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7921	Basalt	272.3454	FS-FD:SO-CMD-NORTH:SO-POM	SI2b-2.42	SI2b(2.2 to 2.6)	SI2b-2.42a
+221.0	This study	oriented core	-69	126.3	-65.5	1	1	100	Extrusive:Igneous	Lava Flow	48.7921	Basalt	272.3454	FS-FD:SO-CMD-NORTH:SO-POM	SI2b-2.46	SI2b(2.2 to 2.6)	SI2b-2.46a
+186.0	This study	oriented core	-75	113.9	-62.5	1	1	100	Extrusive:Igneous	Lava Flow	48.7921	Basalt	272.3454	FS-FD:SO-CMD-NORTH:SO-POM	SI2b-2.5	SI2b(2.2 to 2.6)	SI2b-2.5a
+186.0	This study	oriented core	-76	119.4	-54.4	1	1	100	Extrusive:Igneous	Lava Flow	48.7921	Basalt	272.3454	FS-FD:SO-CMD-NORTH:SO-POM	SI2b-2.53	SI2b(2.2 to 2.6)	SI2b-2.53a
+182.0	This study	oriented core	-76						Extrusive:Igneous	Lava Flow	48.7921	Basalt	272.3454	FS-FD:SO-CMD-NORTH:SO-POM	SI2b-2.57	SI2b(2.2 to 2.6)	
+193.0	This study	oriented core	-77	117.9	-64.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7921	Basalt	272.3454	FS-FD:SO-CMD-NORTH:SO-POM	SI2b-2.6	SI2b(2.2 to 2.6)	SI2b-2.6a
+178.0	This study	oriented core	-79	114.6	-55.2	1	1	100	Extrusive:Igneous	Lava Flow	48.7921	Basalt	272.3454	FS-FD:SO-CMD-NORTH:SO-POM	SI2b-2.61	SI2b(2.2 to 2.6)	SI2b-2.61a
+300.0	This study	oriented core	-44	113.4	-38	1	1	100	Extrusive:Igneous	Lava Flow	48.7903	Basalt	272.3455	FS-FD:SO-CMD-NORTH:SO-POM	SI2c-0.15	SI2c(0.0 to 2.1)	SI2c-0.15a
+253.0	This study	oriented core	-20	112.3	-40.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7903	Basalt	272.3455	FS-FD:SO-CMD-NORTH:SO-POM	SI2c-0.35	SI2c(0.0 to 2.1)	SI2c-0.35a
+183.0	This study	oriented core	-42	109.5	-42.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7903	Basalt	272.3455	FS-FD:SO-CMD-NORTH:SO-POM	SI2c-0.45	SI2c(0.0 to 2.1)	SI2c-0.45a
+179.0	This study	oriented core	-41	107.4	-38.4	1	1	100	Extrusive:Igneous	Lava Flow	48.7903	Basalt	272.3455	FS-FD:SO-CMD-NORTH:SO-POM	SI2c-0.5	SI2c(0.0 to 2.1)	SI2c-0.5a
+187.0	This study	oriented core	-37	102.6	-31.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7903	Basalt	272.3455	FS-FD:SO-CMD-NORTH:SO-POM	SI2c-0.55	SI2c(0.0 to 2.1)	SI2c-0.55a
+131.0	This study	oriented core	-16	107.5	-43.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7903	Basalt	272.3455	FS-FD:SO-CMD-NORTH:SO-POM	SI2c-1.0	SI2c(0.0 to 2.1)	SI2c-1.0a
+197.0	This study	oriented core	-48	107.4	-46.2	1	1	100	Extrusive:Igneous	Lava Flow	48.7902	Basalt	272.3455	FS-FD:SO-CMD-NORTH:SO-POM	SI2c-3.0	SI2c(2.1 to 18.6)	SI2c-3.0a
+195.0	This study	oriented core	-51	110.2	-46.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7902	Basalt	272.3455	FS-FD:SO-CMD-NORTH:SO-POM	SI2c-3.05	SI2c(2.1 to 18.6)	SI2c-3.05a
+196.0	This study	oriented core	-44	113.5	-51.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7902	Basalt	272.3455	FS-FD:SO-CMD-NORTH:SO-POM	SI2c-3.15	SI2c(2.1 to 18.6)	SI2c-3.15a
+232.0	This study	oriented core	-31	111.7	-46.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7902	Basalt	272.3455	FS-FD:SO-CMD-NORTH:SO-POM	SI2c-4.7	SI2c(2.1 to 18.6)	SI2c-4.7a
+229.0	This study	oriented core	-16	113.2	-47.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7902	Basalt	272.3455	FS-FD:SO-CMD-NORTH:SO-POM	SI2c-4.8	SI2c(2.1 to 18.6)	SI2c-4.8a
+193.0	This study	oriented core	-37	112.3	-44.4	1	1	100	Extrusive:Igneous	Lava Flow	48.7902	Basalt	272.3455	FS-FD:SO-CMD-NORTH:SO-POM	SI2c-6.3	SI2c(2.1 to 18.6)	SI2c-6.3a
+201.0	This study	oriented core	-66	87.5	-74.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7799	Basalt	272.3705	FS-FD:SO-CMD-NORTH:SO-POM	SI3-103.4	SI3(103.3 to 110.3)	SI3-103.4-D
+217.0	This study	oriented core	-67	76.4	-73.2	1	1	100	Extrusive:Igneous	Lava Flow	48.7799	Basalt	272.3705	FS-FD:SO-CMD-NORTH:SO-POM	SI3-103.5	SI3(103.3 to 110.3)	SI3-103.5-D
+259.0	This study	oriented core	-72	90.0	-66.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7799	Basalt	272.3705	FS-FD:SO-CMD-NORTH:SO-POM	SI3-103.9	SI3(103.3 to 110.3)	SI3-103.9-D
+265.0	This study	oriented core	-73	81.6	-69.5	1	1	100	Extrusive:Igneous	Lava Flow	48.7799	Basalt	272.3705	FS-FD:SO-CMD-NORTH:SO-POM	SI3-103.95	SI3(103.3 to 110.3)	SI3-103.95-D
+187.0	This study	oriented core	-70	87.8	-55	1	1	100	Extrusive:Igneous	Lava Flow	48.7799	Basalt	272.3705	FS-FD:SO-CMD-NORTH:SO-POM	SI3-104.3	SI3(103.3 to 110.3)	SI3-104.3-D
+188.0	This study	oriented core	-75	77.1	-69.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7799	Basalt	272.3705	FS-FD:SO-CMD-NORTH:SO-POM	SI3-104.4	SI3(103.3 to 110.3)	SI3-104.4-D
+178.0	This study	oriented core	-38	128.7	-74.2	1	1	100	Extrusive:Igneous	Lava Flow	48.7823	Basalt	272.3682	FS-FD:SO-CMD-NORTH:SO-POM	SI3-12.95	SI3(12.5 to 20.1)	SI3-12.95-D
+269.0	This study	oriented core	-14	87.7	-67.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7791	Basalt	272.3708	FS-FD:SO-CMD-NORTH:SO-POM	SI3-126.9	SI3(124.8 to 130.4)	SI3-126.9-D
+288.0	This study	oriented core	-23	80.4	-67.2	1	1	100	Extrusive:Igneous	Lava Flow	48.7791	Basalt	272.3708	FS-FD:SO-CMD-NORTH:SO-POM	SI3-127.1	SI3(124.8 to 130.4)	SI3-127.1-D
+289.0	This study	oriented core	-20	89.1	-63	1	1	100	Extrusive:Igneous	Lava Flow	48.7791	Basalt	272.3708	FS-FD:SO-CMD-NORTH:SO-POM	SI3-127.3	SI3(124.8 to 130.4)	SI3-127.3-D
+210.0	This study	oriented core	-58	78.6	-57	1	1	100	Extrusive:Igneous	Lava Flow	48.7791	Basalt	272.3708	FS-FD:SO-CMD-NORTH:SO-POM	SI3-129.3	SI3(124.8 to 130.4)	SI3-129.3-D
+319.0	This study	oriented core	-34	73.2	-62.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7791	Basalt	272.3708	FS-FD:SO-CMD-NORTH:SO-POM	SI3-129.45	SI3(124.8 to 130.4)	SI3-129.45-D
+158.0	This study	oriented core	-29	125.8	-73.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7823	Basalt	272.3682	FS-FD:SO-CMD-NORTH:SO-POM	SI3-13.05	SI3(12.5 to 20.1)	SI3-13.05-D
+192.0	This study	oriented core	-55						Extrusive:Igneous	Lava Flow	48.7823	Basalt	272.3682	FS-FD:SO-CMD-NORTH:SO-POM	SI3-13.2	SI3(12.5 to 20.1)	
+125.0	This study	oriented core	-69	106.8	-71.2	1	1	100	Extrusive:Igneous	Lava Flow	48.7823	Basalt	272.3682	FS-FD:SO-CMD-NORTH:SO-POM	SI3-16.3	SI3(12.5 to 20.1)	SI3-16.3-D
+177.0	This study	oriented core	-49	125.3	-69.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7823	Basalt	272.3682	FS-FD:SO-CMD-NORTH:SO-POM	SI3-16.4	SI3(12.5 to 20.1)	SI3-16.4-D
+304.0	This study	oriented core	-24	87.2	-68.5	1	1	100	Extrusive:Igneous	Lava Flow	48.7823	Basalt	272.3682	FS-FD:SO-CMD-NORTH:SO-POM	SI3-18.75	SI3(12.5 to 20.1)	SI3-18.75-D
+335.0	This study	oriented core	-31						Extrusive:Igneous	Lava Flow	48.7823	Basalt	272.3682	FS-FD:SO-CMD-NORTH:SO-POM	SI3-18.8	SI3(12.5 to 20.1)	
+226.0	This study	oriented core	-43	71.3	-78.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7823	Basalt	272.3682	FS-FD:SO-CMD-NORTH:SO-POM	SI3-19.9	SI3(12.5 to 20.1)	SI3-19.9-D
+189.0	This study	oriented core	-63						Extrusive:Igneous	Lava Flow	48.7822	Basalt	272.3684	FS-FD:SO-CMD-NORTH:SO-POM	SI3-20.4	SI3(20.1 to 28.9)	
+	This study			108.4	-68.3	2	2	100	Igneous:Extrusive	Lava Flow	48.7822	Basaltic Lava	272.3684		SI3-20.40	SI3(20.1 to 28.9)	SI3-20.4-D:SI3-20.40a
+192.0	This study	oriented core	-65	115.1	-67	2	2	100	Extrusive:Igneous	Lava Flow	48.7822	Basalt	272.3684	FS-FD:SO-CMD-NORTH:SO-POM	SI3-20.45	SI3(20.1 to 28.9)	SI3-20.45-D:SI3-20.45a
+195.0	This study	oriented core	-90						Extrusive:Igneous	Lava Flow	48.7822	Basalt	272.3684	FS-FD:SO-CMD-NORTH:SO-POM	SI3-21.3	SI3(20.1 to 28.9)	
+	This study			102.8	-68.3	1	1	100	Igneous:Extrusive	Lava Flow	48.7822	Basaltic Lava	272.3684		SI3-21.30	SI3(20.1 to 28.9)	SI3-21.30a
+192.0	This study	oriented core	-89	109.3	-71.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7822	Basalt	272.3684	FS-FD:SO-CMD-NORTH:SO-POM	SI3-21.35	SI3(20.1 to 28.9)	SI3-21.35-D
+176.0	This study	oriented core	-50						Extrusive:Igneous	Lava Flow	48.7822	Basalt	272.3684	FS-FD:SO-CMD-NORTH:SO-POM	SI3-22.3	SI3(20.1 to 28.9)	
+	This study			106.4	-65.8	1	1	100	Igneous:Extrusive	Lava Flow	48.7822	Basaltic Lava	272.3684		SI3-22.30	SI3(20.1 to 28.9)	SI3-22.30a
+218.0	This study	oriented core	-33	112.5	-68	2	2	100	Extrusive:Igneous	Lava Flow	48.7822	Basalt	272.3684	FS-FD:SO-CMD-NORTH:SO-POM	SI3-22.35	SI3(20.1 to 28.9)	SI3-22.35-D:SI3-22.35a
+44.0	This study	oriented core	-30						Extrusive:Igneous	Lava Flow	48.7822	Basalt	272.3684	FS-FD:SO-CMD-NORTH:SO-POM	SI3-22.6	SI3(20.1 to 28.9)	
+	This study			112.5	-72.5	2	2	100	Igneous:Extrusive	Lava Flow	48.7822	Basaltic Lava	272.3684		SI3-22.60	SI3(20.1 to 28.9)	SI3-22.6-D:SI3-22.60a
+26.0	This study	oriented core	-32	109.5	-69.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7822	Basalt	272.3684	FS-FD:SO-CMD-NORTH:SO-POM	SI3-22.65	SI3(20.1 to 28.9)	SI3-22.65a
+330.0	This study	oriented core	-57						Extrusive:Igneous	Lava Flow	48.7822	Basalt	272.3684	FS-FD:SO-CMD-NORTH:SO-POM	SI3-27.9	SI3(20.1 to 28.9)	
+	This study			102.1	-72.9	2	2	100	Igneous:Extrusive	Lava Flow	48.7822	Basaltic Lava	272.3684		SI3-27.90	SI3(20.1 to 28.9)	SI3-27.9-D:SI3-27.90a
+207.0	This study	oriented core	-53						Extrusive:Igneous	Lava Flow	48.7827	Basalt	272.3674	FS-FD:SO-CMD-NORTH:SO-POM	SI3-3.6	SI3(2.3 to 5.5)	
+	This study			145.0	-72.8	2	2	100	Igneous:Extrusive	Lava Flow	48.7827	Basaltic Lava	272.3674		SI3-3.60	SI3(2.3 to 5.5)	SI3-3.6-D:SI3-3.60a
+221.0	This study	oriented core	-62						Extrusive:Igneous	Lava Flow	48.7827	Basalt	272.3674	FS-FD:SO-CMD-NORTH:SO-POM	SI3-3.7	SI3(2.3 to 5.5)	
+	This study			139.1	-69.4	2	2	100	Igneous:Extrusive	Lava Flow	48.7827	Basaltic Lava	272.3674		SI3-3.70	SI3(2.3 to 5.5)	SI3-3.7-D:SI3-3.70a
+164.0	This study	oriented core	-26						Extrusive:Igneous	Lava Flow	48.7817	Basalt	272.369	FS-FD:SO-CMD-NORTH:SO-POM	SI3-37.8	SI3(36.9 to 48.4)	
+	This study			95.5	-63.7	2	2	100	Igneous:Extrusive	Lava Flow	48.7817	Basaltic Lava	272.369		SI3-37.80	SI3(36.9 to 48.4)	SI3-37.8-D:SI3-37.80a
+173.0	This study	oriented core	-19	117.8	-70.3	2	2	100	Extrusive:Igneous	Lava Flow	48.7817	Basalt	272.369	FS-FD:SO-CMD-NORTH:SO-POM	SI3-37.85	SI3(36.9 to 48.4)	SI3-37.85-D:SI3-37.85a
+190.0	This study	oriented core	-85						Extrusive:Igneous	Lava Flow	48.7817	Basalt	272.369	FS-FD:SO-CMD-NORTH:SO-POM	SI3-38.7	SI3(36.9 to 48.4)	
+	This study			87.9	-72.8	2	2	100	Igneous:Extrusive	Lava Flow	48.7817	Basaltic Lava	272.369		SI3-38.70	SI3(36.9 to 48.4)	SI3-38.7-D:SI3-38.70a
+184.0	This study	oriented core	-62						Extrusive:Igneous	Lava Flow	48.7817	Basalt	272.369	FS-FD:SO-CMD-NORTH:SO-POM	SI3-38.8	SI3(36.9 to 48.4)	
+	This study			92.1	-69.3	2	2	100	Igneous:Extrusive	Lava Flow	48.7817	Basaltic Lava	272.369		SI3-38.80	SI3(36.9 to 48.4)	SI3-38.8-D:SI3-38.80a
+60.0	This study	oriented core	-14						Extrusive:Igneous	Lava Flow	48.7817	Basalt	272.369	FS-FD:SO-CMD-NORTH:SO-POM	SI3-39.8	SI3(36.9 to 48.4)	
+	This study			108.2	-74.3	2	2	100	Igneous:Extrusive	Lava Flow	48.7817	Basaltic Lava	272.369		SI3-39.80	SI3(36.9 to 48.4)	SI3-39.8-D:SI3-39.80a
+70.0	This study	oriented core	-15	98.4	-70.7	2	2	100	Extrusive:Igneous	Lava Flow	48.7817	Basalt	272.369	FS-FD:SO-CMD-NORTH:SO-POM	SI3-39.82	SI3(36.9 to 48.4)	SI3-39.82-D:SI3-39.82a
+174.0	This study	oriented core	-76						Extrusive:Igneous	Lava Flow	48.7827	Basalt	272.3674	FS-FD:SO-CMD-NORTH:SO-POM	SI3-4.1	SI3(2.3 to 5.5)	
+	This study			126.6	-68.4	2	2	100	Igneous:Extrusive	Lava Flow	48.7827	Basaltic Lava	272.3674		SI3-4.10	SI3(2.3 to 5.5)	SI3-4.1-D:SI3-4.10a
+196.0	This study	oriented core	-60						Extrusive:Igneous	Lava Flow	48.7827	Basalt	272.3674	FS-FD:SO-CMD-NORTH:SO-POM	SI3-4.2	SI3(2.3 to 5.5)	
+	This study			128.1	-60.3	2	2	100	Igneous:Extrusive	Lava Flow	48.7827	Basaltic Lava	272.3674		SI3-4.20	SI3(2.3 to 5.5)	SI3-4.2-D:SI3-4.20a
+276.0	This study	oriented core	-83						Extrusive:Igneous	Lava Flow	48.7827	Basalt	272.3674	FS-FD:SO-CMD-NORTH:SO-POM	SI3-4.6	SI3(2.3 to 5.5)	
+	This study			144.4	-72.3	2	2	100	Igneous:Extrusive	Lava Flow	48.7827	Basaltic Lava	272.3674		SI3-4.60	SI3(2.3 to 5.5)	SI3-4.6-D:SI3-4.60a
+274.0	This study	oriented core	-84	135.3	-71.5	1	1	100	Extrusive:Igneous	Lava Flow	48.7827	Basalt	272.3674	FS-FD:SO-CMD-NORTH:SO-POM	SI3-4.7	SI3(2.3 to 5.5)	SI3-4.7-D
+294.0	This study	oriented core	-74	136.7	-69.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7826	Basalt	272.3676	FS-FD:SO-CMD-NORTH:SO-POM	SI3-5.6	SI3(5.5 to 12.5)	SI3-5.6-D
+122.0	This study	oriented core	-12						Extrusive:Igneous	Lava Flow	48.7812	Basalt	272.3696	FS-FD:SO-CMD-NORTH:SO-POM	SI3-58.0	SI3(55.8 to 60.9)	
+	This study			117.1	-71.2	2	2	100	Igneous:Extrusive	Lava Flow	48.7812	Basaltic Lava	272.3696		SI3-58.00	SI3(55.8 to 60.9)	SI3-58.0-D:SI3-58.00a
+49.0	This study	oriented core	-6	111.2	-71.9	2	2	100	Extrusive:Igneous	Lava Flow	48.7812	Basalt	272.3696	FS-FD:SO-CMD-NORTH:SO-POM	SI3-58.02	SI3(55.8 to 60.9)	SI3-58.02-D:SI3-58.02a
+131.0	This study	oriented core	-12	90.6	-65.1	2	2	100	Extrusive:Igneous	Lava Flow	48.7812	Basalt	272.3696	FS-FD:SO-CMD-NORTH:SO-POM	SI3-58.04	SI3(55.8 to 60.9)	SI3-58.04-D:SI3-58.04a
+80.0	This study	oriented core	-14						Extrusive:Igneous	Lava Flow	48.7812	Basalt	272.3696	FS-FD:SO-CMD-NORTH:SO-POM	SI3-59.7	SI3(55.8 to 60.9)	
+	This study			95.4	-69.1	2	2	100	Igneous:Extrusive	Lava Flow	48.7812	Basaltic Lava	272.3696		SI3-59.70	SI3(55.8 to 60.9)	SI3-59.7-D:SI3-59.70a
+309.0	This study	oriented core	-67						Extrusive:Igneous	Lava Flow	48.7812	Basalt	272.3696	FS-FD:SO-CMD-NORTH:SO-POM	SI3-59.8	SI3(55.8 to 60.9)	
+	This study			123.2	-72.2	2	2	100	Igneous:Extrusive	Lava Flow	48.7812	Basaltic Lava	272.3696		SI3-59.80	SI3(55.8 to 60.9)	SI3-59.8-D:SI3-59.80a:SI3-59.90a
+90.0	This study	oriented core	-20						Extrusive:Igneous	Lava Flow	48.7812	Basalt	272.3696	FS-FD:SO-CMD-NORTH:SO-POM	SI3-59.9	SI3(55.8 to 60.9)	
+	This study			102.5	-72.8	2	2	100	Igneous:Extrusive	Lava Flow	48.7812	Basaltic Lava	272.3696		SI3-59.90	SI3(55.8 to 60.9)	SI3-59.9-D
+182.0	This study	oriented core	-77	162.7	-58.4	1	1	100	Extrusive:Igneous	Lava Flow	48.7826	Basalt	272.3676	FS-FD:SO-CMD-NORTH:SO-POM	SI3-6.4	SI3(5.5 to 12.5)	SI3-6.4-D
+222.0	This study	oriented core	-80	153.0	-61.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7826	Basalt	272.3676	FS-FD:SO-CMD-NORTH:SO-POM	SI3-7.05	SI3(5.5 to 12.5)	SI3-7.05a
+61.0	This study	oriented core	-54						Extrusive:Igneous	Lava Flow	48.7826	Basalt	272.3676	FS-FD:SO-CMD-NORTH:SO-POM	SI3-7.2	SI3(5.5 to 12.5)	
+	This study			153.9	-63.3	1	1	100	Igneous:Extrusive	Lava Flow	48.7826	Basaltic Lava	272.3676		SI3-7.20	SI3(5.5 to 12.5)	SI3-7.20a
+52.0	This study	oriented core	-41	161.5	-61.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7826	Basalt	272.3676	FS-FD:SO-CMD-NORTH:SO-POM	SI3-7.25	SI3(5.5 to 12.5)	SI3-7.25-D
+268.0	This study	oriented core	-21						Extrusive:Igneous	Lava Flow	48.7826	Basalt	272.3676	FS-FD:SO-CMD-NORTH:SO-POM	SI3-7.3	SI3(5.5 to 12.5)	
+	This study			109.2	-73.2	1	1	100	Igneous:Extrusive	Lava Flow	48.7826	Basaltic Lava	272.3676		SI3-7.30	SI3(5.5 to 12.5)	SI3-7.30a
+176.0	This study	oriented core	-27						Extrusive:Igneous	Lava Flow	48.7826	Basalt	272.3676	FS-FD:SO-CMD-NORTH:SO-POM	SI3-8.3	SI3(5.5 to 12.5)	
+	This study			161.2	-75.2	1	1	100	Igneous:Extrusive	Lava Flow	48.7826	Basaltic Lava	272.3676		SI3-8.30	SI3(5.5 to 12.5)	SI3-8.30a
+171.0	This study	oriented core	-50						Extrusive:Igneous	Lava Flow	48.7826	Basalt	272.3676	FS-FD:SO-CMD-NORTH:SO-POM	SI3-8.8	SI3(5.5 to 12.5)	
+	This study			107.7	-63.1	2	2	100	Igneous:Extrusive	Lava Flow	48.7826	Basaltic Lava	272.3676		SI3-8.80	SI3(5.5 to 12.5)	SI3-8.8-D:SI3-8.80a
+181.0	This study	oriented core	-70						Extrusive:Igneous	Lava Flow	48.7826	Basalt	272.3676	FS-FD:SO-CMD-NORTH:SO-POM	SI3-9.6	SI3(5.5 to 12.5)	
+	This study			122.1	-70.7	2	2	100	Igneous:Extrusive	Lava Flow	48.7826	Basaltic Lava	272.3676		SI3-9.60	SI3(5.5 to 12.5)	SI3-9.6-D:SI3-9.60a
+175.0	This study	oriented core	-74	124.5	-73.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7826	Basalt	272.3676	FS-FD:SO-CMD-NORTH:SO-POM	SI3-9.63	SI3(5.5 to 12.5)	SI3-9.63-D
+176.0	This study	oriented core	-56	286.6	55.7	1	1	100	Igneous:Intrusive	Dike	48.7805	Diabase	272.3699	FS-FD:SO-CMD-NORTH:SO-POM	SI3-D1	SI3(D1 to D10)	SI3-D1a
+185.0	This study	oriented core	-80	284.9	45	1	1	100	Igneous:Intrusive	Dike	48.7805	Diabase	272.3699	FS-FD:SO-CMD-NORTH:SO-POM	SI3-D10	SI3(D1 to D10)	SI3-D10a
+178.0	This study	oriented core	-57	288.8	56	1	1	100	Igneous:Intrusive	Dike	48.7805	Diabase	272.3699	FS-FD:SO-CMD-NORTH:SO-POM	SI3-D2	SI3(D1 to D10)	SI3-D2a
+160.0	This study	oriented core	-59						Igneous:Intrusive	Dike	48.7805	Diabase	272.3699	FS-FD:SO-CMD-NORTH:SO-POM	SI3-D3	SI3(D1 to D10)	
+167.0	This study	oriented core	-57	278.9	50.2	1	1	100	Igneous:Intrusive	Dike	48.7805	Diabase	272.3699	FS-FD:SO-CMD-NORTH:SO-POM	SI3-D4	SI3(D1 to D10)	SI3-D4a
+173.0	This study	oriented core	-52	295.0	55.1	1	1	100	Igneous:Intrusive	Dike	48.7805	Diabase	272.3699	FS-FD:SO-CMD-NORTH:SO-POM	SI3-D5	SI3(D1 to D10)	SI3-D5a
+150.0	This study	oriented core	-42	293.8	56.5	1	1	100	Igneous:Intrusive	Dike	48.7805	Diabase	272.3699	FS-FD:SO-CMD-NORTH:SO-POM	SI3-D6	SI3(D1 to D10)	SI3-D6a
+171.0	This study	oriented core	-31	287.2	55.4	1	1	100	Igneous:Intrusive	Dike	48.7805	Diabase	272.3699	FS-FD:SO-CMD-NORTH:SO-POM	SI3-D7	SI3(D1 to D10)	SI3-D7a
+184.0	This study	oriented core	-37						Igneous:Intrusive	Dike	48.7805	Diabase	272.3699	FS-FD:SO-CMD-NORTH:SO-POM	SI3-D8	SI3(D1 to D10)	
+189.0	This study	oriented core	-51	284.5	47.8	1	1	100	Igneous:Intrusive	Dike	48.7805	Diabase	272.3699	FS-FD:SO-CMD-NORTH:SO-POM	SI3-D9	SI3(D1 to D10)	SI3-D9a
+12.0	This study	oriented core	-23	125.0	-72.5	1	1	100	Extrusive:Igneous	Lava Flow	48.7525	Basalt	272.4029	FS-FD:SO-CMD-NORTH:SO-POM	SI4-1.9	SI4(0.0 to 13.8)	SI4-1.9a
+345.0	This study	oriented core	-25	128.4	-59.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7499	Basalt	272.4047	FS-FD:SO-CMD-NORTH:SO-POM	SI4-108.00	SI4(106.0 to 121.4)	SI4-108.00a
+15.0	This study	oriented core	-26	132.0	-57.5	1	1	100	Extrusive:Igneous	Lava Flow	48.7499	Basalt	272.4047	FS-FD:SO-CMD-NORTH:SO-POM	SI4-109.20	SI4(106.0 to 121.4)	SI4-109.20a
+314.0	This study	oriented core	-30	127.7	-54.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7499	Basalt	272.4047	FS-FD:SO-CMD-NORTH:SO-POM	SI4-109.21	SI4(106.0 to 121.4)	SI4-109.21a
+324.0	This study	oriented core	-32	125.4	-54.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7499	Basalt	272.4047	FS-FD:SO-CMD-NORTH:SO-POM	SI4-109.40	SI4(106.0 to 121.4)	SI4-109.40a
+336.0	This study	oriented core	-28	114.0	-56.4	1	1	100	Extrusive:Igneous	Lava Flow	48.7499	Basalt	272.4047	FS-FD:SO-CMD-NORTH:SO-POM	SI4-111.40	SI4(106.0 to 121.4)	SI4-111.40a
+231.0	This study	oriented core	-60						Extrusive:Igneous	Lava Flow	48.7499	Basalt	272.4047	FS-FD:SO-CMD-NORTH:SO-POM	SI4-111.60	SI4(106.0 to 121.4)	
+190.0	This study	oriented core	-77	107.8	-53.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7499	Basalt	272.4047	FS-FD:SO-CMD-NORTH:SO-POM	SI4-113.40	SI4(106.0 to 121.4)	SI4-113.40a
+184.0	This study	oriented core	-74	110.4	-57.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7499	Basalt	272.4047	FS-FD:SO-CMD-NORTH:SO-POM	SI4-113.50	SI4(106.0 to 121.4)	SI4-113.50a
+185.0	This study	oriented core	-78	104.2	-41.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7499	Basalt	272.4047	FS-FD:SO-CMD-NORTH:SO-POM	SI4-113.60	SI4(106.0 to 121.4)	SI4-113.60a
+322.0	This study	oriented core	-55	109.1	-49.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7494	Basalt	272.4046	FS-FD:SO-CMD-NORTH:SO-POM	SI4-122.80	SI4(121.4 to 127.3)	SI4-122.80a
+274.0	This study	oriented core	-79	119.2	-51.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7494	Basalt	272.4046	FS-FD:SO-CMD-NORTH:SO-POM	SI4-123.10	SI4(121.4 to 127.3)	SI4-123.10a
+256.0	This study	oriented core	-74	108.9	-52.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7494	Basalt	272.4046	FS-FD:SO-CMD-NORTH:SO-POM	SI4-123.65	SI4(121.4 to 127.3)	SI4-123.65a
+262.0	This study	oriented core	-69	108.5	-51.2	1	1	100	Extrusive:Igneous	Lava Flow	48.7494	Basalt	272.4046	FS-FD:SO-CMD-NORTH:SO-POM	SI4-123.70	SI4(121.4 to 127.3)	SI4-123.70a
+226.0	This study	oriented core	-52	108.5	-55.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7494	Basalt	272.4046	FS-FD:SO-CMD-NORTH:SO-POM	SI4-123.80	SI4(121.4 to 127.3)	SI4-123.80a
+283.0	This study	oriented core	-112	114.6	-40.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7494	Basalt	272.4046	FS-FD:SO-CMD-NORTH:SO-POM	SI4-123.81	SI4(121.4 to 127.3)	SI4-123.81a
+220.0	This study	oriented core	-60	72.6	-45.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7494	Basalt	272.4046	FS-FD:SO-CMD-NORTH:SO-POM	SI4-124.05	SI4(121.4 to 127.3)	SI4-124.05a
+268.0	This study	oriented core	-75	110.9	-54	1	1	100	Extrusive:Igneous	Lava Flow	48.7494	Basalt	272.4046	FS-FD:SO-CMD-NORTH:SO-POM	SI4-124.10	SI4(121.4 to 127.3)	SI4-124.10a
+326.0	This study	oriented core	-26	112.5	-54.8	1	1	100	Extrusive:Igneous	Lava Flow	48.749	Basalt	272.4045	FS-FD:SO-CMD-NORTH:SO-POM	SI4-138.60	SI4(133.8 to 143.1)	SI4-138.60a
+159.0	This study	oriented core	-67	104.7	-62.8	1	1	100	Extrusive:Igneous	Lava Flow	48.749	Basalt	272.4045	FS-FD:SO-CMD-NORTH:SO-POM	SI4-138.70	SI4(133.8 to 143.1)	SI4-138.70a
+227.0	This study	oriented core	-30	103.0	-62.4	1	1	100	Extrusive:Igneous	Lava Flow	48.749	Basalt	272.4045	FS-FD:SO-CMD-NORTH:SO-POM	SI4-139.20	SI4(133.8 to 143.1)	SI4-139.20a
+78.0	This study	oriented core	-15	74.2	-53	1	1	100	Extrusive:Igneous	Lava Flow	48.749	Basalt	272.4045	FS-FD:SO-CMD-NORTH:SO-POM	SI4-139.80	SI4(133.8 to 143.1)	SI4-139.80a
+68.0	This study	oriented core	-26	115.1	-62	1	1	100	Extrusive:Igneous	Lava Flow	48.749	Basalt	272.4045	FS-FD:SO-CMD-NORTH:SO-POM	SI4-139.81	SI4(133.8 to 143.1)	SI4-139.81a
+185.0	This study	oriented core	-67	115.7	-75.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7524	Basalt	272.4027	FS-FD:SO-CMD-NORTH:SO-POM	SI4-14.0	SI4(13.8 to 20.2)	SI4-14.0a
+144.0	This study	oriented core	-63	95.3	-59.3	1	1	100	Extrusive:Igneous	Lava Flow	48.749	Basalt	272.4045	FS-FD:SO-CMD-NORTH:SO-POM	SI4-140.80	SI4(133.8 to 143.1)	SI4-140.80a
+143.0	This study	oriented core	-65	116.9	-54.4	1	1	100	Extrusive:Igneous	Lava Flow	48.749	Basalt	272.4045	FS-FD:SO-CMD-NORTH:SO-POM	SI4-140.85	SI4(133.8 to 143.1)	SI4-140.85a
+142.0	This study	oriented core	-67						Extrusive:Igneous	Lava Flow	48.749	Basalt	272.4045	FS-FD:SO-CMD-NORTH:SO-POM	SI4-140.90	SI4(133.8 to 143.1)	
+63.0	This study	oriented core	-59	120.2	-66.6	1	1	100	Extrusive:Igneous	Lava Flow	48.749	Basalt	272.4045	FS-FD:SO-CMD-NORTH:SO-POM	SI4-141.30	SI4(133.8 to 143.1)	SI4-141.30a
+164.0	This study	oriented core	-64	114.1	-71.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7524	Basalt	272.4027	FS-FD:SO-CMD-NORTH:SO-POM	SI4-15.1	SI4(13.8 to 20.2)	SI4-15.1a
+178.0	This study	oriented core	-82	106.6	-71.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7524	Basalt	272.4027	FS-FD:SO-CMD-NORTH:SO-POM	SI4-15.7	SI4(13.8 to 20.2)	SI4-15.7a
+242.0	This study	oriented core	-79	154.3	-55.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7485	Basalt	272.4042	FS-FD:SO-CMD-NORTH:SO-POM	SI4-161.10	SI4(160.4 to 171.1)	SI4-161.10a
+274.0	This study	oriented core	-11	156.5	-66.3	1	1	100	Extrusive:Igneous	Lava Flow	48.7485	Basalt	272.4042	FS-FD:SO-CMD-NORTH:SO-POM	SI4-161.21	SI4(160.4 to 171.1)	SI4-161.21a
+253.0	This study	oriented core	-12	151.6	-63.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7485	Basalt	272.4042	FS-FD:SO-CMD-NORTH:SO-POM	SI4-161.22	SI4(160.4 to 171.1)	SI4-161.22a
+257.0	This study	oriented core	-9	157.1	-62.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7485	Basalt	272.4042	FS-FD:SO-CMD-NORTH:SO-POM	SI4-161.23	SI4(160.4 to 171.1)	SI4-161.23a
+169.0	This study	oriented core	-68						Extrusive:Igneous	Lava Flow	48.7485	Basalt	272.4042	FS-FD:SO-CMD-NORTH:SO-POM	SI4-161.30	SI4(160.4 to 171.1)	
+182.0	This study	oriented core	-92	154.9	-67.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7485	Basalt	272.4042	FS-FD:SO-CMD-NORTH:SO-POM	SI4-162.00	SI4(160.4 to 171.1)	SI4-162.00a
+316.0	This study	oriented core	-28	156.1	-59.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7485	Basalt	272.4042	FS-FD:SO-CMD-NORTH:SO-POM	SI4-162.11	SI4(160.4 to 171.1)	SI4-162.11a
+251.0	This study	oriented core	-45	150.5	-63	1	1	100	Extrusive:Igneous	Lava Flow	48.7485	Basalt	272.4042	FS-FD:SO-CMD-NORTH:SO-POM	SI4-162.12	SI4(160.4 to 171.1)	SI4-162.12a
+182.0	This study	oriented core	-94	130.1	-58.5	1	1	100	Extrusive:Igneous	Lava Flow	48.7485	Basalt	272.4042	FS-FD:SO-CMD-NORTH:SO-POM	SI4-162.20	SI4(160.4 to 171.1)	SI4-162.20a
+143.0	This study	oriented core	-67	113.6	-75.3	1	1	100	Extrusive:Igneous	Lava Flow	48.7524	Basalt	272.4027	FS-FD:SO-CMD-NORTH:SO-POM	SI4-18.5	SI4(13.8 to 20.2)	SI4-18.5a
+71.0	This study	oriented core	-27	109.6	-70.5	1	1	100	Extrusive:Igneous	Lava Flow	48.7524	Basalt	272.4027	FS-FD:SO-CMD-NORTH:SO-POM	SI4-18.7	SI4(13.8 to 20.2)	SI4-18.7a
+104.0	This study	oriented core	-25	110.2	-70.2	1	1	100	Extrusive:Igneous	Lava Flow	48.7524	Basalt	272.4027	FS-FD:SO-CMD-NORTH:SO-POM	SI4-18.9	SI4(13.8 to 20.2)	SI4-18.9a
+307.0	This study	oriented core	-60	131.3	-73.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7525	Basalt	272.4029	FS-FD:SO-CMD-NORTH:SO-POM	SI4-2.5	SI4(0.0 to 13.8)	SI4-2.5a
+117.0	This study	oriented core	-57	91.5	-72.4	1	1	100	Extrusive:Igneous	Lava Flow	48.752	Basalt	272.4028	FS-FD:SO-CMD-NORTH:SO-POM	SI4-23.0	SI4(21.4 to 30.0)	SI4-23.0a
+141.0	This study	oriented core	-57	94.7	-65.6	1	1	100	Extrusive:Igneous	Lava Flow	48.752	Basalt	272.4028	FS-FD:SO-CMD-NORTH:SO-POM	SI4-24.1	SI4(21.4 to 30.0)	SI4-24.1a
+217.0	This study	oriented core	-52	106.9	-75.8	1	1	100	Extrusive:Igneous	Lava Flow	48.752	Basalt	272.4028	FS-FD:SO-CMD-NORTH:SO-POM	SI4-24.7	SI4(21.4 to 30.0)	SI4-24.7a
+131.0	This study	oriented core	-57	94.6	-68.8	1	1	100	Extrusive:Igneous	Lava Flow	48.752	Basalt	272.4028	FS-FD:SO-CMD-NORTH:SO-POM	SI4-25.2	SI4(21.4 to 30.0)	SI4-25.2a
+17.0	This study	oriented core	-25	103.4	-70.9	1	1	100	Extrusive:Igneous	Lava Flow	48.752	Basalt	272.4028	FS-FD:SO-CMD-NORTH:SO-POM	SI4-25.6	SI4(21.4 to 30.0)	SI4-25.6a
+9.0	This study	oriented core	-71	97.3	-70.6	1	1	100	Extrusive:Igneous	Lava Flow	48.752	Basalt	272.4028	FS-FD:SO-CMD-NORTH:SO-POM	SI4-25.8	SI4(21.4 to 30.0)	SI4-25.8a
+329.0	This study	oriented core	-84	119.6	-70.2	1	1	100	Extrusive:Igneous	Lava Flow	48.752	Basalt	272.4028	FS-FD:SO-CMD-NORTH:SO-POM	SI4-25.9	SI4(21.4 to 30.0)	SI4-25.9a
+317.0	This study	oriented core	-22	106.2	-70.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7525	Basalt	272.4029	FS-FD:SO-CMD-NORTH:SO-POM	SI4-3.2	SI4(0.0 to 13.8)	SI4-3.2a
+320.0	This study	oriented core	-89	129.6	-74.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7525	Basalt	272.4029	FS-FD:SO-CMD-NORTH:SO-POM	SI4-4.5	SI4(0.0 to 13.8)	SI4-4.5a
+316.0	This study	oriented core	-94	121.1	-73.3	1	1	100	Extrusive:Igneous	Lava Flow	48.7525	Basalt	272.4029	FS-FD:SO-CMD-NORTH:SO-POM	SI4-4.6	SI4(0.0 to 13.8)	SI4-4.6a
+227.0	This study	oriented core	-99	144.6	-79.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7516	Basalt	272.4033	FS-FD:SO-CMD-NORTH:SO-POM	SI4-40.15	SI4(39.7 to 44.7)	SI4-40.15a
+220.0	This study	oriented core	-93	144.7	-68.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7516	Basalt	272.4033	FS-FD:SO-CMD-NORTH:SO-POM	SI4-40.2	SI4(39.7 to 44.7)	SI4-40.2a
+220.0	This study	oriented core	-48	163.1	-80.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7516	Basalt	272.4033	FS-FD:SO-CMD-NORTH:SO-POM	SI4-40.3	SI4(39.7 to 44.7)	SI4-40.3a
+216.0	This study	oriented core	-97	141.0	-69.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7516	Basalt	272.4033	FS-FD:SO-CMD-NORTH:SO-POM	SI4-40.5	SI4(39.7 to 44.7)	SI4-40.5a
+225.0	This study	oriented core	-92	140.0	-76	1	1	100	Extrusive:Igneous	Lava Flow	48.7516	Basalt	272.4033	FS-FD:SO-CMD-NORTH:SO-POM	SI4-40.8	SI4(39.7 to 44.7)	SI4-40.8a
+231.0	This study	oriented core	-101	137.1	-67.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7516	Basalt	272.4033	FS-FD:SO-CMD-NORTH:SO-POM	SI4-41.0	SI4(39.7 to 44.7)	SI4-41.0a
+107.0	This study	oriented core	-34	107.6	-70.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7525	Basalt	272.4029	FS-FD:SO-CMD-NORTH:SO-POM	SI4-6.4	SI4(0.0 to 13.8)	SI4-6.4a
+315.0	This study	oriented core	-25	140.8	-72	1	1	100	Extrusive:Igneous	Lava Flow	48.7508	Basalt	272.4043	FS-FD:SO-CMD-NORTH:SO-POM	SI4-73.65	SI4(72.3 to 74.6)	SI4-73.65a
+334.0	This study	oriented core	-26	141.2	-72.4	1	1	100	Extrusive:Igneous	Lava Flow	48.7508	Basalt	272.4043	FS-FD:SO-CMD-NORTH:SO-POM	SI4-73.66	SI4(72.3 to 74.6)	SI4-73.66a
+0.0	This study	oriented core	-18	148.1	-75.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7508	Basalt	272.4043	FS-FD:SO-CMD-NORTH:SO-POM	SI4-73.70	SI4(72.3 to 74.6)	SI4-73.70a
+310.0	This study	oriented core	-16	300.0	-84	1	1	100	Extrusive:Igneous	Lava Flow	48.7508	Basalt	272.4043	FS-FD:SO-CMD-NORTH:SO-POM	SI4-73.90	SI4(72.3 to 74.6)	SI4-73.90a
+310.0	This study	oriented core	-36	159.7	-55.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7508	Basalt	272.4043	FS-FD:SO-CMD-NORTH:SO-POM	SI4-74.00	SI4(72.3 to 74.6)	SI4-74.00a
+286.0	This study	oriented core	-27	124.1	-73	1	1	100	Extrusive:Igneous	Lava Flow	48.7508	Basalt	272.4043	FS-FD:SO-CMD-NORTH:SO-POM	SI4-74.20	SI4(72.3 to 74.6)	SI4-74.20a
+312.0	This study	oriented core	-21	119.2	-72.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7508	Basalt	272.4043	FS-FD:SO-CMD-NORTH:SO-POM	SI4-74.39	SI4(72.3 to 74.6)	SI4-74.39a
+312.0	This study	oriented core	-13	124.4	-69.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7508	Basalt	272.4043	FS-FD:SO-CMD-NORTH:SO-POM	SI4-74.41	SI4(72.3 to 74.6)	SI4-74.41a
+236.0	This study	oriented core	-72	127.1	-66.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7507	Basalt	272.4047	FS-FD:SO-CMD-NORTH:SO-POM	SI4-75.20	SI4(74.6 to 80.0)	SI4-75.20a
+276.0	This study	oriented core	-15	129.7	-63	1	1	100	Extrusive:Igneous	Lava Flow	48.7507	Basalt	272.4047	FS-FD:SO-CMD-NORTH:SO-POM	SI4-75.30	SI4(74.6 to 80.0)	SI4-75.30a
+282.0	This study	oriented core	-22	93.0	-60.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7507	Basalt	272.4047	FS-FD:SO-CMD-NORTH:SO-POM	SI4-75.35	SI4(74.6 to 80.0)	SI4-75.35a
+238.0	This study	oriented core	-101	130.5	-65.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7507	Basalt	272.4047	FS-FD:SO-CMD-NORTH:SO-POM	SI4-75.45	SI4(74.6 to 80.0)	SI4-75.45a
+245.0	This study	oriented core	-102						Extrusive:Igneous	Lava Flow	48.7507	Basalt	272.4047	FS-FD:SO-CMD-NORTH:SO-POM	SI4-75.50	SI4(74.6 to 80.0)	
+203.0	This study	oriented core	-90	133.5	-64.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7507	Basalt	272.4047	FS-FD:SO-CMD-NORTH:SO-POM	SI4-75.60	SI4(74.6 to 80.0)	SI4-75.60a
+223.0	This study	oriented core	-93	136.0	-63.4	1	1	100	Extrusive:Igneous	Lava Flow	48.7507	Basalt	272.4047	FS-FD:SO-CMD-NORTH:SO-POM	SI4-75.70	SI4(74.6 to 80.0)	SI4-75.70a
+290.0	This study	oriented core	-76	131.3	-67.4	1	1	100	Extrusive:Igneous	Lava Flow	48.7507	Basalt	272.4047	FS-FD:SO-CMD-NORTH:SO-POM	SI4-76.00	SI4(74.6 to 80.0)	SI4-76.00a
+250.0	This study	oriented core	-91	137.6	-58.2	1	1	100	Extrusive:Igneous	Lava Flow	48.7505	Basalt	272.4049	FS-FD:SO-CMD-NORTH:SO-POM	SI4-82.00	SI4(80.2 to 100.7)	SI4-82.00a
+196.0	This study	oriented core	-61	115.0	-63.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7505	Basalt	272.4049	FS-FD:SO-CMD-NORTH:SO-POM	SI4-82.60	SI4(80.2 to 100.7)	SI4-82.60a
+193.0	This study	oriented core	-60	112.5	-64.2	1	1	100	Extrusive:Igneous	Lava Flow	48.7505	Basalt	272.4049	FS-FD:SO-CMD-NORTH:SO-POM	SI4-82.61	SI4(80.2 to 100.7)	SI4-82.61a
+168.0	This study	oriented core	-74	113.0	-67.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7505	Basalt	272.4049	FS-FD:SO-CMD-NORTH:SO-POM	SI4-82.90	SI4(80.2 to 100.7)	SI4-82.90a
+150.0	This study	oriented core	-62	108.3	-74.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7505	Basalt	272.4049	FS-FD:SO-CMD-NORTH:SO-POM	SI4-85.20	SI4(80.2 to 100.7)	SI4-85.20a
+218.0	This study	oriented core	-32	117.7	-58.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7505	Basalt	272.4049	FS-FD:SO-CMD-NORTH:SO-POM	SI4-86.70	SI4(80.2 to 100.7)	SI4-86.70a
+226.0	This study	oriented core	-24	119.9	-61.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7505	Basalt	272.4049	FS-FD:SO-CMD-NORTH:SO-POM	SI4-86.75	SI4(80.2 to 100.7)	SI4-86.75a
+321.0	This study	oriented core	-59						Extrusive:Igneous	Lava Flow	48.7505	Basalt	272.4049	FS-FD:SO-CMD-NORTH:SO-POM	SI4-86.80	SI4(80.2 to 100.7)	
+325.0	This study	oriented core	-76	126.7	-67.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7505	Basalt	272.4049	FS-FD:SO-CMD-NORTH:SO-POM	SI4-86.85	SI4(80.2 to 100.7)	SI4-86.85a
+257.0	This study	oriented core	-25						Extrusive:Igneous	Lava Flow	48.7363	Basalt	272.3038	FS-FD:SO-CMD-NORTH:SO-POM	SI5a-1.4	SI5a(0.0 to 9.0)	
+	This study			109.2	-57.9	1	1	100	Igneous:Extrusive	Lava Flow	48.7363	Basaltic Lava	272.3038		SI5a-1.40	SI5a(0.0 to 9.0)	SI5a-1.40a
+161.0	This study	oriented core	-77						Extrusive:Igneous	Lava Flow	48.7363	Basalt	272.3038	FS-FD:SO-CMD-NORTH:SO-POM	SI5a-1.6	SI5a(0.0 to 9.0)	
+	This study			112.4	-60.1	1	1	100	Igneous:Extrusive	Lava Flow	48.7363	Basaltic Lava	272.3038		SI5a-1.60	SI5a(0.0 to 9.0)	SI5a-1.60a
+142.0	This study	oriented core	-92	110.6	-59.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7363	Basalt	272.3038	FS-FD:SO-CMD-NORTH:SO-POM	SI5a-2.1	SI5a(0.0 to 9.0)	SI5a-2.1-D:SI5a-2.10a
+141.0	This study	oriented core	-83	119.8	-61.2	1	1	100	Extrusive:Igneous	Lava Flow	48.7363	Basalt	272.3038	FS-FD:SO-CMD-NORTH:SO-POM	SI5a-2.3	SI5a(0.0 to 9.0)	SI5a-2.3-D:SI5a-2.30a
+153.0	This study	oriented core	-51						Extrusive:Igneous	Lava Flow	48.7363	Basalt	272.3038	FS-FD:SO-CMD-NORTH:SO-POM	SI5a-2.6	SI5a(0.0 to 9.0)	
+	This study			111.6	-58.8	1	1	100	Igneous:Extrusive	Lava Flow	48.7363	Basaltic Lava	272.3038		SI5a-2.60	SI5a(0.0 to 9.0)	SI5a-2.60a
+161.0	This study	oriented core	-43						Extrusive:Igneous	Lava Flow	48.7363	Basalt	272.3038	FS-FD:SO-CMD-NORTH:SO-POM	SI5a-3.0	SI5a(0.0 to 9.0)	
+	This study			113.3	-52.8	1	1	100	Igneous:Extrusive	Lava Flow	48.7363	Basaltic Lava	272.3038		SI5a-3.00	SI5a(0.0 to 9.0)	SI5a-3.00a
+114.0	This study	oriented core	-9						Extrusive:Igneous	Lava Flow	48.7363	Basalt	272.3038	FS-FD:SO-CMD-NORTH:SO-POM	SI5a-5.0	SI5a(0.0 to 9.0)	
+	This study			116.5	-53.4	1	1	100	Igneous:Extrusive	Lava Flow	48.7363	Basaltic Lava	272.3038		SI5a-5.00	SI5a(0.0 to 9.0)	SI5a-5.00a
+188.0	This study	oriented core	-52	109.3	-45.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7363	Basalt	272.3038	FS-FD:SO-CMD-NORTH:SO-POM	SI5a-6.93	SI5a(0.0 to 9.0)	SI5a-6.93-D:SI5a-6.93a
+179.0	This study	oriented core	-61	112.6	-49.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7363	Basalt	272.3038	FS-FD:SO-CMD-NORTH:SO-POM	SI5a-6.99	SI5a(0.0 to 9.0)	SI5a-6.99-D:SI5a-6.99a
+175.0	This study	oriented core	-66	115.6	-47.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7363	Basalt	272.3038	FS-FD:SO-CMD-NORTH:SO-POM	SI5a-7.0	SI5a(0.0 to 9.0)	SI5a-7.0-D:SI5a-7.00a
+185.0	This study	oriented core	-63	111.4	-40.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7363	Basalt	272.3038	FS-FD:SO-CMD-NORTH:SO-POM	SI5a-7.25	SI5a(0.0 to 9.0)	SI5a-7.25-D:SI5a-7.25a
+185.0	This study	oriented core	-42						Extrusive:Igneous	Lava Flow	48.7363	Basalt	272.3038	FS-FD:SO-CMD-NORTH:SO-POM	SI5a-7.3	SI5a(0.0 to 9.0)	
+	This study			112.4	-42.8	1	1	100	Igneous:Extrusive	Lava Flow	48.7363	Basaltic Lava	272.3038		SI5a-7.30	SI5a(0.0 to 9.0)	SI5a-7.30a
+190.0	This study	oriented core	-62	111.4	-56.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7388	Basalt	272.3145	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-116.6	SI5b(115.0 to 120.2)	SI5b-116.6-D
+206.0	This study	oriented core	-65						Extrusive:Igneous	Lava Flow	48.7388	Basalt	272.3145	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-116.9	SI5b(115.0 to 120.2)	
+	This study			112.8	-56.1	1	1	100	Igneous:Extrusive	Lava Flow	48.7388	Basaltic Lava	272.3145		SI5b-116.90	SI5b(115.0 to 120.2)	SI5b-116.90a
+205.0	This study	oriented core	-70	116.3	-55.4	1	1	100	Extrusive:Igneous	Lava Flow	48.7388	Basalt	272.3145	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-117.0	SI5b(115.0 to 120.2)	SI5b-117.0-D
+205.0	This study	oriented core	-70	113.8	-52	1	1	100	Extrusive:Igneous	Lava Flow	48.7388	Basalt	272.3145	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-117.05	SI5b(115.0 to 120.2)	SI5b-117.05a
+199.0	This study	oriented core	-76	115.3	-52.2	1	1	100	Extrusive:Igneous	Lava Flow	48.7388	Basalt	272.3145	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-117.1	SI5b(115.0 to 120.2)	SI5b-117.1-D
+204.0	This study	oriented core	-78	118.6	-61.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7388	Basalt	272.3145	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-117.15	SI5b(115.0 to 120.2)	SI5b-117.15-D
+114.0	This study	oriented core	-75	108.0	-58.2	1	1	100	Extrusive:Igneous	Lava Flow	48.7388	Basalt	272.3145	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-117.4	SI5b(115.0 to 120.2)	SI5b-117.4-D
+185.0	This study	oriented core	-86						Extrusive:Igneous	Lava Flow	48.7388	Basalt	272.3145	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-117.9	SI5b(115.0 to 120.2)	
+	This study			117.4	-56.6	1	1	100	Igneous:Extrusive	Lava Flow	48.7388	Basaltic Lava	272.3145		SI5b-117.90	SI5b(115.0 to 120.2)	SI5b-117.90a
+193.0	This study	oriented core	-85						Extrusive:Igneous	Lava Flow	48.7388	Basalt	272.3145	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-118.2	SI5b(115.0 to 120.2)	
+187.0	This study	oriented core	-74	119.0	-54.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7388	Basalt	272.3145	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-118.25	SI5b(115.0 to 120.2)	SI5b-118.25-D
+159.0	This study	oriented core	-64	122.7	-60.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7408	Basalt	272.3235	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-13.6	SI5b(3.2 to 30.7)	SI5b-13.6-D
+221.0	This study	oriented core	-32	103.0	-55.3	1	1	100	Extrusive:Igneous	Lava Flow	48.7385	Basalt	272.3136	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-133.3	SI5b(132.4 to 171.9)	SI5b-133.3-D
+189.0	This study	oriented core	-38	104.7	-54	1	1	100	Extrusive:Igneous	Lava Flow	48.7385	Basalt	272.3136	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-133.4	SI5b(132.4 to 171.9)	SI5b-133.4-D
+160.0	This study	oriented core	-34	110.8	-56.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7408	Basalt	272.3235	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-14.4	SI5b(3.2 to 30.7)	SI5b-14.4-D
+167.0	This study	oriented core	-25	113.1	-54.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7408	Basalt	272.3235	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-14.7	SI5b(3.2 to 30.7)	SI5b-14.7-D
+265.0	This study	oriented core	-80						Extrusive:Igneous	Lava Flow	48.7385	Basalt	272.3136	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-146.0	SI5b(132.4 to 171.9)	
+	This study			161.3	-72.9	1	1	100	Igneous:Extrusive	Lava Flow	48.7385	Basaltic Lava	272.3136		SI5b-146.00	SI5b(132.4 to 171.9)	SI5b-146.00a
+247.0	This study	oriented core	-86	106.5	-68.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7385	Basalt	272.3136	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-146.3	SI5b(132.4 to 171.9)	SI5b-146.3-D
+220.0	This study	oriented core	-79	106.2	-63.3	1	1	100	Extrusive:Igneous	Lava Flow	48.7385	Basalt	272.3136	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-146.5	SI5b(132.4 to 171.9)	SI5b-146.5-D
+174.0	This study	oriented core	-33	103.7	-51.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7408	Basalt	272.3235	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-15.0	SI5b(3.2 to 30.7)	SI5b-15.0-D
+36.0	This study	oriented core	-22	111.7	-58.5	1	1	100	Extrusive:Igneous	Lava Flow	48.7408	Basalt	272.3235	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-15.5	SI5b(3.2 to 30.7)	SI5b-15.5-D
+70.0	This study	oriented core	-33	99.0	-61.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7385	Basalt	272.3136	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-159.7	SI5b(132.4 to 171.9)	SI5b-159.7-D
+297.0	This study	oriented core	-37	114.4	-59.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7385	Basalt	272.3136	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-159.9	SI5b(132.4 to 171.9)	SI5b-159.9-D
+80.0	This study	oriented core	-41	111.5	-60	1	1	100	Extrusive:Igneous	Lava Flow	48.7408	Basalt	272.3235	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-16.2	SI5b(3.2 to 30.7)	SI5b-16.2-D
+54.0	This study	oriented core	-49						Extrusive:Igneous	Lava Flow	48.7385	Basalt	272.3136	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-160.0	SI5b(132.4 to 171.9)	
+	This study			90.3	-62.2	1	1	100	Igneous:Extrusive	Lava Flow	48.7385	Basaltic Lava	272.3136		SI5b-160.00	SI5b(132.4 to 171.9)	SI5b-160.00a
+13.0	This study	oriented core	-22	284.9	59.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7376	Basalt	272.3066	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-184.2	SI5b(183.4 to 188.7)	SI5b-184.2-A:SI5b-184.2-D
+294.0	This study	oriented core	-60	116.1	-62.2	1	1	100	Extrusive:Igneous	Lava Flow	48.7376	Basalt	272.3066	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-184.3	SI5b(183.4 to 188.7)	SI5b-184.3-A:SI5b-184.3-D
+4.0	This study	oriented core	-8	118.7	-62.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7376	Basalt	272.3066	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-184.5	SI5b(183.4 to 188.7)	SI5b-184.5-A:SI5b-184.5-D
+114.0	This study	oriented core	-29	107.0	-56.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7376	Basalt	272.3066	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-185.7	SI5b(183.4 to 188.7)	SI5b-185.7-A:SI5b-185.7-D
+164.0	This study	oriented core	-39	121.8	-62.3	1	1	100	Extrusive:Igneous	Lava Flow	48.7376	Basalt	272.3066	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-186.2	SI5b(183.4 to 188.7)	SI5b-186.2-A:SI5b-186.2-D
+236.0	This study	oriented core	-13	117.9	-60.3	1	1	100	Extrusive:Igneous	Lava Flow	48.7376	Basalt	272.3066	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-186.5	SI5b(183.4 to 188.7)	SI5b-186.5-A:SI5b-186.5-D
+185.0	This study	oriented core	-92	101.1	-67.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7373	Basalt	272.3065	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-198.3	SI5b(197.5 to 216.7)	SI5b-198.3-D
+159.0	This study	oriented core	-107						Extrusive:Igneous	Lava Flow	48.7373	Basalt	272.3065	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-198.4	SI5b(197.5 to 216.7)	
+146.0	This study	oriented core	-87	74.1	-75.4	1	1	100	Extrusive:Igneous	Lava Flow	48.7373	Basalt	272.3065	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-198.6	SI5b(197.5 to 216.7)	SI5b-198.6-D
+221.0	This study	oriented core	-67	108.8	-70.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7373	Basalt	272.3065	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-198.8	SI5b(197.5 to 216.7)	SI5b-198.8-D
+181.0	This study	oriented core	-65	100.6	-65	1	1	100	Extrusive:Igneous	Lava Flow	48.7373	Basalt	272.3065	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-212.4	SI5b(197.5 to 216.7)	SI5b-212.4-D
+207.0	This study	oriented core	-73						Extrusive:Igneous	Lava Flow	48.7373	Basalt	272.3065	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-212.6	SI5b(197.5 to 216.7)	
+305.0	This study	oriented core	-71	97.2	-70.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7373	Basalt	272.3065	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-214.0	SI5b(197.5 to 216.7)	SI5b-214.0-D
+289.0	This study	oriented core	-91	102.9	-68.3	1	1	100	Extrusive:Igneous	Lava Flow	48.7373	Basalt	272.3065	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-214.2	SI5b(197.5 to 216.7)	SI5b-214.2-D
+158.0	This study	oriented core	-59	100.6	-47.5	1	1	100	Extrusive:Igneous	Lava Flow	48.7402	Basalt	272.3162	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-57.6	SI5b(57.2 to 63.3)	SI5b-57.6-D
+321.0	This study	oriented core	-27	98.3	-44.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7402	Basalt	272.3162	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-57.65	SI5b(57.2 to 63.3)	SI5b-57.65-D
+165.0	This study	oriented core	-57	95.7	-34.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7402	Basalt	272.3162	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-57.7	SI5b(57.2 to 63.3)	SI5b-57.7-D
+135.0	This study	oriented core	-44	98.6	-49.2	1	1	100	Extrusive:Igneous	Lava Flow	48.7402	Basalt	272.3162	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-58.0	SI5b(57.2 to 63.3)	SI5b-58.0-D
+140.0	This study	oriented core	-46	101.1	-45	1	1	100	Extrusive:Igneous	Lava Flow	48.7402	Basalt	272.3162	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-58.05	SI5b(57.2 to 63.3)	SI5b-58.05-D
+130.0	This study	oriented core	-70						Extrusive:Igneous	Lava Flow	48.7402	Basalt	272.3162	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-58.1	SI5b(57.2 to 63.3)	
+	This study	oriented core	-90						Extrusive:Igneous	Lava Flow	48.7402	Basalt	272.3162	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-58.65	SI5b(57.2 to 63.3)	
+203.0	This study	oriented core	-74	94.2	-34.2	1	1	100	Extrusive:Igneous	Lava Flow	48.7402	Basalt	272.3162	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-58.7	SI5b(57.2 to 63.3)	SI5b-58.7-D
+356.0	This study	oriented core	-45						Extrusive:Igneous	Lava Flow	48.7408	Basalt	272.3235	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-6.0	SI5b(3.2 to 30.7)	
+219.0	This study	oriented core	-68						Extrusive:Igneous	Lava Flow	48.7401	Basalt	272.3159	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-65.0	SI5b(64.6 to 70.4)	
+95.0	This study	oriented core	-89	96.5	-54.2	1	1	100	Extrusive:Igneous	Lava Flow	48.7401	Basalt	272.3159	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-65.1	SI5b(64.6 to 70.4)	SI5b-65.1-D
+260.0	This study	oriented core	-87	97.2	-53.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7401	Basalt	272.3159	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-65.2	SI5b(64.6 to 70.4)	SI5b-65.2-D
+229.0	This study	oriented core	-38	92.7	-45.5	1	1	100	Extrusive:Igneous	Lava Flow	48.7401	Basalt	272.3159	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-65.4	SI5b(64.6 to 70.4)	SI5b-65.4-D
+277.0	This study	oriented core	-90	96.2	-49.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7401	Basalt	272.3159	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-68.35	SI5b(64.6 to 70.4)	SI5b-68.35-D
+283.0	This study	oriented core	-77	282.1	-26.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7401	Basalt	272.3159	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-68.4	SI5b(64.6 to 70.4)	SI5b-68.4-D
+278.0	This study	oriented core	-102	113.2	-47.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7401	Basalt	272.3159	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-68.45	SI5b(64.6 to 70.4)	SI5b-68.45-D
+68.0	This study	oriented core	-34						Extrusive:Igneous	Lava Flow	48.7408	Basalt	272.3235	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-7.1	SI5b(3.2 to 30.7)	
+146.0	This study	oriented core	-72	94.9	-53.5	1	1	100	Extrusive:Igneous	Lava Flow	48.7399	Basalt	272.3155	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-74.0	SI5b(72.6 to 79.0)	SI5b-74.0-D
+229.0	This study	oriented core	-83	99.5	-51	1	1	100	Extrusive:Igneous	Lava Flow	48.7399	Basalt	272.3155	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-74.25	SI5b(72.6 to 79.0)	SI5b-74.25-D
+208.0	This study	oriented core	-67	96.1	-51.3	1	1	100	Extrusive:Igneous	Lava Flow	48.7399	Basalt	272.3155	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-74.3	SI5b(72.6 to 79.0)	SI5b-74.3-D
+16.0	This study	oriented core	-10	98.6	-50.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7399	Basalt	272.3155	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-75.4	SI5b(72.6 to 79.0)	SI5b-75.4-D
+228.0	This study	oriented core	-42	100.8	-46.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7399	Basalt	272.3155	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-76.0	SI5b(72.6 to 79.0)	SI5b-76.0-D
+238.0	This study	oriented core	-24	92.3	-43.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7399	Basalt	272.3155	FS-FD:SO-CMD-NORTH:SO-POM	SI5b-76.2	SI5b(72.6 to 79.0)	SI5b-76.2-D
+272.0	This study	oriented core	-29						Extrusive:Igneous	Lava Flow	48.7462	Basalt	272.3607	FS-FD:SO-CMD-NORTH:SO-POM	SI6-0.30	SI6(0.0 to 3.0)	
+27.0	This study	oriented core	-19						Extrusive:Igneous	Lava Flow	48.7462	Basalt	272.3607	FS-FD:SO-CMD-NORTH:SO-POM	SI6-0.50	SI6(0.0 to 3.0)	
+161.0	This study	oriented core	-26	98.5	-59.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7462	Basalt	272.3607	FS-FD:SO-CMD-NORTH:SO-POM	SI6-0.70	SI6(0.0 to 3.0)	SI6-0.70a
+275.0	This study	oriented core	-29	112.6	-67.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7462	Basalt	272.3607	FS-FD:SO-CMD-NORTH:SO-POM	SI6-0.80	SI6(0.0 to 3.0)	SI6-0.80a
+194.0	This study	oriented core	-84						Extrusive:Igneous	Lava Flow	48.7462	Basalt	272.3607	FS-FD:SO-CMD-NORTH:SO-POM	SI6-1.35	SI6(0.0 to 3.0)	
+248.0	This study	oriented core	-67	116.3	-63	1	1	100	Extrusive:Igneous	Lava Flow	48.7462	Basalt	272.3607	FS-FD:SO-CMD-NORTH:SO-POM	SI6-1.40	SI6(0.0 to 3.0)	SI6-1.40a
+293.0	This study	oriented core	-67	106.2	-79.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7439	Basalt	272.3507	FS-FD:SO-CMD-NORTH:SO-POM	SI6-123.90	SI6(122.3 to 127.6)	SI6-123.90a
+291.0	This study	oriented core	-79	114.5	-79.4	1	1	100	Extrusive:Igneous	Lava Flow	48.7439	Basalt	272.3507	FS-FD:SO-CMD-NORTH:SO-POM	SI6-124.00	SI6(122.3 to 127.6)	SI6-124.00a
+1.0	This study	oriented core	-32	99.4	-73.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7439	Basalt	272.3507	FS-FD:SO-CMD-NORTH:SO-POM	SI6-125.30	SI6(122.3 to 127.6)	SI6-125.30a
+8.0	This study	oriented core	-110	122.5	-85.4	1	1	100	Extrusive:Igneous	Lava Flow	48.7439	Basalt	272.3507	FS-FD:SO-CMD-NORTH:SO-POM	SI6-125.80	SI6(122.3 to 127.6)	SI6-125.80a
+12.0	This study	oriented core	-112						Extrusive:Igneous	Lava Flow	48.7439	Basalt	272.3507	FS-FD:SO-CMD-NORTH:SO-POM	SI6-125.9	SI6(122.3 to 127.6)	
+12.0	This study	oriented core	-112	81.1	-82.4	1	1	100	Extrusive:Igneous	Lava Flow	48.7439	Basalt	272.3507	FS-FD:SO-CMD-NORTH:SO-POM	SI6-125.90	SI6(122.3 to 127.6)	SI6-125.90a
+257.0	This study	oriented core	-83	35.3	-73.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7439	Basalt	272.3507	FS-FD:SO-CMD-NORTH:SO-POM	SI6-126.00	SI6(122.3 to 127.6)	SI6-126.00a
+279.0	This study	oriented core	-84	55.5	-70.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7439	Basalt	272.3507	FS-FD:SO-CMD-NORTH:SO-POM	SI6-126.20	SI6(122.3 to 127.6)	SI6-126.20a
+181.0	This study	oriented core	-66	77.4	-59.7	1	1	100	Extrusive:Igneous	Lava Flow	48.746	Basalt	272.3606	FS-FD:SO-CMD-NORTH:SO-POM	SI6-13.35	SI6(12.0 to 28.4)	SI6-13.35a
+190.0	This study	oriented core	-76	77.9	-64.4	1	1	100	Extrusive:Igneous	Lava Flow	48.746	Basalt	272.3606	FS-FD:SO-CMD-NORTH:SO-POM	SI6-13.36	SI6(12.0 to 28.4)	SI6-13.36a
+154.0	This study	oriented core	-77	77.7	-68.2	1	1	100	Extrusive:Igneous	Lava Flow	48.746	Basalt	272.3606	FS-FD:SO-CMD-NORTH:SO-POM	SI6-13.45	SI6(12.0 to 28.4)	SI6-13.45a
+152.0	This study	oriented core	-79	80.1	-62.7	1	1	100	Extrusive:Igneous	Lava Flow	48.746	Basalt	272.3606	FS-FD:SO-CMD-NORTH:SO-POM	SI6-13.50	SI6(12.0 to 28.4)	SI6-13.50a
+177.0	This study	oriented core	-87	79.4	-63.2	1	1	100	Extrusive:Igneous	Lava Flow	48.746	Basalt	272.3606	FS-FD:SO-CMD-NORTH:SO-POM	SI6-14.20	SI6(12.0 to 28.4)	SI6-14.20a
+198.0	This study	oriented core	-89	83.1	-59.1	1	1	100	Extrusive:Igneous	Lava Flow	48.746	Basalt	272.3606	FS-FD:SO-CMD-NORTH:SO-POM	SI6-14.40	SI6(12.0 to 28.4)	SI6-14.40a
+201.0	This study	oriented core	-86	80.6	-64	1	1	100	Extrusive:Igneous	Lava Flow	48.746	Basalt	272.3606	FS-FD:SO-CMD-NORTH:SO-POM	SI6-14.45	SI6(12.0 to 28.4)	SI6-14.45a
+127.0	This study	oriented core	-80	69.5	-62.5	1	1	100	Extrusive:Igneous	Lava Flow	48.746	Basalt	272.3606	FS-FD:SO-CMD-NORTH:SO-POM	SI6-15.00	SI6(12.0 to 28.4)	SI6-15.00a
+151.0	This study	oriented core	-52	68.6	-40.2	1	1	100	Extrusive:Igneous	Lava Flow	48.7423	Basalt	272.35	FS-FD:SO-CMD-NORTH:SO-POM	SI6-181.60	SI6(180.6 to 188.8)	SI6-181.60a
+147.0	This study	oriented core	-56	74.8	-53.4	1	1	100	Extrusive:Igneous	Lava Flow	48.7423	Basalt	272.35	FS-FD:SO-CMD-NORTH:SO-POM	SI6-181.75	SI6(180.6 to 188.8)	SI6-181.75a
+198.0	This study	oriented core	-40	80.5	-54.5	1	1	100	Extrusive:Igneous	Lava Flow	48.7423	Basalt	272.35	FS-FD:SO-CMD-NORTH:SO-POM	SI6-182.20	SI6(180.6 to 188.8)	SI6-182.20a
+189.0	This study	oriented core	-50	80.1	-50.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7423	Basalt	272.35	FS-FD:SO-CMD-NORTH:SO-POM	SI6-182.30	SI6(180.6 to 188.8)	SI6-182.30a
+237.0	This study	oriented core	-24	78.8	-53.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7423	Basalt	272.35	FS-FD:SO-CMD-NORTH:SO-POM	SI6-182.40	SI6(180.6 to 188.8)	SI6-182.40a
+232.0	This study	oriented core	-21	82.1	-57.4	1	1	100	Extrusive:Igneous	Lava Flow	48.7423	Basalt	272.35	FS-FD:SO-CMD-NORTH:SO-POM	SI6-182.50	SI6(180.6 to 188.8)	SI6-182.50a
+80.0	This study	oriented core	-84	70.8	-57.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7423	Basalt	272.35	FS-FD:SO-CMD-NORTH:SO-POM	SI6-183.00	SI6(180.6 to 188.8)	SI6-183.00a
+77.0	This study	oriented core	-80	67.7	-57.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7423	Basalt	272.35	FS-FD:SO-CMD-NORTH:SO-POM	SI6-183.10	SI6(180.6 to 188.8)	SI6-183.10a
+307.0	This study	oriented core	-93						Extrusive:Igneous	Lava Flow	48.7462	Basalt	272.3607	FS-FD:SO-CMD-NORTH:SO-POM	SI6-2.10	SI6(0.0 to 3.0)	
+255.0	This study	oriented core	-44	105.2	-60.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7462	Basalt	272.3607	FS-FD:SO-CMD-NORTH:SO-POM	SI6-2.20	SI6(0.0 to 3.0)	SI6-2.20a
+93.0	This study	oriented core	-23	85.1	-63.5	1	1	100	Extrusive:Igneous	Lava Flow	48.7462	Basalt	272.3607	FS-FD:SO-CMD-NORTH:SO-POM	SI6-2.40	SI6(0.0 to 3.0)	SI6-2.40a
+202.0	This study	oriented core	-77	103.0	-45.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7415	Basalt	272.3517	FS-FD:SO-CMD-NORTH:SO-POM	SI6-208.60	SI6(208.4 to 219.9)	SI6-208.60a
+191.0	This study	oriented core	-78	104.2	-50.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7415	Basalt	272.3517	FS-FD:SO-CMD-NORTH:SO-POM	SI6-209.00	SI6(208.4 to 219.9)	SI6-209.00a
+196.0	This study	oriented core	-86	93.3	-49.5	1	1	100	Extrusive:Igneous	Lava Flow	48.7415	Basalt	272.3517	FS-FD:SO-CMD-NORTH:SO-POM	SI6-209.10	SI6(208.4 to 219.9)	SI6-209.10a
+191.0	This study	oriented core	-88	101.3	-59.4	1	1	100	Extrusive:Igneous	Lava Flow	48.7415	Basalt	272.3517	FS-FD:SO-CMD-NORTH:SO-POM	SI6-209.40	SI6(208.4 to 219.9)	SI6-209.40a
+189.0	This study	oriented core	-88	103.1	-55	1	1	100	Extrusive:Igneous	Lava Flow	48.7415	Basalt	272.3517	FS-FD:SO-CMD-NORTH:SO-POM	SI6-209.50	SI6(208.4 to 219.9)	SI6-209.50a
+146.0	This study	oriented core	-101	193.6	-48.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7415	Basalt	272.3517	FS-FD:SO-CMD-NORTH:SO-POM	SI6-209.80	SI6(208.4 to 219.9)	SI6-209.80a
+199.0	This study	oriented core	-112						Extrusive:Igneous	Lava Flow	48.7415	Basalt	272.3517	FS-FD:SO-CMD-NORTH:SO-POM	SI6-210.05	SI6(208.4 to 219.9)	
+152.0	This study	oriented core	-72	350.5	-72	1	1	100	Extrusive:Igneous	Lava Flow	48.7405	Basalt	272.3524	FS-FD:SO-CMD-NORTH:SO-POM	SI6-247.4	SI6(245.4 to 252.7)	SI6-247.4a
+162.0	This study	oriented core	-91	93.3	-58.5	1	1	100	Extrusive:Igneous	Lava Flow	48.7405	Basalt	272.3524	FS-FD:SO-CMD-NORTH:SO-POM	SI6-247.7	SI6(245.4 to 252.7)	SI6-247.7a
+152.0	This study	oriented core	-80	98.1	-52.3	1	1	100	Extrusive:Igneous	Lava Flow	48.7405	Basalt	272.3524	FS-FD:SO-CMD-NORTH:SO-POM	SI6-248.1	SI6(245.4 to 252.7)	SI6-248.1a
+249.0	This study	oriented core	-54	117.5	-59	1	1	100	Extrusive:Igneous	Lava Flow	48.7405	Basalt	272.3524	FS-FD:SO-CMD-NORTH:SO-POM	SI6-248.8	SI6(245.4 to 252.7)	SI6-248.8a
+249.0	This study	oriented core	-48	118.7	-51.5	1	1	100	Extrusive:Igneous	Lava Flow	48.7405	Basalt	272.3524	FS-FD:SO-CMD-NORTH:SO-POM	SI6-248.9	SI6(245.4 to 252.7)	SI6-248.9a
+172.0	This study	oriented core	-49	105.9	-57.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7405	Basalt	272.3524	FS-FD:SO-CMD-NORTH:SO-POM	SI6-249.2	SI6(245.4 to 252.7)	SI6-249.2a
+306.0	This study	oriented core	-29	116.3	-53.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7405	Basalt	272.3524	FS-FD:SO-CMD-NORTH:SO-POM	SI6-251.0	SI6(245.4 to 252.7)	SI6-251.0a
+190.0	This study	oriented core	-53	107.1	-52.4	1	1	100	Extrusive:Igneous	Lava Flow	48.7405	Basalt	272.3524	FS-FD:SO-CMD-NORTH:SO-POM	SI6-251.2	SI6(245.4 to 252.7)	SI6-251.2a
+217.0	This study	oriented core	-77	86.8	-68.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7399	Basalt	272.3533	FS-FD:SO-CMD-NORTH:SO-POM	SI6-274.2	SI6(268.4 to 289.5)	SI6-274.2a
+224.0	This study	oriented core	-74	95.1	-69.2	1	1	100	Extrusive:Igneous	Lava Flow	48.7399	Basalt	272.3533	FS-FD:SO-CMD-NORTH:SO-POM	SI6-274.3	SI6(268.4 to 289.5)	SI6-274.3a
+301.0	This study	oriented core	-29	91.9	-65.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7399	Basalt	272.3533	FS-FD:SO-CMD-NORTH:SO-POM	SI6-274.9	SI6(268.4 to 289.5)	SI6-274.9a
+126.0	This study	oriented core	-62	100.0	-71	1	1	100	Extrusive:Igneous	Lava Flow	48.7399	Basalt	272.3533	FS-FD:SO-CMD-NORTH:SO-POM	SI6-275.3	SI6(268.4 to 289.5)	SI6-275.3a
+15.0	This study	oriented core	-31	95.8	-62.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7399	Basalt	272.3533	FS-FD:SO-CMD-NORTH:SO-POM	SI6-276.3	SI6(268.4 to 289.5)	SI6-276.3a
+184.0	This study	oriented core	-68	90.3	-61.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7399	Basalt	272.3533	FS-FD:SO-CMD-NORTH:SO-POM	SI6-277.0	SI6(268.4 to 289.5)	SI6-277.0a
+292.0	This study	oriented core	-60	86.3	-68.2	1	1	100	Extrusive:Igneous	Lava Flow	48.7399	Basalt	272.3533	FS-FD:SO-CMD-NORTH:SO-POM	SI6-277.3	SI6(268.4 to 289.5)	SI6-277.3a
+266.0	This study	oriented core	-32	98.9	-64.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7399	Basalt	272.3533	FS-FD:SO-CMD-NORTH:SO-POM	SI6-277.5	SI6(268.4 to 289.5)	SI6-277.5a
+139.0	This study	oriented core	-29	116.1	-61.3	1	1	100	Extrusive:Igneous	Lava Flow	48.7393	Basalt	272.3536	FS-FD:SO-CMD-NORTH:SO-POM	SI6-291.4	SI6(289.8 to 301.1)	SI6-291.4a
+226.0	This study	oriented core	-63	113.2	-65.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7393	Basalt	272.3536	FS-FD:SO-CMD-NORTH:SO-POM	SI6-291.8	SI6(289.8 to 301.1)	SI6-291.8a
+182.0	This study	oriented core	-51	98.1	-56	1	1	100	Extrusive:Igneous	Lava Flow	48.7393	Basalt	272.3536	FS-FD:SO-CMD-NORTH:SO-POM	SI6-293.2	SI6(289.8 to 301.1)	SI6-293.2a
+193.0	This study	oriented core	-64	96.2	-51.3	1	1	100	Extrusive:Igneous	Lava Flow	48.7393	Basalt	272.3536	FS-FD:SO-CMD-NORTH:SO-POM	SI6-294.0	SI6(289.8 to 301.1)	SI6-294.0a
+263.0	This study	oriented core	-92	100.0	-68	1	1	100	Extrusive:Igneous	Lava Flow	48.7393	Basalt	272.3536	FS-FD:SO-CMD-NORTH:SO-POM	SI6-294.4	SI6(289.8 to 301.1)	SI6-294.4a
+287.0	This study	oriented core	-101	100.0	-67.2	1	1	100	Extrusive:Igneous	Lava Flow	48.7393	Basalt	272.3536	FS-FD:SO-CMD-NORTH:SO-POM	SI6-294.6	SI6(289.8 to 301.1)	SI6-294.6a
+152.0	This study	oriented core	-35	93.1	-54.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7393	Basalt	272.3536	FS-FD:SO-CMD-NORTH:SO-POM	SI6-295.2	SI6(289.8 to 301.1)	SI6-295.2a
+17.0	This study	oriented core	-23	102.1	-61.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7393	Basalt	272.3536	FS-FD:SO-CMD-NORTH:SO-POM	SI6-296.2	SI6(289.8 to 301.1)	SI6-296.2a
+171.0	This study	oriented core	-51	33.0	-32.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7451	Basalt	272.3607	FS-FD:SO-CMD-NORTH:SO-POM	SI6-41.6	SI6(40.6 to 57.8)	SI6-41.6a
+188.0	This study	oriented core	-39	92.9	-60	1	1	100	Extrusive:Igneous	Lava Flow	48.7451	Basalt	272.3607	FS-FD:SO-CMD-NORTH:SO-POM	SI6-42.6	SI6(40.6 to 57.8)	SI6-42.6a
+15.0	This study	oriented core	-9	79.6	-69.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7451	Basalt	272.3607	FS-FD:SO-CMD-NORTH:SO-POM	SI6-43.5	SI6(40.6 to 57.8)	SI6-43.5a
+145.0	This study	oriented core	-60	104.1	-66.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7451	Basalt	272.3607	FS-FD:SO-CMD-NORTH:SO-POM	SI6-43.6	SI6(40.6 to 57.8)	SI6-43.6a
+164.0	This study	oriented core	-76	99.2	-63.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7451	Basalt	272.3607	FS-FD:SO-CMD-NORTH:SO-POM	SI6-43.8	SI6(40.6 to 57.8)	SI6-43.8a
+258.0	This study	oriented core	-89	345.2	-71.3	1	1	100	Extrusive:Igneous	Lava Flow	48.7451	Basalt	272.3607	FS-FD:SO-CMD-NORTH:SO-POM	SI6-46.5	SI6(40.6 to 57.8)	SI6-46.5a
+258.0	This study	oriented core	-89	113.6	-68.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7451	Basalt	272.3607	FS-FD:SO-CMD-NORTH:SO-POM	SI6-46.6	SI6(40.6 to 57.8)	SI6-46.6a
+99.0	This study	oriented core	-43						Extrusive:Igneous	Lava Flow	48.7451	Basalt	272.3607	FS-FD:SO-CMD-NORTH:SO-POM	SI6-50.5	SI6(40.6 to 57.8)	
+90.0	This study	oriented core	-14	84.3	-61.4	1	1	100	Extrusive:Igneous	Lava Flow	48.7451	Basalt	272.3607	FS-FD:SO-CMD-NORTH:SO-POM	SI6-50.9	SI6(40.6 to 57.8)	SI6-50.9a
+191.0	This study	oriented core	-26	103.0	-82.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7448	Basalt	272.3514	FS-FD:SO-CMD-NORTH:SO-POM	SI6-78.05	SI6(76.5 to 94.1)	SI6-78.05a
+172.0	This study	oriented core	-30	92.8	-69.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7448	Basalt	272.3514	FS-FD:SO-CMD-NORTH:SO-POM	SI6-78.20	SI6(76.5 to 94.1)	SI6-78.20a
+158.0	This study	oriented core	-60	102.2	-72	1	1	100	Extrusive:Igneous	Lava Flow	48.7448	Basalt	272.3514	FS-FD:SO-CMD-NORTH:SO-POM	SI6-78.40	SI6(76.5 to 94.1)	SI6-78.40a
+99.0	This study	oriented core	-30						Extrusive:Igneous	Lava Flow	48.7448	Basalt	272.3514	FS-FD:SO-CMD-NORTH:SO-POM	SI6-78.60	SI6(76.5 to 94.1)	
+135.0	This study	oriented core	-25	105.6	-68	1	1	100	Extrusive:Igneous	Lava Flow	48.7448	Basalt	272.3514	FS-FD:SO-CMD-NORTH:SO-POM	SI6-79.80	SI6(76.5 to 94.1)	SI6-79.80a
+138.0	This study	oriented core	-33	101.7	-68.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7448	Basalt	272.3514	FS-FD:SO-CMD-NORTH:SO-POM	SI6-79.85	SI6(76.5 to 94.1)	SI6-79.85a
+130.0	This study	oriented core	-40	148.6	-75.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7448	Basalt	272.3514	FS-FD:SO-CMD-NORTH:SO-POM	SI6-79.90	SI6(76.5 to 94.1)	SI6-79.90a
+130.0	This study	oriented core	-36	97.0	-65	1	1	100	Extrusive:Igneous	Lava Flow	48.7448	Basalt	272.3514	FS-FD:SO-CMD-NORTH:SO-POM	SI6-80.40	SI6(76.5 to 94.1)	SI6-80.40a
+129.0	This study	oriented core	-34						Extrusive:Igneous	Lava Flow	48.7448	Basalt	272.3514	FS-FD:SO-CMD-NORTH:SO-POM	SI6-80.45	SI6(76.5 to 94.1)	
+215.0	This study	oriented core	-79	96.2	-79.3	1	1	100	Extrusive:Igneous	Lava Flow	48.7445	Basalt	272.3514	FS-FD:SO-CMD-NORTH:SO-POM	SI6-95.40	SI6(94.1 to 104.2)	SI6-95.40a
+231.0	This study	oriented core	-85	95.9	-75.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7445	Basalt	272.3514	FS-FD:SO-CMD-NORTH:SO-POM	SI6-95.50	SI6(94.1 to 104.2)	SI6-95.50a
+249.0	This study	oriented core	-77	122.8	-76	1	1	100	Extrusive:Igneous	Lava Flow	48.7445	Basalt	272.3514	FS-FD:SO-CMD-NORTH:SO-POM	SI6-95.51	SI6(94.1 to 104.2)	SI6-95.51a
+225.0	This study	oriented core	-82	103.4	-77.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7445	Basalt	272.3514	FS-FD:SO-CMD-NORTH:SO-POM	SI6-95.60	SI6(94.1 to 104.2)	SI6-95.60a
+265.0	This study	oriented core	-92	91.1	-83.4	1	1	100	Extrusive:Igneous	Lava Flow	48.7445	Basalt	272.3514	FS-FD:SO-CMD-NORTH:SO-POM	SI6-96.38	SI6(94.1 to 104.2)	SI6-96.38a
+240.0	This study	oriented core	-65	71.0	-45.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7445	Basalt	272.3514	FS-FD:SO-CMD-NORTH:SO-POM	SI6-96.40	SI6(94.1 to 104.2)	SI6-96.40a
+287.0	This study	oriented core	-57	252.4	-74.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7445	Basalt	272.3514	FS-FD:SO-CMD-NORTH:SO-POM	SI6-96.60	SI6(94.1 to 104.2)	SI6-96.60a
+195.0	This study	oriented core	-79	131.5	-49.3	1	1	100	Extrusive:Igneous	Lava Flow	48.7406	Basalt	272.3317	FS-FD:SO-CMD-NORTH:SO-POM	SI7-0.2	SI7(0.0 to 3.9)	SI7-0.2a
+313.0	This study	oriented core	-27	127.4	-44.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7406	Basalt	272.3317	FS-FD:SO-CMD-NORTH:SO-POM	SI7-0.5	SI7(0.0 to 3.9)	SI7-0.5a
+247.0	This study	oriented core	-75	134.0	-48.3	1	1	100	Extrusive:Igneous	Lava Flow	48.7406	Basalt	272.3317	FS-FD:SO-CMD-NORTH:SO-POM	SI7-1.0	SI7(0.0 to 3.9)	SI7-1.0a
+249.0	This study	oriented core	-80	127.9	-50.4	1	1	100	Extrusive:Igneous	Lava Flow	48.7406	Basalt	272.3317	FS-FD:SO-CMD-NORTH:SO-POM	SI7-1.1	SI7(0.0 to 3.9)	SI7-1.1a
+180.0	This study	oriented core	-62	126.9	-45.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7406	Basalt	272.3317	FS-FD:SO-CMD-NORTH:SO-POM	SI7-1.4	SI7(0.0 to 3.9)	SI7-1.4a
+260.0	This study	oriented core	-45	108.7	-65.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7403	Basalt	272.3316	FS-FD:SO-CMD-NORTH:SO-POM	SI7-10.9	SI7(9.6 to 18.0)	SI7-10.9a
+216.0	This study	oriented core	-26						Extrusive:Igneous	Lava Flow	48.7403	Basalt	272.3316	FS-FD:SO-CMD-NORTH:SO-POM	SI7-11.8	SI7(9.6 to 18.0)	
+	This study			116.9	-52.8	1	1	100	Igneous:Extrusive	Lava Flow	48.7403	Basaltic Lava	272.3316		SI7-11.80	SI7(9.6 to 18.0)	SI7-11.80a
+284.0	This study	oriented core	-36						Extrusive:Igneous	Lava Flow	48.7403	Basalt	272.3316	FS-FD:SO-CMD-NORTH:SO-POM	SI7-12.7	SI7(9.6 to 18.0)	
+	This study			119.5	-54	1	1	100	Igneous:Extrusive	Lava Flow	48.7403	Basaltic Lava	272.3316		SI7-12.70	SI7(9.6 to 18.0)	SI7-12.70a
+323.0	This study	oriented core	-53						Extrusive:Igneous	Lava Flow	48.7403	Basalt	272.3316	FS-FD:SO-CMD-NORTH:SO-POM	SI7-13.2	SI7(9.6 to 18.0)	
+	This study			129.7	-48.7	1	1	100	Igneous:Extrusive	Lava Flow	48.7403	Basaltic Lava	272.3316		SI7-13.20	SI7(9.6 to 18.0)	SI7-13.20a
+348.0	This study	oriented core	-48						Extrusive:Igneous	Lava Flow	48.7403	Basalt	272.3316	FS-FD:SO-CMD-NORTH:SO-POM	SI7-13.7	SI7(9.6 to 18.0)	
+	This study			125.6	-42.5	1	1	100	Igneous:Extrusive	Lava Flow	48.7403	Basaltic Lava	272.3316		SI7-13.70	SI7(9.6 to 18.0)	SI7-13.70a
+307.0	This study	oriented core	-40						Extrusive:Igneous	Lava Flow	48.7403	Basalt	272.3316	FS-FD:SO-CMD-NORTH:SO-POM	SI7-14.2	SI7(9.6 to 18.0)	
+342.0	This study	oriented core	-51	115.4	-59.4	1	1	100	Extrusive:Igneous	Lava Flow	48.7403	Basalt	272.3316	FS-FD:SO-CMD-NORTH:SO-POM	SI7-15.6	SI7(9.6 to 18.0)	SI7-15.6a
+351.0	This study	oriented core	-55	117.3	-64.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7403	Basalt	272.3316	FS-FD:SO-CMD-NORTH:SO-POM	SI7-16.0	SI7(9.6 to 18.0)	SI7-16.0a
+176.0	This study	oriented core	-49	125.4	-53.5	1	1	100	Extrusive:Igneous	Lava Flow	48.7406	Basalt	272.3317	FS-FD:SO-CMD-NORTH:SO-POM	SI7-2.4	SI7(0.0 to 3.9)	SI7-2.4a
+209.0	This study	oriented core	-52	129.1	-49.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7406	Basalt	272.3317	FS-FD:SO-CMD-NORTH:SO-POM	SI7-2.6	SI7(0.0 to 3.9)	SI7-2.6a
+203.0	This study	oriented core	-53	126.3	-45.3	1	1	100	Extrusive:Igneous	Lava Flow	48.7406	Basalt	272.3317	FS-FD:SO-CMD-NORTH:SO-POM	SI7-2.7	SI7(0.0 to 3.9)	SI7-2.7a
+258.0	This study	oriented core	-64	134.4	-56.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7405	Basalt	272.3316	FS-FD:SO-CMD-NORTH:SO-POM	SI7-3.94	SI7(3.9 to 5.4)	SI7-3.94a
+259.0	This study	oriented core	-62	132.9	-62.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7405	Basalt	272.3316	FS-FD:SO-CMD-NORTH:SO-POM	SI7-3.95	SI7(3.9 to 5.4)	SI7-3.95a
+214.0	This study	oriented core	-75	111.5	-54.5	1	1	100	Extrusive:Igneous	Lava Flow	48.7405	Basalt	272.3316	FS-FD:SO-CMD-NORTH:SO-POM	SI7-3.96	SI7(3.9 to 5.4)	SI7-3.96a
+249.0	This study	oriented core	-66	127.4	-60	1	1	100	Extrusive:Igneous	Lava Flow	48.7405	Basalt	272.3316	FS-FD:SO-CMD-NORTH:SO-POM	SI7-3.98	SI7(3.9 to 5.4)	SI7-3.98a
+217.0	This study	oriented core	-75	134.0	-48.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7405	Basalt	272.3316	FS-FD:SO-CMD-NORTH:SO-POM	SI7-4.20	SI7(3.9 to 5.4)	SI7-4.20a
+252.0	This study	oriented core	-86						Extrusive:Igneous	Lava Flow	48.7405	Basalt	272.3316	FS-FD:SO-CMD-NORTH:SO-POM	SI7-4.40	SI7(3.9 to 5.4)	
+256.0	This study	oriented core	-74	142.6	-57.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7405	Basalt	272.3316	FS-FD:SO-CMD-NORTH:SO-POM	SI7-4.70	SI7(3.9 to 5.4)	SI7-4.70a
+2.0	This study	oriented core	-19	142.0	-31.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7405	Basalt	272.3316	FS-FD:SO-CMD-NORTH:SO-POM	SI7-4.75	SI7(3.9 to 5.4)	SI7-4.75a
+334.0	This study	oriented core	-46	115.4	-67.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7466	Basalt	272.3806	FS-FD:SO-CMD-NORTH:SO-POM	SI8-1.70	SI8(0.0 to 3.9)	SI8-1.70a
+112.0	This study	oriented core	-13	136.2	-69.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7466	Basalt	272.3806	FS-FD:SO-CMD-NORTH:SO-POM	SI8-1.80	SI8(0.0 to 3.9)	SI8-1.80a
+282.0	This study	oriented core	-16	134.3	-71	1	1	100	Extrusive:Igneous	Lava Flow	48.7466	Basalt	272.3806	FS-FD:SO-CMD-NORTH:SO-POM	SI8-1.90	SI8(0.0 to 3.9)	SI8-1.90a
+291.0	This study	oriented core	-39	89.0	-63.4	1	1	100	Extrusive:Igneous	Lava Flow	48.7449	Basalt	272.3724	FS-FD:SO-CMD-NORTH:SO-POM	SI8-108.6	SI8(106.6 to 115.4)	SI8-108.6a
+274.0	This study	oriented core	-23	110.5	-67.2	1	1	100	Extrusive:Igneous	Lava Flow	48.7449	Basalt	272.3724	FS-FD:SO-CMD-NORTH:SO-POM	SI8-109.8	SI8(106.6 to 115.4)	SI8-109.8a
+123.0	This study	oriented core	-56	83.6	-67	1	1	100	Extrusive:Igneous	Lava Flow	48.7449	Basalt	272.3724	FS-FD:SO-CMD-NORTH:SO-POM	SI8-111.2	SI8(106.6 to 115.4)	SI8-111.2a
+116.0	This study	oriented core	-28	78.5	-62.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7449	Basalt	272.3724	FS-FD:SO-CMD-NORTH:SO-POM	SI8-111.6	SI8(106.6 to 115.4)	SI8-111.6a
+131.0	This study	oriented core	-25	100.4	-67.5	1	1	100	Extrusive:Igneous	Lava Flow	48.7449	Basalt	272.3724	FS-FD:SO-CMD-NORTH:SO-POM	SI8-111.8	SI8(106.6 to 115.4)	SI8-111.8a
+100.0	This study	oriented core	-73						Extrusive:Igneous	Lava Flow	48.7449	Basalt	272.3724	FS-FD:SO-CMD-NORTH:SO-POM	SI8-113.4	SI8(106.6 to 115.4)	
+166.0	This study	oriented core	-41	108.7	-65.3	1	1	100	Extrusive:Igneous	Lava Flow	48.7449	Basalt	272.3724	FS-FD:SO-CMD-NORTH:SO-POM	SI8-113.6	SI8(106.6 to 115.4)	SI8-113.6a
+	This study	oriented core	-90	130.9	-49.3	1	1	100	Extrusive:Igneous	Lava Flow	48.7449	Basalt	272.3724	FS-FD:SO-CMD-NORTH:SO-POM	SI8-114.4	SI8(106.6 to 115.4)	SI8-114.4a
+170.0	This study	oriented core	-22	118.8	-69.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7449	Basalt	272.3724	FS-FD:SO-CMD-NORTH:SO-POM	SI8-115.4	SI8(106.6 to 115.4)	SI8-115.4a
+208.0	This study	oriented core	-8	126.1	-71	1	1	100	Extrusive:Igneous	Lava Flow	48.7466	Basalt	272.3806	FS-FD:SO-CMD-NORTH:SO-POM	SI8-2.00	SI8(0.0 to 3.9)	SI8-2.00a
+285.0	This study	oriented core	-21	123.9	-69.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7466	Basalt	272.3806	FS-FD:SO-CMD-NORTH:SO-POM	SI8-2.30	SI8(0.0 to 3.9)	SI8-2.30a
+217.0	This study	oriented core	-85	125.2	-65.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7466	Basalt	272.3806	FS-FD:SO-CMD-NORTH:SO-POM	SI8-2.70	SI8(0.0 to 3.9)	SI8-2.70a
+218.0	This study	oriented core	-85	124.0	-67	1	1	100	Extrusive:Igneous	Lava Flow	48.7466	Basalt	272.3806	FS-FD:SO-CMD-NORTH:SO-POM	SI8-2.75	SI8(0.0 to 3.9)	SI8-2.75a
+301.0	This study	oriented core	-38	111.5	-52.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7463	Basalt	272.38	FS-FD:SO-CMD-NORTH:SO-POM	SI8-28.7	SI8(19.3 to 45.0)	SI8-28.7a
+296.0	This study	oriented core	-87	111.1	-61.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7463	Basalt	272.38	FS-FD:SO-CMD-NORTH:SO-POM	SI8-29.7	SI8(19.3 to 45.0)	SI8-29.7a
+266.0	This study	oriented core	-67	92.4	-51.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7463	Basalt	272.38	FS-FD:SO-CMD-NORTH:SO-POM	SI8-29.9	SI8(19.3 to 45.0)	SI8-29.9a
+248.0	This study	oriented core	-15	126.0	-70.4	1	1	100	Extrusive:Igneous	Lava Flow	48.7466	Basalt	272.3806	FS-FD:SO-CMD-NORTH:SO-POM	SI8-3.30	SI8(0.0 to 3.9)	SI8-3.30a
+303.0	This study	oriented core	-15	98.5	-57.2	1	1	100	Extrusive:Igneous	Lava Flow	48.7463	Basalt	272.38	FS-FD:SO-CMD-NORTH:SO-POM	SI8-31.5	SI8(19.3 to 45.0)	SI8-31.5a
+275.0	This study	oriented core	-35	100.4	-61.4	1	1	100	Extrusive:Igneous	Lava Flow	48.7463	Basalt	272.38	FS-FD:SO-CMD-NORTH:SO-POM	SI8-31.7	SI8(19.3 to 45.0)	SI8-31.7a
+280.0	This study	oriented core	-73	112.7	-58	1	1	100	Extrusive:Igneous	Lava Flow	48.7463	Basalt	272.38	FS-FD:SO-CMD-NORTH:SO-POM	SI8-32.4	SI8(19.3 to 45.0)	SI8-32.4a
+307.0	This study	oriented core	-44	122.6	-66.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7463	Basalt	272.38	FS-FD:SO-CMD-NORTH:SO-POM	SI8-32.8	SI8(19.3 to 45.0)	SI8-32.8a
+315.0	This study	oriented core	-29	127.4	-60	1	1	100	Extrusive:Igneous	Lava Flow	48.7463	Basalt	272.38	FS-FD:SO-CMD-NORTH:SO-POM	SI8-35.2	SI8(19.3 to 45.0)	SI8-35.2a
+116.0	This study	oriented core	-67	124.7	-65.2	1	1	100	Extrusive:Igneous	Lava Flow	48.7458	Basalt	272.3789	FS-FD:SO-CMD-NORTH:SO-POM	SI8-50.0	SI8(47.5 to 56.7)	SI8-50.0a
+31.0	This study	oriented core	-31	115.3	-56.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7458	Basalt	272.3789	FS-FD:SO-CMD-NORTH:SO-POM	SI8-50.5	SI8(47.5 to 56.7)	SI8-50.5a
+92.0	This study	oriented core	-22	111.5	-60.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7458	Basalt	272.3789	FS-FD:SO-CMD-NORTH:SO-POM	SI8-50.6	SI8(47.5 to 56.7)	SI8-50.6a
+129.0	This study	oriented core	-30	128.0	-60.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7458	Basalt	272.3789	FS-FD:SO-CMD-NORTH:SO-POM	SI8-51.3	SI8(47.5 to 56.7)	SI8-51.3a
+281.0	This study	oriented core	-34	126.3	-68.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7458	Basalt	272.3789	FS-FD:SO-CMD-NORTH:SO-POM	SI8-52.2	SI8(47.5 to 56.7)	SI8-52.2a
+291.0	This study	oriented core	-93	125.6	-73.3	1	1	100	Extrusive:Igneous	Lava Flow	48.7458	Basalt	272.3789	FS-FD:SO-CMD-NORTH:SO-POM	SI8-53.0	SI8(47.5 to 56.7)	SI8-53.0a
+330.0	This study	oriented core	-38	18.1	-44.5	1	1	100	Extrusive:Igneous	Lava Flow	48.7458	Basalt	272.3789	FS-FD:SO-CMD-NORTH:SO-POM	SI8-53.2	SI8(47.5 to 56.7)	SI8-53.2a
+22.0	This study	oriented core	-85	202.9	-20.5	1	1	100	Extrusive:Igneous	Lava Flow	48.7458	Basalt	272.3789	FS-FD:SO-CMD-NORTH:SO-POM	SI8-54.0	SI8(47.5 to 56.7)	SI8-54.0a
+358.0	This study	oriented core	-18	124.9	-72.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7465	Basalt	272.3805	FS-FD:SO-CMD-NORTH:SO-POM	SI8-6.0	SI8(3.9 to 19.3)	SI8-6.0a
+268.0	This study	oriented core	-27	147.5	-78.4	1	1	100	Extrusive:Igneous	Lava Flow	48.7465	Basalt	272.3805	FS-FD:SO-CMD-NORTH:SO-POM	SI8-6.2	SI8(3.9 to 19.3)	SI8-6.2a
+43.0	This study	oriented core	-50	111.1	-72.3	1	1	100	Extrusive:Igneous	Lava Flow	48.7465	Basalt	272.3805	FS-FD:SO-CMD-NORTH:SO-POM	SI8-6.3	SI8(3.9 to 19.3)	SI8-6.3a
+44.0	This study	oriented core	-51	109.6	-73.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7465	Basalt	272.3805	FS-FD:SO-CMD-NORTH:SO-POM	SI8-6.4	SI8(3.9 to 19.3)	SI8-6.4a
+197.0	This study	oriented core	-19	116.2	-63.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7465	Basalt	272.3805	FS-FD:SO-CMD-NORTH:SO-POM	SI8-6.5	SI8(3.9 to 19.3)	SI8-6.5a
+264.0	This study	oriented core	-80	116.3	-74	1	1	100	Extrusive:Igneous	Lava Flow	48.7465	Basalt	272.3805	FS-FD:SO-CMD-NORTH:SO-POM	SI8-7.8	SI8(3.9 to 19.3)	SI8-7.8a
+300.0	This study	oriented core	-28	111.7	-72	1	1	100	Extrusive:Igneous	Lava Flow	48.7457	Basalt	272.3777	FS-FD:SO-CMD-NORTH:SO-POM	SI8-70.3	SI8(62.9 to 84.4)	SI8-70.3a
+283.0	This study	oriented core	-30	114.5	-70.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7457	Basalt	272.3777	FS-FD:SO-CMD-NORTH:SO-POM	SI8-70.4	SI8(62.9 to 84.4)	SI8-70.4a
+304.0	This study	oriented core	-75	107.5	-73.4	1	1	100	Extrusive:Igneous	Lava Flow	48.7457	Basalt	272.3777	FS-FD:SO-CMD-NORTH:SO-POM	SI8-70.7	SI8(62.9 to 84.4)	SI8-70.7a
+281.0	This study	oriented core	-19	97.6	-65.2	1	1	100	Extrusive:Igneous	Lava Flow	48.7457	Basalt	272.3777	FS-FD:SO-CMD-NORTH:SO-POM	SI8-72.1	SI8(62.9 to 84.4)	SI8-72.1a
+120.0	This study	oriented core	-15	94.7	-66	1	1	100	Extrusive:Igneous	Lava Flow	48.7457	Basalt	272.3777	FS-FD:SO-CMD-NORTH:SO-POM	SI8-72.3	SI8(62.9 to 84.4)	SI8-72.3a
+264.0	This study	oriented core	-61	99.4	-69.3	1	1	100	Extrusive:Igneous	Lava Flow	48.7457	Basalt	272.3777	FS-FD:SO-CMD-NORTH:SO-POM	SI8-72.9	SI8(62.9 to 84.4)	SI8-72.9a
+282.0	This study	oriented core	-31	110.0	-71.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7457	Basalt	272.3777	FS-FD:SO-CMD-NORTH:SO-POM	SI8-73.2	SI8(62.9 to 84.4)	SI8-73.2a
+278.0	This study	oriented core	-32	96.5	-68.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7457	Basalt	272.3777	FS-FD:SO-CMD-NORTH:SO-POM	SI8-73.4	SI8(62.9 to 84.4)	SI8-73.4a
+253.0	This study	oriented core	-47	85.7	-63.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7453	Basalt	272.3761	FS-FD:SO-CMD-NORTH:SO-POM	SI8-88.2	SI8(84.4 to 102.6)	SI8-88.2a
+57.0	This study	oriented core	-96						Extrusive:Igneous	Lava Flow	48.7453	Basalt	272.3761	FS-FD:SO-CMD-NORTH:SO-POM	SI8-89.0	SI8(84.4 to 102.6)	
+235.0	This study	oriented core	-92	138.8	-63.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7465	Basalt	272.3805	FS-FD:SO-CMD-NORTH:SO-POM	SI8-9.0	SI8(3.9 to 19.3)	SI8-9.0a
+126.0	This study	oriented core	-90	38.1	-45	1	1	100	Extrusive:Igneous	Lava Flow	48.7465	Basalt	272.3805	FS-FD:SO-CMD-NORTH:SO-POM	SI8-9.2	SI8(3.9 to 19.3)	SI8-9.2a
+129.0	This study	oriented core	-39	104.0	-74.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7453	Basalt	272.3761	FS-FD:SO-CMD-NORTH:SO-POM	SI8-90.2	SI8(84.4 to 102.6)	SI8-90.2a
+191.0	This study	oriented core	-42	74.4	-67.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7453	Basalt	272.3761	FS-FD:SO-CMD-NORTH:SO-POM	SI8-90.8	SI8(84.4 to 102.6)	SI8-90.8a
+31.0	This study	oriented core	-49	78.7	-68.3	1	1	100	Extrusive:Igneous	Lava Flow	48.7453	Basalt	272.3761	FS-FD:SO-CMD-NORTH:SO-POM	SI8-90.9	SI8(84.4 to 102.6)	SI8-90.9a
+179.0	This study	oriented core	-50	73.0	-65	1	1	100	Extrusive:Igneous	Lava Flow	48.7453	Basalt	272.3761	FS-FD:SO-CMD-NORTH:SO-POM	SI8-91.3	SI8(84.4 to 102.6)	SI8-91.3a
+34.0	This study	oriented core	-101	66.5	-62.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7453	Basalt	272.3761	FS-FD:SO-CMD-NORTH:SO-POM	SI8-92.5	SI8(84.4 to 102.6)	SI8-92.5a
+227.0	This study	oriented core	-93	91.8	-63.3	1	1	100	Extrusive:Igneous	Lava Flow	48.7453	Basalt	272.3761	FS-FD:SO-CMD-NORTH:SO-POM	SI8-96.9	SI8(84.4 to 102.6)	SI8-96.9a
+213.0	This study	oriented core	-48	81.5	-60.4	1	1	100	Extrusive:Igneous	Lava Flow	48.7453	Basalt	272.3761	FS-FD:SO-CMD-NORTH:SO-POM	SI8-97.0	SI8(84.4 to 102.6)	SI8-97.0a
+242.0	This study	oriented core	-73	131.3	-25.6	1	1	100	Igneous:Intrusive	Dike	48.7459	Diabase	272.3785	FS-FD:SO-CMD-NORTH:SO-POM	SI8-D1	SI8(D1-D9)	SI8-D1a
+80.0	This study	oriented core	-15	116.1	-30.5	1	1	100	Igneous:Intrusive	Dike	48.7459	Diabase	272.3785	FS-FD:SO-CMD-NORTH:SO-POM	SI8-D2	SI8(D1-D9)	SI8-D2a
+229.0	This study	oriented core	-30	124.6	-38.8	1	1	100	Igneous:Intrusive	Dike	48.7459	Diabase	272.3785	FS-FD:SO-CMD-NORTH:SO-POM	SI8-D3	SI8(D1-D9)	SI8-D3a
+275.0	This study	oriented core	-28	126.6	-39.8	1	1	100	Igneous:Intrusive	Dike	48.7459	Diabase	272.3785	FS-FD:SO-CMD-NORTH:SO-POM	SI8-D5	SI8(D1-D9)	SI8-D5a
+102.0	This study	oriented core	-46	116.2	-37.9	1	1	100	Igneous:Intrusive	Dike	48.7459	Diabase	272.3785	FS-FD:SO-CMD-NORTH:SO-POM	SI8-D6	SI8(D1-D9)	SI8-D6a
+115.0	This study	oriented core	-51	115.4	-39.9	1	1	100	Igneous:Intrusive	Dike	48.7459	Diabase	272.3785	FS-FD:SO-CMD-NORTH:SO-POM	SI8-D7	SI8(D1-D9)	SI8-D7a
+106.0	This study	oriented core	-59	113.4	-38.2	1	1	100	Igneous:Intrusive	Dike	48.7459	Diabase	272.3785	FS-FD:SO-CMD-NORTH:SO-POM	SI8-D8	SI8(D1-D9)	SI8-D8a
+31.0	This study	oriented core	-44	115.6	-36.5	1	1	100	Igneous:Intrusive	Dike	48.7459	Diabase	272.3785	FS-FD:SO-CMD-NORTH:SO-POM	SI8-D9	SI8(D1-D9)	SI8-D9a
+185.0	This study	oriented core	-75	64.0	-58.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7718	Basalt	272.3779	FS-FD:SO-CMD-NORTH:SO-POM	SI9-14.00	SI9(12.0 to 21.2)	SI9-14.00a
+242.0	This study	oriented core	-22	61.0	-67.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7718	Basalt	272.3779	FS-FD:SO-CMD-NORTH:SO-POM	SI9-14.20	SI9(12.0 to 21.2)	SI9-14.20a
+54.0	This study	oriented core	-29	55.7	-69.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7718	Basalt	272.3779	FS-FD:SO-CMD-NORTH:SO-POM	SI9-14.21	SI9(12.0 to 21.2)	SI9-14.21a
+131.0	This study	oriented core	-76	49.3	-60.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7718	Basalt	272.3779	FS-FD:SO-CMD-NORTH:SO-POM	SI9-14.50	SI9(12.0 to 21.2)	SI9-14.50a
+35.0	This study	oriented core	-14	64.3	-67.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7718	Basalt	272.3779	FS-FD:SO-CMD-NORTH:SO-POM	SI9-14.80	SI9(12.0 to 21.2)	SI9-14.80a
+242.0	This study	oriented core	-68	105.9	-54.4	1	1	100	Extrusive:Igneous	Lava Flow	48.768	Basalt	272.3808	FS-FD:SO-CMD-NORTH:SO-POM	SI9-142.8	SI9(139.8 to 160.0)	SI9-142.8a
+215.0	This study	oriented core	-71	95.9	-57.8	1	1	100	Extrusive:Igneous	Lava Flow	48.768	Basalt	272.3808	FS-FD:SO-CMD-NORTH:SO-POM	SI9-143.4	SI9(139.8 to 160.0)	SI9-143.4a
+294.0	This study	oriented core	-15	114.5	-53	1	1	100	Extrusive:Igneous	Lava Flow	48.768	Basalt	272.3808	FS-FD:SO-CMD-NORTH:SO-POM	SI9-143.6	SI9(139.8 to 160.0)	SI9-143.6a
+262.0	This study	oriented core	-92	92.0	-58.2	1	1	100	Extrusive:Igneous	Lava Flow	48.768	Basalt	272.3808	FS-FD:SO-CMD-NORTH:SO-POM	SI9-144.8	SI9(139.8 to 160.0)	SI9-144.8a
+249.0	This study	oriented core	-69	92.2	-49.9	1	1	100	Extrusive:Igneous	Lava Flow	48.768	Basalt	272.3808	FS-FD:SO-CMD-NORTH:SO-POM	SI9-146.0	SI9(139.8 to 160.0)	SI9-146.0a
+210.0	This study	oriented core	-86	93.9	-44.4	1	1	100	Extrusive:Igneous	Lava Flow	48.768	Basalt	272.3808	FS-FD:SO-CMD-NORTH:SO-POM	SI9-146.4	SI9(139.8 to 160.0)	SI9-146.4a
+151.0	This study	oriented core	-54	90.1	-49.5	1	1	100	Extrusive:Igneous	Lava Flow	48.768	Basalt	272.3808	FS-FD:SO-CMD-NORTH:SO-POM	SI9-148.3	SI9(139.8 to 160.0)	SI9-148.3a
+148.0	This study	oriented core	-54	86.8	-44.3	1	1	100	Extrusive:Igneous	Lava Flow	48.768	Basalt	272.3808	FS-FD:SO-CMD-NORTH:SO-POM	SI9-148.4	SI9(139.8 to 160.0)	SI9-148.4a
+74.0	This study	oriented core	-30	81.4	-68.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7718	Basalt	272.3779	FS-FD:SO-CMD-NORTH:SO-POM	SI9-15.30	SI9(12.0 to 21.2)	SI9-15.30a
+127.0	This study	oriented core	-64	72.4	-62.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7718	Basalt	272.3779	FS-FD:SO-CMD-NORTH:SO-POM	SI9-16.00	SI9(12.0 to 21.2)	SI9-16.00a
+31.0	This study	oriented core	-22	69.8	-64	1	1	100	Extrusive:Igneous	Lava Flow	48.7718	Basalt	272.3779	FS-FD:SO-CMD-NORTH:SO-POM	SI9-16.10	SI9(12.0 to 21.2)	SI9-16.10a
+193.0	This study	oriented core	-39	83.5	-47.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7676	Basalt	272.3811	FS-FD:SO-CMD-NORTH:SO-POM	SI9-162.90	SI9(160.0 to 166.5)	SI9-162.90a
+264.0	This study	oriented core	-20	95.7	-47.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7676	Basalt	272.3811	FS-FD:SO-CMD-NORTH:SO-POM	SI9-163.50	SI9(160.0 to 166.5)	SI9-163.50a
+0.0	This study	oriented core	-30	108.9	-57.2	1	1	100	Extrusive:Igneous	Lava Flow	48.7676	Basalt	272.3811	FS-FD:SO-CMD-NORTH:SO-POM	SI9-163.90	SI9(160.0 to 166.5)	SI9-163.90a
+16.0	This study	oriented core	-9	96.0	-57.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7676	Basalt	272.3811	FS-FD:SO-CMD-NORTH:SO-POM	SI9-164.10	SI9(160.0 to 166.5)	SI9-164.10a
+240.0	This study	oriented core	-61	103.8	-50.2	1	1	100	Extrusive:Igneous	Lava Flow	48.7676	Basalt	272.3811	FS-FD:SO-CMD-NORTH:SO-POM	SI9-164.20	SI9(160.0 to 166.5)	SI9-164.20a
+197.0	This study	oriented core	-58	104.5	-49.5	1	1	100	Extrusive:Igneous	Lava Flow	48.7676	Basalt	272.3811	FS-FD:SO-CMD-NORTH:SO-POM	SI9-164.25	SI9(160.0 to 166.5)	SI9-164.25a
+175.0	This study	oriented core	-7	93.4	-56.5	1	1	100	Extrusive:Igneous	Lava Flow	48.7676	Basalt	272.3811	FS-FD:SO-CMD-NORTH:SO-POM	SI9-164.30	SI9(160.0 to 166.5)	SI9-164.30a
+194.0	This study	oriented core	-22						Extrusive:Igneous	Lava Flow	48.7676	Basalt	272.3811	FS-FD:SO-CMD-NORTH:SO-POM	SI9-164.4.0	SI9(160.0 to 166.5)	
+194.0	This study	oriented core	-22	104.3	-57.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7676	Basalt	272.3811	FS-FD:SO-CMD-NORTH:SO-POM	SI9-164.40	SI9(160.0 to 166.5)	SI9-164.40a
+185.0	This study	oriented core	-48	119.4	-69.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7674	Basalt	272.3815	FS-FD:SO-CMD-NORTH:SO-POM	SI9-166.9	SI9(166.5 to 171.4)	SI9-166.9a
+319.0	This study	oriented core	-33	113.6	-55.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7674	Basalt	272.3815	FS-FD:SO-CMD-NORTH:SO-POM	SI9-167.0	SI9(166.5 to 171.4)	SI9-167.0a
+258.0	This study	oriented core	-48	111.6	-40.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7674	Basalt	272.3815	FS-FD:SO-CMD-NORTH:SO-POM	SI9-167.1	SI9(166.5 to 171.4)	SI9-167.1a
+245.0	This study	oriented core	-90	102.7	-29.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7674	Basalt	272.3815	FS-FD:SO-CMD-NORTH:SO-POM	SI9-167.2	SI9(166.5 to 171.4)	SI9-167.2a
+68.0	This study	oriented core	-26	90.9	-55.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7674	Basalt	272.3815	FS-FD:SO-CMD-NORTH:SO-POM	SI9-167.3	SI9(166.5 to 171.4)	SI9-167.3a
+121.0	This study	oriented core	-70	109.9	-57.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7674	Basalt	272.3815	FS-FD:SO-CMD-NORTH:SO-POM	SI9-167.6	SI9(166.5 to 171.4)	SI9-167.6a
+93.0	This study	oriented core	-57	118.7	-56.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7674	Basalt	272.3815	FS-FD:SO-CMD-NORTH:SO-POM	SI9-167.7	SI9(166.5 to 171.4)	SI9-167.7a
+149.0	This study	oriented core	-75	117.2	-55.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7674	Basalt	272.3815	FS-FD:SO-CMD-NORTH:SO-POM	SI9-168.1	SI9(166.5 to 171.4)	SI9-168.1a
+191.0	This study	oriented core	-29	119.1	-46	1	1	100	Extrusive:Igneous	Lava Flow	48.7672	Basalt	272.381	FS-FD:SO-CMD-NORTH:SO-POM	SI9-173.0	SI9(171.4 to 188.8)	SI9-173.0a
+197.0	This study	oriented core	-32	121.1	-52.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7672	Basalt	272.381	FS-FD:SO-CMD-NORTH:SO-POM	SI9-173.1	SI9(171.4 to 188.8)	SI9-173.1a
+276.0	This study	oriented core	-25	116.3	-50.4	1	1	100	Extrusive:Igneous	Lava Flow	48.7672	Basalt	272.381	FS-FD:SO-CMD-NORTH:SO-POM	SI9-173.3	SI9(171.4 to 188.8)	SI9-173.3a
+299.0	This study	oriented core	-29	103.5	-38.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7672	Basalt	272.381	FS-FD:SO-CMD-NORTH:SO-POM	SI9-173.5	SI9(171.4 to 188.8)	SI9-173.5a
+323.0	This study	oriented core	-21	102.4	-38.2	1	1	100	Extrusive:Igneous	Lava Flow	48.7672	Basalt	272.381	FS-FD:SO-CMD-NORTH:SO-POM	SI9-173.6	SI9(171.4 to 188.8)	SI9-173.6a
+294.0	This study	oriented core	-34	111.6	-49.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7672	Basalt	272.381	FS-FD:SO-CMD-NORTH:SO-POM	SI9-173.7	SI9(171.4 to 188.8)	SI9-173.7a
+280.0	This study	oriented core	-38						Extrusive:Igneous	Lava Flow	48.7672	Basalt	272.381	FS-FD:SO-CMD-NORTH:SO-POM	SI9-173.8	SI9(171.4 to 188.8)	
+283.0	This study	oriented core	-37						Extrusive:Igneous	Lava Flow	48.7672	Basalt	272.381	FS-FD:SO-CMD-NORTH:SO-POM	SI9-173.9	SI9(171.4 to 188.8)	
+151.0	This study	oriented core	-43	55.4	-63.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7721	Basalt	272.3778	FS-FD:SO-CMD-NORTH:SO-POM	SI9-3.90	SI9(0.0 to 9.2)	SI9-3.90a
+153.0	This study	oriented core	-39						Extrusive:Igneous	Lava Flow	48.7721	Basalt	272.3778	FS-FD:SO-CMD-NORTH:SO-POM	SI9-3.95	SI9(0.0 to 9.2)	
+313.0	This study	oriented core	-17	132.5	-60.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7638	Basalt	272.3824	FS-FD:SO-CMD-NORTH:SO-POM	SI9-315.30	SI9(312.1 to 321.0)	SI9-315.30a
+353.0	This study	oriented core	-23	121.2	-57.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7638	Basalt	272.3824	FS-FD:SO-CMD-NORTH:SO-POM	SI9-315.35	SI9(312.1 to 321.0)	SI9-315.35a
+326.0	This study	oriented core	-38	126.5	-62.3	1	1	100	Extrusive:Igneous	Lava Flow	48.7638	Basalt	272.3824	FS-FD:SO-CMD-NORTH:SO-POM	SI9-315.40	SI9(312.1 to 321.0)	SI9-315.40a
+7.0	This study	oriented core	-32	122.2	-60.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7638	Basalt	272.3824	FS-FD:SO-CMD-NORTH:SO-POM	SI9-316.40	SI9(312.1 to 321.0)	SI9-316.40a
+44.0	This study	oriented core	-41	111.9	-65.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7638	Basalt	272.3824	FS-FD:SO-CMD-NORTH:SO-POM	SI9-316.80	SI9(312.1 to 321.0)	SI9-316.80a
+12.0	This study	oriented core	-26	121.6	-63.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7638	Basalt	272.3824	FS-FD:SO-CMD-NORTH:SO-POM	SI9-317.10	SI9(312.1 to 321.0)	SI9-317.10a
+161.0	This study	oriented core	-59	115.5	-58.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7638	Basalt	272.3824	FS-FD:SO-CMD-NORTH:SO-POM	SI9-317.60	SI9(312.1 to 321.0)	SI9-317.60a
+121.0	This study	oriented core	-53	121.8	-59.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7638	Basalt	272.3824	FS-FD:SO-CMD-NORTH:SO-POM	SI9-317.70	SI9(312.1 to 321.0)	SI9-317.70a
+158.0	This study	oriented core	-17	117.3	-54.2	1	1	100	Extrusive:Igneous	Lava Flow	48.7631	Basalt	272.3849	FS-FD:SO-CMD-NORTH:SO-POM	SI9-337.4	SI9(336.4 to 353.8)	SI9-337.4a
+127.0	This study	oriented core	-89	130.8	-57.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7631	Basalt	272.3849	FS-FD:SO-CMD-NORTH:SO-POM	SI9-337.7	SI9(336.4 to 353.8)	SI9-337.7a
+118.0	This study	oriented core	-75	116.7	-59	1	1	100	Extrusive:Igneous	Lava Flow	48.7631	Basalt	272.3849	FS-FD:SO-CMD-NORTH:SO-POM	SI9-337.8	SI9(336.4 to 353.8)	SI9-337.8a
+132.0	This study	oriented core	-76	102.5	-55.4	1	1	100	Extrusive:Igneous	Lava Flow	48.7631	Basalt	272.3849	FS-FD:SO-CMD-NORTH:SO-POM	SI9-337.9	SI9(336.4 to 353.8)	SI9-337.9a
+158.0	This study	oriented core	-28	123.9	-59.5	1	1	100	Extrusive:Igneous	Lava Flow	48.7631	Basalt	272.3849	FS-FD:SO-CMD-NORTH:SO-POM	SI9-338.3	SI9(336.4 to 353.8)	SI9-338.3a
+129.0	This study	oriented core	-37	107.7	-51.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7631	Basalt	272.3849	FS-FD:SO-CMD-NORTH:SO-POM	SI9-338.5	SI9(336.4 to 353.8)	SI9-338.5a
+196.0	This study	oriented core	-30	109.3	-55.5	1	1	100	Extrusive:Igneous	Lava Flow	48.7631	Basalt	272.3849	FS-FD:SO-CMD-NORTH:SO-POM	SI9-340.2	SI9(336.4 to 353.8)	SI9-340.2a
+244.0	This study	oriented core	-21	116.0	-55.6	1	1	100	Extrusive:Igneous	Lava Flow	48.7631	Basalt	272.3849	FS-FD:SO-CMD-NORTH:SO-POM	SI9-340.3	SI9(336.4 to 353.8)	SI9-340.3a
+127.0	This study	oriented core	-78						Extrusive:Igneous	Lava Flow	48.7623	Basalt	272.3858	FS-FD:SO-CMD-NORTH:SO-POM	SI9-376.9	SI9(375.9 to 381.0)	
+135.0	This study	oriented core	-80	106.6	-60.4	1	1	100	Extrusive:Igneous	Lava Flow	48.7623	Basalt	272.3858	FS-FD:SO-CMD-NORTH:SO-POM	SI9-377.0	SI9(375.9 to 381.0)	SI9-377.0a
+158.0	This study	oriented core	-83	109.9	-53.2	1	1	100	Extrusive:Igneous	Lava Flow	48.7623	Basalt	272.3858	FS-FD:SO-CMD-NORTH:SO-POM	SI9-377.3	SI9(375.9 to 381.0)	SI9-377.3a
+156.0	This study	oriented core	-79	122.4	-52	1	1	100	Extrusive:Igneous	Lava Flow	48.7623	Basalt	272.3858	FS-FD:SO-CMD-NORTH:SO-POM	SI9-377.4	SI9(375.9 to 381.0)	SI9-377.4a
+54.0	This study	oriented core	-84						Extrusive:Igneous	Lava Flow	48.7623	Basalt	272.3858	FS-FD:SO-CMD-NORTH:SO-POM	SI9-377.5	SI9(375.9 to 381.0)	
+161.0	This study	oriented core	-82	125.8	-54.7	1	1	100	Extrusive:Igneous	Lava Flow	48.7623	Basalt	272.3858	FS-FD:SO-CMD-NORTH:SO-POM	SI9-377.6	SI9(375.9 to 381.0)	SI9-377.6a
+162.0	This study	oriented core	-81						Extrusive:Igneous	Lava Flow	48.7623	Basalt	272.3858	FS-FD:SO-CMD-NORTH:SO-POM	SI9-377.7	SI9(375.9 to 381.0)	
+148.0	This study	oriented core	-91						Extrusive:Igneous	Lava Flow	48.7623	Basalt	272.3858	FS-FD:SO-CMD-NORTH:SO-POM	SI9-377.8	SI9(375.9 to 381.0)	
+252.0	This study	oriented core	-93	101.4	-66.1	1	1	100	Extrusive:Igneous	Lava Flow	48.762	Basalt	272.386	FS-FD:SO-CMD-NORTH:SO-POM	SI9-390.20	SI9(387.6 to 395.3)	SI9-390.20a
+264.0	This study	oriented core	-84	127.5	-62.6	1	1	100	Extrusive:Igneous	Lava Flow	48.762	Basalt	272.386	FS-FD:SO-CMD-NORTH:SO-POM	SI9-390.30	SI9(387.6 to 395.3)	SI9-390.30a
+202.0	This study	oriented core	-66	116.2	-48.3	1	1	100	Extrusive:Igneous	Lava Flow	48.762	Basalt	272.386	FS-FD:SO-CMD-NORTH:SO-POM	SI9-390.90	SI9(387.6 to 395.3)	SI9-390.90a
+116.0	This study	oriented core	-61	161.4	-46.2	1	1	100	Extrusive:Igneous	Lava Flow	48.762	Basalt	272.386	FS-FD:SO-CMD-NORTH:SO-POM	SI9-391.00	SI9(387.6 to 395.3)	SI9-391.00a
+209.0	This study	oriented core	-65	129.2	-52.2	1	1	100	Extrusive:Igneous	Lava Flow	48.762	Basalt	272.386	FS-FD:SO-CMD-NORTH:SO-POM	SI9-391.10	SI9(387.6 to 395.3)	SI9-391.10a
+181.0	This study	oriented core	-35	123.5	-51	1	1	100	Extrusive:Igneous	Lava Flow	48.762	Basalt	272.386	FS-FD:SO-CMD-NORTH:SO-POM	SI9-391.50	SI9(387.6 to 395.3)	SI9-391.50a
+193.0	This study	oriented core	-36	117.0	-61.8	1	1	100	Extrusive:Igneous	Lava Flow	48.762	Basalt	272.386	FS-FD:SO-CMD-NORTH:SO-POM	SI9-391.51	SI9(387.6 to 395.3)	SI9-391.51a
+57.0	This study	oriented core	-20	107.4	-48.8	1	1	100	Extrusive:Igneous	Lava Flow	48.762	Basalt	272.386	FS-FD:SO-CMD-NORTH:SO-POM	SI9-392.30	SI9(387.6 to 395.3)	SI9-392.30a
+355.0	This study	oriented core	-14	107.4	-59.3	1	1	100	Extrusive:Igneous	Lava Flow	48.7617	Basalt	272.3863	FS-FD:SO-CMD-NORTH:SO-POM	SI9-396.10	SI9(395.3 to 399.3)	SI9-396.10a
+351.0	This study	oriented core	-15						Extrusive:Igneous	Lava Flow	48.7617	Basalt	272.3863	FS-FD:SO-CMD-NORTH:SO-POM	SI9-396.11	SI9(395.3 to 399.3)	
+244.0	This study	oriented core	-68	116.4	-57.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7617	Basalt	272.3863	FS-FD:SO-CMD-NORTH:SO-POM	SI9-396.50	SI9(395.3 to 399.3)	SI9-396.50a
+247.0	This study	oriented core	-64	130.9	-65.4	1	1	100	Extrusive:Igneous	Lava Flow	48.7617	Basalt	272.3863	FS-FD:SO-CMD-NORTH:SO-POM	SI9-396.51	SI9(395.3 to 399.3)	SI9-396.51a
+157.0	This study	oriented core	-63	113.9	-65.5	1	1	0	Extrusive:Igneous	Lava Flow	48.7617	Basalt	272.3863	FS-FD:SO-CMD-NORTH:SO-POM	SI9-396.60	SI9(395.3 to 399.3)	SI9-396.60a
+224.0	This study	oriented core	-42	121.9	-62.3	1	1	100	Extrusive:Igneous	Lava Flow	48.7617	Basalt	272.3863	FS-FD:SO-CMD-NORTH:SO-POM	SI9-396.80	SI9(395.3 to 399.3)	SI9-396.80a
+217.0	This study	oriented core	-32	122.0	-70	1	1	100	Extrusive:Igneous	Lava Flow	48.7617	Basalt	272.3863	FS-FD:SO-CMD-NORTH:SO-POM	SI9-396.85	SI9(395.3 to 399.3)	SI9-396.85a
+219.0	This study	oriented core	-24	119.1	-65.5	1	1	100	Extrusive:Igneous	Lava Flow	48.7617	Basalt	272.3863	FS-FD:SO-CMD-NORTH:SO-POM	SI9-396.90	SI9(395.3 to 399.3)	SI9-396.90a
+158.0	This study	oriented core	-42	49.3	-63.5	1	1	100	Extrusive:Igneous	Lava Flow	48.7721	Basalt	272.3778	FS-FD:SO-CMD-NORTH:SO-POM	SI9-4.00	SI9(0.0 to 9.2)	SI9-4.00a
+301.0	This study	oriented core	-48	53.4	-70.3	1	1	100	Extrusive:Igneous	Lava Flow	48.7721	Basalt	272.3778	FS-FD:SO-CMD-NORTH:SO-POM	SI9-4.80	SI9(0.0 to 9.2)	SI9-4.80a
+339.0	This study	oriented core	-43	55.6	-68.3	1	1	100	Extrusive:Igneous	Lava Flow	48.7721	Basalt	272.3778	FS-FD:SO-CMD-NORTH:SO-POM	SI9-4.81	SI9(0.0 to 9.2)	SI9-4.81a
+301.0	This study	oriented core	-48						Extrusive:Igneous	Lava Flow	48.7721	Basalt	272.3778	FS-FD:SO-CMD-NORTH:SO-POM	SI9-4.88	SI9(0.0 to 9.2)	
+205.0	This study	oriented core	-82	56.4	-62.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7721	Basalt	272.3778	FS-FD:SO-CMD-NORTH:SO-POM	SI9-6.50	SI9(0.0 to 9.2)	SI9-6.50a
+327.0	This study	oriented core	-59	47.9	-72.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7721	Basalt	272.3778	FS-FD:SO-CMD-NORTH:SO-POM	SI9-6.68	SI9(0.0 to 9.2)	SI9-6.68a
+276.0	This study	oriented core	-17	63.3	-70.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7721	Basalt	272.3778	FS-FD:SO-CMD-NORTH:SO-POM	SI9-6.70	SI9(0.0 to 9.2)	SI9-6.70a
+267.0	This study	oriented core	-34						Extrusive:Igneous	Lava Flow	48.77	Basalt	272.3797	FS-FD:SO-CMD-NORTH:SO-POM	SI9-79.40	SI9(66.9 to 84.0)	
+247.0	This study	oriented core	-24	72.2	-61.1	1	1	100	Extrusive:Igneous	Lava Flow	48.77	Basalt	272.3797	FS-FD:SO-CMD-NORTH:SO-POM	SI9-80.60	SI9(66.9 to 84.0)	SI9-80.60a
+329.0	This study	oriented core	-41	75.0	-69.8	1	1	100	Extrusive:Igneous	Lava Flow	48.77	Basalt	272.3797	FS-FD:SO-CMD-NORTH:SO-POM	SI9-80.70	SI9(66.9 to 84.0)	SI9-80.70a
+279.0	This study	oriented core	-27	68.6	-62.8	1	1	100	Extrusive:Igneous	Lava Flow	48.77	Basalt	272.3797	FS-FD:SO-CMD-NORTH:SO-POM	SI9-81.20	SI9(66.9 to 84.0)	SI9-81.20a
+6.0	This study	oriented core	-21	56.4	-71.3	1	1	100	Extrusive:Igneous	Lava Flow	48.77	Basalt	272.3797	FS-FD:SO-CMD-NORTH:SO-POM	SI9-81.30	SI9(66.9 to 84.0)	SI9-81.30a
+217.0	This study	oriented core	-21	65.5	-71.5	1	1	100	Extrusive:Igneous	Lava Flow	48.77	Basalt	272.3797	FS-FD:SO-CMD-NORTH:SO-POM	SI9-81.40	SI9(66.9 to 84.0)	SI9-81.40a
+197.0	This study	oriented core	-29	69.0	-69.2	1	1	100	Extrusive:Igneous	Lava Flow	48.77	Basalt	272.3797	FS-FD:SO-CMD-NORTH:SO-POM	SI9-81.85	SI9(66.9 to 84.0)	SI9-81.85a
+202.0	This study	oriented core	-24	61.3	-70.6	1	1	100	Extrusive:Igneous	Lava Flow	48.77	Basalt	272.3797	FS-FD:SO-CMD-NORTH:SO-POM	SI9-81.90	SI9(66.9 to 84.0)	SI9-81.90a
+217.0	This study	oriented core	-32	60.8	-72.3	1	1	100	Extrusive:Igneous	Lava Flow	48.7696	Basalt	272.3796	FS-FD:SO-CMD-NORTH:SO-POM	SI9-84.60	SI9(84.0 to 88.9)	SI9-84.60a
+216.0	This study	oriented core	-44	56.2	-75.9	1	1	100	Extrusive:Igneous	Lava Flow	48.7696	Basalt	272.3796	FS-FD:SO-CMD-NORTH:SO-POM	SI9-84.70	SI9(84.0 to 88.9)	SI9-84.70a
+168.0	This study	oriented core	-70	48.6	-65.2	1	1	100	Extrusive:Igneous	Lava Flow	48.7696	Basalt	272.3796	FS-FD:SO-CMD-NORTH:SO-POM	SI9-85.10	SI9(84.0 to 88.9)	SI9-85.10a
+171.0	This study	oriented core	-73	49.8	-63.8	1	1	100	Extrusive:Igneous	Lava Flow	48.7696	Basalt	272.3796	FS-FD:SO-CMD-NORTH:SO-POM	SI9-85.15	SI9(84.0 to 88.9)	SI9-85.15a
+197.0	This study	oriented core	-22	48.9	-66.2	1	1	100	Extrusive:Igneous	Lava Flow	48.7696	Basalt	272.3796	FS-FD:SO-CMD-NORTH:SO-POM	SI9-85.20	SI9(84.0 to 88.9)	SI9-85.20a
+167.0	This study	oriented core	-52	52.7	-64.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7696	Basalt	272.3796	FS-FD:SO-CMD-NORTH:SO-POM	SI9-85.40	SI9(84.0 to 88.9)	SI9-85.40a
+192.0	This study	oriented core	-36	33.2	-72.5	1	1	100	Extrusive:Igneous	Lava Flow	48.7696	Basalt	272.3796	FS-FD:SO-CMD-NORTH:SO-POM	SI9-85.60	SI9(84.0 to 88.9)	SI9-85.60a
+193.0	This study	oriented core	-30	24.3	-71.1	1	1	100	Extrusive:Igneous	Lava Flow	48.7696	Basalt	272.3796	FS-FD:SO-CMD-NORTH:SO-POM	SI9-85.64	SI9(84.0 to 88.9)	SI9-85.64a
+286.0	This study	oriented core	-45						Igneous:Intrusive	Dike	48.7718	Diabase	272.3779	FS-FD:SO-CMD-NORTH:SO-POM	SI9-D1	SI9(D1-D9)	
+202.0	This study	oriented core	-46	274.2	47.6	1	1	100	Igneous:Intrusive	Dike	48.7657	Diabase	272.382	FS-FD:SO-CMD-NORTH:SO-POM	SI9-D10	SI9(D10 to D18)	SI9-D10a
+153.0	This study	oriented core	-35	270.5	33.9	1	1	100	Igneous:Intrusive	Dike	48.7657	Diabase	272.382	FS-FD:SO-CMD-NORTH:SO-POM	SI9-D11	SI9(D10 to D18)	SI9-D11a
+38.0	This study	oriented core	-28	194.4	27.2	1	1	100	Igneous:Intrusive	Dike	48.7657	Diabase	272.382	FS-FD:SO-CMD-NORTH:SO-POM	SI9-D12	SI9(D10 to D18)	SI9-D12a
+52.0	This study	oriented core	-19	274.7	50.1	1	1	100	Igneous:Intrusive	Dike	48.7657	Diabase	272.382	FS-FD:SO-CMD-NORTH:SO-POM	SI9-D13	SI9(D10 to D18)	SI9-D13a
+72.0	This study	oriented core	-46	342.6	70.6	1	1	100	Igneous:Intrusive	Dike	48.7657	Diabase	272.382	FS-FD:SO-CMD-NORTH:SO-POM	SI9-D14	SI9(D10 to D18)	SI9-D14a
+69.0	This study	oriented core	-47						Igneous:Intrusive	Dike	48.7657	Diabase	272.382	FS-FD:SO-CMD-NORTH:SO-POM	SI9-D15	SI9(D10 to D18)	
+68.0	This study	oriented core	-53	268.8	57.2	1	1	100	Igneous:Intrusive	Dike	48.7657	Diabase	272.382	FS-FD:SO-CMD-NORTH:SO-POM	SI9-D16	SI9(D10 to D18)	SI9-D16a
+153.0	This study	oriented core	-65	64.7	68.6	1	1	100	Igneous:Intrusive	Dike	48.7657	Diabase	272.382	FS-FD:SO-CMD-NORTH:SO-POM	SI9-D17	SI9(D10 to D18)	SI9-D17a
+179.0	This study	oriented core	-80	276.4	53.7	1	1	100	Igneous:Intrusive	Dike	48.7657	Diabase	272.382	FS-FD:SO-CMD-NORTH:SO-POM	SI9-D18	SI9(D10 to D18)	SI9-D18a
+349.0	This study	oriented core	-35	93.9	-51.5	1	1	100	Igneous:Intrusive	Dike	48.7718	Diabase	272.3779	FS-FD:SO-CMD-NORTH:SO-POM	SI9-D2	SI9(D1-D9)	SI9-D2a
+349.0	This study	oriented core	-37	95.8	-48.9	1	1	100	Igneous:Intrusive	Dike	48.7718	Diabase	272.3779	FS-FD:SO-CMD-NORTH:SO-POM	SI9-D3	SI9(D1-D9)	SI9-D3a
+273.0	This study	oriented core	-93	88.9	-61.3	1	1	100	Igneous:Intrusive	Dike	48.7718	Diabase	272.3779	FS-FD:SO-CMD-NORTH:SO-POM	SI9-D4	SI9(D1-D9)	SI9-D4a
+335.0	This study	oriented core	-41						Igneous:Intrusive	Dike	48.7718	Diabase	272.3779	FS-FD:SO-CMD-NORTH:SO-POM	SI9-D5	SI9(D1-D9)	
+12.0	This study	oriented core	-47	88.0	-64.3	1	1	100	Igneous:Intrusive	Dike	48.7718	Diabase	272.3779	FS-FD:SO-CMD-NORTH:SO-POM	SI9-D6	SI9(D1-D9)	SI9-D6a
+38.0	This study	oriented core	-77	87.2	-49.4	1	1	100	Igneous:Intrusive	Dike	48.7718	Diabase	272.3779	FS-FD:SO-CMD-NORTH:SO-POM	SI9-D7	SI9(D1-D9)	SI9-D7a
+251.0	This study	oriented core	-34	110.8	-46.3	1	1	100	Igneous:Intrusive	Dike	48.7718	Diabase	272.3779	FS-FD:SO-CMD-NORTH:SO-POM	SI9-D8	SI9(D1-D9)	SI9-D8a
+11.0	This study	oriented core	-36	88.5	-32.5	1	1	100	Igneous:Intrusive	Dike	48.7718	Diabase	272.3779	FS-FD:SO-CMD-NORTH:SO-POM	SI9-D9	SI9(D1-D9)	SI9-D9a

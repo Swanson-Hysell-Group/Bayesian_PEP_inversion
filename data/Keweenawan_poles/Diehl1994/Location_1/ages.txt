@@ -1,0 +1,4 @@
+tab 	ages
+age_high	age_low	age_unit	citations	description	location	method_codes	timescale_citations	timescale_eon	timescale_era	timescale_period
+1089	1085	Ma	This study	U-Pb age 1087. 2+/-1. 6 Ma.	Lake Shore Traps	GM-UPB	Gradstein et al. 2004	Proterozoic	Mesoproterozoic	Stenian
+1089	1085	Ma	This study	U-Pb age 1087. 2+/-1. 6 Ma.	Lake Shore Traps	GM-UPB	Gradstein et al. 2004	Proterozoic	Mesoproterozoic	Stenian

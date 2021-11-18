@@ -1,0 +1,16 @@
+tab	sites
+analysts	citations	location	site	specimens	method_codes	software_packages	criteria	dir_alpha95	dir_comp_name	dir_dec	description	dir_inc	age	age_sigma	age_unit	dir_k	lat	lon	dir_n_samples	dir_n_specimens_lines	dir_n_specimens_planes	dir_polarity	dir_r	dir_tilt_correction
+	This study	Agate Point	AP1														48.6	-88.2						
+	This study	Agate Point	AP1	AP1-1a:AP1-2a:AP1-3a:AP1-4a:AP1-5a:AP1-6a:AP1-7a:AP1-8a	LP-DIR-T:DE-BFL:DA-DIR-TILT:LP-DC4:DE-FM:DA-DIR-GEO	pmagpy-3.4.0	ACCEPT	2.4	mag	103.2	Site direction included in results table	-73.2	1.11E+03	1.00E+00	Ma	521			8	8	0		7.9866	100
+	This study	Agate Point	AP2														48.6	-88.2						
+	This study	Agate Point	AP2	AP2-1a:AP2-2a:AP2-3a:AP2-4a:AP2-5a:AP2-6a:AP2-7a:AP2-8a	LP-DIR-T:DE-BFL:DA-DIR-TILT:LP-DC4:DE-FM:DA-DIR-GEO	pmagpy-3.4.0	ACCEPT	2.3	mag	94.6	Site direction included in results table	-64.4	1.11E+03	1.00E+00	Ma	584			8	8	0		7.988	100
+	This study	Agate Point	AP3														48.6	-88.2						
+	This study	Agate Point	AP3	AP3-1a:AP3-2a:AP3-3a:AP3-4a:AP3-5a:AP3-6a:AP3-7a:AP3-8a	LP-DIR-T:DE-BFL:DA-DIR-TILT:LP-DC4:DE-FM:DA-DIR-GEO	pmagpy-3.4.0	ACCEPT	2.8	mag	105.6	Site direction included in results table	-58.6	1.11E+03	1.00E+00	Ma	379			8	8	0		7.9815	100
+	This study	Agate Point	AP4														48.6	-88.2						
+	This study	Agate Point	AP4	AP4-1a:AP4-2a:AP4-3a:AP4-4a:AP4-5a:AP4-6a:AP4-7a:AP4-8a	LP-DIR-T:DE-BFL:DA-DIR-TILT:LP-DC4:DE-FM:DA-DIR-GEO	pmagpy-3.4.0	ACCEPT	4.2	mag	89.1	Site direction included in results table	-69	1.11E+03	1.00E+00	Ma	175			8	8	0		7.9601	100
+	This study	Agate Point	AP5														48.6	-88.2						
+	This study	Agate Point	AP5	AP5-1a:AP5-2a:AP5-3a:AP5-4a:AP5-5a:AP5-6a:AP5-7a:AP5-8a	LP-DIR-T:DE-BFL:DA-DIR-TILT:LP-DC4:DE-FM:DA-DIR-GEO	pmagpy-3.4.0	ACCEPT	4.5	mag	57.2	Site direction included in results table	-74.8	1.11E+03	1.00E+00	Ma	152			8	8	0		7.9539	100
+	This study	Puff Island	Puf1														48.7	-88						
+	This study	Puff Island	Puf1	Puf1-1a:Puf1-2a:Puf1-3a:Puf1-4a:Puf1-5a:Puf1-6a:Puf1-7a:Puf1-8a	LP-DIR-T:DE-BFL:DA-DIR-TILT:LP-DC4:DE-FM:DA-DIR-GEO	pmagpy-3.4.0	ACCEPT	3.2	mag	301.8	Site direction included in results table	25.5	1.11E+03	1.00E+00	Ma	298			8	8	0		7.9765	100
+	This study	Puff Island	Puf2-														48.7	-88						
+	This study	Puff Island	Puf2-	Puf2-1a:Puf2-2a:Puf2-3a:Puf2-4a:Puf2-5a:Puf2-6a:Puf2-7a	LP-DIR-T:DE-BFL:DA-DIR-TILT:LP-DC4:DE-FM:DA-DIR-GEO	pmagpy-3.4.0	ACCEPT	3.7	mag	296.9	Site direction included in results table	25.1	1.11E+03	1.00E+00	Ma	273			7	7	0		6.9781	100

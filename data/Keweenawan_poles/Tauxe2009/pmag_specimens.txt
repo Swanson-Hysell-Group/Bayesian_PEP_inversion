@@ -1,0 +1,1029 @@
+tab 	pmag_specimens
+er_citation_names	er_location_name	er_sample_name	er_site_name	er_specimen_name	magic_experiment_names	magic_method_codes	magic_software_packages	measurement_step_max	measurement_step_min	measurement_step_unit	specimen_alpha95	specimen_comp_name	specimen_correction	specimen_dec	specimen_description	specimen_direction_type	specimen_inc	specimen_mad	specimen_n	specimen_tilt_correction
+This study	North Shore Volcanics	ns061a	ns061	ns061a1	ns061a1 : LT-NO	LP-DIR-AF : DE-BFP	pmagpy-2.03	0.06	0	T		MAG	u	290.5	Magnetite remanence.	p	-5.6	9.3	10	-1
+This study	North Shore Volcanics	ns061b	ns061	ns061b1	ns061b1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	898	723	K		MAG	u	251.3	Magnetite remanence.	l	30.2	2.9	6	-1
+This study	North Shore Volcanics	ns061c	ns061	ns061c2	ns061c2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	773	K		MAG	u	276.9	Magnetite remanence.	l	39.3	1.8	3	-1
+This study	North Shore Volcanics	ns061d	ns061	ns061d1	ns061d1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	773	K		MAG	u	235.7	Magnetite remanence.	l	6.5	0.8	3	-1
+This study	North Shore Volcanics	ns061e	ns061	ns061e2	ns061e2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	673	K		MAG	u	156.8	Magnetite remanence.	l	-49.4	0.6	5	-1
+This study	North Shore Volcanics	ns061f	ns061	ns061f2	ns061f2 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.08	0	T		MAG	u	163.8	Magnetite remanence.	l	-55	0.5	8	-1
+This study	North Shore Volcanics	ns061g	ns061	ns061g3	ns061g3 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.1	0.01	T		MAG	u	179	Magnetite remanence.	l	-41.4	0.8	8	-1
+This study	North Shore Volcanics	ns062b	ns062	ns062b1	ns062b1 : LP-DIR-T	LP-DIR-T : DE-BFL	pmagpy-2.03	898	673	K		MAG	u	344.8	Magnetite remanence.	l	65.3	1.4	7	-1
+This study	North Shore Volcanics	ns062c	ns062	ns062c1	ns062c1 : LP-DIR-T	LP-DIR-T : DE-BFL	pmagpy-2.03	923	673	K		MAG	u	56.7	Magnetite remanence.	l	53.2	0.2	5	-1
+This study	North Shore Volcanics	ns062e	ns062	ns062e2	ns062e2 : LP-DIR-T	LP-DIR-T : DE-BFL	pmagpy-2.03	923	673	K		MAG	u	358.9	Magnetite remanence.	l	53.3	0.7	6	-1
+This study	North Shore Volcanics	ns062f	ns062	ns062f1	ns062f1 : LP-DIR-T	LP-DIR-T : DE-BFL	pmagpy-2.03	873	573	K		MAG	u	309.7	Magnetite remanence.	l	61.6	0.8	6	-1
+This study	North Shore Volcanics	ns064b	ns064	ns064b1	ns064b1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	898	673	K		MAG	u	28.4	Magnetite remanence.	l	40.6	0.4	7	-1
+This study	North Shore Volcanics	ns064c	ns064	ns064c2	ns064c2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	573	K		MAG	u	37.9	Magnetite remanence.	l	60.2	0.4	5	-1
+This study	North Shore Volcanics	ns064e	ns064	ns064e1	ns064e1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	923	673	K		MAG	u	69.4	Magnetite remanence.	l	42.8	1.3	6	-1
+This study	North Shore Volcanics	ns064f	ns064	ns064f2	ns064f2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	923	573	K		MAG	u	274.3	Magnetite remanence.	l	76.6	0.7	7	-1
+This study	North Shore Volcanics	ns065a	ns065	ns065a1	ns065a1 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.1	0.03	T		MAG	u	240.2	Magnetite remanence.	l	-23.9	5.9	6	-1
+This study	North Shore Volcanics	ns065b	ns065	ns065b1	ns065b1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	723	K		MAG	u	225.1	Magnetite remanence.	l	-6	2.1	5	-1
+This study	North Shore Volcanics	ns065d	ns065	ns065d1	ns065d1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	673	K		MAG	u	172.5	Magnetite remanence.	l	43.9	0.7	5	-1
+This study	North Shore Volcanics	ns065e	ns065	ns065e1	ns065e1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	673	K		MAG	u	180.8	Magnetite remanence.	l	47.1	0.8	5	-1
+This study	North Shore Volcanics	ns065f	ns065	ns065f2	ns065f2 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.15	0.02	T		MAG	u	318.6	Magnetite remanence.	l	40.8	1	9	-1
+This study	North Shore Volcanics	ns066b	ns066	ns066b1	ns066b1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	623	K		MAG	u	226.9	Magnetite remanence.	l	30.3	2.9	7	-1
+This study	North Shore Volcanics	ns067f	ns067	ns067f2	ns067f2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	923	673	K		MAG	u	190.3	Magnetite remanence.	l	-47.1	0.5	6	-1
+This study	North Shore Volcanics	ns068a	ns068	ns068a1	ns068a1 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.18	0.015	T		MAG	u	59	Magnetite remanence.	l	34	1	8	-1
+This study	North Shore Volcanics	ns068b	ns068	ns068b1	ns068b1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	773	K		MAG	u	73.2	Magnetite remanence.	l	19.5	1.7	4	-1
+This study	North Shore Volcanics	ns068d	ns068	ns068d1	ns068d1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	923	673	K		MAG	u	138.4	Magnetite remanence.	l	-8.8	1.6	6	-1
+This study	North Shore Volcanics	ns068f	ns068	ns068f1	ns068f1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	673	K		MAG	u	228.5	Magnetite remanence.	l	15.5	1.1	5	-1
+This study	North Shore Volcanics	ns069a	ns069	ns069a1	ns069a1 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.18	0.02	T		MAG	u	187.3	Magnetite remanence.	l	2.3	1.3	10	-1
+This study	North Shore Volcanics	ns069b	ns069	ns069b1	ns069b1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	723	K		MAG	u	207.4	Magnetite remanence.	l	0.4	1.8	5	-1
+This study	North Shore Volcanics	ns069c	ns069	ns069c2	ns069c2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	773	K		MAG	u	59.1	Magnetite remanence.	l	75.6	0.7	3	-1
+This study	North Shore Volcanics	ns069e	ns069	ns069e2	ns069e2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	773	K		MAG	u	122.4	Magnetite remanence.	l	-4.5	0.6	3	-1
+This study	North Shore Volcanics	ns069f	ns069	ns069f2	ns069f2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	823	673	K		MAG	u	297.9	Magnetite remanence.	l	79.3	1.3	4	-1
+This study	North Shore Volcanics	ns070b	ns070	ns070b1	ns070b1 : LT-NO	LP-DIR-T : DE-BFP	pmagpy-2.03	848	273	K		MAG	u	13.6	Magnetite remanence.	p	51	3.6	10	-1
+This study	North Shore Volcanics	ns070e	ns070	ns070e1	ns070e1 : LT-NO	LP-DIR-T : DE-BFP	pmagpy-2.03	923	273	K		MAG	u	4.3	Magnetite remanence.	p	15.3	3.3	10	-1
+This study	North Shore Volcanics	ns071b	ns071	ns071b1	ns071b1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	723	K		MAG	u	148	Magnetite remanence.	l	3.8	0.5	5	-1
+This study	North Shore Volcanics	ns071c	ns071	ns071c1	ns071c1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	673	K		MAG	u	146.6	Magnetite remanence.	l	53.5	2.7	4	-1
+This study	North Shore Volcanics	ns071d	ns071	ns071d2	ns071d2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	723	K		MAG	u	55.5	Magnetite remanence.	l	66.4	0.9	4	-1
+This study	North Shore Volcanics	ns071e	ns071	ns071e1	ns071e1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	723	K		MAG	u	126.3	Magnetite remanence.	l	12.3	1	4	-1
+This study	North Shore Volcanics	ns071f	ns071	ns071f2	ns071f2 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.12	0.01	T		MAG	u	204.8	Magnetite remanence.	l	-32.3	1.7	10	-1
+This study	North Shore Volcanics	ns075a	ns075	ns075a1	ns075a1 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.08	0.02	T		MAG	u	237.5	Magnetite remanence.	l	27.2	1.4	6	-1
+This study	North Shore Volcanics	ns075b	ns075	ns075b1	ns075b1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	723	K		MAG	u	213	Magnetite remanence.	l	-26.9	2.3	5	-1
+This study	North Shore Volcanics	ns075c	ns075	ns075c2	ns075c2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	673	K		MAG	u	351.6	Magnetite remanence.	l	61.6	4.4	4	-1
+This study	North Shore Volcanics	ns075d	ns075	ns075d2	ns075d2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	673	K		MAG	u	25.4	Magnetite remanence.	l	57.6	4.1	5	-1
+This study	North Shore Volcanics	ns075f	ns075	ns075f1	ns075f1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	673	K		MAG	u	87	Magnetite remanence.	l	58.5	3.1	5	-1
+This study	North Shore Volcanics	ns076a	ns076	ns076a1	ns076a1 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.12	0.02	T		MAG	u	158.3	Magnetite remanence.	l	61.6	2	8	-1
+This study	North Shore Volcanics	ns076b	ns076	ns076b1	ns076b1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	723	K		MAG	u	31.6	Magnetite remanence.	l	60.6	2.3	5	-1
+This study	North Shore Volcanics	ns076d	ns076	ns076d1	ns076d1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	923	773	K		MAG	u	5.1	Magnetite remanence.	l	72.7	2.2	4	-1
+This study	North Shore Volcanics	ns076e	ns076	ns076e1	ns076e1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	723	K		MAG	u	325.2	Magnetite remanence.	l	74.4	1.9	4	-1
+This study	North Shore Volcanics	ns076f	ns076	ns076f1	ns076f1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	948	773	K		MAG	u	344.4	Magnetite remanence.	l	55.8	3.7	5	-1
+This study	North Shore Volcanics	ns077b	ns077	ns077b1	ns077b1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	723	K		MAG	u	105.3	Magnetite remanence.	l	15.7	2	5	-1
+This study	North Shore Volcanics	ns077c	ns077	ns077c1	ns077c1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	673	K		MAG	u	105.3	Magnetite remanence.	l	-6.7	1.3	4	-1
+This study	North Shore Volcanics	ns077f	ns077	ns077f1	ns077f1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	673	K		MAG	u	119.1	Magnetite remanence.	l	7.6	3.7	5	-1
+This study	North Shore Volcanics	ns077g	ns077	ns077g1	ns077g1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	573	K		MAG	u	134.3	Magnetite remanence.	l	61.6	3	6	-1
+This study	North Shore Volcanics	ns079c	ns079	ns079c1	ns079c1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	673	K		MAG	u	330.8	Magnetite remanence.	l	56.6	3.7	4	-1
+This study	North Shore Volcanics	ns079e	ns079	ns079e2	ns079e2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	673	K		MAG	u	351.2	Magnetite remanence.	l	51.7	2.6	5	-1
+This study	North Shore Volcanics	ns083e	ns083	ns083e1	ns083e1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	923	723	K		MAG	u	233.3	Magnetite remanence.	l	-29	1.1	5	-1
+This study	North Shore Volcanics	ns002a	ns002	ns002a1	ns002a1 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.18	0.03	T		MAG	u	241.6	Magnetite remanence.	l	30.5	1.5	9	-1
+This study	North Shore Volcanics	ns004a	ns004	ns004a1	ns004a1 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.06	0.015	T		MAG	u	253.5	Magnetite remanence.	l	39.7	1.6	6	-1
+This study	North Shore Volcanics	ns004c	ns004	ns004c1	ns004c1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	573	K		MAG	u	256.3	Magnetite remanence.	l	45.8	4.9	4	-1
+This study	North Shore Volcanics	ns004e	ns004	ns004e1	ns004e1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	673	K		MAG	u	243.7	Magnetite remanence.	l	74.1	1.1	5	-1
+This study	North Shore Volcanics	ns004f	ns004	ns004f1	ns004f1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	673	K		MAG	u	233.7	Magnetite remanence.	l	3.5	3	5	-1
+This study	North Shore Volcanics	ns004g	ns004	ns004g1	ns004g1 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.06	0.015	T		MAG	u	247.3	Magnetite remanence.	l	34	1.5	6	-1
+This study	North Shore Volcanics	ns005b	ns005	ns005b1	ns005b1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	273	K		MAG	u	198.2	Magnetite remanence.	l	-52.4	1.9	11	-1
+This study	North Shore Volcanics	ns005c	ns005	ns005c1	ns005c1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	923	273	K		MAG	u	204.9	Magnetite remanence.	l	-50.2	1.8	8	-1
+This study	North Shore Volcanics	ns005e	ns005	ns005e1	ns005e1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	923	273	K		MAG	u	181.2	Magnetite remanence.	l	-19	2.1	10	-1
+This study	North Shore Volcanics	ns005g	ns005	ns005g1	ns005g1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	923	273	K		MAG	u	195.3	Magnetite remanence.	l	-16.1	2.1	10	-1
+This study	North Shore Volcanics	ns009b	ns009	ns009b1	ns009b1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	473	K		MAG	u	154.4	Magnetite remanence.	l	46.3	2	9	-1
+This study	North Shore Volcanics	ns012a	ns012	ns012a1	ns012a1 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.18	0.05	T		MAG	u	125.1	Magnetite remanence.	l	23.7	1	7	-1
+This study	North Shore Volcanics	ns015d	ns015	ns015d1	ns015d1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	923	673	K		MAG	u	349.3	Magnetite remanence.	l	53.9	0.7	4	-1
+This study	North Shore Volcanics	ns016a	ns016	ns016a1	ns016a1 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.04	0.01	T		MAG	u	198	Magnetite remanence.	l	37.9	0.9	5	-1
+This study	North Shore Volcanics	ns016b	ns016	ns016b1	ns016b1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	723	K		MAG	u	203.9	Magnetite remanence.	l	37	1.1	5	-1
+This study	North Shore Volcanics	ns016c	ns016	ns016c1	ns016c1 : LT-NO	LP-DIR-T : DE-BFP	pmagpy-2.03	773	373	K		MAG	u	28.9	Magnetite remanence.	p	60.2	5	5	-1
+This study	North Shore Volcanics	ns016e	ns016	ns016e2	ns016e2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	823	673	K		MAG	u	210.9	Magnetite remanence.	l	36.7	2.8	4	-1
+This study	North Shore Volcanics	ns016f	ns016	ns016f1	ns016f1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	673	K		MAG	u	175.1	Magnetite remanence.	l	45.7	1.4	5	-1
+This study	North Shore Volcanics	ns019a	ns019	ns019a1	ns019a1 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.18	0	T		MAG	u	219.2	Magnetite remanence.	l	14.8	0.9	14	-1
+This study	North Shore Volcanics	ns019b	ns019	ns019b1	ns019b1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	773	K		MAG	u	228.1	Magnetite remanence.	l	18.5	0.4	4	-1
+This study	North Shore Volcanics	ns019c	ns019	ns019c1	ns019c1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	373	K		MAG	u	218.3	Magnetite remanence.	l	15.6	1.5	6	-1
+This study	North Shore Volcanics	ns019d	ns019	ns019d2	ns019d2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	723	K		MAG	u	214.8	Magnetite remanence.	l	10.9	0.6	4	-1
+This study	North Shore Volcanics	ns019e	ns019	ns019e1	ns019e1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	673	K		MAG	u	212.6	Magnetite remanence.	l	-23.4	0.6	5	-1
+This study	North Shore Volcanics	ns022a	ns022	ns022a1	ns022a1 : LT-NO	LP-DIR-AF : DE-BFP	pmagpy-2.03	0.15	0	T		MAG	u	58.1	Magnetite remanence.	p	32.3	4.2	13	-1
+This study	North Shore Volcanics	ns022b	ns022	ns022b1	ns022b1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	848	623	K		MAG	u	309.9	Magnetite remanence.	l	62.8	3.7	6	-1
+This study	North Shore Volcanics	ns022c	ns022	ns022c1	ns022c1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	923	673	K		MAG	u	212.9	Magnetite remanence.	l	41.2	2.1	4	-1
+This study	North Shore Volcanics	ns022e	ns022	ns022e1	ns022e1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	923	723	K		MAG	u	264.8	Magnetite remanence.	l	56.7	0.4	5	-1
+This study	North Shore Volcanics	ns022f	ns022	ns022f1	ns022f1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	923	773	K		MAG	u	318.5	Magnetite remanence.	l	33	0.8	4	-1
+This study	North Shore Volcanics	ns024a	ns024	ns024a1	ns024a1 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.18	0	T		MAG	u	356.5	Magnetite remanence.	l	-33.3	1	14	-1
+This study	North Shore Volcanics	ns026a	ns026	ns026a1	ns026a1 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.15	0.02	T		MAG	u	232.3	Magnetite remanence.	l	-76.3	0.6	9	-1
+This study	North Shore Volcanics	ns026b	ns026	ns026b2	ns026b2 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.1	0.01	T		MAG	u	269.6	Magnetite remanence.	l	-63.8	1	9	-1
+This study	North Shore Volcanics	ns026c	ns026	ns026c2	ns026c2 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.1	0.01	T		MAG	u	16.8	Magnetite remanence.	l	-26.4	1	9	-1
+This study	North Shore Volcanics	ns026d	ns026	ns026d1	ns026d1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	923	773	K		MAG	u	30.7	Magnetite remanence.	l	-75.7	0.4	4	-1
+This study	North Shore Volcanics	ns026e	ns026	ns026e2	ns026e2 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.15	0.01	T		MAG	u	277.6	Magnetite remanence.	l	-80.7	1.5	11	-1
+This study	North Shore Volcanics	ns027a	ns027	ns027a1	ns027a1 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.18	0.005	T		MAG	u	289.9	Magnetite remanence.	l	68.4	2.6	13	-1
+This study	North Shore Volcanics	ns027b	ns027	ns027b1	ns027b1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	673	K		MAG	u	228.7	Magnetite remanence.	l	40.8	1.2	6	-1
+This study	North Shore Volcanics	ns027c	ns027	ns027c1	ns027c1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	573	K		MAG	u	157.8	Magnetite remanence.	l	51.9	3.4	4	-1
+This study	North Shore Volcanics	ns027d	ns027	ns027d2	ns027d2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	373	K		MAG	u	211.7	Magnetite remanence.	l	45.9	3	7	-1
+This study	North Shore Volcanics	ns027e	ns027	ns027e2	ns027e2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	673	K		MAG	u	185.4	Magnetite remanence.	l	34.9	2.3	5	-1
+This study	North Shore Volcanics	ns028a	ns028	ns028a1	ns028a1 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.18	0.02	T		MAG	u	223	Magnetite remanence.	l	48.4	1	10	-1
+This study	North Shore Volcanics	ns028b	ns028	ns028b1	ns028b1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	623	K		MAG	u	230	Magnetite remanence.	l	49.7	1	7	-1
+This study	North Shore Volcanics	ns028c	ns028	ns028c1	ns028c1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	923	673	K		MAG	u	235.4	Magnetite remanence.	l	45.7	0.4	4	-1
+This study	North Shore Volcanics	ns028e	ns028	ns028e2	ns028e2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	723	K		MAG	u	226.3	Magnetite remanence.	l	47.8	0.7	4	-1
+This study	North Shore Volcanics	ns028f	ns028	ns028f2	ns028f2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	673	K		MAG	u	234.8	Magnetite remanence.	l	44.4	0.6	5	-1
+This study	North Shore Volcanics	ns029a	ns029	ns029a1	ns029a1 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.08	0.01	T		MAG	u	255.9	Magnetite remanence.	l	31.7	1.8	8	-1
+This study	North Shore Volcanics	ns029b	ns029	ns029b1	ns029b1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	773	K		MAG	u	249.8	Magnetite remanence.	l	34.6	0.6	4	-1
+This study	North Shore Volcanics	ns029c	ns029	ns029c1	ns029c1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	673	K		MAG	u	247.3	Magnetite remanence.	l	33.9	0.9	3	-1
+This study	North Shore Volcanics	ns029e	ns029	ns029e1	ns029e1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	823	K		MAG	u	265.4	Magnetite remanence.	l	31.2	180	2	-1
+This study	North Shore Volcanics	ns029f	ns029	ns029f2	ns029f2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	773	K		MAG	u	240.9	Magnetite remanence.	l	49.3	0.6	3	-1
+This study	North Shore Volcanics	ns031a	ns031	ns031a1	ns031a1 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.18	0.02	T		MAG	u	232.2	Magnetite remanence.	l	39.9	1	10	-1
+This study	North Shore Volcanics	ns031b	ns031	ns031b1	ns031b1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	623	K		MAG	u	229.3	Magnetite remanence.	l	46.9	1.5	7	-1
+This study	North Shore Volcanics	ns031c	ns031	ns031c1	ns031c1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	923	673	K		MAG	u	239	Magnetite remanence.	l	26.9	0.2	4	-1
+This study	North Shore Volcanics	ns031d	ns031	ns031d2	ns031d2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	923	673	K		MAG	u	266.7	Magnetite remanence.	l	62.4	0.6	6	-1
+This study	North Shore Volcanics	ns031f	ns031	ns031f1	ns031f1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	923	573	K		MAG	u	244.1	Magnetite remanence.	l	47.4	1	7	-1
+This study	North Shore Volcanics	ns033a	ns033	ns033a1	ns033a1 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.18	0.03	T		MAG	u	155.2	Magnetite remanence.	l	9.2	1	9	-1
+This study	North Shore Volcanics	ns033b	ns033	ns033b1	ns033b1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	898	673	K		MAG	u	198.9	Magnetite remanence.	l	-1.3	2.8	7	-1
+This study	North Shore Volcanics	ns033c	ns033	ns033c1	ns033c1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	673	K		MAG	u	235.2	Magnetite remanence.	l	-46.4	0.3	3	-1
+This study	North Shore Volcanics	ns035a	ns035	ns035a1	ns035a1 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.18	0.03	T		MAG	u	40.6	Magnetite remanence.	l	53	0.7	9	-1
+This study	North Shore Volcanics	ns035b	ns035	ns035b1	ns035b1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	898	823	K		MAG	u	167.9	Magnetite remanence.	l	14.7	0.6	4	-1
+This study	North Shore Volcanics	ns035c	ns035	ns035c2	ns035c2 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.18	0.01	T		MAG	u	154.8	Magnetite remanence.	l	-18.8	1.2	12	-1
+This study	North Shore Volcanics	ns035d	ns035	ns035d2	ns035d2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	923	473	K		MAG	u	354	Magnetite remanence.	l	47.3	1.4	8	-1
+This study	North Shore Volcanics	ns035e	ns035	ns035e2	ns035e2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	923	473	K		MAG	u	354.8	Magnetite remanence.	l	49.5	0.7	8	-1
+This study	North Shore Volcanics	ns036e	ns036	ns036e2	ns036e2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	673	K		MAG	u	207.8	Magnetite remanence.	l	73.5	1.3	5	-1
+This study	North Shore Volcanics	ns037a	ns037	ns037a1	ns037a1 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.18	0.03	T		MAG	u	332.8	Magnetite remanence.	l	68.2	0.7	9	-1
+This study	North Shore Volcanics	ns037b	ns037	ns037b1	ns037b1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	898	773	K		MAG	u	209.1	Magnetite remanence.	l	-22.6	0.5	5	-1
+This study	North Shore Volcanics	ns037c	ns037	ns037c2	ns037c2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	473	K		MAG	u	152.7	Magnetite remanence.	l	-4.5	2	5	-1
+This study	North Shore Volcanics	ns037f	ns037	ns037f2	ns037f2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	473	K		MAG	u	225.5	Magnetite remanence.	l	33.8	2.8	7	-1
+This study	North Shore Volcanics	ns037g	ns037	ns037g1	ns037g1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	923	773	K		MAG	u	224.5	Magnetite remanence.	l	14	0.6	4	-1
+This study	North Shore Volcanics	ns040a	ns040	ns040a1	ns040a1 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.18	0.04	T		MAG	u	126.1	Magnetite remanence.	l	25.7	2.4	8	-1
+This study	North Shore Volcanics	ns040b	ns040	ns040b1	ns040b1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	898	773	K		MAG	u	253.5	Magnetite remanence.	l	40.3	0.6	5	-1
+This study	North Shore Volcanics	ns040c	ns040	ns040c1	ns040c1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	573	K		MAG	u	329.2	Magnetite remanence.	l	46.4	1.4	4	-1
+This study	North Shore Volcanics	ns040e	ns040	ns040e2	ns040e2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	673	K		MAG	u	343.6	Magnetite remanence.	l	60.2	1	5	-1
+This study	North Shore Volcanics	ns040f	ns040	ns040f2	ns040f2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	673	K		MAG	u	272.8	Magnetite remanence.	l	56.4	0.9	5	-1
+This study	North Shore Volcanics	ns041a	ns041	ns041a1	ns041a1 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.1	0.04	T		MAG	u	318	Magnetite remanence.	l	60.2	3.1	5	-1
+This study	North Shore Volcanics	ns041b	ns041	ns041b1	ns041b1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	898	273	K		MAG	u	202.3	Magnetite remanence.	l	-9	8.5	12	-1
+This study	North Shore Volcanics	ns041c	ns041	ns041c1	ns041c1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	473	K		MAG	u	276.6	Magnetite remanence.	l	49.1	1.6	5	-1
+This study	North Shore Volcanics	ns041d	ns041	ns041d1	ns041d1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	723	K		MAG	u	248.1	Magnetite remanence.	l	28	0.6	4	-1
+This study	North Shore Volcanics	ns041e	ns041	ns041e1	ns041e1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	673	K		MAG	u	252.9	Magnetite remanence.	l	39.4	1	5	-1
+This study	North Shore Volcanics	ns041f	ns041	ns041f3	ns041f3 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.12	0.01	T		MAG	u	265	Magnetite remanence.	l	40.3	1.5	10	-1
+This study	North Shore Volcanics	ns043a	ns043	ns043a1	ns043a1 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.18	0.01	T		MAG	u	315	Magnetite remanence.	l	43.6	0.8	12	-1
+This study	North Shore Volcanics	ns043b	ns043	ns043b1	ns043b1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	898	473	K		MAG	u	308.1	Magnetite remanence.	l	41.8	0.8	10	-1
+This study	North Shore Volcanics	ns043c	ns043	ns043c2	ns043c2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	923	573	K		MAG	u	296.6	Magnetite remanence.	l	39.8	1	5	-1
+This study	North Shore Volcanics	ns043e	ns043	ns043e1	ns043e1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	923	673	K		MAG	u	356.1	Magnetite remanence.	l	37.3	1	6	-1
+This study	North Shore Volcanics	ns043f	ns043	ns043f2	ns043f2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	923	673	K		MAG	u	304	Magnetite remanence.	l	40.5	0.7	6	-1
+This study	North Shore Volcanics	ns044e	ns044	ns044e1	ns044e1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	923	673	K		MAG	u	258.5	Magnetite remanence.	l	29.5	0.7	6	-1
+This study	North Shore Volcanics	ns045a	ns045	ns045a1	ns045a1 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.18	0.04	T		MAG	u	244.1	Magnetite remanence.	l	-24.3	1.3	8	-1
+This study	North Shore Volcanics	ns045b	ns045	ns045b1	ns045b1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	898	773	K		MAG	u	135.4	Magnetite remanence.	l	-34.7	0.3	5	-1
+This study	North Shore Volcanics	ns045c	ns045	ns045c1	ns045c1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	673	K		MAG	u	197.1	Magnetite remanence.	l	-70.6	0.3	3	-1
+This study	North Shore Volcanics	ns045e	ns045	ns045e1	ns045e1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	923	673	K		MAG	u	261.2	Magnetite remanence.	l	73.6	0.6	6	-1
+This study	North Shore Volcanics	ns045f	ns045	ns045f1	ns045f1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	923	673	K		MAG	u	270.9	Magnetite remanence.	l	40.5	0.4	6	-1
+This study	North Shore Volcanics	ns046b	ns046	ns046b1	ns046b1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	898	623	K		MAG	u	342.2	Magnetite remanence.	l	50.8	1.1	8	-1
+This study	North Shore Volcanics	ns046c	ns046	ns046c1	ns046c1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	573	K		MAG	u	307.4	Magnetite remanence.	l	61.9	0.6	4	-1
+This study	North Shore Volcanics	ns046d	ns046	ns046d2	ns046d2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	773	K		MAG	u	314.6	Magnetite remanence.	l	57.3	0.5	3	-1
+This study	North Shore Volcanics	ns046f	ns046	ns046f1	ns046f1 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.12	0.01	T		MAG	u	309.5	Magnetite remanence.	l	48.1	1.3	10	-1
+This study	North Shore Volcanics	ns046h	ns046	ns046h2	ns046h2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	923	773	K		MAG	u	343.5	Magnetite remanence.	l	29.6	1.7	4	-1
+This study	North Shore Volcanics	ns048b	ns048	ns048b1	ns048b1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	898	623	K		MAG	u	38.4	Magnetite remanence.	l	59.9	4.5	8	-1
+This study	North Shore Volcanics	ns048c	ns048	ns048c1	ns048c1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	573	K		MAG	u	352.5	Magnetite remanence.	l	49.9	0.3	4	-1
+This study	North Shore Volcanics	ns048d	ns048	ns048d1	ns048d1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	923	673	K		MAG	u	276.8	Magnetite remanence.	l	38.7	1.7	6	-1
+This study	North Shore Volcanics	ns048e	ns048	ns048e2	ns048e2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	923	773	K		MAG	u	208.1	Magnetite remanence.	l	16.1	1.4	4	-1
+This study	North Shore Volcanics	ns049a	ns049	ns049a1	ns049a1 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.18	0.02	T		MAG	u	172.4	Magnetite remanence.	l	-17.1	1.2	10	-1
+This study	North Shore Volcanics	ns049b	ns049	ns049b1	ns049b1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	898	623	K		MAG	u	144.4	Magnetite remanence.	l	-20.8	2.4	8	-1
+This study	North Shore Volcanics	ns049e	ns049	ns049e2	ns049e2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	473	K		MAG	u	196.2	Magnetite remanence.	l	-9.3	1.3	7	-1
+This study	North Shore Volcanics	ns049f	ns049	ns049f2	ns049f2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	473	K		MAG	u	159.3	Magnetite remanence.	l	-26.6	0.8	7	-1
+This study	North Shore Volcanics	ns050a	ns050	ns050a1	ns050a1 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.18	0.01	T		MAG	u	166.3	Magnetite remanence.	l	25.4	0.3	12	-1
+This study	North Shore Volcanics	ns050c	ns050	ns050c1	ns050c1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	573	K		MAG	u	226.8	Magnetite remanence.	l	24.9	0.7	4	-1
+This study	North Shore Volcanics	ns050d	ns050	ns050d2	ns050d2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	673	K		MAG	u	312.4	Magnetite remanence.	l	28.3	2.8	5	-1
+This study	North Shore Volcanics	ns050f	ns050	ns050f1	ns050f1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	923	723	K		MAG	u	323.3	Magnetite remanence.	l	61	0.9	5	-1
+This study	North Shore Volcanics	ns052a	ns052	ns052a1	ns052a1 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.1	0.02	T		MAG	u	31.4	Magnetite remanence.	l	34.8	1.3	7	-1
+This study	North Shore Volcanics	ns052c	ns052	ns052c1	ns052c1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	473	K		MAG	u	68.6	Magnetite remanence.	l	48.8	2.4	5	-1
+This study	North Shore Volcanics	ns052d	ns052	ns052d1	ns052d1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	673	K		MAG	u	16.4	Magnetite remanence.	l	65	0.4	5	-1
+This study	North Shore Volcanics	ns052f	ns052	ns052f1	ns052f1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	673	K		MAG	u	42.2	Magnetite remanence.	l	59	0.4	5	-1
+This study	North Shore Volcanics	ns053b	ns053	ns053b1	ns053b1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	898	723	K		MAG	u	22.7	Magnetite remanence.	l	55.6	0.7	6	-1
+This study	North Shore Volcanics	ns053c	ns053	ns053c1	ns053c1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	373	K		MAG	u	39.6	Magnetite remanence.	l	54	2.3	6	-1
+This study	North Shore Volcanics	ns053e	ns053	ns053e2	ns053e2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	723	K		MAG	u	87	Magnetite remanence.	l	27.8	0.3	4	-1
+This study	North Shore Volcanics	ns053f	ns053	ns053f2	ns053f2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	723	K		MAG	u	95.8	Magnetite remanence.	l	23.1	1	4	-1
+This study	North Shore Volcanics	ns054b	ns054	ns054b1	ns054b1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	898	773	K		MAG	u	111.7	Magnetite remanence.	l	30.7	0.8	5	-1
+This study	North Shore Volcanics	ns054c	ns054	ns054c1	ns054c1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	573	K		MAG	u	80.6	Magnetite remanence.	l	50.6	0.6	4	-1
+This study	North Shore Volcanics	ns054d	ns054	ns054d1	ns054d1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	723	K		MAG	u	308.2	Magnetite remanence.	l	64.2	0.4	4	-1
+This study	North Shore Volcanics	ns054f	ns054	ns054f1	ns054f1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	473	K		MAG	u	9.2	Magnetite remanence.	l	55.6	0.6	7	-1
+This study	North Shore Volcanics	ns056b	ns056	ns056b1	ns056b1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	898	573	K		MAG	u	52.2	Magnetite remanence.	l	52.1	0.9	9	-1
+This study	North Shore Volcanics	ns056c	ns056	ns056c1	ns056c1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	923	673	K		MAG	u	62.8	Magnetite remanence.	l	37.9	0.4	4	-1
+This study	North Shore Volcanics	ns056d	ns056	ns056d1	ns056d1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	923	673	K		MAG	u	79.7	Magnetite remanence.	l	34.7	1.1	6	-1
+This study	North Shore Volcanics	ns056e	ns056	ns056e2	ns056e2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	923	673	K		MAG	u	359.4	Magnetite remanence.	l	62.9	0.6	6	-1
+This study	North Shore Volcanics	ns058a	ns058	ns058a1	ns058a1 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.18	0.03	T		MAG	u	346.2	Magnetite remanence.	l	56.8	1.5	9	-1
+This study	North Shore Volcanics	ns058b	ns058	ns058b1	ns058b1 : LT-NO	LP-DIR-T : DE-BFP	pmagpy-2.03	848	473	K		MAG	u	36.4	Magnetite remanence.	p	-17.4	5.5	8	-1
+This study	North Shore Volcanics	ns058c	ns058	ns058c1	ns058c1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	673	K		MAG	u	177.9	Magnetite remanence.	l	8.9	1.4	3	-1
+This study	North Shore Volcanics	ns058d	ns058	ns058d2	ns058d2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	923	273	K		MAG	u	288.1	Magnetite remanence.	l	72.3	1.1	10	-1
+This study	North Shore Volcanics	ns058e	ns058	ns058e2	ns058e2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	673	K		MAG	u	106.6	Magnetite remanence.	l	38.6	0.8	5	-1
+This study	North Shore Volcanics	ns059a	ns059	ns059a1	ns059a1 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.18	0.04	T		MAG	u	239.8	Magnetite remanence.	l	23.8	1.9	7	-1
+This study	North Shore Volcanics	ns059c	ns059	ns059c2	ns059c2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	948	673	K		MAG	u	92.1	Magnetite remanence.	l	30.2	2.1	5	-1
+This study	North Shore Volcanics	ns059f	ns059	ns059f1	ns059f1 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	923	673	K		MAG	u	232.2	Magnetite remanence.	l	-23.1	1.4	6	-1
+This study	North Shore Volcanics	ns059g	ns059	ns059g2	ns059g2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	873	673	K		MAG	u	223.3	Magnetite remanence.	l	-34.5	1.2	5	-1
+This study	North Shore Volcanics	ns060d	ns060	ns060d1	ns060d1 : LT-NO	LP-DIR-AF : DE-BFL	pmagpy-2.03	0.1	0.02	T		MAG	u	128.1	Magnetite remanence.	l	70.9	5.2	7	-1
+This study	North Shore Volcanics	ns060d	ns060	ns060d2	ns060d2 : LT-NO	LP-DIR-T : DE-BFL	pmagpy-2.03	923	723	K		MAG	u	127.5	Magnetite remanence.	l	71	1.4	5	-1
+This study	North Shore Volcanics	ns061a	ns061	ns061a1	ns061a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03	0.06	0	T		MAG	u	194.1	Magnetite remanence.	p	20.7	9.3	10	0
+This study	North Shore Volcanics	ns061b	ns061	ns061b1	ns061b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	898	723	K		MAG	u	295.2	Magnetite remanence.	l	35	2.9	6	0
+This study	North Shore Volcanics	ns061c	ns061	ns061c2	ns061c2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	773	K		MAG	u	299.7	Magnetite remanence.	l	28.2	1.8	3	0
+This study	North Shore Volcanics	ns061d	ns061	ns061d1	ns061d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	773	K		MAG	u	287.4	Magnetite remanence.	l	31	0.8	3	0
+This study	North Shore Volcanics	ns061e	ns061	ns061e2	ns061e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	673	K		MAG	u	299.2	Magnetite remanence.	l	32	0.6	5	0
+This study	North Shore Volcanics	ns061f	ns061	ns061f2	ns061f2 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.08	0	T		MAG	u	301.5	Magnetite remanence.	l	29.5	0.5	8	0
+This study	North Shore Volcanics	ns061g	ns061	ns061g3	ns061g3 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.1	0.01	T		MAG	u	307.6	Magnetite remanence.	l	27.6	0.8	8	0
+This study	North Shore Volcanics	ns062b	ns062	ns062b1	ns062b1 : LP-DIR-T	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	898	673	K		MAG	u	290	Magnetite remanence.	l	37.8	1.4	7	0
+This study	North Shore Volcanics	ns062c	ns062	ns062c1	ns062c1 : LP-DIR-T	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	673	K		MAG	u	289.7	Magnetite remanence.	l	31.9	0.2	5	0
+This study	North Shore Volcanics	ns062e	ns062	ns062e2	ns062e2 : LP-DIR-T	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	673	K		MAG	u	293.4	Magnetite remanence.	l	29.8	0.7	6	0
+This study	North Shore Volcanics	ns062f	ns062	ns062f1	ns062f1 : LP-DIR-T	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	573	K		MAG	u	297.3	Magnetite remanence.	l	34.9	0.8	6	0
+This study	North Shore Volcanics	ns064b	ns064	ns064b1	ns064b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	898	673	K		MAG	u	298.5	Magnetite remanence.	l	30.8	0.4	7	0
+This study	North Shore Volcanics	ns064c	ns064	ns064c2	ns064c2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	573	K		MAG	u	298.3	Magnetite remanence.	l	32.9	0.4	5	0
+This study	North Shore Volcanics	ns064e	ns064	ns064e1	ns064e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	673	K		MAG	u	289.8	Magnetite remanence.	l	25.4	1.3	6	0
+This study	North Shore Volcanics	ns064f	ns064	ns064f2	ns064f2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	573	K		MAG	u	299.1	Magnetite remanence.	l	28.1	0.7	7	0
+This study	North Shore Volcanics	ns065b	ns065	ns065b1	ns065b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	723	K		MAG	u	294.8	Magnetite remanence.	l	36.7	2.1	5	0
+This study	North Shore Volcanics	ns065d	ns065	ns065d1	ns065d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	673	K		MAG	u	291	Magnetite remanence.	l	29.7	0.7	5	0
+This study	North Shore Volcanics	ns065e	ns065	ns065e1	ns065e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	673	K		MAG	u	286.6	Magnetite remanence.	l	30.9	0.8	5	0
+This study	North Shore Volcanics	ns065f	ns065	ns065f2	ns065f2 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.15	0.02	T		MAG	u	291.1	Magnetite remanence.	l	18.1	1	9	0
+This study	North Shore Volcanics	ns066b	ns066	ns066b1	ns066b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	623	K		MAG	u	302.6	Magnetite remanence.	l	33	2.9	7	0
+This study	North Shore Volcanics	ns067f	ns067	ns067f2	ns067f2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	673	K		MAG	u	286.7	Magnetite remanence.	l	26.2	0.5	6	0
+This study	North Shore Volcanics	ns068a	ns068	ns068a1	ns068a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.015	T		MAG	u	308.6	Magnetite remanence.	l	19.1	1	8	0
+This study	North Shore Volcanics	ns068b	ns068	ns068b1	ns068b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	773	K		MAG	u	319.8	Magnetite remanence.	l	14.2	1.7	4	0
+This study	North Shore Volcanics	ns068d	ns068	ns068d1	ns068d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	673	K		MAG	u	305.2	Magnetite remanence.	l	11.5	1.6	6	0
+This study	North Shore Volcanics	ns068f	ns068	ns068f1	ns068f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	673	K		MAG	u	309.6	Magnetite remanence.	l	19.4	1.1	5	0
+This study	North Shore Volcanics	ns069a	ns069	ns069a1	ns069a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.02	T		MAG	u	326.1	Magnetite remanence.	l	29.1	1.3	10	0
+This study	North Shore Volcanics	ns069c	ns069	ns069c2	ns069c2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	773	K		MAG	u	308.4	Magnetite remanence.	l	26.8	0.7	3	0
+This study	North Shore Volcanics	ns069e	ns069	ns069e2	ns069e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	773	K		MAG	u	306.4	Magnetite remanence.	l	31.2	0.6	3	0
+This study	North Shore Volcanics	ns069f	ns069	ns069f2	ns069f2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	823	673	K		MAG	u	305.7	Magnetite remanence.	l	30.5	1.3	4	0
+This study	North Shore Volcanics	ns070b	ns070	ns070b1	ns070b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03	848	273	K		MAG	u	167.4	Magnetite remanence.	p	15.6	3.6	10	0
+This study	North Shore Volcanics	ns070e	ns070	ns070e1	ns070e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03	923	273	K		MAG	u	207.1	Magnetite remanence.	p	7.7	3.3	10	0
+This study	North Shore Volcanics	ns071b	ns071	ns071b1	ns071b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	723	K		MAG	u	310.4	Magnetite remanence.	l	19.8	0.5	5	0
+This study	North Shore Volcanics	ns071c	ns071	ns071c1	ns071c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	673	K		MAG	u	302.4	Magnetite remanence.	l	30.7	2.7	4	0
+This study	North Shore Volcanics	ns071d	ns071	ns071d2	ns071d2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	723	K		MAG	u	305.3	Magnetite remanence.	l	22.6	0.9	4	0
+This study	North Shore Volcanics	ns071e	ns071	ns071e1	ns071e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	723	K		MAG	u	309.5	Magnetite remanence.	l	36.6	1	4	0
+This study	North Shore Volcanics	ns071f	ns071	ns071f2	ns071f2 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.12	0.01	T		MAG	u	300.4	Magnetite remanence.	l	28	1.7	10	0
+This study	North Shore Volcanics	ns075a	ns075	ns075a1	ns075a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.08	0.02	T		MAG	u	302.6	Magnetite remanence.	l	40.8	1.4	6	0
+This study	North Shore Volcanics	ns075b	ns075	ns075b1	ns075b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	723	K		MAG	u	299	Magnetite remanence.	l	27.4	2.3	5	0
+This study	North Shore Volcanics	ns075c	ns075	ns075c2	ns075c2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	673	K		MAG	u	305.5	Magnetite remanence.	l	30.8	4.4	4	0
+This study	North Shore Volcanics	ns075d	ns075	ns075d2	ns075d2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	673	K		MAG	u	300.7	Magnetite remanence.	l	29.3	4.1	5	0
+This study	North Shore Volcanics	ns075f	ns075	ns075f1	ns075f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	673	K		MAG	u	304.7	Magnetite remanence.	l	37.2	3.1	5	0
+This study	North Shore Volcanics	ns076a	ns076	ns076a1	ns076a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.12	0.02	T		MAG	u	342.4	Magnetite remanence.	l	74.1	2	8	0
+This study	North Shore Volcanics	ns076b	ns076	ns076b1	ns076b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	723	K		MAG	u	115.1	Magnetite remanence.	l	40.6	2.3	5	0
+This study	North Shore Volcanics	ns076d	ns076	ns076d1	ns076d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	773	K		MAG	u	293.1	Magnetite remanence.	l	33.7	2.2	4	0
+This study	North Shore Volcanics	ns076e	ns076	ns076e1	ns076e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	723	K		MAG	u	33.1	Magnetite remanence.	l	41.5	1.9	4	0
+This study	North Shore Volcanics	ns076f	ns076	ns076f1	ns076f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	773	K		MAG	u	284.4	Magnetite remanence.	l	37.3	3.7	5	0
+This study	North Shore Volcanics	ns077b	ns077	ns077b1	ns077b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	723	K		MAG	u	309.7	Magnetite remanence.	l	14.7	2	5	0
+This study	North Shore Volcanics	ns077c	ns077	ns077c1	ns077c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	673	K		MAG	u	304.9	Magnetite remanence.	l	13.9	1.3	4	0
+This study	North Shore Volcanics	ns077f	ns077	ns077f1	ns077f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	673	K		MAG	u	307.3	Magnetite remanence.	l	22.7	3.7	5	0
+This study	North Shore Volcanics	ns077g	ns077	ns077g1	ns077g1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	573	K		MAG	u	300.1	Magnetite remanence.	l	14.7	3	6	0
+This study	North Shore Volcanics	ns079c	ns079	ns079c1	ns079c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	673	K		MAG	u	293.3	Magnetite remanence.	l	39.3	3.7	4	0
+This study	North Shore Volcanics	ns079e	ns079	ns079e2	ns079e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	673	K		MAG	u	292.9	Magnetite remanence.	l	28.8	2.6	5	0
+This study	North Shore Volcanics	ns083e	ns083	ns083e1	ns083e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	723	K		MAG	u	287.4	Magnetite remanence.	l	31.5	1.1	5	0
+This study	North Shore Volcanics	ns002a	ns002	ns002a1	ns002a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.03	T		MAG	u	290.2	Magnetite remanence.	l	38	1.5	9	0
+This study	North Shore Volcanics	ns004a	ns004	ns004a1	ns004a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.06	0.015	T		MAG	u	303.2	Magnetite remanence.	l	41.8	1.6	6	0
+This study	North Shore Volcanics	ns004c	ns004	ns004c1	ns004c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	573	K		MAG	u	306.1	Magnetite remanence.	l	47	4.9	4	0
+This study	North Shore Volcanics	ns004e	ns004	ns004e1	ns004e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	673	K		MAG	u	297.9	Magnetite remanence.	l	36.8	1.1	5	0
+This study	North Shore Volcanics	ns004f	ns004	ns004f1	ns004f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	673	K		MAG	u	298.6	Magnetite remanence.	l	36.4	3	5	0
+This study	North Shore Volcanics	ns004g	ns004	ns004g1	ns004g1 : LT-NO	LP-DIR-AF : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.06	0.015	T		MAG	u	291.8	Magnetite remanence.	l	39.5	1.5	6	0
+This study	North Shore Volcanics	ns005b	ns005	ns005b1	ns005b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	273	K		MAG	u	307.2	Magnetite remanence.	l	27.6	1.9	11	0
+This study	North Shore Volcanics	ns005c	ns005	ns005c1	ns005c1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	273	K		MAG	u	309.8	Magnetite remanence.	l	27.9	1.8	8	0
+This study	North Shore Volcanics	ns005e	ns005	ns005e1	ns005e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	273	K		MAG	u	298	Magnetite remanence.	l	31	2.1	10	0
+This study	North Shore Volcanics	ns005g	ns005	ns005g1	ns005g1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	273	K		MAG	u	306	Magnetite remanence.	l	29.3	2.1	10	0
+This study	North Shore Volcanics	ns009b	ns009	ns009b1	ns009b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	473	K		MAG	u	287.9	Magnetite remanence.	l	43.2	2	9	0
+This study	North Shore Volcanics	ns012a	ns012	ns012a1	ns012a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.05	T		MAG	u	286.6	Magnetite remanence.	l	34.5	1	7	0
+This study	North Shore Volcanics	ns015d	ns015	ns015d1	ns015d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	673	K		MAG	u	294.2	Magnetite remanence.	l	13.3	0.7	4	0
+This study	North Shore Volcanics	ns016a	ns016	ns016a1	ns016a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.04	0.01	T		MAG	u	287.4	Magnetite remanence.	l	47.7	0.9	5	0
+This study	North Shore Volcanics	ns016b	ns016	ns016b1	ns016b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	723	K		MAG	u	282.1	Magnetite remanence.	l	45.2	1.1	5	0
+This study	North Shore Volcanics	ns016c	ns016	ns016c1	ns016c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03	773	373	K		MAG	u	194.4	Magnetite remanence.	p	1.5	5	5	0
+This study	North Shore Volcanics	ns016e	ns016	ns016e2	ns016e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	823	673	K		MAG	u	315.1	Magnetite remanence.	l	54.3	2.8	4	0
+This study	North Shore Volcanics	ns016f	ns016	ns016f1	ns016f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	673	K		MAG	u	289.6	Magnetite remanence.	l	52.1	1.4	5	0
+This study	North Shore Volcanics	ns019a	ns019	ns019a1	ns019a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0	T		MAG	u	290.2	Magnetite remanence.	l	51.3	0.9	14	0
+This study	North Shore Volcanics	ns019b	ns019	ns019b1	ns019b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	773	K		MAG	u	288	Magnetite remanence.	l	41.9	0.4	4	0
+This study	North Shore Volcanics	ns019c	ns019	ns019c1	ns019c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	373	K		MAG	u	285.7	Magnetite remanence.	l	50.1	1.5	6	0
+This study	North Shore Volcanics	ns019d	ns019	ns019d2	ns019d2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	723	K		MAG	u	286.3	Magnetite remanence.	l	53	0.6	4	0
+This study	North Shore Volcanics	ns019e	ns019	ns019e1	ns019e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	673	K		MAG	u	290.1	Magnetite remanence.	l	51.9	0.6	5	0
+This study	North Shore Volcanics	ns022a	ns022	ns022a1	ns022a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03	0.15	0	T		MAG	u	37.3	Magnetite remanence.	p	-5.4	4.2	13	0
+This study	North Shore Volcanics	ns022b	ns022	ns022b1	ns022b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	848	623	K		MAG	u	301.9	Magnetite remanence.	l	36.8	3.7	6	0
+This study	North Shore Volcanics	ns022c	ns022	ns022c1	ns022c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	673	K		MAG	u	307.8	Magnetite remanence.	l	35.8	2.1	4	0
+This study	North Shore Volcanics	ns022e	ns022	ns022e1	ns022e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	723	K		MAG	u	306.5	Magnetite remanence.	l	29.8	0.4	5	0
+This study	North Shore Volcanics	ns022f	ns022	ns022f1	ns022f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	773	K		MAG	u	308.5	Magnetite remanence.	l	27.6	0.8	4	0
+This study	North Shore Volcanics	ns024a	ns024	ns024a1	ns024a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0	T		MAG	u	139	Magnetite remanence.	l	-67.5	1	14	0
+This study	North Shore Volcanics	ns026a	ns026	ns026a1	ns026a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.15	0.02	T		MAG	u	139.9	Magnetite remanence.	l	-55.9	0.6	9	0
+This study	North Shore Volcanics	ns026b	ns026	ns026b2	ns026b2 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.1	0.01	T		MAG	u	139.3	Magnetite remanence.	l	-58	1	9	0
+This study	North Shore Volcanics	ns026c	ns026	ns026c2	ns026c2 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.1	0.01	T		MAG	u	137.8	Magnetite remanence.	l	-59.9	1	9	0
+This study	North Shore Volcanics	ns026d	ns026	ns026d1	ns026d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	773	K		MAG	u	145.7	Magnetite remanence.	l	-51.8	0.4	4	0
+This study	North Shore Volcanics	ns026e	ns026	ns026e2	ns026e2 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.15	0.01	T		MAG	u	137.9	Magnetite remanence.	l	-57.1	1.5	11	0
+This study	North Shore Volcanics	ns027a	ns027	ns027a1	ns027a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.005	T		MAG	u	304.7	Magnetite remanence.	l	45.4	2.6	13	0
+This study	North Shore Volcanics	ns027b	ns027	ns027b1	ns027b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	673	K		MAG	u	298.5	Magnetite remanence.	l	38.7	1.2	6	0
+This study	North Shore Volcanics	ns027c	ns027	ns027c1	ns027c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	573	K		MAG	u	304	Magnetite remanence.	l	44.4	3.4	4	0
+This study	North Shore Volcanics	ns027d	ns027	ns027d2	ns027d2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	373	K		MAG	u	303.1	Magnetite remanence.	l	43.3	3	7	0
+This study	North Shore Volcanics	ns027e	ns027	ns027e2	ns027e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	673	K		MAG	u	307.6	Magnetite remanence.	l	45.8	2.3	5	0
+This study	North Shore Volcanics	ns028a	ns028	ns028a1	ns028a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.02	T		MAG	u	298.4	Magnetite remanence.	l	30.3	1	10	0
+This study	North Shore Volcanics	ns028b	ns028	ns028b1	ns028b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	623	K		MAG	u	299.9	Magnetite remanence.	l	24.5	1	7	0
+This study	North Shore Volcanics	ns028c	ns028	ns028c1	ns028c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	673	K		MAG	u	294.4	Magnetite remanence.	l	25	0.4	4	0
+This study	North Shore Volcanics	ns028e	ns028	ns028e2	ns028e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	723	K		MAG	u	293.7	Magnetite remanence.	l	27.6	0.7	4	0
+This study	North Shore Volcanics	ns028f	ns028	ns028f2	ns028f2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	673	K		MAG	u	293.1	Magnetite remanence.	l	25.9	0.6	5	0
+This study	North Shore Volcanics	ns029a	ns029	ns029a1	ns029a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.08	0.01	T		MAG	u	297.3	Magnetite remanence.	l	22.9	1.8	8	0
+This study	North Shore Volcanics	ns029b	ns029	ns029b1	ns029b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	773	K		MAG	u	299.5	Magnetite remanence.	l	25.5	0.6	4	0
+This study	North Shore Volcanics	ns029c	ns029	ns029c1	ns029c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	673	K		MAG	u	300.1	Magnetite remanence.	l	28	0.9	3	0
+This study	North Shore Volcanics	ns029e	ns029	ns029e1	ns029e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	823	K		MAG	u	303.5	Magnetite remanence.	l	28.1	1	2	0
+This study	North Shore Volcanics	ns029f	ns029	ns029f2	ns029f2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	773	K		MAG	u	304.4	Magnetite remanence.	l	30.2	0.6	3	0
+This study	North Shore Volcanics	ns031a	ns031	ns031a1	ns031a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.02	T		MAG	u	296.5	Magnetite remanence.	l	27.3	1	10	0
+This study	North Shore Volcanics	ns031b	ns031	ns031b1	ns031b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	623	K		MAG	u	295	Magnetite remanence.	l	26.4	1.5	7	0
+This study	North Shore Volcanics	ns031c	ns031	ns031c1	ns031c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	673	K		MAG	u	292.4	Magnetite remanence.	l	25.3	0.2	4	0
+This study	North Shore Volcanics	ns031d	ns031	ns031d2	ns031d2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	673	K		MAG	u	295.6	Magnetite remanence.	l	26.9	0.6	6	0
+This study	North Shore Volcanics	ns031f	ns031	ns031f1	ns031f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	573	K		MAG	u	297.5	Magnetite remanence.	l	29.2	1	7	0
+This study	North Shore Volcanics	ns033a	ns033	ns033a1	ns033a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.03	T		MAG	u	283.4	Magnetite remanence.	l	30.7	1	9	0
+This study	North Shore Volcanics	ns033b	ns033	ns033b1	ns033b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	898	673	K		MAG	u	279.3	Magnetite remanence.	l	28.8	2.8	7	0
+This study	North Shore Volcanics	ns033c	ns033	ns033c1	ns033c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	673	K		MAG	u	279	Magnetite remanence.	l	25.6	0.3	3	0
+This study	North Shore Volcanics	ns035a	ns035	ns035a1	ns035a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.03	T		MAG	u	291.8	Magnetite remanence.	l	45	0.7	9	0
+This study	North Shore Volcanics	ns035b	ns035	ns035b1	ns035b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	898	823	K		MAG	u	295.4	Magnetite remanence.	l	43.8	0.6	4	0
+This study	North Shore Volcanics	ns035c	ns035	ns035c2	ns035c2 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.01	T		MAG	u	294.9	Magnetite remanence.	l	44	1.2	12	0
+This study	North Shore Volcanics	ns035d	ns035	ns035d2	ns035d2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	473	K		MAG	u	297.8	Magnetite remanence.	l	43.4	1.4	8	0
+This study	North Shore Volcanics	ns035e	ns035	ns035e2	ns035e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	473	K		MAG	u	294.8	Magnetite remanence.	l	43.5	0.7	8	0
+This study	North Shore Volcanics	ns036e	ns036	ns036e2	ns036e2 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	673	K		MAG	u	301.4	Magnetite remanence.	l	46.1	1.3	5	0
+This study	North Shore Volcanics	ns037a	ns037	ns037a1	ns037a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.03	T		MAG	u	294.2	Magnetite remanence.	l	40.7	0.7	9	0
+This study	North Shore Volcanics	ns037b	ns037	ns037b1	ns037b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	898	773	K		MAG	u	297.5	Magnetite remanence.	l	41.3	0.5	5	0
+This study	North Shore Volcanics	ns037c	ns037	ns037c2	ns037c2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	473	K		MAG	u	295.3	Magnetite remanence.	l	40.5	2	5	0
+This study	North Shore Volcanics	ns037f	ns037	ns037f2	ns037f2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	473	K		MAG	u	290.7	Magnetite remanence.	l	38.3	2.8	7	0
+This study	North Shore Volcanics	ns037g	ns037	ns037g1	ns037g1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	773	K		MAG	u	295.2	Magnetite remanence.	l	45.8	0.6	4	0
+This study	North Shore Volcanics	ns040a	ns040	ns040a1	ns040a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.04	T		MAG	u	292.2	Magnetite remanence.	l	41.1	2.4	8	0
+This study	North Shore Volcanics	ns040b	ns040	ns040b1	ns040b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	898	773	K		MAG	u	289.7	Magnetite remanence.	l	42.3	0.6	5	0
+This study	North Shore Volcanics	ns040c	ns040	ns040c1	ns040c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	573	K		MAG	u	284.9	Magnetite remanence.	l	38.5	1.4	4	0
+This study	North Shore Volcanics	ns040e	ns040	ns040e2	ns040e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	673	K		MAG	u	290.9	Magnetite remanence.	l	36.8	1	5	0
+This study	North Shore Volcanics	ns040f	ns040	ns040f2	ns040f2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	673	K		MAG	u	293.2	Magnetite remanence.	l	39.1	0.9	5	0
+This study	North Shore Volcanics	ns041a	ns041	ns041a1	ns041a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.1	0.04	T		MAG	u	288.5	Magnetite remanence.	l	35.4	3.1	5	0
+This study	North Shore Volcanics	ns041c	ns041	ns041c1	ns041c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	473	K		MAG	u	287.4	Magnetite remanence.	l	33.3	1.6	5	0
+This study	North Shore Volcanics	ns041d	ns041	ns041d1	ns041d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	723	K		MAG	u	282.5	Magnetite remanence.	l	34	0.6	4	0
+This study	North Shore Volcanics	ns041e	ns041	ns041e1	ns041e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	673	K		MAG	u	285.9	Magnetite remanence.	l	35.2	1	5	0
+This study	North Shore Volcanics	ns041f	ns041	ns041f3	ns041f3 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.12	0.01	T		MAG	u	286.5	Magnetite remanence.	l	32.6	1.5	10	0
+This study	North Shore Volcanics	ns043a	ns043	ns043a1	ns043a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.01	T		MAG	u	271.7	Magnetite remanence.	l	16.6	0.8	12	0
+This study	North Shore Volcanics	ns043b	ns043	ns043b1	ns043b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	898	473	K		MAG	u	280.4	Magnetite remanence.	l	14	0.8	10	0
+This study	North Shore Volcanics	ns043c	ns043	ns043c2	ns043c2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	573	K		MAG	u	282	Magnetite remanence.	l	13.5	1	5	0
+This study	North Shore Volcanics	ns043e	ns043	ns043e1	ns043e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	673	K		MAG	u	270.6	Magnetite remanence.	l	19.3	1	6	0
+This study	North Shore Volcanics	ns043f	ns043	ns043f2	ns043f2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	673	K		MAG	u	275.6	Magnetite remanence.	l	20.5	0.7	6	0
+This study	North Shore Volcanics	ns044e	ns044	ns044e1	ns044e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	673	K		MAG	u	281.7	Magnetite remanence.	l	29.7	0.7	6	0
+This study	North Shore Volcanics	ns045a	ns045	ns045a1	ns045a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.04	T		MAG	u	276.3	Magnetite remanence.	l	14.5	1.3	8	0
+This study	North Shore Volcanics	ns045b	ns045	ns045b1	ns045b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	898	773	K		MAG	u	275.5	Magnetite remanence.	l	18.4	0.3	5	0
+This study	North Shore Volcanics	ns045c	ns045	ns045c1	ns045c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	673	K		MAG	u	270.4	Magnetite remanence.	l	12.6	0.3	3	0
+This study	North Shore Volcanics	ns045e	ns045	ns045e1	ns045e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	673	K		MAG	u	273.9	Magnetite remanence.	l	14	0.6	6	0
+This study	North Shore Volcanics	ns045f	ns045	ns045f1	ns045f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	673	K		MAG	u	274.8	Magnetite remanence.	l	14.6	0.4	6	0
+This study	North Shore Volcanics	ns046b	ns046	ns046b1	ns046b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	898	623	K		MAG	u	296.7	Magnetite remanence.	l	28.6	1.1	8	0
+This study	North Shore Volcanics	ns046c	ns046	ns046c1	ns046c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	573	K		MAG	u	303.1	Magnetite remanence.	l	31.2	0.6	4	0
+This study	North Shore Volcanics	ns046d	ns046	ns046d2	ns046d2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	773	K		MAG	u	303	Magnetite remanence.	l	31.8	0.5	3	0
+This study	North Shore Volcanics	ns046f	ns046	ns046f1	ns046f1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.12	0.01	T		MAG	u	300.4	Magnetite remanence.	l	27.2	1.3	10	0
+This study	North Shore Volcanics	ns046h	ns046	ns046h2	ns046h2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	773	K		MAG	u	308.3	Magnetite remanence.	l	20.9	1.7	4	0
+This study	North Shore Volcanics	ns048b	ns048	ns048b1	ns048b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	898	623	K		MAG	u	296.6	Magnetite remanence.	l	40.9	4.5	8	0
+This study	North Shore Volcanics	ns048c	ns048	ns048c1	ns048c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	573	K		MAG	u	299.4	Magnetite remanence.	l	36	0.3	4	0
+This study	North Shore Volcanics	ns048d	ns048	ns048d1	ns048d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	673	K		MAG	u	306.6	Magnetite remanence.	l	36.8	1.7	6	0
+This study	North Shore Volcanics	ns048e	ns048	ns048e2	ns048e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	773	K		MAG	u	305.8	Magnetite remanence.	l	48.5	1.4	4	0
+This study	North Shore Volcanics	ns049a	ns049	ns049a1	ns049a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.02	T		MAG	u	299.7	Magnetite remanence.	l	37.4	1.2	10	0
+This study	North Shore Volcanics	ns049b	ns049	ns049b1	ns049b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	898	623	K		MAG	u	293.7	Magnetite remanence.	l	31.8	2.4	8	0
+This study	North Shore Volcanics	ns049e	ns049	ns049e2	ns049e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	473	K		MAG	u	303.6	Magnetite remanence.	l	42.2	1.3	7	0
+This study	North Shore Volcanics	ns049f	ns049	ns049f2	ns049f2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	473	K		MAG	u	303.3	Magnetite remanence.	l	42	0.8	7	0
+This study	North Shore Volcanics	ns050a	ns050	ns050a1	ns050a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.01	T		MAG	u	290.3	Magnetite remanence.	l	30.3	0.3	12	0
+This study	North Shore Volcanics	ns050c	ns050	ns050c1	ns050c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	573	K		MAG	u	293.2	Magnetite remanence.	l	28.9	0.7	4	0
+This study	North Shore Volcanics	ns050d	ns050	ns050d2	ns050d2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	673	K		MAG	u	289.7	Magnetite remanence.	l	23.5	2.8	5	0
+This study	North Shore Volcanics	ns050f	ns050	ns050f1	ns050f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	723	K		MAG	u	291.6	Magnetite remanence.	l	23.9	0.9	5	0
+This study	North Shore Volcanics	ns052a	ns052	ns052a1	ns052a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.1	0.02	T		MAG	u	293.9	Magnetite remanence.	l	32.2	1.3	7	0
+This study	North Shore Volcanics	ns052c	ns052	ns052c1	ns052c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	473	K		MAG	u	302.8	Magnetite remanence.	l	42.2	2.4	5	0
+This study	North Shore Volcanics	ns052d	ns052	ns052d1	ns052d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	673	K		MAG	u	292.1	Magnetite remanence.	l	37.6	0.4	5	0
+This study	North Shore Volcanics	ns052f	ns052	ns052f1	ns052f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	673	K		MAG	u	291	Magnetite remanence.	l	40.6	0.4	5	0
+This study	North Shore Volcanics	ns053b	ns053	ns053b1	ns053b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	898	723	K		MAG	u	294	Magnetite remanence.	l	22.1	0.7	6	0
+This study	North Shore Volcanics	ns053c	ns053	ns053c1	ns053c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	373	K		MAG	u	294.4	Magnetite remanence.	l	28.3	2.3	6	0
+This study	North Shore Volcanics	ns053e	ns053	ns053e2	ns053e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	723	K		MAG	u	292.8	Magnetite remanence.	l	22.7	0.3	4	0
+This study	North Shore Volcanics	ns053f	ns053	ns053f2	ns053f2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	723	K		MAG	u	293.7	Magnetite remanence.	l	23.5	1	4	0
+This study	North Shore Volcanics	ns054b	ns054	ns054b1	ns054b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	898	773	K		MAG	u	281.6	Magnetite remanence.	l	35.9	0.8	5	0
+This study	North Shore Volcanics	ns054c	ns054	ns054c1	ns054c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	573	K		MAG	u	299.2	Magnetite remanence.	l	43.2	0.6	4	0
+This study	North Shore Volcanics	ns054d	ns054	ns054d1	ns054d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	723	K		MAG	u	287.1	Magnetite remanence.	l	40.2	0.4	4	0
+This study	North Shore Volcanics	ns054f	ns054	ns054f1	ns054f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	473	K		MAG	u	293.7	Magnetite remanence.	l	39.8	0.6	7	0
+This study	North Shore Volcanics	ns056b	ns056	ns056b1	ns056b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	898	573	K		MAG	u	295.1	Magnetite remanence.	l	21.3	0.9	9	0
+This study	North Shore Volcanics	ns056c	ns056	ns056c1	ns056c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	673	K		MAG	u	299.1	Magnetite remanence.	l	25.1	0.4	4	0
+This study	North Shore Volcanics	ns056d	ns056	ns056d1	ns056d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	673	K		MAG	u	296.9	Magnetite remanence.	l	24.3	1.1	6	0
+This study	North Shore Volcanics	ns056e	ns056	ns056e2	ns056e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	673	K		MAG	u	297.1	Magnetite remanence.	l	22.9	0.6	6	0
+This study	North Shore Volcanics	ns058a	ns058	ns058a1	ns058a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.03	T		MAG	u	309.8	Magnetite remanence.	l	32.2	1.5	9	0
+This study	North Shore Volcanics	ns058b	ns058	ns058b1	ns058b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03	848	473	K		MAG	u	350.9	Magnetite remanence.	p	-36.6	5.5	8	0
+This study	North Shore Volcanics	ns058c	ns058	ns058c1	ns058c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	673	K		MAG	u	303.1	Magnetite remanence.	l	31.9	1.4	3	0
+This study	North Shore Volcanics	ns058d	ns058	ns058d2	ns058d2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	273	K		MAG	u	301.1	Magnetite remanence.	l	30.8	1.1	10	0
+This study	North Shore Volcanics	ns058e	ns058	ns058e2	ns058e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	673	K		MAG	u	299.4	Magnetite remanence.	l	37.1	0.8	5	0
+This study	North Shore Volcanics	ns059a	ns059	ns059a1	ns059a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.04	T		MAG	u	281.5	Magnetite remanence.	l	25.1	1.9	7	0
+This study	North Shore Volcanics	ns059c	ns059	ns059c2	ns059c2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	673	K		MAG	u	288.5	Magnetite remanence.	l	22.6	2.1	5	0
+This study	North Shore Volcanics	ns059f	ns059	ns059f1	ns059f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	673	K		MAG	u	303.1	Magnetite remanence.	l	28	1.4	6	0
+This study	North Shore Volcanics	ns059g	ns059	ns059g2	ns059g2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	673	K		MAG	u	288.9	Magnetite remanence.	l	28.8	1.2	5	0
+This study	North Shore Volcanics	ns060d	ns060	ns060d1	ns060d1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.1	0.02	T		MAG	u	293.2	Magnetite remanence.	l	25.1	5.2	7	0
+This study	North Shore Volcanics	ns060d	ns060	ns060d2	ns060d2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	723	K		MAG	u	293.3	Magnetite remanence.	l	24.9	1.4	5	0
+This study	North Shore Volcanics	ns061a	ns061	ns061a1	ns061a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.06	0	T		MAG	u	187.4	Magnetite remanence.	p	18.2	9.3	10	100
+This study	North Shore Volcanics	ns061b	ns061	ns061b1	ns061b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	898	723	K		MAG	u	298.1	Magnetite remanence.	l	53.8	2.9	6	100
+This study	North Shore Volcanics	ns061c	ns061	ns061c2	ns061c2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	773	K		MAG	u	303.1	Magnetite remanence.	l	46.8	1.8	3	100
+This study	North Shore Volcanics	ns061d	ns061	ns061d1	ns061d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	773	K		MAG	u	287.2	Magnetite remanence.	l	50	0.8	3	100
+This study	North Shore Volcanics	ns061e	ns061	ns061e2	ns061e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	673	K		MAG	u	303	Magnetite remanence.	l	50.5	0.6	5	100
+This study	North Shore Volcanics	ns061f	ns061	ns061f2	ns061f2 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.08	0	T		MAG	u	305.7	Magnetite remanence.	l	47.8	0.5	8	100
+This study	North Shore Volcanics	ns061g	ns061	ns061g3	ns061g3 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.1	0.01	T		MAG	u	312.9	Magnetite remanence.	l	45.3	0.8	8	100
+This study	North Shore Volcanics	ns062b	ns062	ns062b1	ns062b1 : LP-DIR-T	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	898	673	K		MAG	u	290.9	Magnetite remanence.	l	56.8	1.4	7	100
+This study	North Shore Volcanics	ns062c	ns062	ns062c1	ns062c1 : LP-DIR-T	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	673	K		MAG	u	290.4	Magnetite remanence.	l	50.9	0.2	5	100
+This study	North Shore Volcanics	ns062e	ns062	ns062e2	ns062e2 : LP-DIR-T	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	673	K		MAG	u	295.1	Magnetite remanence.	l	48.7	0.7	6	100
+This study	North Shore Volcanics	ns062f	ns062	ns062f1	ns062f1 : LP-DIR-T	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	573	K		MAG	u	300.9	Magnetite remanence.	l	53.6	0.8	6	100
+This study	North Shore Volcanics	ns064b	ns064	ns064b1	ns064b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	898	673	K		MAG	u	301.9	Magnetite remanence.	l	49.4	0.4	7	100
+This study	North Shore Volcanics	ns064c	ns064	ns064c2	ns064c2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	573	K		MAG	u	301.9	Magnetite remanence.	l	51.4	0.4	5	100
+This study	North Shore Volcanics	ns064e	ns064	ns064e1	ns064e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	673	K		MAG	u	290.3	Magnetite remanence.	l	44.4	1.3	6	100
+This study	North Shore Volcanics	ns064f	ns064	ns064f2	ns064f2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	573	K		MAG	u	302.3	Magnetite remanence.	l	46.7	0.7	7	100
+This study	North Shore Volcanics	ns065b	ns065	ns065b1	ns065b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	723	K		MAG	u	297.6	Magnetite remanence.	l	55.5	2.1	5	100
+This study	North Shore Volcanics	ns065d	ns065	ns065d1	ns065d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	673	K		MAG	u	291.9	Magnetite remanence.	l	48.7	0.7	5	100
+This study	North Shore Volcanics	ns065e	ns065	ns065e1	ns065e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	673	K		MAG	u	286.1	Magnetite remanence.	l	49.9	0.8	5	100
+This study	North Shore Volcanics	ns065f	ns065	ns065f2	ns065f2 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.15	0.02	T		MAG	u	291.7	Magnetite remanence.	l	37.1	1	9	100
+This study	North Shore Volcanics	ns066b	ns066	ns066b1	ns066b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	623	K		MAG	u	307.8	Magnetite remanence.	l	51.2	2.9	7	100
+This study	North Shore Volcanics	ns067f	ns067	ns067f2	ns067f2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	673	K		MAG	u	286.4	Magnetite remanence.	l	45.2	0.5	6	100
+This study	North Shore Volcanics	ns068a	ns068	ns068a1	ns068a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.015	T		MAG	u	312.4	Magnetite remanence.	l	36.7	1	8	100
+This study	North Shore Volcanics	ns068b	ns068	ns068b1	ns068b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	773	K		MAG	u	324.1	Magnetite remanence.	l	30	1.7	4	100
+This study	North Shore Volcanics	ns068d	ns068	ns068d1	ns068d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	673	K		MAG	u	307.5	Magnetite remanence.	l	29.6	1.6	6	100
+This study	North Shore Volcanics	ns068f	ns068	ns068f1	ns068f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	673	K		MAG	u	313.8	Magnetite remanence.	l	36.8	1.1	5	100
+This study	North Shore Volcanics	ns069a	ns069	ns069a1	ns069a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.02	T		MAG	u	335.6	Magnetite remanence.	l	43.1	1.3	10	100
+This study	North Shore Volcanics	ns069c	ns069	ns069c2	ns069c2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	773	K		MAG	u	313.8	Magnetite remanence.	l	44.3	0.7	3	100
+This study	North Shore Volcanics	ns069e	ns069	ns069e2	ns069e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	773	K		MAG	u	312.3	Magnetite remanence.	l	49	0.6	3	100
+This study	North Shore Volcanics	ns069f	ns069	ns069f2	ns069f2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	823	673	K		MAG	u	311.3	Magnetite remanence.	l	48.3	1.3	4	100
+This study	North Shore Volcanics	ns070b	ns070	ns070b1	ns070b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	848	273	K		MAG	u	344.4	Magnetite remanence.	p	-5.5	3.6	10	100
+This study	North Shore Volcanics	ns070e	ns070	ns070e1	ns070e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	273	K		MAG	u	204.1	Magnetite remanence.	p	10.2	3.3	10	100
+This study	North Shore Volcanics	ns071b	ns071	ns071b1	ns071b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	723	K		MAG	u	314.7	Magnetite remanence.	l	37.1	0.5	5	100
+This study	North Shore Volcanics	ns071c	ns071	ns071c1	ns071c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	673	K		MAG	u	307	Magnetite remanence.	l	48.9	2.7	4	100
+This study	North Shore Volcanics	ns071d	ns071	ns071d2	ns071d2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	723	K		MAG	u	309.2	Magnetite remanence.	l	40.6	0.9	4	100
+This study	North Shore Volcanics	ns071e	ns071	ns071e1	ns071e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	723	K		MAG	u	317.9	Magnetite remanence.	l	53.8	1	4	100
+This study	North Shore Volcanics	ns071f	ns071	ns071f2	ns071f2 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.12	0.01	T		MAG	u	303.9	Magnetite remanence.	l	46.4	1.7	10	100
+This study	North Shore Volcanics	ns075a	ns075	ns075a1	ns075a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.08	0.02	T		MAG	u	309.7	Magnetite remanence.	l	58.9	1.4	6	100
+This study	North Shore Volcanics	ns075b	ns075	ns075b1	ns075b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	723	K		MAG	u	302.1	Magnetite remanence.	l	46	2.3	5	100
+This study	North Shore Volcanics	ns075c	ns075	ns075c2	ns075c2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	673	K		MAG	u	311.1	Magnetite remanence.	l	48.6	4.4	4	100
+This study	North Shore Volcanics	ns075d	ns075	ns075d2	ns075d2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	673	K		MAG	u	304.6	Magnetite remanence.	l	47.7	4.1	5	100
+This study	North Shore Volcanics	ns075f	ns075	ns075f1	ns075f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	673	K		MAG	u	311.6	Magnetite remanence.	l	55.1	3.1	5	100
+This study	North Shore Volcanics	ns076a	ns076	ns076a1	ns076a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.12	0.02	T		MAG	u	54.2	Magnetite remanence.	l	74	2	8	100
+This study	North Shore Volcanics	ns076b	ns076	ns076b1	ns076b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	723	K		MAG	u	113.8	Magnetite remanence.	l	21.8	2.3	5	100
+This study	North Shore Volcanics	ns076d	ns076	ns076d1	ns076d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	773	K		MAG	u	295	Magnetite remanence.	l	52.6	2.2	4	100
+This study	North Shore Volcanics	ns076e	ns076	ns076e1	ns076e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	723	K		MAG	u	46.9	Magnetite remanence.	l	34.3	1.9	4	100
+This study	North Shore Volcanics	ns076f	ns076	ns076f1	ns076f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	773	K		MAG	u	282.9	Magnetite remanence.	l	56.2	3.7	5	100
+This study	North Shore Volcanics	ns077b	ns077	ns077b1	ns077b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	723	K		MAG	u	313	Magnetite remanence.	l	32.2	2	5	100
+This study	North Shore Volcanics	ns077c	ns077	ns077c1	ns077c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	673	K		MAG	u	307.4	Magnetite remanence.	l	32	1.3	4	100
+This study	North Shore Volcanics	ns077f	ns077	ns077f1	ns077f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	673	K		MAG	u	311.6	Magnetite remanence.	l	40.4	3.7	5	100
+This study	North Shore Volcanics	ns077g	ns077	ns077g1	ns077g1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	573	K		MAG	u	302	Magnetite remanence.	l	33.3	3	6	100
+This study	North Shore Volcanics	ns079c	ns079	ns079c1	ns079c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	673	K		MAG	u	295.8	Magnetite remanence.	l	58.2	3.7	4	100
+This study	North Shore Volcanics	ns079e	ns079	ns079e2	ns079e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	673	K		MAG	u	294.4	Magnetite remanence.	l	47.8	2.6	5	100
+This study	North Shore Volcanics	ns083e	ns083	ns083e1	ns083e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	723	K		MAG	u	287.2	Magnetite remanence.	l	50.5	1.1	5	100
+This study	North Shore Volcanics	ns002a	ns002	ns002a1	ns002a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.03	T		MAG	u	281	Magnetite remanence.	l	43.7	1.5	9	100
+This study	North Shore Volcanics	ns004a	ns004	ns004a1	ns004a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.06	0.015	T		MAG	u	294	Magnetite remanence.	l	49.9	1.6	6	100
+This study	North Shore Volcanics	ns004c	ns004	ns004c1	ns004c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	573	K		MAG	u	295.2	Magnetite remanence.	l	55.3	4.9	4	100
+This study	North Shore Volcanics	ns004e	ns004	ns004e1	ns004e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	673	K		MAG	u	289.6	Magnetite remanence.	l	44.1	1.1	5	100
+This study	North Shore Volcanics	ns004f	ns004	ns004f1	ns004f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	673	K		MAG	u	290.5	Magnetite remanence.	l	43.8	3	5	100
+This study	North Shore Volcanics	ns004g	ns004	ns004g1	ns004g1 : LT-NO	LP-DIR-AF : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.06	0.015	T		MAG	u	282.2	Magnetite remanence.	l	45.6	1.5	6	100
+This study	North Shore Volcanics	ns005b	ns005	ns005b1	ns005b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	273	K		MAG	u	302.1	Magnetite remanence.	l	36.5	1.9	11	100
+This study	North Shore Volcanics	ns005c	ns005	ns005c1	ns005c1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	273	K		MAG	u	304.9	Magnetite remanence.	l	37.2	1.8	8	100
+This study	North Shore Volcanics	ns005e	ns005	ns005e1	ns005e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	273	K		MAG	u	291.4	Magnetite remanence.	l	38.4	2.1	10	100
+This study	North Shore Volcanics	ns005g	ns005	ns005g1	ns005g1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	273	K		MAG	u	300.5	Magnetite remanence.	l	38	2.1	10	100
+This study	North Shore Volcanics	ns009b	ns009	ns009b1	ns009b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	473	K		MAG	u	277.2	Magnetite remanence.	l	49.9	2	9	100
+This study	North Shore Volcanics	ns012a	ns012	ns012a1	ns012a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.05	T		MAG	u	279.7	Magnetite remanence.	l	42.8	1	7	100
+This study	North Shore Volcanics	ns015d	ns015	ns015d1	ns015d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	673	K		MAG	u	292.1	Magnetite remanence.	l	23.5	0.7	4	100
+This study	North Shore Volcanics	ns016a	ns016	ns016a1	ns016a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.04	0.01	T		MAG	u	274.2	Magnetite remanence.	l	52.5	0.9	5	100
+This study	North Shore Volcanics	ns016b	ns016	ns016b1	ns016b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	723	K		MAG	u	269.9	Magnetite remanence.	l	49.1	1.1	5	100
+This study	North Shore Volcanics	ns016c	ns016	ns016c1	ns016c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	773	373	K		MAG	u	194.8	Magnetite remanence.	p	-9.1	5	5	100
+This study	North Shore Volcanics	ns016e	ns016	ns016e2	ns016e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	823	673	K		MAG	u	302.7	Magnetite remanence.	l	63.8	2.8	4	100
+This study	North Shore Volcanics	ns016f	ns016	ns016f1	ns016f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	673	K		MAG	u	274.2	Magnetite remanence.	l	57.2	1.4	5	100
+This study	North Shore Volcanics	ns019a	ns019	ns019a1	ns019a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0	T		MAG	u	275.4	Magnetite remanence.	l	56.8	0.9	14	100
+This study	North Shore Volcanics	ns019b	ns019	ns019b1	ns019b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	773	K		MAG	u	277.4	Magnetite remanence.	l	47.3	0.4	4	100
+This study	North Shore Volcanics	ns019c	ns019	ns019c1	ns019c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	373	K		MAG	u	271.2	Magnetite remanence.	l	54.7	1.5	6	100
+This study	North Shore Volcanics	ns019d	ns019	ns019d2	ns019d2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	723	K		MAG	u	270.1	Magnetite remanence.	l	57.6	0.6	4	100
+This study	North Shore Volcanics	ns019e	ns019	ns019e1	ns019e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	673	K		MAG	u	274.9	Magnetite remanence.	l	57.3	0.6	5	100
+This study	North Shore Volcanics	ns022a	ns022	ns022a1	ns022a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.15	0	T		MAG	u	37.2	Magnetite remanence.	p	2.5	4.2	13	100
+This study	North Shore Volcanics	ns022b	ns022	ns022b1	ns022b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	848	623	K		MAG	u	294.8	Magnetite remanence.	l	41.6	3.7	6	100
+This study	North Shore Volcanics	ns022c	ns022	ns022c1	ns022c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	673	K		MAG	u	301.2	Magnetite remanence.	l	41.5	2.1	4	100
+This study	North Shore Volcanics	ns022e	ns022	ns022e1	ns022e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	723	K		MAG	u	301.2	Magnetite remanence.	l	35.4	0.4	5	100
+This study	North Shore Volcanics	ns022f	ns022	ns022f1	ns022f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	773	K		MAG	u	303.8	Magnetite remanence.	l	33.6	0.8	4	100
+This study	North Shore Volcanics	ns024a	ns024	ns024a1	ns024a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0	T		MAG	u	114.4	Magnetite remanence.	l	-72.1	1	14	100
+This study	North Shore Volcanics	ns026a	ns026	ns026a1	ns026a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.15	0.02	T		MAG	u	126.1	Magnetite remanence.	l	-61.4	0.6	9	100
+This study	North Shore Volcanics	ns026b	ns026	ns026b2	ns026b2 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.1	0.01	T		MAG	u	124.1	Magnetite remanence.	l	-63.3	1	9	100
+This study	North Shore Volcanics	ns026c	ns026	ns026c2	ns026c2 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.1	0.01	T		MAG	u	121	Magnetite remanence.	l	-64.9	1	9	100
+This study	North Shore Volcanics	ns026d	ns026	ns026d1	ns026d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	773	K		MAG	u	134.8	Magnetite remanence.	l	-58.3	0.4	4	100
+This study	North Shore Volcanics	ns026e	ns026	ns026e2	ns026e2 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.15	0.01	T		MAG	u	123.2	Magnetite remanence.	l	-62.2	1.5	11	100
+This study	North Shore Volcanics	ns027a	ns027	ns027a1	ns027a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.005	T		MAG	u	294.6	Magnetite remanence.	l	48.8	2.6	13	100
+This study	North Shore Volcanics	ns027b	ns027	ns027b1	ns027b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	673	K		MAG	u	290.3	Magnetite remanence.	l	41.1	1.2	6	100
+This study	North Shore Volcanics	ns027c	ns027	ns027c1	ns027c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	573	K		MAG	u	294.2	Magnetite remanence.	l	47.7	3.4	4	100
+This study	North Shore Volcanics	ns027d	ns027	ns027d2	ns027d2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	373	K		MAG	u	293.6	Magnetite remanence.	l	46.5	3	7	100
+This study	North Shore Volcanics	ns027e	ns027	ns027e2	ns027e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	673	K		MAG	u	297.4	Magnetite remanence.	l	49.6	2.3	5	100
+This study	North Shore Volcanics	ns028a	ns028	ns028a1	ns028a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.02	T		MAG	u	290.1	Magnetite remanence.	l	36.8	1	10	100
+This study	North Shore Volcanics	ns028b	ns028	ns028b1	ns028b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	623	K		MAG	u	293.4	Magnetite remanence.	l	31.5	1	7	100
+This study	North Shore Volcanics	ns028c	ns028	ns028c1	ns028c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	673	K		MAG	u	287.6	Magnetite remanence.	l	30.7	0.4	4	100
+This study	North Shore Volcanics	ns028e	ns028	ns028e2	ns028e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	723	K		MAG	u	286.1	Magnetite remanence.	l	33.1	0.7	4	100
+This study	North Shore Volcanics	ns028f	ns028	ns028f2	ns028f2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	673	K		MAG	u	286	Magnetite remanence.	l	31.3	0.6	5	100
+This study	North Shore Volcanics	ns029a	ns029	ns029a1	ns029a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.08	0.01	T		MAG	u	292.9	Magnetite remanence.	l	25.5	1.8	8	100
+This study	North Shore Volcanics	ns029b	ns029	ns029b1	ns029b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	773	K		MAG	u	294.6	Magnetite remanence.	l	28.4	0.6	4	100
+This study	North Shore Volcanics	ns029c	ns029	ns029c1	ns029c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	673	K		MAG	u	294.7	Magnetite remanence.	l	31	0.9	3	100
+This study	North Shore Volcanics	ns029e	ns029	ns029e1	ns029e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	823	K		MAG	u	298.1	Magnetite remanence.	l	31.7	181	2	100
+This study	North Shore Volcanics	ns029f	ns029	ns029f2	ns029f2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	773	K		MAG	u	298.6	Magnetite remanence.	l	33.9	0.6	3	100
+This study	North Shore Volcanics	ns031a	ns031	ns031a1	ns031a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.02	T		MAG	u	289.1	Magnetite remanence.	l	33.5	1	10	100
+This study	North Shore Volcanics	ns031b	ns031	ns031b1	ns031b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	623	K		MAG	u	287.8	Magnetite remanence.	l	32.3	1.5	7	100
+This study	North Shore Volcanics	ns031c	ns031	ns031c1	ns031c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	673	K		MAG	u	285.5	Magnetite remanence.	l	30.5	0.2	4	100
+This study	North Shore Volcanics	ns031d	ns031	ns031d2	ns031d2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	673	K		MAG	u	288.2	Magnetite remanence.	l	32.9	0.6	6	100
+This study	North Shore Volcanics	ns031f	ns031	ns031f1	ns031f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	573	K		MAG	u	289.6	Magnetite remanence.	l	35.5	1	7	100
+This study	North Shore Volcanics	ns033a	ns033	ns033a1	ns033a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.03	T		MAG	u	277.4	Magnetite remanence.	l	32.5	1	9	100
+This study	North Shore Volcanics	ns033b	ns033	ns033b1	ns033b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	898	673	K		MAG	u	273.7	Magnetite remanence.	l	29.9	2.8	7	100
+This study	North Shore Volcanics	ns033c	ns033	ns033c1	ns033c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	673	K		MAG	u	274.1	Magnetite remanence.	l	26.7	0.3	3	100
+This study	North Shore Volcanics	ns035a	ns035	ns035a1	ns035a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.03	T		MAG	u	289.7	Magnetite remanence.	l	56.9	0.7	9	100
+This study	North Shore Volcanics	ns035b	ns035	ns035b1	ns035b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	898	823	K		MAG	u	294.4	Magnetite remanence.	l	55.8	0.6	4	100
+This study	North Shore Volcanics	ns035c	ns035	ns035c2	ns035c2 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.01	T		MAG	u	293.7	Magnetite remanence.	l	55.9	1.2	12	100
+This study	North Shore Volcanics	ns035d	ns035	ns035d2	ns035d2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	473	K		MAG	u	297.5	Magnetite remanence.	l	55.4	1.4	8	100
+This study	North Shore Volcanics	ns035e	ns035	ns035e2	ns035e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	473	K		MAG	u	293.6	Magnetite remanence.	l	55.5	0.7	8	100
+This study	North Shore Volcanics	ns036e	ns036	ns036e2	ns036e2 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	673	K		MAG	u	302.1	Magnetite remanence.	l	58.1	1.3	5	100
+This study	North Shore Volcanics	ns037a	ns037	ns037a1	ns037a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.03	T		MAG	u	292.9	Magnetite remanence.	l	52.6	0.7	9	100
+This study	North Shore Volcanics	ns037b	ns037	ns037b1	ns037b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	898	773	K		MAG	u	297.2	Magnetite remanence.	l	53.2	0.5	5	100
+This study	North Shore Volcanics	ns037c	ns037	ns037c2	ns037c2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	473	K		MAG	u	294.4	Magnetite remanence.	l	52.5	2	5	100
+This study	North Shore Volcanics	ns037f	ns037	ns037f2	ns037f2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	473	K		MAG	u	288.8	Magnetite remanence.	l	50.1	2.8	7	100
+This study	North Shore Volcanics	ns037g	ns037	ns037g1	ns037g1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	773	K		MAG	u	294	Magnetite remanence.	l	57.8	0.6	4	100
+This study	North Shore Volcanics	ns040a	ns040	ns040a1	ns040a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.04	T		MAG	u	292.3	Magnetite remanence.	l	57.1	2.4	8	100
+This study	North Shore Volcanics	ns040b	ns040	ns040b1	ns040b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	898	773	K		MAG	u	288.8	Magnetite remanence.	l	58.3	0.6	5	100
+This study	North Shore Volcanics	ns040c	ns040	ns040c1	ns040c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	573	K		MAG	u	282.4	Magnetite remanence.	l	54.3	1.4	4	100
+This study	North Shore Volcanics	ns040e	ns040	ns040e2	ns040e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	673	K		MAG	u	290.6	Magnetite remanence.	l	52.8	1	5	100
+This study	North Shore Volcanics	ns040f	ns040	ns040f2	ns040f2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	673	K		MAG	u	293.7	Magnetite remanence.	l	55	0.9	5	100
+This study	North Shore Volcanics	ns041a	ns041	ns041a1	ns041a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.1	0.04	T		MAG	u	287.4	Magnetite remanence.	l	51.4	3.1	5	100
+This study	North Shore Volcanics	ns041c	ns041	ns041c1	ns041c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	473	K		MAG	u	286.2	Magnetite remanence.	l	49.3	1.6	5	100
+This study	North Shore Volcanics	ns041d	ns041	ns041d1	ns041d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	723	K		MAG	u	279.7	Magnetite remanence.	l	49.7	0.6	4	100
+This study	North Shore Volcanics	ns041e	ns041	ns041e1	ns041e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	673	K		MAG	u	284.1	Magnetite remanence.	l	51.1	1	5	100
+This study	North Shore Volcanics	ns041f	ns041	ns041f3	ns041f3 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.12	0.01	T		MAG	u	285	Magnetite remanence.	l	48.5	1.5	10	100
+This study	North Shore Volcanics	ns043a	ns043	ns043a1	ns043a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.01	T		MAG	u	269.1	Magnetite remanence.	l	31.5	0.8	12	100
+This study	North Shore Volcanics	ns043b	ns043	ns043b1	ns043b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	898	473	K		MAG	u	279	Magnetite remanence.	l	29.7	0.8	10	100
+This study	North Shore Volcanics	ns043c	ns043	ns043c2	ns043c2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	573	K		MAG	u	280.9	Magnetite remanence.	l	29.2	1	5	100
+This study	North Shore Volcanics	ns043e	ns043	ns043e1	ns043e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	673	K		MAG	u	267.4	Magnetite remanence.	l	34.1	1	6	100
+This study	North Shore Volcanics	ns043f	ns043	ns043f2	ns043f2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	673	K		MAG	u	272.9	Magnetite remanence.	l	35.7	0.7	6	100
+This study	North Shore Volcanics	ns044e	ns044	ns044e1	ns044e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	673	K		MAG	u	279.3	Magnetite remanence.	l	45.3	0.7	6	100
+This study	North Shore Volcanics	ns045a	ns045	ns045a1	ns045a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.04	T		MAG	u	274.4	Magnetite remanence.	l	29.9	1.3	8	100
+This study	North Shore Volcanics	ns045b	ns045	ns045b1	ns045b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	898	773	K		MAG	u	273.1	Magnetite remanence.	l	33.7	0.3	5	100
+This study	North Shore Volcanics	ns045c	ns045	ns045c1	ns045c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	673	K		MAG	u	268.1	Magnetite remanence.	l	27.3	0.3	3	100
+This study	North Shore Volcanics	ns045e	ns045	ns045e1	ns045e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	673	K		MAG	u	271.8	Magnetite remanence.	l	29.1	0.6	6	100
+This study	North Shore Volcanics	ns045f	ns045	ns045f1	ns045f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	673	K		MAG	u	272.8	Magnetite remanence.	l	29.9	0.4	6	100
+This study	North Shore Volcanics	ns046b	ns046	ns046b1	ns046b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	898	623	K		MAG	u	297.8	Magnetite remanence.	l	44.5	1.1	8	100
+This study	North Shore Volcanics	ns046c	ns046	ns046c1	ns046c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	573	K		MAG	u	306	Magnetite remanence.	l	46.9	0.6	4	100
+This study	North Shore Volcanics	ns046d	ns046	ns046d2	ns046d2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	773	K		MAG	u	305.9	Magnetite remanence.	l	47.4	0.5	3	100
+This study	North Shore Volcanics	ns046f	ns046	ns046f1	ns046f1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.12	0.01	T		MAG	u	302.2	Magnetite remanence.	l	43	1.3	10	100
+This study	North Shore Volcanics	ns046h	ns046	ns046h2	ns046h2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	773	K		MAG	u	311	Magnetite remanence.	l	36.2	1.7	4	100
+This study	North Shore Volcanics	ns048b	ns048	ns048b1	ns048b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	898	623	K		MAG	u	298.4	Magnetite remanence.	l	56.9	4.5	8	100
+This study	North Shore Volcanics	ns048c	ns048	ns048c1	ns048c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	573	K		MAG	u	301.8	Magnetite remanence.	l	51.8	0.3	4	100
+This study	North Shore Volcanics	ns048d	ns048	ns048d1	ns048d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	673	K		MAG	u	311.2	Magnetite remanence.	l	52.1	1.7	6	100
+This study	North Shore Volcanics	ns048e	ns048	ns048e2	ns048e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	773	K		MAG	u	312.9	Magnetite remanence.	l	63.8	1.4	4	100
+This study	North Shore Volcanics	ns049a	ns049	ns049a1	ns049a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.02	T		MAG	u	302.2	Magnetite remanence.	l	53.2	1.2	10	100
+This study	North Shore Volcanics	ns049b	ns049	ns049b1	ns049b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	898	623	K		MAG	u	294.2	Magnetite remanence.	l	47.8	2.4	8	100
+This study	North Shore Volcanics	ns049e	ns049	ns049e2	ns049e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	473	K		MAG	u	308.3	Magnetite remanence.	l	57.8	1.3	7	100
+This study	North Shore Volcanics	ns049f	ns049	ns049f2	ns049f2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	473	K		MAG	u	307.7	Magnetite remanence.	l	57.5	0.8	7	100
+This study	North Shore Volcanics	ns050a	ns050	ns050a1	ns050a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.01	T		MAG	u	290.1	Magnetite remanence.	l	48.3	0.3	12	100
+This study	North Shore Volcanics	ns050c	ns050	ns050c1	ns050c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	573	K		MAG	u	293.8	Magnetite remanence.	l	46.9	0.7	4	100
+This study	North Shore Volcanics	ns050d	ns050	ns050d2	ns050d2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	673	K		MAG	u	289.4	Magnetite remanence.	l	41.5	2.8	5	100
+This study	North Shore Volcanics	ns050f	ns050	ns050f1	ns050f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	723	K		MAG	u	291.8	Magnetite remanence.	l	41.9	0.9	5	100
+This study	North Shore Volcanics	ns052a	ns052	ns052a1	ns052a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.1	0.02	T		MAG	u	294.4	Magnetite remanence.	l	48.2	1.3	7	100
+This study	North Shore Volcanics	ns052c	ns052	ns052c1	ns052c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	473	K		MAG	u	307.1	Magnetite remanence.	l	57.8	2.4	5	100
+This study	North Shore Volcanics	ns052d	ns052	ns052d1	ns052d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	673	K		MAG	u	292.1	Magnetite remanence.	l	53.6	0.4	5	100
+This study	North Shore Volcanics	ns052f	ns052	ns052f1	ns052f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	673	K		MAG	u	290.6	Magnetite remanence.	l	56.6	0.4	5	100
+This study	North Shore Volcanics	ns053b	ns053	ns053b1	ns053b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	898	723	K		MAG	u	295.4	Magnetite remanence.	l	41	0.7	6	100
+This study	North Shore Volcanics	ns053c	ns053	ns053c1	ns053c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	373	K		MAG	u	296.3	Magnetite remanence.	l	47.2	2.3	6	100
+This study	North Shore Volcanics	ns053e	ns053	ns053e2	ns053e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	723	K		MAG	u	293.9	Magnetite remanence.	l	41.6	0.3	4	100
+This study	North Shore Volcanics	ns053f	ns053	ns053f2	ns053f2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	723	K		MAG	u	295	Magnetite remanence.	l	42.3	1	4	100
+This study	North Shore Volcanics	ns054b	ns054	ns054b1	ns054b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	898	773	K		MAG	u	278.4	Magnetite remanence.	l	51.6	0.8	5	100
+This study	North Shore Volcanics	ns054c	ns054	ns054c1	ns054c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	573	K		MAG	u	302.2	Magnetite remanence.	l	59	0.6	4	100
+This study	North Shore Volcanics	ns054d	ns054	ns054d1	ns054d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	723	K		MAG	u	285.3	Magnetite remanence.	l	56.1	0.4	4	100
+This study	North Shore Volcanics	ns054f	ns054	ns054f1	ns054f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	473	K		MAG	u	294.4	Magnetite remanence.	l	55.8	0.6	7	100
+This study	North Shore Volcanics	ns056b	ns056	ns056b1	ns056b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	898	573	K		MAG	u	295.9	Magnetite remanence.	l	39.2	0.9	9	100
+This study	North Shore Volcanics	ns056c	ns056	ns056c1	ns056c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	673	K		MAG	u	301	Magnetite remanence.	l	42.9	0.4	4	100
+This study	North Shore Volcanics	ns056d	ns056	ns056d1	ns056d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	673	K		MAG	u	298.3	Magnetite remanence.	l	42.2	1.1	6	100
+This study	North Shore Volcanics	ns056e	ns056	ns056e2	ns056e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	673	K		MAG	u	298.4	Magnetite remanence.	l	40.7	0.6	6	100
+This study	North Shore Volcanics	ns058a	ns058	ns058a1	ns058a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.03	T		MAG	u	315.5	Magnetite remanence.	l	49	1.5	9	100
+This study	North Shore Volcanics	ns058b	ns058	ns058b1	ns058b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	848	473	K		MAG	u	341.8	Magnetite remanence.	p	-26.2	5.5	8	100
+This study	North Shore Volcanics	ns058c	ns058	ns058c1	ns058c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	673	K		MAG	u	306.8	Magnetite remanence.	l	49.4	1.4	3	100
+This study	North Shore Volcanics	ns058d	ns058	ns058d2	ns058d2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	273	K		MAG	u	304.1	Magnetite remanence.	l	48.5	1.1	10	100
+This study	North Shore Volcanics	ns058e	ns058	ns058e2	ns058e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	673	K		MAG	u	302.7	Magnetite remanence.	l	54.9	0.8	5	100
+This study	North Shore Volcanics	ns059a	ns059	ns059a1	ns059a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.04	T		MAG	u	279.2	Magnetite remanence.	l	42.8	1.9	7	100
+This study	North Shore Volcanics	ns059c	ns059	ns059c2	ns059c2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	673	K		MAG	u	287.9	Magnetite remanence.	l	40.5	2.1	5	100
+This study	North Shore Volcanics	ns059f	ns059	ns059f1	ns059f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	673	K		MAG	u	306.3	Magnetite remanence.	l	45.5	1.4	6	100
+This study	North Shore Volcanics	ns059g	ns059	ns059g2	ns059g2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	673	K		MAG	u	288.3	Magnetite remanence.	l	46.8	1.2	5	100
+This study	North Shore Volcanics	ns060d	ns060	ns060d1	ns060d1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.1	0.02	T		MAG	u	294.6	Magnetite remanence.	l	44	5.2	7	100
+This study	North Shore Volcanics	ns060d	ns060	ns060d2	ns060d2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	723	K		MAG	u	294.6	Magnetite remanence.	l	43.8	1.4	5	100
+This study	North Shore Volcanics	ns085b	ns085	ns085b1	ns085b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	273	K		HEM	u	277.9	Hematite remanence.	l	17.6	2.8	13	0
+This study	North Shore Volcanics	ns085c	ns085	ns085c1	ns085c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	273	K		HEM	u	277.8	Hematite remanence.	l	18.3	3.1	10	0
+This study	North Shore Volcanics	ns085f	ns085	ns085f1	ns085f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	273	K		HEM	u	281.3	Hematite remanence.	l	18.7	3.2	11	0
+This study	North Shore Volcanics	ns085g	ns085	ns085g1	ns085g1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	573	K		HEM	u	279.7	Hematite remanence.	l	17.5	1.6	8	0
+This study	North Shore Volcanics	ns087a	ns087	ns087a1	ns087a1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	773	K		HEM	u	279.6	Hematite remanence.	l	19.6	1	5	0
+This study	North Shore Volcanics	ns087b	ns087	ns087b1	ns087b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	673	K		HEM	u	277.3	Hematite remanence.	l	16.8	2.6	8	0
+This study	North Shore Volcanics	ns087c	ns087	ns087c1	ns087c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	773	K		HEM	u	283.5	Hematite remanence.	l	16.1	1.4	5	0
+This study	North Shore Volcanics	ns087d	ns087	ns087d1	ns087d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	723	K		HEM	u	287.8	Hematite remanence.	l	25.8	1.5	6	0
+This study	North Shore Volcanics	ns087e	ns087	ns087e1	ns087e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	673	K		HEM	u	281.7	Hematite remanence.	l	21.7	2.3	7	0
+This study	North Shore Volcanics	ns008a	ns008	ns008a1	ns008a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	0.01	K		HEM	u	321.8	Hematite remanence.	l	33.4	2.3	20	0
+This study	North Shore Volcanics	ns008b	ns008	ns008b1	ns008b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	473	K		HEM	u	318.1	Hematite remanence.	l	36.3	1.8	11	0
+This study	North Shore Volcanics	ns008c	ns008	ns008c1	ns008c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	273	K		HEM	u	312	Hematite remanence.	l	33.3	2.2	8	0
+This study	North Shore Volcanics	ns008d	ns008	ns008d1	ns008d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	273	K		HEM	u	310.8	Hematite remanence.	l	33.7	2.9	10	0
+This study	North Shore Volcanics	ns008h	ns008	ns008h1	ns008h1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	273	K		HEM	u	307.2	Hematite remanence.	l	32.8	2.3	11	0
+This study	North Shore Volcanics	ns009a	ns009	ns009a1	ns009a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	673	K		HEM	u	290.6	Hematite remanence.	l	46.5	1.5	6	0
+This study	North Shore Volcanics	ns009c	ns009	ns009c1	ns009c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	573	K		HEM	u	289.7	Hematite remanence.	l	40.9	1	6	0
+This study	North Shore Volcanics	ns009e	ns009	ns009e1	ns009e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	273	K		HEM	u	294.8	Hematite remanence.	l	41.3	1	11	0
+This study	North Shore Volcanics	ns009f	ns009	ns009f1	ns009f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	823	K		HEM	u	290.9	Hematite remanence.	l	37.6	1.2	4	0
+This study	North Shore Volcanics	ns010a	ns010	ns010a1	ns010a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	473	K		HEM	u	290.7	Hematite remanence.	l	31.6	2.1	8	0
+This study	North Shore Volcanics	ns010b	ns010	ns010b1	ns010b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	723	K		HEM	u	288	Hematite remanence.	l	28.6	1	7	0
+This study	North Shore Volcanics	ns010c	ns010	ns010c1	ns010c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	473	K		HEM	u	291.1	Hematite remanence.	l	33.3	0.5	6	0
+This study	North Shore Volcanics	ns010d	ns010	ns010d1	ns010d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	273	K		HEM	u	290.9	Hematite remanence.	l	34.7	1.3	10	0
+This study	North Shore Volcanics	ns010e	ns010	ns010e1	ns010e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	473	K		HEM	u	300.7	Hematite remanence.	l	30.1	1.2	8	0
+This study	North Shore Volcanics	ns011a	ns011	ns011a1	ns011a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.01	T		HEM	u	291.8	Hematite remanence.	l	22.7	0.9	12	0
+This study	North Shore Volcanics	ns011b	ns011	ns011b1	ns011b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	773	K		HEM	u	294.4	Hematite remanence.	l	22.4	1.1	6	0
+This study	North Shore Volcanics	ns011c	ns011	ns011c1	ns011c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	673	K		HEM	u	294.7	Hematite remanence.	l	16	0.8	4	0
+This study	North Shore Volcanics	ns011d	ns011	ns011d1	ns011d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	723	K		HEM	u	289.2	Hematite remanence.	l	19.8	0.8	5	0
+This study	North Shore Volcanics	ns011e	ns011	ns011e1	ns011e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	673	K		HEM	u	298.8	Hematite remanence.	l	14.1	0.5	6	0
+This study	North Shore Volcanics	ns012b	ns012	ns012b1	ns012b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	823	K		HEM	u	284.1	Hematite remanence.	l	44.1	0.3	5	0
+This study	North Shore Volcanics	ns012c	ns012	ns012c1	ns012c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	673	K		HEM	u	290.2	Hematite remanence.	l	30.4	0.9	4	0
+This study	North Shore Volcanics	ns012d	ns012	ns012d2	ns012d2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	373	K		HEM	u	289.3	Hematite remanence.	l	27.7	1.2	9	0
+This study	North Shore Volcanics	ns012e	ns012	ns012e2	ns012e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	373	K		HEM	u	290.6	Hematite remanence.	l	27.6	1.1	9	0
+This study	North Shore Volcanics	ns013a	ns013	ns013a1	ns013a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	823	K		HEM	u	293.9	Hematite remanence.	l	25.4	1.4	4	0
+This study	North Shore Volcanics	ns013c	ns013	ns013c1	ns013c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	773	K		HEM	u	289.2	Hematite remanence.	l	31.8	0.4	4	0
+This study	North Shore Volcanics	ns013d	ns013	ns013d3	ns013d3 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	673	K		HEM	u	290.7	Hematite remanence.	l	27.8	0.7	6	0
+This study	North Shore Volcanics	ns013e	ns013	ns013e3	ns013e3 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	673	K		HEM	u	287.9	Hematite remanence.	l	31.6	0.5	7	0
+This study	North Shore Volcanics	ns014a	ns014	ns014a1	ns014a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.02	T		HEM	u	276	Hematite remanence.	l	24.1	1.2	10	0
+This study	North Shore Volcanics	ns014b	ns014	ns014b1	ns014b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	473	K		HEM	u	277.7	Hematite remanence.	l	24.7	1.2	9	0
+This study	North Shore Volcanics	ns014c	ns014	ns014c1	ns014c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	473	K		HEM	u	280.3	Hematite remanence.	l	25.3	1.1	6	0
+This study	North Shore Volcanics	ns014d	ns014	ns014d1	ns014d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	573	K		HEM	u	275.7	Hematite remanence.	l	22.4	2.5	7	0
+This study	North Shore Volcanics	ns014f	ns014	ns014f1	ns014f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	473	K		HEM	u	278.8	Hematite remanence.	l	23.2	1.7	8	0
+This study	North Shore Volcanics	ns015a	ns015	ns015a1	ns015a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	473	K		HEM	u	297.7	Hematite remanence.	l	15.7	1.9	8	0
+This study	North Shore Volcanics	ns015b	ns015	ns015b1	ns015b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	823	K		HEM	u	295.8	Hematite remanence.	l	15.9	0.6	5	0
+This study	North Shore Volcanics	ns015e	ns015	ns015e2	ns015e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	723	K		HEM	u	287.9	Hematite remanence.	l	16.9	0.4	6	0
+This study	North Shore Volcanics	ns015g	ns015	ns015g1	ns015g1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	723	K		HEM	u	296.6	Hematite remanence.	l	16.8	0.5	5	0
+This study	North Shore Volcanics	ns018a	ns018	ns018a1	ns018a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	673	K		HEM	u	319.8	Hematite remanence.	l	3.5	1.5	5	0
+This study	North Shore Volcanics	ns018b	ns018	ns018b1	ns018b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	573	K		HEM	u	307.8	Hematite remanence.	l	9.7	1.6	10	0
+This study	North Shore Volcanics	ns018c	ns018	ns018c1	ns018c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	673	K		HEM	u	312	Hematite remanence.	l	8.9	1.1	4	0
+This study	North Shore Volcanics	ns018e	ns018	ns018e2	ns018e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	723	K		HEM	u	300.8	Hematite remanence.	l	0.1	1.8	5	0
+This study	North Shore Volcanics	ns018g	ns018	ns018g1	ns018g1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	373	K		HEM	u	322.4	Hematite remanence.	l	5.2	1.6	9	0
+This study	North Shore Volcanics	ns020a	ns020	ns020a1	ns020a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	673	K		HEM	u	302	Hematite remanence.	l	1	0.8	6	0
+This study	North Shore Volcanics	ns020b	ns020	ns020b1	ns020b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	848	K		HEM	u	310.2	Hematite remanence.	l	5.8	0.4	4	0
+This study	North Shore Volcanics	ns020c	ns020	ns020c1	ns020c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	673	K		HEM	u	307.8	Hematite remanence.	l	10	0.4	5	0
+This study	North Shore Volcanics	ns020d	ns020	ns020d1	ns020d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	773	K		HEM	u	301.7	Hematite remanence.	l	9.8	0.3	5	0
+This study	North Shore Volcanics	ns020e	ns020	ns020e2	ns020e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	823	K		HEM	u	297.4	Hematite remanence.	l	9.5	1.4	4	0
+This study	North Shore Volcanics	ns021a	ns021	ns021a1	ns021a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	823	K		HEM	u	312.9	Hematite remanence.	l	17.5	1.1	4	0
+This study	North Shore Volcanics	ns021b	ns021	ns021b1	ns021b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	723	K		HEM	u	311.2	Hematite remanence.	l	21.5	0.5	7	0
+This study	North Shore Volcanics	ns021c	ns021	ns021c1	ns021c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	773	K		HEM	u	309.8	Hematite remanence.	l	24	1.8	4	0
+This study	North Shore Volcanics	ns021d	ns021	ns021d2	ns021d2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	723	K		HEM	u	310.6	Hematite remanence.	l	21.3	1.4	6	0
+This study	North Shore Volcanics	ns021e	ns021	ns021e1	ns021e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	673	K		HEM	u	313.2	Hematite remanence.	l	20.9	1.5	7	0
+This study	North Shore Volcanics	ns023a	ns023	ns023a1	ns023a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	473	K		HEM	u	305.5	Hematite remanence.	l	15.7	4.8	7	0
+This study	North Shore Volcanics	ns023b	ns023	ns023b1	ns023b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	823	K		HEM	u	305.1	Hematite remanence.	l	11.6	0.6	5	0
+This study	North Shore Volcanics	ns023c	ns023	ns023c1	ns023c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	573	K		HEM	u	304	Hematite remanence.	l	16.2	1.7	6	0
+This study	North Shore Volcanics	ns023e	ns023	ns023e1	ns023e1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	823	K		HEM	u	307.9	Hematite remanence.	l	11.8	0.5	4	0
+This study	North Shore Volcanics	ns023g	ns023	ns023g1	ns023g1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	773	K		HEM	u	305.6	Hematite remanence.	l	14.5	0.8	5	0
+This study	North Shore Volcanics	ns024b	ns024	ns024b1	ns024b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	273	K		HEM	u	156.2	Hematite remanence.	l	-73.8	1.1	13	0
+This study	North Shore Volcanics	ns024c	ns024	ns024c1	ns024c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	273	K		HEM	u	149.6	Hematite remanence.	l	-68	1.3	9	0
+This study	North Shore Volcanics	ns024e	ns024	ns024e2	ns024e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	373	K		HEM	u	139.6	Hematite remanence.	l	-67.2	1.4	8	0
+This study	North Shore Volcanics	ns024f	ns024	ns024f2	ns024f2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	373	K		HEM	u	145.5	Hematite remanence.	l	-69.6	0.7	9	0
+This study	North Shore Volcanics	ns034a	ns034	ns034a1	ns034a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0	T		HEM	u	293	Hematite remanence.	l	42.8	1.2	14	0
+This study	North Shore Volcanics	ns034b	ns034	ns034b1	ns034b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	773	K		HEM	u	300.4	Hematite remanence.	l	40.3	2.1	7	0
+This study	North Shore Volcanics	ns034c	ns034	ns034c1	ns034c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	773	K		HEM	u	305	Hematite remanence.	l	38.8	0.7	4	0
+This study	North Shore Volcanics	ns034d	ns034	ns034d1	ns034d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	723	K		HEM	u	304.2	Hematite remanence.	l	41.9	3.1	5	0
+This study	North Shore Volcanics	ns034g	ns034	ns034g1	ns034g1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	273	K		HEM	u	294.3	Hematite remanence.	l	46.5	0.8	11	0
+This study	North Shore Volcanics	ns036a	ns036	ns036a1	ns036a1 : LT-NO	LP-DIR-AF : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.015	T		HEM	u	296	Hematite remanence.	l	45.7	0.7	11	0
+This study	North Shore Volcanics	ns036b	ns036	ns036b1	ns036b1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	898	773	K		HEM	u	296.4	Hematite remanence.	l	43.5	0.9	5	0
+This study	North Shore Volcanics	ns036d	ns036	ns036d1	ns036d1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	673	K		HEM	u	304.7	Hematite remanence.	l	37.6	0.8	4	0
+This study	North Shore Volcanics	ns036f	ns036	ns036f1	ns036f1 : LT-NO	LP-DIR-AF : SO-CMD-NORTH : DE-BFP : DA-DIR-GEO	pmagpy-2.03	0.1	0	T		HEM	u	197.4	Hematite remanence.	p	5	3.4	11	0
+This study	North Shore Volcanics	ns039a	ns039	ns039a1	ns039a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	0	K		HEM	u	290.2	Hematite remanence.	l	20.9	0.7	23	0
+This study	North Shore Volcanics	ns039b	ns039	ns039b1	ns039b1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	573	K		HEM	u	285.8	Hematite remanence.	l	19.6	1.8	11	0
+This study	North Shore Volcanics	ns039c	ns039	ns039c1	ns039c1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	673	K		HEM	u	288.4	Hematite remanence.	l	21.2	0.3	5	0
+This study	North Shore Volcanics	ns039d	ns039	ns039d2	ns039d2 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	573	K		HEM	u	289.1	Hematite remanence.	l	23.2	0.5	8	0
+This study	North Shore Volcanics	ns039e	ns039	ns039e1	ns039e1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	573	K		HEM	u	290.3	Hematite remanence.	l	21.3	0.7	8	0
+This study	North Shore Volcanics	ns044a	ns044	ns044a1	ns044a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	0	K		HEM	u	294.4	Hematite remanence.	l	29.1	1.4	22	0
+This study	North Shore Volcanics	ns044b	ns044	ns044b1	ns044b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	898	573	K		HEM	u	292.7	Hematite remanence.	l	29	1.5	9	0
+This study	North Shore Volcanics	ns044d	ns044	ns044d1	ns044d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	673	K		HEM	u	284.1	Hematite remanence.	l	29.3	0.8	4	0
+This study	North Shore Volcanics	ns044f	ns044	ns044f2	ns044f2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	573	K		HEM	u	287.8	Hematite remanence.	l	26.2	0.8	8	0
+This study	North Shore Volcanics	ns046a	ns046	ns046a1	ns046a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.01	T		HEM	u	292.9	Hematite remanence.	l	32.1	0.7	12	0
+This study	North Shore Volcanics	ns049g	ns049	ns049g1	ns049g1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.12	0	T		HEM	u	304.1	Hematite remanence.	l	45.4	1.2	10	0
+This study	North Shore Volcanics	ns050b	ns050	ns050b1	ns050b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	898	773	K		HEM	u	298	Hematite remanence.	l	30.9	0.6	5	0
+This study	North Shore Volcanics	ns052b	ns052	ns052b1	ns052b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	898	623	K		HEM	u	295.7	Hematite remanence.	l	36.1	0.7	8	0
+This study	North Shore Volcanics	ns053a	ns053	ns053a1	ns053a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.02	T		HEM	u	299.1	Hematite remanence.	l	23.9	0.5	10	0
+This study	North Shore Volcanics	ns054a	ns054	ns054a1	ns054a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.02	T		HEM	u	289.3	Hematite remanence.	l	40.4	0.7	10	0
+This study	North Shore Volcanics	ns055a	ns055	ns055a1	ns055a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	673	K		HEM	u	283.9	Hematite remanence.	l	17.6	2.7	6	0
+This study	North Shore Volcanics	ns055b	ns055	ns055b1	ns055b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	623	K		HEM	u	281.9	Hematite remanence.	l	19.8	2.7	10	0
+This study	North Shore Volcanics	ns055c	ns055	ns055c1	ns055c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	773	K		HEM	u	280.9	Hematite remanence.	l	20.7	0.3	4	0
+This study	North Shore Volcanics	ns055e	ns055	ns055e2	ns055e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	723	K		HEM	u	285.3	Hematite remanence.	l	14	2.2	6	0
+This study	North Shore Volcanics	ns055g	ns055	ns055g1	ns055g1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	673	K		HEM	u	289.2	Hematite remanence.	l	16.4	4.5	7	0
+This study	North Shore Volcanics	ns056a	ns056	ns056a1	ns056a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.01	T		HEM	u	292.3	Hematite remanence.	l	22.3	1.2	12	0
+This study	North Shore Volcanics	ns058f	ns058	ns058f1	ns058f1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.12	0.02	T		HEM	u	297.1	Hematite remanence.	l	34	1.4	8	0
+This study	North Shore Volcanics	ns059e	ns059	ns059e1	ns059e1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0	T		HEM	u	291.8	Hematite remanence.	l	29.4	1.4	12	0
+This study	North Shore Volcanics	ns060a	ns060	ns060a1	ns060a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.06	0.03	T		HEM	u	292.3	Hematite remanence.	l	32	3.8	4	0
+This study	North Shore Volcanics	ns060b	ns060	ns060b1	ns060b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	898	723	K		HEM	u	299	Hematite remanence.	l	34.3	7.4	6	0
+This study	North Shore Volcanics	ns060c	ns060	ns060c1	ns060c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	773	K		HEM	u	289.1	Hematite remanence.	l	16.9	2.5	4	0
+This study	North Shore Volcanics	ns060f	ns060	ns060f1	ns060f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	773	K		HEM	u	290.2	Hematite remanence.	l	23.8	2.1	4	0
+This study	North Shore Volcanics	ns062a	ns062	ns062a1	ns062a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.01	T		HEM	u	294.8	Hematite remanence.	l	35.6	1	12	0
+This study	North Shore Volcanics	ns064a	ns064	ns064a1	ns064a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.01	T		HEM	u	301.6	Hematite remanence.	l	31.5	0.8	12	0
+This study	North Shore Volcanics	ns065c	ns065	ns065c2	ns065c2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	673	K		HEM	u	288.9	Hematite remanence.	l	20.6	1.9	6	0
+This study	North Shore Volcanics	ns066a	ns066	ns066a1	ns066a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.02	T		HEM	u	309.9	Hematite remanence.	l	21.3	1.5	10	0
+This study	North Shore Volcanics	ns066c	ns066	ns066c1	ns066c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	673	K		HEM	u	313.7	Hematite remanence.	l	18.3	0.8	5	0
+This study	North Shore Volcanics	ns066d	ns066	ns066d1	ns066d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	723	K		HEM	u	315.2	Hematite remanence.	l	20.2	1.5	5	0
+This study	North Shore Volcanics	ns066e	ns066	ns066e1	ns066e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	673	K		HEM	u	313	Hematite remanence.	l	18.9	1.2	7	0
+This study	North Shore Volcanics	ns067a	ns067	ns067a1	ns067a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.04	T		HEM	u	285.2	Hematite remanence.	l	27	1.8	8	0
+This study	North Shore Volcanics	ns067b	ns067	ns067b1	ns067b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	623	K		HEM	u	286.3	Hematite remanence.	l	25	1	7	0
+This study	North Shore Volcanics	ns067c	ns067	ns067c3	ns067c3 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	673	K		HEM	u	291.8	Hematite remanence.	l	28.2	0.7	6	0
+This study	North Shore Volcanics	ns067e	ns067	ns067e1	ns067e1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.06	T		HEM	u	286.8	Hematite remanence.	l	34.1	4.6	6	0
+This study	North Shore Volcanics	ns068g	ns068	ns068g2	ns068g2 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.12	0.02	T		HEM	u	310.5	Hematite remanence.	l	17.7	1.6	8	0
+This study	North Shore Volcanics	ns070a	ns070	ns070a1	ns070a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0	T		HEM	u	345.3	Hematite remanence.	l	66.7	2.6	14	0
+This study	North Shore Volcanics	ns070c	ns070	ns070c1	ns070c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03	673	273	K		HEM	u	30.5	Hematite remanence.	p	-4.3	5.7	5	0
+This study	North Shore Volcanics	ns070c	ns070	ns070c2	ns070c2 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0	T		HEM	u	298	Hematite remanence.	l	39.2	3.5	14	0
+This study	North Shore Volcanics	ns070f	ns070	ns070f1	ns070f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03	823	373	K		HEM	u	212.4	Hematite remanence.	p	8.1	5.2	7	0
+This study	North Shore Volcanics	ns071a	ns071	ns071a1	ns071a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03	0.18	0.005	K		HEM	u	223.2	Hematite remanence.	p	12.4	4.5	13	0
+This study	North Shore Volcanics	ns077a	ns077	ns077a1	ns077a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.005	T		HEM	u	297.7	Hematite remanence.	l	7.8	2.3	13	0
+This study	North Shore Volcanics	ns078c	ns078	ns078c1	ns078c1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	773	K		HEM	u	285.4	Hematite remanence.	l	15.8	2.3	5	0
+This study	North Shore Volcanics	ns078d	ns078	ns078d1	ns078d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	473	K		HEM	u	283.6	Hematite remanence.	l	16.7	3.6	9	0
+This study	North Shore Volcanics	ns078f	ns078	ns078f1	ns078f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	823	K		HEM	u	276.4	Hematite remanence.	l	14.5	1.9	4	0
+This study	North Shore Volcanics	ns078g	ns078	ns078g1	ns078g1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	823	K		HEM	u	272.2	Hematite remanence.	l	17.1	2.2	4	0
+This study	North Shore Volcanics	ns078h	ns078	ns078h1	ns078h1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	823	K		HEM	u	278.4	Hematite remanence.	l	16	1	4	0
+This study	North Shore Volcanics	ns079a	ns079	ns079a1	ns079a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03	0.15	0	K		HEM	u	0.5	Hematite remanence.	p	-22.5	5.4	13	0
+This study	North Shore Volcanics	ns079b	ns079	ns079b1	ns079b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	473	K		HEM	u	288.3	Hematite remanence.	l	29.6	3.7	11	0
+This study	North Shore Volcanics	ns079d	ns079	ns079d1	ns079d1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03	0.18	0	T		HEM	u	183.4	Hematite remanence.	p	16.4	3.4	14	0
+This study	North Shore Volcanics	ns079f	ns079	ns079f1	ns079f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03	573	273	K		HEM	u	183.5	Hematite remanence.	p	20.4	2.9	4	0
+This study	North Shore Volcanics	ns080a	ns080	ns080a1	ns080a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	673	K		HEM	u	292.5	Hematite remanence.	l	20.6	3.2	6	0
+This study	North Shore Volcanics	ns080a	ns080	ns080a2	ns080a2 : LT-NO	LP-DIR-AF : SO-SUN : DE-FM : DA-DIR-GEO	pmagpy-2.03	0.18	0	T	0.3	HEM	u	294	Hematite remanence.	l	24.8		14	0
+This study	North Shore Volcanics	ns080b	ns080	ns080b1	ns080b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	273	K		HEM	u	279.2	Hematite remanence.	l	17.2	4.9	13	0
+This study	North Shore Volcanics	ns080e	ns080	ns080e1	ns080e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	673	K		HEM	u	283.2	Hematite remanence.	l	19.1	1.3	6	0
+This study	North Shore Volcanics	ns080f	ns080	ns080f2	ns080f2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	473	K		HEM	u	283.5	Hematite remanence.	l	17	3.7	9	0
+This study	North Shore Volcanics	ns081a	ns081	ns081a1	ns081a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	473	K		HEM	u	284.4	Hematite remanence.	l	32.7	3.9	8	0
+This study	North Shore Volcanics	ns081b	ns081	ns081b1	ns081b1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	673	K		HEM	u	273.7	Hematite remanence.	l	38.3	1.3	6	0
+This study	North Shore Volcanics	ns081c	ns081	ns081c1	ns081c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	473	K		HEM	u	285	Hematite remanence.	l	36.5	2.6	8	0
+This study	North Shore Volcanics	ns081d	ns081	ns081d2	ns081d2 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	673	K		HEM	u	272.8	Hematite remanence.	l	29.7	3.2	7	0
+This study	North Shore Volcanics	ns081e	ns081	ns081e1	ns081e1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	673	K		HEM	u	270.6	Hematite remanence.	l	26.3	4.6	7	0
+This study	North Shore Volcanics	ns083b	ns083	ns083b1	ns083b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	623	K		HEM	u	280.5	Hematite remanence.	l	38.1	0.8	7	0
+This study	North Shore Volcanics	ns083c	ns083	ns083c2	ns083c2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	673	K		HEM	u	286.8	Hematite remanence.	l	36.3	1.3	6	0
+This study	North Shore Volcanics	ns083d	ns083	ns083d1	ns083d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	823	K		HEM	u	284.3	Hematite remanence.	l	37.2	1.1	4	0
+This study	North Shore Volcanics	ns085a	ns085	ns085a1	ns085a1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	673	K		HEM	u	285.8	Hematite remanence.	l	24.1	2.7	6	0
+This study	North Shore Volcanics	ns083f	ns083	ns083f1	ns083f1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.08	T		HEM	u	296.9	Hematite remanence.	l	45.6	2.5	5	0
+This study	North Shore Volcanics	ns002b	ns002	ns002b1	ns002b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	823	K		HEM	u	286	Hematite remanence.	l	28.5	2.9	5	0
+This study	North Shore Volcanics	ns002c	ns002	ns002c1	ns002c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	773	K		HEM	u	298.9	Hematite remanence.	l	32.8	1.2	5	0
+This study	North Shore Volcanics	ns002d	ns002	ns002d1	ns002d1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	673	K		HEM	u	292.4	Hematite remanence.	l	35.9	1.2	5	0
+This study	North Shore Volcanics	ns002f	ns002	ns002f1	ns002f1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	573	K		HEM	u	287	Hematite remanence.	l	32.9	0.7	8	0
+This study	North Shore Volcanics	ns005a	ns005	ns005a1	ns005a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	0	K		HEM	u	301.1	Hematite remanence.	l	28.9	1.9	22	0
+This study	North Shore Volcanics	ns006b	ns006	ns006b1	ns006b1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	573	K		HEM	u	302.4	Hematite remanence.	l	29.4	1.2	10	0
+This study	North Shore Volcanics	ns006c	ns006	ns006c1	ns006c1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	373	K		HEM	u	300.9	Hematite remanence.	l	31.7	0.7	8	0
+This study	North Shore Volcanics	ns006d	ns006	ns006d2	ns006d2 : LT-NO	LP-DIR-AF : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.005	T		HEM	u	301.1	Hematite remanence.	l	26	0.8	13	0
+This study	North Shore Volcanics	ns006e	ns006	ns006e2	ns006e2 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	473	K		HEM	u	298.4	Hematite remanence.	l	32.6	0.7	8	0
+This study	North Shore Volcanics	ns006f	ns006	ns006f1	ns006f1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	473	K		HEM	u	302.8	Hematite remanence.	l	32.5	0.7	8	0
+This study	North Shore Volcanics	ns007a	ns007	ns007a1	ns007a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	0	K		HEM	u	296.1	Hematite remanence.	l	35	1.3	23	0
+This study	North Shore Volcanics	ns007c	ns007	ns007c1	ns007c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	473	K		HEM	u	309.2	Hematite remanence.	l	33.2	0.9	6	0
+This study	North Shore Volcanics	ns007d	ns007	ns007d1	ns007d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	473	K		HEM	u	311.6	Hematite remanence.	l	30.9	1.6	8	0
+This study	North Shore Volcanics	ns007f	ns007	ns007f1	ns007f1 : LT-NO	LP-DIR-AF : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0	T		HEM	u	311.5	Hematite remanence.	l	32.1	1.4	14	0
+This study	North Shore Volcanics	ns007g	ns007	ns007g1	ns007g1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	473	K		HEM	u	308.3	Hematite remanence.	l	27.1	0.5	8	0
+This study	North Shore Volcanics	ns085b	ns085	ns085b1	ns085b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	273	K		HEM	u	276.1	Hematite remanence.	l	36.2	2.8	13	100
+This study	North Shore Volcanics	ns085c	ns085	ns085c1	ns085c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	273	K		HEM	u	275.9	Hematite remanence.	l	37	3.1	10	100
+This study	North Shore Volcanics	ns085f	ns085	ns085f1	ns085f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	273	K		HEM	u	280	Hematite remanence.	l	37.6	3.2	11	100
+This study	North Shore Volcanics	ns085g	ns085	ns085g1	ns085g1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	573	K		HEM	u	278.2	Hematite remanence.	l	36.3	1.6	8	100
+This study	North Shore Volcanics	ns087a	ns087	ns087a1	ns087a1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	773	K		HEM	u	277.9	Hematite remanence.	l	38.3	1	5	100
+This study	North Shore Volcanics	ns087b	ns087	ns087b1	ns087b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	673	K		HEM	u	275.4	Hematite remanence.	l	35.4	2.6	8	100
+This study	North Shore Volcanics	ns087c	ns087	ns087c1	ns087c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	773	K		HEM	u	282.7	Hematite remanence.	l	35	1.4	5	100
+This study	North Shore Volcanics	ns087d	ns087	ns087d1	ns087d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	723	K		HEM	u	287.8	Hematite remanence.	l	44.8	1.5	6	100
+This study	North Shore Volcanics	ns087e	ns087	ns087e1	ns087e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	673	K		HEM	u	280.3	Hematite remanence.	l	40.6	2.3	7	100
+This study	North Shore Volcanics	ns008a	ns008	ns008a1	ns008a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	0.01	K		HEM	u	318.7	Hematite remanence.	l	44.8	2.3	20	100
+This study	North Shore Volcanics	ns008b	ns008	ns008b1	ns008b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	473	K		HEM	u	313.9	Hematite remanence.	l	47.4	1.8	11	100
+This study	North Shore Volcanics	ns008c	ns008	ns008c1	ns008c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	273	K		HEM	u	307.3	Hematite remanence.	l	43.8	2.2	8	100
+This study	North Shore Volcanics	ns008d	ns008	ns008d1	ns008d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	273	K		HEM	u	305.8	Hematite remanence.	l	44	2.9	10	100
+This study	North Shore Volcanics	ns008h	ns008	ns008h1	ns008h1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	273	K		HEM	u	301.9	Hematite remanence.	l	42.7	2.3	11	100
+This study	North Shore Volcanics	ns009a	ns009	ns009a1	ns009a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	673	K		HEM	u	278.9	Hematite remanence.	l	53.5	1.5	6	100
+This study	North Shore Volcanics	ns009c	ns009	ns009c1	ns009c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	573	K		HEM	u	280.2	Hematite remanence.	l	48	1	6	100
+This study	North Shore Volcanics	ns009e	ns009	ns009e1	ns009e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	273	K		HEM	u	285.7	Hematite remanence.	l	49.2	1	11	100
+This study	North Shore Volcanics	ns009f	ns009	ns009f1	ns009f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	823	K		HEM	u	282.5	Hematite remanence.	l	45	1.2	4	100
+This study	North Shore Volcanics	ns010a	ns010	ns010a1	ns010a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	473	K		HEM	u	284	Hematite remanence.	l	39.1	2.1	8	100
+This study	North Shore Volcanics	ns010b	ns010	ns010b1	ns010b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	723	K		HEM	u	281.9	Hematite remanence.	l	35.7	1	7	100
+This study	North Shore Volcanics	ns010c	ns010	ns010c1	ns010c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	473	K		HEM	u	284	Hematite remanence.	l	40.8	0.5	6	100
+This study	North Shore Volcanics	ns010d	ns010	ns010d1	ns010d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	273	K		HEM	u	283.4	Hematite remanence.	l	42.1	1.3	10	100
+This study	North Shore Volcanics	ns010e	ns010	ns010e1	ns010e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	473	K		HEM	u	295.2	Hematite remanence.	l	39.2	1.2	8	100
+This study	North Shore Volcanics	ns011a	ns011	ns011a1	ns011a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.01	T		HEM	u	287.2	Hematite remanence.	l	30.5	0.9	12	100
+This study	North Shore Volcanics	ns011b	ns011	ns011b1	ns011b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	773	K		HEM	u	290	Hematite remanence.	l	30.7	1.1	6	100
+This study	North Shore Volcanics	ns011c	ns011	ns011c1	ns011c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	673	K		HEM	u	291.6	Hematite remanence.	l	24.4	0.8	4	100
+This study	North Shore Volcanics	ns011d	ns011	ns011d1	ns011d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	723	K		HEM	u	285.1	Hematite remanence.	l	27.2	0.8	5	100
+This study	North Shore Volcanics	ns011e	ns011	ns011e1	ns011e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	673	K		HEM	u	296.1	Hematite remanence.	l	23.1	0.5	6	100
+This study	North Shore Volcanics	ns012b	ns012	ns012b1	ns012b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	823	K		HEM	u	273.8	Hematite remanence.	l	51.9	0.3	5	100
+This study	North Shore Volcanics	ns012c	ns012	ns012c1	ns012c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	673	K		HEM	u	284.6	Hematite remanence.	l	39.4	0.9	4	100
+This study	North Shore Volcanics	ns012d	ns012	ns012d2	ns012d2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	373	K		HEM	u	284.2	Hematite remanence.	l	36.6	1.2	9	100
+This study	North Shore Volcanics	ns012e	ns012	ns012e2	ns012e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	373	K		HEM	u	285.6	Hematite remanence.	l	36.7	1.1	9	100
+This study	North Shore Volcanics	ns013a	ns013	ns013a1	ns013a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	823	K		HEM	u	289.6	Hematite remanence.	l	35	1.4	4	100
+This study	North Shore Volcanics	ns013c	ns013	ns013c1	ns013c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	773	K		HEM	u	283.2	Hematite remanence.	l	40.7	0.4	4	100
+This study	North Shore Volcanics	ns013d	ns013	ns013d3	ns013d3 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	673	K		HEM	u	285.7	Hematite remanence.	l	36.9	0.7	6	100
+This study	North Shore Volcanics	ns013e	ns013	ns013e3	ns013e3 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	673	K		HEM	u	281.8	Hematite remanence.	l	40.2	0.5	7	100
+This study	North Shore Volcanics	ns014a	ns014	ns014a1	ns014a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.02	T		HEM	u	271	Hematite remanence.	l	31.6	1.2	10	100
+This study	North Shore Volcanics	ns014b	ns014	ns014b1	ns014b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	473	K		HEM	u	272.7	Hematite remanence.	l	32.5	1.2	9	100
+This study	North Shore Volcanics	ns014c	ns014	ns014c1	ns014c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	473	K		HEM	u	275.3	Hematite remanence.	l	33.5	1.1	6	100
+This study	North Shore Volcanics	ns014d	ns014	ns014d1	ns014d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	573	K		HEM	u	271.1	Hematite remanence.	l	29.8	2.5	7	100
+This study	North Shore Volcanics	ns014f	ns014	ns014f1	ns014f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	473	K		HEM	u	274.1	Hematite remanence.	l	31.1	1.7	8	100
+This study	North Shore Volcanics	ns015a	ns015	ns015a1	ns015a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	473	K		HEM	u	295.6	Hematite remanence.	l	26.3	1.9	8	100
+This study	North Shore Volcanics	ns015b	ns015	ns015b1	ns015b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	823	K		HEM	u	293.4	Hematite remanence.	l	26.3	0.6	5	100
+This study	North Shore Volcanics	ns015e	ns015	ns015e2	ns015e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	723	K		HEM	u	285	Hematite remanence.	l	26.3	0.4	6	100
+This study	North Shore Volcanics	ns015g	ns015	ns015g1	ns015g1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	723	K		HEM	u	294.2	Hematite remanence.	l	27.2	0.5	5	100
+This study	North Shore Volcanics	ns018a	ns018	ns018a1	ns018a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	673	K		HEM	u	319	Hematite remanence.	l	11.1	1.5	5	100
+This study	North Shore Volcanics	ns018b	ns018	ns018b1	ns018b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	573	K		HEM	u	306	Hematite remanence.	l	15.7	1.6	10	100
+This study	North Shore Volcanics	ns018c	ns018	ns018c1	ns018c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	673	K		HEM	u	310.4	Hematite remanence.	l	15.5	1.1	4	100
+This study	North Shore Volcanics	ns018e	ns018	ns018e2	ns018e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	723	K		HEM	u	300.4	Hematite remanence.	l	5.3	1.8	5	100
+This study	North Shore Volcanics	ns018g	ns018	ns018g1	ns018g1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	373	K		HEM	u	321.4	Hematite remanence.	l	13	1.6	9	100
+This study	North Shore Volcanics	ns020a	ns020	ns020a1	ns020a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	673	K		HEM	u	301.5	Hematite remanence.	l	6.3	0.8	6	100
+This study	North Shore Volcanics	ns020b	ns020	ns020b1	ns020b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	848	K		HEM	u	308.9	Hematite remanence.	l	12.2	0.4	4	100
+This study	North Shore Volcanics	ns020c	ns020	ns020c1	ns020c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	673	K		HEM	u	305.9	Hematite remanence.	l	16	0.4	5	100
+This study	North Shore Volcanics	ns020d	ns020	ns020d1	ns020d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	773	K		HEM	u	299.8	Hematite remanence.	l	15	0.3	5	100
+This study	North Shore Volcanics	ns020e	ns020	ns020e2	ns020e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	823	K		HEM	u	295.5	Hematite remanence.	l	13.9	1.4	4	100
+This study	North Shore Volcanics	ns021a	ns021	ns021a1	ns021a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	823	K		HEM	u	310	Hematite remanence.	l	24.2	1.1	4	100
+This study	North Shore Volcanics	ns021b	ns021	ns021b1	ns021b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	723	K		HEM	u	307.6	Hematite remanence.	l	27.9	0.5	7	100
+This study	North Shore Volcanics	ns021c	ns021	ns021c1	ns021c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	773	K		HEM	u	305.8	Hematite remanence.	l	30.1	1.8	4	100
+This study	North Shore Volcanics	ns021d	ns021	ns021d2	ns021d2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	723	K		HEM	u	307.1	Hematite remanence.	l	27.6	1.4	6	100
+This study	North Shore Volcanics	ns021e	ns021	ns021e1	ns021e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	673	K		HEM	u	309.8	Hematite remanence.	l	27.6	1.5	7	100
+This study	North Shore Volcanics	ns023a	ns023	ns023a1	ns023a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	473	K		HEM	u	302.7	Hematite remanence.	l	21.3	4.8	7	100
+This study	North Shore Volcanics	ns023b	ns023	ns023b1	ns023b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	823	K		HEM	u	303	Hematite remanence.	l	17.2	0.6	5	100
+This study	North Shore Volcanics	ns023c	ns023	ns023c1	ns023c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	573	K		HEM	u	301.1	Hematite remanence.	l	21.6	1.7	6	100
+This study	North Shore Volcanics	ns023e	ns023	ns023e1	ns023e1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	823	K		HEM	u	305.8	Hematite remanence.	l	17.8	0.5	4	100
+This study	North Shore Volcanics	ns023g	ns023	ns023g1	ns023g1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	773	K		HEM	u	303	Hematite remanence.	l	20.1	0.8	5	100
+This study	North Shore Volcanics	ns024b	ns024	ns024b1	ns024b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	273	K		HEM	u	121.6	Hematite remanence.	l	-80.4	1.1	13	100
+This study	North Shore Volcanics	ns024c	ns024	ns024c1	ns024c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	273	K		HEM	u	126.2	Hematite remanence.	l	-74.3	1.3	9	100
+This study	North Shore Volcanics	ns024e	ns024	ns024e2	ns024e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	373	K		HEM	u	115.6	Hematite remanence.	l	-72	1.4	8	100
+This study	North Shore Volcanics	ns024f	ns024	ns024f2	ns024f2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	373	K		HEM	u	118.5	Hematite remanence.	l	-75.1	0.7	9	100
+This study	North Shore Volcanics	ns034a	ns034	ns034a1	ns034a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0	T		HEM	u	291.4	Hematite remanence.	l	54.7	1.2	14	100
+This study	North Shore Volcanics	ns034b	ns034	ns034b1	ns034b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	773	K		HEM	u	300.7	Hematite remanence.	l	52.3	2.1	7	100
+This study	North Shore Volcanics	ns034c	ns034	ns034c1	ns034c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	773	K		HEM	u	306.4	Hematite remanence.	l	50.7	0.7	4	100
+This study	North Shore Volcanics	ns034d	ns034	ns034d1	ns034d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	723	K		HEM	u	305.6	Hematite remanence.	l	53.8	3.1	5	100
+This study	North Shore Volcanics	ns034g	ns034	ns034g1	ns034g1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	273	K		HEM	u	292.9	Hematite remanence.	l	58.5	0.8	11	100
+This study	North Shore Volcanics	ns036a	ns036	ns036a1	ns036a1 : LT-NO	LP-DIR-AF : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.015	T		HEM	u	295.1	Hematite remanence.	l	57.7	0.7	11	100
+This study	North Shore Volcanics	ns036b	ns036	ns036b1	ns036b1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	898	773	K		HEM	u	295.6	Hematite remanence.	l	55.5	0.9	5	100
+This study	North Shore Volcanics	ns036d	ns036	ns036d1	ns036d1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	673	K		HEM	u	306	Hematite remanence.	l	49.5	0.8	4	100
+This study	North Shore Volcanics	ns036f	ns036	ns036f1	ns036f1 : LT-NO	LP-DIR-AF : SO-CMD-NORTH : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.1	0	T		HEM	u	196.6	Hematite remanence.	p	2.4	3.4	11	100
+This study	North Shore Volcanics	ns039a	ns039	ns039a1	ns039a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	0	K		HEM	u	289.2	Hematite remanence.	l	32.8	0.7	23	100
+This study	North Shore Volcanics	ns039b	ns039	ns039b1	ns039b1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	573	K		HEM	u	284.4	Hematite remanence.	l	31.3	1.8	11	100
+This study	North Shore Volcanics	ns039c	ns039	ns039c1	ns039c1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	673	K		HEM	u	287.2	Hematite remanence.	l	32.9	0.3	5	100
+This study	North Shore Volcanics	ns039d	ns039	ns039d2	ns039d2 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	573	K		HEM	u	287.8	Hematite remanence.	l	35	0.5	8	100
+This study	North Shore Volcanics	ns039e	ns039	ns039e1	ns039e1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	573	K		HEM	u	289.3	Hematite remanence.	l	33.1	0.7	8	100
+This study	North Shore Volcanics	ns044a	ns044	ns044a1	ns044a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	0	K		HEM	u	295	Hematite remanence.	l	45.1	1.4	22	100
+This study	North Shore Volcanics	ns044b	ns044	ns044b1	ns044b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	898	573	K		HEM	u	292.9	Hematite remanence.	l	45	1.5	9	100
+This study	North Shore Volcanics	ns044d	ns044	ns044d1	ns044d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	673	K		HEM	u	282.2	Hematite remanence.	l	45.2	0.8	4	100
+This study	North Shore Volcanics	ns044f	ns044	ns044f2	ns044f2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	573	K		HEM	u	286.9	Hematite remanence.	l	42.2	0.8	8	100
+This study	North Shore Volcanics	ns046a	ns046	ns046a1	ns046a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.01	T		HEM	u	293.2	Hematite remanence.	l	48.1	0.7	12	100
+This study	North Shore Volcanics	ns049g	ns049	ns049g1	ns049g1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.12	0	T		HEM	u	309.6	Hematite remanence.	l	60.9	1.2	10	100
+This study	North Shore Volcanics	ns050b	ns050	ns050b1	ns050b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	898	773	K		HEM	u	300.1	Hematite remanence.	l	48.8	0.6	5	100
+This study	North Shore Volcanics	ns052b	ns052	ns052b1	ns052b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	898	623	K		HEM	u	296.8	Hematite remanence.	l	52.1	0.7	8	100
+This study	North Shore Volcanics	ns053a	ns053	ns053a1	ns053a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.02	T		HEM	u	301.8	Hematite remanence.	l	42.5	0.5	10	100
+This study	North Shore Volcanics	ns054a	ns054	ns054a1	ns054a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.02	T		HEM	u	288.3	Hematite remanence.	l	56.4	0.7	10	100
+This study	North Shore Volcanics	ns055a	ns055	ns055a1	ns055a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	673	K		HEM	u	283.2	Hematite remanence.	l	36.6	2.7	6	100
+This study	North Shore Volcanics	ns055b	ns055	ns055b1	ns055b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	623	K		HEM	u	280.7	Hematite remanence.	l	38.7	2.7	10	100
+This study	North Shore Volcanics	ns055c	ns055	ns055c1	ns055c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	773	K		HEM	u	279.3	Hematite remanence.	l	39.5	0.3	4	100
+This study	North Shore Volcanics	ns055e	ns055	ns055e2	ns055e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	723	K		HEM	u	284.9	Hematite remanence.	l	33	2.2	6	100
+This study	North Shore Volcanics	ns055g	ns055	ns055g1	ns055g1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	673	K		HEM	u	289.4	Hematite remanence.	l	35.4	4.5	7	100
+This study	North Shore Volcanics	ns056a	ns056	ns056a1	ns056a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.01	T		HEM	u	292.5	Hematite remanence.	l	40.3	1.2	12	100
+This study	North Shore Volcanics	ns058f	ns058	ns058f1	ns058f1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.12	0.02	T		HEM	u	299.2	Hematite remanence.	l	51.9	1.4	8	100
+This study	North Shore Volcanics	ns059e	ns059	ns059e1	ns059e1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0	T		HEM	u	292.1	Hematite remanence.	l	47.4	1.4	12	100
+This study	North Shore Volcanics	ns060a	ns060	ns060a1	ns060a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.06	0.03	T		HEM	u	293.8	Hematite remanence.	l	50.9	3.8	4	100
+This study	North Shore Volcanics	ns060b	ns060	ns060b1	ns060b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	898	723	K		HEM	u	303.1	Hematite remanence.	l	52.8	7.4	6	100
+This study	North Shore Volcanics	ns060c	ns060	ns060c1	ns060c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	773	K		HEM	u	289.3	Hematite remanence.	l	35.9	2.5	4	100
+This study	North Shore Volcanics	ns060f	ns060	ns060f1	ns060f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	773	K		HEM	u	290.7	Hematite remanence.	l	42.7	2.1	4	100
+This study	North Shore Volcanics	ns062a	ns062	ns062a1	ns062a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.01	T		HEM	u	297.5	Hematite remanence.	l	54.4	1	12	100
+This study	North Shore Volcanics	ns064a	ns064	ns064a1	ns064a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.01	T		HEM	u	306	Hematite remanence.	l	49.8	0.8	12	100
+This study	North Shore Volcanics	ns065c	ns065	ns065c2	ns065c2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	673	K		HEM	u	289.1	Hematite remanence.	l	39.6	1.9	6	100
+This study	North Shore Volcanics	ns066a	ns066	ns066a1	ns066a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.02	T		HEM	u	314.4	Hematite remanence.	l	38.7	1.5	10	100
+This study	North Shore Volcanics	ns066c	ns066	ns066c1	ns066c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	673	K		HEM	u	318.2	Hematite remanence.	l	35.1	0.8	5	100
+This study	North Shore Volcanics	ns066d	ns066	ns066d1	ns066d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	723	K		HEM	u	320.3	Hematite remanence.	l	36.7	1.5	5	100
+This study	North Shore Volcanics	ns066e	ns066	ns066e1	ns066e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	673	K		HEM	u	317.5	Hematite remanence.	l	35.8	1.2	7	100
+This study	North Shore Volcanics	ns067a	ns067	ns067a1	ns067a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.04	T		HEM	u	284.4	Hematite remanence.	l	46	1.8	8	100
+This study	North Shore Volcanics	ns067b	ns067	ns067b1	ns067b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	623	K		HEM	u	285.9	Hematite remanence.	l	44	1	7	100
+This study	North Shore Volcanics	ns067c	ns067	ns067c3	ns067c3 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	673	K		HEM	u	292.9	Hematite remanence.	l	47.2	0.7	6	100
+This study	North Shore Volcanics	ns067e	ns067	ns067e1	ns067e1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.06	T		HEM	u	286.4	Hematite remanence.	l	53.1	4.6	6	100
+This study	North Shore Volcanics	ns068g	ns068	ns068g2	ns068g2 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.12	0.02	T		HEM	u	314.5	Hematite remanence.	l	35.1	1.6	8	100
+This study	North Shore Volcanics	ns070a	ns070	ns070a1	ns070a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0	T		HEM	u	34.3	Hematite remanence.	l	69.7	2.6	14	100
+This study	North Shore Volcanics	ns070c	ns070	ns070c1	ns070c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	673	273	K		HEM	u	28.5	Hematite remanence.	p	-8.2	5.7	5	100
+This study	North Shore Volcanics	ns070c	ns070	ns070c2	ns070c2 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0	T		HEM	u	302.6	Hematite remanence.	l	57.8	3.5	14	100
+This study	North Shore Volcanics	ns070f	ns070	ns070f1	ns070f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	823	373	K		HEM	u	209	Hematite remanence.	p	12.3	5.2	7	100
+This study	North Shore Volcanics	ns071a	ns071	ns071a1	ns071a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.005	K		HEM	u	38.1	Hematite remanence.	p	-19.8	4.5	13	100
+This study	North Shore Volcanics	ns077a	ns077	ns077a1	ns077a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.005	T		HEM	u	298.7	Hematite remanence.	l	26.5	2.3	13	100
+This study	North Shore Volcanics	ns078c	ns078	ns078c1	ns078c1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	773	K		HEM	u	285	Hematite remanence.	l	34.8	2.3	5	100
+This study	North Shore Volcanics	ns078d	ns078	ns078d1	ns078d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	473	K		HEM	u	282.8	Hematite remanence.	l	35.6	3.6	9	100
+This study	North Shore Volcanics	ns078f	ns078	ns078f1	ns078f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	823	K		HEM	u	274.6	Hematite remanence.	l	33.1	1.9	4	100
+This study	North Shore Volcanics	ns078g	ns078	ns078g1	ns078g1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	823	K		HEM	u	269.4	Hematite remanence.	l	35.2	2.2	4	100
+This study	North Shore Volcanics	ns078h	ns078	ns078h1	ns078h1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	823	K		HEM	u	276.8	Hematite remanence.	l	34.7	1	4	100
+This study	North Shore Volcanics	ns079a	ns079	ns079a1	ns079a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.15	0	K		HEM	u	174.2	Hematite remanence.	p	15.8	5.4	13	100
+This study	North Shore Volcanics	ns079b	ns079	ns079b1	ns079b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	473	K		HEM	u	288.3	Hematite remanence.	l	48.6	3.7	11	100
+This study	North Shore Volcanics	ns079d	ns079	ns079d1	ns079d1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0	T		HEM	u	178.9	Hematite remanence.	p	10.8	3.4	14	100
+This study	North Shore Volcanics	ns079f	ns079	ns079f1	ns079f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	573	273	K		HEM	u	177.8	Hematite remanence.	p	14.7	2.9	4	100
+This study	North Shore Volcanics	ns080a	ns080	ns080a1	ns080a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	673	K		HEM	u	293.4	Hematite remanence.	l	39.5	3.2	6	100
+This study	North Shore Volcanics	ns080a	ns080	ns080a2	ns080a2 : LT-NO	LP-DIR-AF : SO-SUN : DE-FM : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0	T	0.3	HEM	u	295.5	Hematite remanence.	l	43.7		14	100
+This study	North Shore Volcanics	ns080b	ns080	ns080b1	ns080b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	273	K		HEM	u	277.6	Hematite remanence.	l	35.9	4.9	13	100
+This study	North Shore Volcanics	ns080e	ns080	ns080e1	ns080e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	673	K		HEM	u	282.3	Hematite remanence.	l	38.1	1.3	6	100
+This study	North Shore Volcanics	ns080f	ns080	ns080f2	ns080f2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	473	K		HEM	u	282.6	Hematite remanence.	l	36	3.7	9	100
+This study	North Shore Volcanics	ns081a	ns081	ns081a1	ns081a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	473	K		HEM	u	283.1	Hematite remanence.	l	51.7	3.9	8	100
+This study	North Shore Volcanics	ns081b	ns081	ns081b1	ns081b1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	673	K		HEM	u	267.5	Hematite remanence.	l	56.5	1.3	6	100
+This study	North Shore Volcanics	ns081c	ns081	ns081c1	ns081c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	473	K		HEM	u	283.8	Hematite remanence.	l	55.5	2.6	8	100
+This study	North Shore Volcanics	ns081d	ns081	ns081d2	ns081d2 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	673	K		HEM	u	268.2	Hematite remanence.	l	47.8	3.2	7	100
+This study	North Shore Volcanics	ns081e	ns081	ns081e1	ns081e1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	673	K		HEM	u	266	Hematite remanence.	l	44.2	4.6	7	100
+This study	North Shore Volcanics	ns083b	ns083	ns083b1	ns083b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	623	K		HEM	u	277.2	Hematite remanence.	l	56.8	0.8	7	100
+This study	North Shore Volcanics	ns083c	ns083	ns083c2	ns083c2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	673	K		HEM	u	286.3	Hematite remanence.	l	55.3	1.3	6	100
+This study	North Shore Volcanics	ns083d	ns083	ns083d1	ns083d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	823	K		HEM	u	282.7	Hematite remanence.	l	56.1	1.1	4	100
+This study	North Shore Volcanics	ns085a	ns085	ns085a1	ns085a1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	673	K		HEM	u	285.3	Hematite remanence.	l	43.1	2.7	6	100
+This study	North Shore Volcanics	ns083f	ns083	ns083f1	ns083f1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.08	T		HEM	u	302.4	Hematite remanence.	l	64.2	2.5	5	100
+This study	North Shore Volcanics	ns002b	ns002	ns002b1	ns002b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	823	K		HEM	u	279.5	Hematite remanence.	l	33.7	2.9	5	100
+This study	North Shore Volcanics	ns002c	ns002	ns002c1	ns002c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	773	K		HEM	u	291.9	Hematite remanence.	l	40.3	1.2	5	100
+This study	North Shore Volcanics	ns002d	ns002	ns002d1	ns002d1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	673	K		HEM	u	284	Hematite remanence.	l	42.1	1.2	5	100
+This study	North Shore Volcanics	ns002f	ns002	ns002f1	ns002f1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	573	K		HEM	u	279.3	Hematite remanence.	l	38.2	0.7	8	100
+This study	North Shore Volcanics	ns005a	ns005	ns005a1	ns005a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	0	K		HEM	u	295.3	Hematite remanence.	l	36.8	1.9	22	100
+This study	North Shore Volcanics	ns006b	ns006	ns006b1	ns006b1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	573	K		HEM	u	296.5	Hematite remanence.	l	37.5	1.2	10	100
+This study	North Shore Volcanics	ns006c	ns006	ns006c1	ns006c1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	373	K		HEM	u	294.4	Hematite remanence.	l	39.6	0.7	8	100
+This study	North Shore Volcanics	ns006d	ns006	ns006d2	ns006d2 : LT-NO	LP-DIR-AF : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.005	T		HEM	u	295.9	Hematite remanence.	l	34	0.8	13	100
+This study	North Shore Volcanics	ns006e	ns006	ns006e2	ns006e2 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	473	K		HEM	u	291.4	Hematite remanence.	l	40	0.7	8	100
+This study	North Shore Volcanics	ns006f	ns006	ns006f1	ns006f1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	473	K		HEM	u	296.2	Hematite remanence.	l	40.7	0.7	8	100
+This study	North Shore Volcanics	ns007a	ns007	ns007a1	ns007a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	0	K		HEM	u	288.3	Hematite remanence.	l	41.9	1.3	23	100
+This study	North Shore Volcanics	ns007c	ns007	ns007c1	ns007c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	473	K		HEM	u	303.1	Hematite remanence.	l	42.3	0.9	6	100
+This study	North Shore Volcanics	ns007d	ns007	ns007d1	ns007d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	473	K		HEM	u	306.2	Hematite remanence.	l	40.3	1.6	8	100
+This study	North Shore Volcanics	ns007f	ns007	ns007f1	ns007f1 : LT-NO	LP-DIR-AF : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0	T		HEM	u	305.9	Hematite remanence.	l	41.5	1.4	14	100
+This study	North Shore Volcanics	ns007g	ns007	ns007g1	ns007g1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	473	K		HEM	u	303.4	Hematite remanence.	l	36.1	0.5	8	100
+This study	North Shore Volcanics	ns017a	ns017	ns017a1	ns017a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	0	K		HEM	u	22.9	Hematite remanence.	l	50.5	1.8	22	0
+This study	North Shore Volcanics	ns025g	ns025	ns025g1	ns025g1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	473	K		HEM	u	141.6	Hematite remanence.	l	-60.7	0.8	8	0
+This study	North Shore Volcanics	ns030a	ns030	ns030a1	ns030a1 : LT-NO	LP-DIR-AF : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.03	T		HEM	u	298.7	Hematite remanence.	l	28.8	1.2	9	0
+This study	North Shore Volcanics	ns030f	ns030	ns030f2	ns030f2 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	673	K		HEM	u	290.6	Hematite remanence.	l	33	0.9	6	0
+This study	North Shore Volcanics	ns032e	ns032	ns032e1	ns032e1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0	T		HEM	u	297.5	Hematite remanence.	l	35.2	1.6	14	0
+This study	North Shore Volcanics	ns032f	ns032	ns032f1	ns032f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	673	K		HEM	u	298.9	Hematite remanence.	l	33.4	1.2	6	0
+This study	North Shore Volcanics	ns038b	ns038	ns038b1	ns038b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	898	773	K		HEM	u	281.1	Hematite remanence.	l	14.5	0.8	5	0
+This study	North Shore Volcanics	ns038c	ns038	ns038c1	ns038c1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	573	K		HEM	u	293.8	Hematite remanence.	l	19.7	0.6	5	0
+This study	North Shore Volcanics	ns042a	ns042	ns042a1	ns042a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	0.15	K		HEM	u	286.9	Hematite remanence.	l	28.7	2.9	10	0
+This study	North Shore Volcanics	ns042b	ns042	ns042b1	ns042b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	898	273	K		HEM	u	304.6	Hematite remanence.	l	32.4	1.4	12	0
+This study	North Shore Volcanics	ns047a	ns047	ns047a1	ns047a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0	T		HEM	u	307.1	Hematite remanence.	l	44.8	1.1	14	0
+This study	North Shore Volcanics	ns047f	ns047	ns047f2	ns047f2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	673	K		HEM	u	303.2	Hematite remanence.	l	36.2	0.5	7	0
+This study	North Shore Volcanics	ns051a	ns051	ns051a1	ns051a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0	0.06	T		HEM	u	290.5	Hematite remanence.	l	27.6	1.7	6	0
+This study	North Shore Volcanics	ns051b	ns051	ns051b1	ns051b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	898	773	K		HEM	u	299.8	Hematite remanence.	l	23.6	0.7	5	0
+This study	North Shore Volcanics	ns057a	ns057	ns057a1	ns057a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	473	K		HEM	u	288.1	Hematite remanence.	l	9.4	0.7	7	0
+This study	North Shore Volcanics	ns057b	ns057	ns057b1	ns057b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	898	623	K		HEM	u	288.6	Hematite remanence.	l	11.9	1.1	8	0
+This study	North Shore Volcanics	ns063b	ns063	ns063b1	ns063b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	898	773	K		HEM	u	300.5	Hematite remanence.	l	21.8	1.1	5	0
+This study	North Shore Volcanics	ns063c	ns063	ns063c2	ns063c2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	673	K		HEM	u	297.3	Hematite remanence.	l	15	0.3	6	0
+This study	North Shore Volcanics	ns072c	ns072	ns072c1	ns072c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03	673	373	K		HEM	u	180.3	Hematite remanence.	p	22.9	2.1	4	0
+This study	North Shore Volcanics	ns072e	ns072	ns072e1	ns072e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03	673	373	K		HEM	u	192.8	Hematite remanence.	p	18.1	2.8	4	0
+This study	North Shore Volcanics	ns073e	ns073	ns073e1	ns073e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	723	K		HEM	u	311.2	Hematite remanence.	l	10.2	0.6	5	0
+This study	North Shore Volcanics	ns074a	ns074	ns074a1	ns074a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03	873	373	K		HEM	u	128.9	Hematite remanence.	p	56.5	2.8	7	0
+This study	North Shore Volcanics	ns003d	ns003	ns003d2	ns003d2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	723	K		HEM	u	296.8	Hematite remanence.	l	39.7	1.7	5	0
+This study	North Shore Volcanics	ns003e	ns003	ns003e1	ns003e1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.02	T		HEM	u	298.6	Hematite remanence.	l	37.4	2.9	10	0
+This study	North Shore Volcanics	ns003f	ns003	ns003f1	ns003f1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.15	0.02	T		HEM	u	293.6	Hematite remanence.	l	46.9	1.7	9	0
+This study	North Shore Volcanics	ns017a	ns017	ns017a1	ns017a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	0	K		HEM	u	37.7	Hematite remanence.	l	54.5	1.8	22	100
+This study	North Shore Volcanics	ns025g	ns025	ns025g1	ns025g1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	473	K		HEM	u	126.7	Hematite remanence.	l	-67.7	0.8	8	100
+This study	North Shore Volcanics	ns030a	ns030	ns030a1	ns030a1 : LT-NO	LP-DIR-AF : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.03	T		HEM	u	293.3	Hematite remanence.	l	33.2	1.2	9	100
+This study	North Shore Volcanics	ns030f	ns030	ns030f2	ns030f2 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	673	K		HEM	u	284	Hematite remanence.	l	36	0.9	6	100
+This study	North Shore Volcanics	ns032e	ns032	ns032e1	ns032e1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0	T		HEM	u	289.8	Hematite remanence.	l	42.6	1.6	14	100
+This study	North Shore Volcanics	ns032f	ns032	ns032f1	ns032f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	673	K		HEM	u	291.9	Hematite remanence.	l	41.1	1.2	6	100
+This study	North Shore Volcanics	ns038b	ns038	ns038b1	ns038b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	898	773	K		HEM	u	279.7	Hematite remanence.	l	25.9	0.8	5	100
+This study	North Shore Volcanics	ns038c	ns038	ns038c1	ns038c1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	573	K		HEM	u	293.2	Hematite remanence.	l	31.6	0.6	5	100
+This study	North Shore Volcanics	ns042a	ns042	ns042a1	ns042a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	0.15	K		HEM	u	285.7	Hematite remanence.	l	44.6	2.9	10	100
+This study	North Shore Volcanics	ns042b	ns042	ns042b1	ns042b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	898	273	K		HEM	u	307.9	Hematite remanence.	l	48	1.4	12	100
+This study	North Shore Volcanics	ns047a	ns047	ns047a1	ns047a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0	T		HEM	u	313.7	Hematite remanence.	l	60	1.1	14	100
+This study	North Shore Volcanics	ns047f	ns047	ns047f2	ns047f2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	673	K		HEM	u	306.7	Hematite remanence.	l	51.8	0.5	7	100
+This study	North Shore Volcanics	ns051a	ns051	ns051a1	ns051a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0	0.06	T		HEM	u	290.3	Hematite remanence.	l	45.6	1.7	6	100
+This study	North Shore Volcanics	ns051b	ns051	ns051b1	ns051b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	898	773	K		HEM	u	301.8	Hematite remanence.	l	41.4	0.7	5	100
+This study	North Shore Volcanics	ns057a	ns057	ns057a1	ns057a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	473	K		HEM	u	288.1	Hematite remanence.	l	28.4	0.7	7	100
+This study	North Shore Volcanics	ns057b	ns057	ns057b1	ns057b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	898	623	K		HEM	u	288.7	Hematite remanence.	l	30.9	1.1	8	100
+This study	North Shore Volcanics	ns063b	ns063	ns063b1	ns063b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	898	773	K		HEM	u	303.2	Hematite remanence.	l	40.2	1.1	5	100
+This study	North Shore Volcanics	ns063c	ns063	ns063c2	ns063c2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	673	K		HEM	u	298.8	Hematite remanence.	l	33.7	0.3	6	100
+This study	North Shore Volcanics	ns072c	ns072	ns072c1	ns072c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	673	373	K		HEM	u	174	Hematite remanence.	p	16.1	2.1	4	100
+This study	North Shore Volcanics	ns072e	ns072	ns072e1	ns072e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	673	373	K		HEM	u	187.1	Hematite remanence.	p	15.4	2.8	4	100
+This study	North Shore Volcanics	ns073e	ns073	ns073e1	ns073e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	723	K		HEM	u	313.9	Hematite remanence.	l	27.5	0.6	5	100
+This study	North Shore Volcanics	ns074a	ns074	ns074a1	ns074a1 : LT-NO	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	373	K		HEM	u	122.6	Hematite remanence.	p	38.4	2.8	7	100
+This study	North Shore Volcanics	ns003d	ns003	ns003d2	ns003d2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	723	K		HEM	u	287.5	Hematite remanence.	l	46.6	1.7	5	100
+This study	North Shore Volcanics	ns003e	ns003	ns003e1	ns003e1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.02	T		HEM	u	290.3	Hematite remanence.	l	44.7	2.9	10	100
+This study	North Shore Volcanics	ns003f	ns003	ns003f1	ns003f1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.15	0.02	T		HEM	u	281.2	Hematite remanence.	l	53	1.7	9	100
+This study	North Shore Volcanics	ns063a	ns063	ns063a1	ns063a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03	0.03	0	T		MAG	u	30.3	Magnetite remanence.	p	2.7	3.8	6	0
+This study	North Shore Volcanics	ns063e	ns063	ns063e1	ns063e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	723	K		MAG	u	297.4	Magnetite remanence.	l	11.7	0.9	5	0
+This study	North Shore Volcanics	ns063f	ns063	ns063f1	ns063f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	673	K		MAG	u	295.3	Magnetite remanence.	l	12.4	1.2	6	0
+This study	North Shore Volcanics	ns072a	ns072	ns072a1	ns072a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03	0.06	0.005	T		MAG	u	190.8	Magnetite remanence.	p	17.8	4.9	8	0
+This study	North Shore Volcanics	ns072b	ns072	ns072b1	ns072b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	673	K		MAG	u	289.8	Magnetite remanence.	l	39.1	3.7	6	0
+This study	North Shore Volcanics	ns072d	ns072	ns072d1	ns072d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	673	K		MAG	u	285.4	Magnetite remanence.	l	32.6	1.5	6	0
+This study	North Shore Volcanics	ns073b	ns073	ns073b1	ns073b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	723	K		MAG	u	293.8	Magnetite remanence.	l	20	1.3	5	0
+This study	North Shore Volcanics	ns073c	ns073	ns073c1	ns073c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	673	K		MAG	u	311.3	Magnetite remanence.	l	17	1.5	5	0
+This study	North Shore Volcanics	ns073d	ns073	ns073d2	ns073d2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	673	K		MAG	u	304.9	Magnetite remanence.	l	18.3	2.2	6	0
+This study	North Shore Volcanics	ns074b	ns074	ns074b1	ns074b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	773	K		MAG	u	292.6	Magnetite remanence.	l	37.8	2.4	4	0
+This study	North Shore Volcanics	ns074c	ns074	ns074c2	ns074c2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03	823	373	K		MAG	u	195.5	Magnetite remanence.	p	12.9	2.9	6	0
+This study	North Shore Volcanics	ns074d	ns074	ns074d1	ns074d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03	823	373	K		MAG	u	194.3	Magnetite remanence.	p	12.5	0.2	7	0
+This study	North Shore Volcanics	ns074e	ns074	ns074e2	ns074e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03	773	373	K		MAG	u	348	Magnetite remanence.	p	-15.6	3.6	6	0
+This study	North Shore Volcanics	ns003a	ns003	ns003a1	ns003a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.12	0.015	T		MAG	u	294.8	Magnetite remanence.	l	39.8	1.3	9	0
+This study	North Shore Volcanics	ns003b	ns003	ns003b1	ns003b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	723	K		MAG	u	299.1	Magnetite remanence.	l	41.3	3.2	5	0
+This study	North Shore Volcanics	ns003c	ns003	ns003c2	ns003c2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	673	K		MAG	u	302.2	Magnetite remanence.	l	40.3	3	3	0
+This study	North Shore Volcanics	ns017c	ns017	ns017c1	ns017c1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	573	K		MAG	u	5.5	Magnetite remanence.	l	50	3.2	5	0
+This study	North Shore Volcanics	ns017d	ns017	ns017d2	ns017d2 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	573	K		MAG	u	19.8	Magnetite remanence.	l	48	4	7	0
+This study	North Shore Volcanics	ns017e	ns017	ns017e1	ns017e1 : LT-NO	LP-DIR-AF : SO-CMD-NORTH : DE-BFP : DA-DIR-GEO	pmagpy-2.03	0.08	0	T		MAG	u	151.3	Magnetite remanence.	p	36.3	12.6	10	0
+This study	North Shore Volcanics	ns017f	ns017	ns017f1	ns017f1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	673	K		MAG	u	17.1	Magnetite remanence.	l	50.5	3.5	6	0
+This study	North Shore Volcanics	ns025a	ns025	ns025a1	ns025a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.02	T		MAG	u	146.4	Magnetite remanence.	l	-58	0.9	10	0
+This study	North Shore Volcanics	ns025b	ns025	ns025b1	ns025b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	273	K		MAG	u	136	Magnetite remanence.	l	-61.9	1.1	11	0
+This study	North Shore Volcanics	ns025c	ns025	ns025c1	ns025c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	673	K		MAG	u	133.1	Magnetite remanence.	l	-64.7	0.7	3	0
+This study	North Shore Volcanics	ns025d	ns025	ns025d1	ns025d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	573	K		MAG	u	91.9	Magnetite remanence.	l	-63.5	1.3	7	0
+This study	North Shore Volcanics	ns025e	ns025	ns025e1	ns025e1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.02	T		MAG	u	149.8	Magnetite remanence.	l	-68.6	0.7	10	0
+This study	North Shore Volcanics	ns030b	ns030	ns030b1	ns030b1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	723	K		MAG	u	295.1	Magnetite remanence.	l	29.4	1.3	5	0
+This study	North Shore Volcanics	ns030c	ns030	ns030c1	ns030c1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	473	K		MAG	u	299.7	Magnetite remanence.	l	28.7	1.3	6	0
+This study	North Shore Volcanics	ns030d	ns030	ns030d2	ns030d2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	723	K		MAG	u	290.9	Magnetite remanence.	l	30.6	0.4	5	0
+This study	North Shore Volcanics	ns032a	ns032	ns032a1	ns032a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0.02	T		MAG	u	291.4	Magnetite remanence.	l	34.4	0.7	10	0
+This study	North Shore Volcanics	ns032b	ns032	ns032b1	ns032b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	898	623	K		MAG	u	293.1	Magnetite remanence.	l	32.4	1.2	8	0
+This study	North Shore Volcanics	ns032c	ns032	ns032c1	ns032c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	673	K		MAG	u	286.6	Magnetite remanence.	l	29.1	0.4	4	0
+This study	North Shore Volcanics	ns038a	ns038	ns038a1	ns038a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	0.18	0	T		MAG	u	277	Magnetite remanence.	l	17.4	0.5	14	0
+This study	North Shore Volcanics	ns038d	ns038	ns038d1	ns038d1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	473	K		MAG	u	296	Magnetite remanence.	l	17.7	0.8	9	0
+This study	North Shore Volcanics	ns038f	ns038	ns038f1	ns038f1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	573	K		MAG	u	287.7	Magnetite remanence.	l	17.7	0.4	6	0
+This study	North Shore Volcanics	ns042c	ns042	ns042c1	ns042c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	573	K		MAG	u	284.5	Magnetite remanence.	l	23.6	0.5	4	0
+This study	North Shore Volcanics	ns042d	ns042	ns042d1	ns042d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	573	K		MAG	u	289	Magnetite remanence.	l	23.6	1.1	7	0
+This study	North Shore Volcanics	ns042e	ns042	ns042e2	ns042e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	573	K		MAG	u	294.1	Magnetite remanence.	l	26.2	1.5	7	0
+This study	North Shore Volcanics	ns047b	ns047	ns047b1	ns047b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	898	273	K		MAG	u	305	Magnetite remanence.	l	41.1	1.3	12	0
+This study	North Shore Volcanics	ns047c	ns047	ns047c2	ns047c2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	873	473	K		MAG	u	309.6	Magnetite remanence.	l	40.9	1.1	5	0
+This study	North Shore Volcanics	ns047e	ns047	ns047e1	ns047e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	473	K		MAG	u	307.6	Magnetite remanence.	l	39.5	1	8	0
+This study	North Shore Volcanics	ns051c	ns051	ns051c1	ns051c1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	573	K		MAG	u	285.8	Magnetite remanence.	l	24.4	0.7	5	0
+This study	North Shore Volcanics	ns051d	ns051	ns051d1	ns051d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	773	K		MAG	u	294.7	Magnetite remanence.	l	20.2	0.9	4	0
+This study	North Shore Volcanics	ns051e	ns051	ns051e1	ns051e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	723	K		MAG	u	293.3	Magnetite remanence.	l	24.1	0.5	5	0
+This study	North Shore Volcanics	ns057c	ns057	ns057c1	ns057c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	473	K		MAG	u	285.6	Magnetite remanence.	l	11.4	1.7	6	0
+This study	North Shore Volcanics	ns057d	ns057	ns057d1	ns057d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	923	723	K		MAG	u	288	Magnetite remanence.	l	9.3	0.7	5	0
+This study	North Shore Volcanics	ns057e	ns057	ns057e2	ns057e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	948	573	K		MAG	u	288.6	Magnetite remanence.	l	10.9	0.4	8	0
+This study	North Shore Volcanics	ns063a	ns063	ns063a1	ns063a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.03	0	T		MAG	u	30.5	Magnetite remanence.	p	-1.4	3.8	6	100
+This study	North Shore Volcanics	ns063e	ns063	ns063e1	ns063e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	723	K		MAG	u	298.7	Magnetite remanence.	l	30.4	0.9	5	100
+This study	North Shore Volcanics	ns063f	ns063	ns063f1	ns063f1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	673	K		MAG	u	296.3	Magnetite remanence.	l	31.2	1.2	6	100
+This study	North Shore Volcanics	ns072a	ns072	ns072a1	ns072a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.06	0.005	T		MAG	u	185.3	Magnetite remanence.	p	14.5	4.9	8	100
+This study	North Shore Volcanics	ns072b	ns072	ns072b1	ns072b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	673	K		MAG	u	290.7	Magnetite remanence.	l	58.1	3.7	6	100
+This study	North Shore Volcanics	ns072d	ns072	ns072d1	ns072d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	673	K		MAG	u	284.4	Magnetite remanence.	l	51.6	1.5	6	100
+This study	North Shore Volcanics	ns073b	ns073	ns073b1	ns073b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	723	K		MAG	u	295.1	Magnetite remanence.	l	38.9	1.3	5	100
+This study	North Shore Volcanics	ns073c	ns073	ns073c1	ns073c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	673	K		MAG	u	315.2	Magnetite remanence.	l	34.2	1.5	5	100
+This study	North Shore Volcanics	ns073d	ns073	ns073d2	ns073d2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	673	K		MAG	u	308	Magnetite remanence.	l	36.4	2.2	6	100
+This study	North Shore Volcanics	ns074b	ns074	ns074b1	ns074b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	773	K		MAG	u	294.6	Magnetite remanence.	l	56.7	2.4	4	100
+This study	North Shore Volcanics	ns074c	ns074	ns074c2	ns074c2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	823	373	K		MAG	u	191.4	Magnetite remanence.	p	11.4	2.9	6	100
+This study	North Shore Volcanics	ns074d	ns074	ns074d1	ns074d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	823	373	K		MAG	u	190.4	Magnetite remanence.	p	10.6	0.2	7	100
+This study	North Shore Volcanics	ns074e	ns074	ns074e2	ns074e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	773	373	K		MAG	u	164.9	Magnetite remanence.	p	5.6	3.6	6	100
+This study	North Shore Volcanics	ns003a	ns003	ns003a1	ns003a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.12	0.015	T		MAG	u	285.3	Magnetite remanence.	l	46.4	1.3	9	100
+This study	North Shore Volcanics	ns003b	ns003	ns003b1	ns003b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	723	K		MAG	u	289.5	Magnetite remanence.	l	48.6	3.2	5	100
+This study	North Shore Volcanics	ns003c	ns003	ns003c2	ns003c2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	673	K		MAG	u	293.3	Magnetite remanence.	l	48.2	3	3	100
+This study	North Shore Volcanics	ns017c	ns017	ns017c1	ns017c1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	573	K		MAG	u	18.5	Magnetite remanence.	l	57.4	3.2	5	100
+This study	North Shore Volcanics	ns017d	ns017	ns017d2	ns017d2 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	573	K		MAG	u	33.2	Magnetite remanence.	l	52.8	4	7	100
+This study	North Shore Volcanics	ns017e	ns017	ns017e1	ns017e1 : LT-NO	LP-DIR-AF : SO-CMD-NORTH : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.08	0	T		MAG	u	150	Magnetite remanence.	p	24.5	12.6	10	100
+This study	North Shore Volcanics	ns017f	ns017	ns017f1	ns017f1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	673	K		MAG	u	31.6	Magnetite remanence.	l	55.7	3.5	6	100
+This study	North Shore Volcanics	ns025a	ns025	ns025a1	ns025a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.02	T		MAG	u	134.4	Magnetite remanence.	l	-65.7	0.9	10	100
+This study	North Shore Volcanics	ns025b	ns025	ns025b1	ns025b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	273	K		MAG	u	118.9	Magnetite remanence.	l	-68	1.1	11	100
+This study	North Shore Volcanics	ns025c	ns025	ns025c1	ns025c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	673	K		MAG	u	112.7	Magnetite remanence.	l	-70.2	0.7	3	100
+This study	North Shore Volcanics	ns025d	ns025	ns025d1	ns025d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	573	K		MAG	u	72.5	Magnetite remanence.	l	-62.1	1.3	7	100
+This study	North Shore Volcanics	ns025e	ns025	ns025e1	ns025e1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.02	T		MAG	u	128.9	Magnetite remanence.	l	-76.3	0.7	10	100
+This study	North Shore Volcanics	ns030b	ns030	ns030b1	ns030b1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	723	K		MAG	u	289.5	Magnetite remanence.	l	33.2	1.3	5	100
+This study	North Shore Volcanics	ns030c	ns030	ns030c1	ns030c1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	473	K		MAG	u	294.3	Magnetite remanence.	l	33.2	1.3	6	100
+This study	North Shore Volcanics	ns030d	ns030	ns030d2	ns030d2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	723	K		MAG	u	284.9	Magnetite remanence.	l	33.7	0.4	5	100
+This study	North Shore Volcanics	ns032a	ns032	ns032a1	ns032a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0.02	T		MAG	u	283.5	Magnetite remanence.	l	40.7	0.7	10	100
+This study	North Shore Volcanics	ns032b	ns032	ns032b1	ns032b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	898	623	K		MAG	u	285.8	Magnetite remanence.	l	39.1	1.2	8	100
+This study	North Shore Volcanics	ns032c	ns032	ns032c1	ns032c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	673	K		MAG	u	279.9	Magnetite remanence.	l	34.7	0.4	4	100
+This study	North Shore Volcanics	ns038a	ns038	ns038a1	ns038a1 : LT-NO	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	0.18	0	T		MAG	u	275	Magnetite remanence.	l	28.5	0.5	14	100
+This study	North Shore Volcanics	ns038d	ns038	ns038d1	ns038d1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	473	K		MAG	u	295.7	Magnetite remanence.	l	29.7	0.8	9	100
+This study	North Shore Volcanics	ns038f	ns038	ns038f1	ns038f1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	573	K		MAG	u	286.7	Magnetite remanence.	l	29.4	0.4	6	100
+This study	North Shore Volcanics	ns042c	ns042	ns042c1	ns042c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	573	K		MAG	u	283.1	Magnetite remanence.	l	39.4	0.5	4	100
+This study	North Shore Volcanics	ns042d	ns042	ns042d1	ns042d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	573	K		MAG	u	288.5	Magnetite remanence.	l	39.5	1.1	7	100
+This study	North Shore Volcanics	ns042e	ns042	ns042e2	ns042e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	573	K		MAG	u	294.6	Magnetite remanence.	l	42.1	1.5	7	100
+This study	North Shore Volcanics	ns047b	ns047	ns047b1	ns047b1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	898	273	K		MAG	u	309.9	Magnetite remanence.	l	56.6	1.3	12	100
+This study	North Shore Volcanics	ns047c	ns047	ns047c2	ns047c2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	873	473	K		MAG	u	316	Magnetite remanence.	l	55.9	1.1	5	100
+This study	North Shore Volcanics	ns047e	ns047	ns047e1	ns047e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	473	K		MAG	u	313.1	Magnetite remanence.	l	54.8	1	8	100
+This study	North Shore Volcanics	ns051c	ns051	ns051c1	ns051c1 : LT-NO	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	573	K		MAG	u	284.6	Magnetite remanence.	l	42.3	0.7	5	100
+This study	North Shore Volcanics	ns051d	ns051	ns051d1	ns051d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	773	K		MAG	u	295.5	Magnetite remanence.	l	38.1	0.9	4	100
+This study	North Shore Volcanics	ns051e	ns051	ns051e1	ns051e1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	723	K		MAG	u	293.8	Magnetite remanence.	l	42	0.5	5	100
+This study	North Shore Volcanics	ns057c	ns057	ns057c1	ns057c1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	473	K		MAG	u	285.2	Magnetite remanence.	l	30.4	1.7	6	100
+This study	North Shore Volcanics	ns057d	ns057	ns057d1	ns057d1 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	923	723	K		MAG	u	288	Magnetite remanence.	l	28.3	0.7	5	100
+This study	North Shore Volcanics	ns057e	ns057	ns057e2	ns057e2 : LT-NO	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	948	573	K		MAG	u	288.7	Magnetite remanence.	l	29.9	0.4	8	100

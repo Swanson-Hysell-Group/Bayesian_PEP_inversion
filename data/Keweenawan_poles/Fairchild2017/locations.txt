@@ -1,0 +1,4 @@
+tab 	locations
+citations	lat_n	lat_s	location	location_type	lon_e	lon_w
+This study	47.7244	47.7022	Michipicoten Island	Region	274.044128	274.3519
+This study	47.53669	47.524091	Two Island River	Outcrop	269.06	269.07756

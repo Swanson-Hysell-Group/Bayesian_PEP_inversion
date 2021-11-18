@@ -1,0 +1,3 @@
+tab 	contribution
+contributor	data_model_version	reference	timestamp	version
+@polarwand	3.0	10.1139/CJES-2013-0003	2017-10-11T22:26:33.140Z	1

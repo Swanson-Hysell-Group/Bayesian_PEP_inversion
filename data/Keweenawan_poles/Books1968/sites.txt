@@ -1,0 +1,27 @@
+tab 	sites
+citations	dir_alpha95	dir_dec	dir_inc	dir_k	dir_n_samples	dir_polarity	dir_tilt_correction	geologic_classes	geologic_types	lat	lithologies	location	lon	method_codes	result_type	site	vgp_lat	vgp_lon
+This study	14.0	97.0	-77.5	43.8	4	r	100	Extrusive	Lava Flow	46.5	Basalt	Ironwood	-90.0		i	K01	44.2	235.9
+This study	20.4	58.0	-79	37.6	3	r	100	Extrusive	Lava Flow	46.5	Basalt	Ironwood	-90.0		i	K02	33.0	248.5
+This study	8.4	57.0	-64	84.1	5	r	100	Extrusive	Lava Flow	46.5	Basalt	Ironwood	-90.0		i	K06	14.9	232.7
+This study	14.4	55.0	-74.5	29.2	5	r	100	Extrusive	Lava Flow	46.5	Basalt	Ironwood	-90.0		i	K07	26.3	243.7
+This study	8.2	73.0	-80	88.4	5	r	100	Extrusive	Lava Flow	46.5	Basalt	Ironwood	-90.1		i	K98	38.1	246.1
+This study	12.5	72.0	-67.5	38.3	5	r	100	Extrusive	Lava Flow	46.5	Basalt	Ironwood	-90.1		i	K09	25.0	227.9
+This study	23.7	90.5	-71.5	16.0	4	r	100	Extrusive	Lava Flow	46.5	Basalt	Ironwood	-90.1		i	K12	37.3	225.5
+This study	11.4	84.0	-54	46.0	5	r	100	Extrusive	Lava Flow	46.5	Basalt	Ironwood	-90.1		i	K13	20.6	208.8
+This study	12.1	69.9	-63.5	58.9	4	r	100	Extrusive	Lava Flow	46.5	Basalt	Ironwood	-90.1		i	K20	20.3	224.9
+This study	6.3	123.0	-69	150.4	5	r	100	Extrusive	Lava Flow	46.5	Basalt	Ironwood	-90.1		i	K21	53.5	210.8
+This study	5.5	34.0	-75.5	281.0	4	r	100	Extrusive	Lava Flow	46.5	Basalt	Ironwood	-90.1		i	K86	22.5	253.8
+This study	20.8	49.0	-65.5	20.4	4	r	100	Extrusive	Lava Flow	46.5	Basalt	Ironwood	-90.1		i	K87	13.4	238.4
+This study	19.3	69.5	-75.5	23.7	4	r	100	Extrusive	Lava Flow	46.5	Basalt	Ironwood	-90.2		i	K46	32.2	239.2
+This study	15.7	79.0	-64.5	35.4	4	r	100	Extrusive	Lava Flow	46.5	Basalt	Ironwood	-90.2		i	K48	25.7	221.0
+This study	12.5	113.6	-63.3	55.2	4	r	100	Extrusive	Lava Flow	47.9	Basalt	Grand Portage	-89.7		i	K30	45.5	202.3
+This study	4.6	116.6	-62.8	393.1	4	r	100	Extrusive	Lava Flow	47.9	Basalt	Grand Portage	-89.7		i	K31	47.1	200.0
+This study	11.9	105.5	-55.6	42.4	5	r	100	Extrusive	Lava Flow	47.9	Basalt	Grand Portage	-89.7		i	K33	35.6	197.1
+This study	14.0	116.5	-55.3	44.0	4	r	100	Extrusive	Lava Flow	47.9	Basalt	Grand Portage	-89.7		i	K34	42.6	190.0
+This study	4.3	128.1	-66.7	323.5	5	r	100	Extrusive	Lava Flow	47.9	Basalt	Grand Portage	-89.7		i	K35	56.3	202.5
+This study	8.3	117.9	-54.6	85.2	5	r	100	Extrusive	Lava Flow	47.9	Basalt	Grand Portage	-89.7		i	K36	43.1	188.3
+This study	3.3	114.7	-64.3	542.8	5	r	100	Extrusive	Lava Flow	47.9	Basalt	Grand Portage	-89.7		i	K37	46.8	203.3
+This study	12.7	96.6	-49.9	32.3	5	r	100	Extrusive	Lava Flow	47.9	Basalt	Grand Portage	-89.7		i	K38	26.4	197.8
+This study	5.0	127.1	-64.9	235.8	5	r	100	Extrusive	Lava Flow	47.9	Basalt	Grand Portage	-89.7		i	K39	54.9	198.9
+This study	5.6	124.4	-59.2	188.6	5	r	100	Extrusive	Lava Flow	47.9	Basalt	Grand Portage	-89.7		i	K40	50.1	190.1
+This study	4.8	76.2	-71.9	255.0	5	r	100	Extrusive	Lava Flow	47.9	Basalt	Grand Portage	-89.7		i	K42	32.2	231.4

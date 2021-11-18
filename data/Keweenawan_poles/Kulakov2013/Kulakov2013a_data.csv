@@ -1,0 +1,22 @@
+site_ID,study,dec_is,inc_is,dip_direction,dip,dec_tc,inc_tc,a_95,directional_kappa,n,site_lat,site_lon,vgp_lat,vgp_lon,member,location
+CS1,Kulakov2013a,267.9,46.8,356,38,300.3,34.1,3.8,240,9,47.46,-88.07,34,172.5,Middle LST,Coast near Silver Island
+CS2,Kulakov2013a,261.1,47.2,356,38,297,37.9,2.7,803,6,47.46,-88.07,33.6,177.4,Middle LST,Coast near Silver Island
+SI1,Kulakov2013a,239.2,43.5,356,38,280.4,48.1,3,185,9,47.46,-88.07,27.7,195.8,Middle LST,Silver Island
+SI2,Kulakov2013a,237.2,37.8,356,38,272.4,45.8,5,163,6,47.46,-88.07,21.2,199.5,Middle LST,Silver Island
+SI3,Kulakov2013a,243.9,40.5,356,38,279.9,43.5,4,620,6,47.46,-88.07,24.9,193.1,Middle LST,Silver Island
+SI4,Kulakov2013a,236.6,40.9,356,38,275.5,48.1,2.3,681,8,47.46,-88.07,24.5,199,Middle LST,Silver Island
+SI5,Kulakov2013a,240.7,39.4,356,38,276.6,44.7,6.4,630,6,47.46,-88.07,23.4,196,Middle LST,Silver Island
+SI6,Kulakov2013a,240.8,32.7,356,38,269.8,40.3,2.5,228,7,47.46,-88.07,16.6,198.1,Middle LST,Silver Island
+SI7,Kulakov2013a,247.5,43.4,356,38,285.3,43.1,6.2,582,4,47.46,-88.07,28.3,189.1,Middle LST,Silver Island
+SI8,Kulakov2013a,246.7,37.8,356,38,279,40.1,3.8,207,6,47.46,-88.07,22.5,191.7,Middle LST,Silver Island
+SI9,Kulakov2013a,237.9,40.5,356,38,275.9,47.1,2.5,206,7,47.46,-88.07,24.2,198.1,Middle LST,Silver Island
+SI10,Kulakov2013a,241.6,36.6,356,38,274.2,42.4,3.9,863,10,47.46,-88.07,20.6,196.3,Middle LST,Silver Island
+LST12,Kulakov2013a,273.5,34.2,22,24,291.2,38.3,4.3,153,6,47.43,-87.71,29.9,182.3,Middle LST,Eastern sites
+LST14,Kulakov2013a,260.0,36.4,22,24,279.7,45.7,4.1,160,6,47.43,-87.71,25.9,195,Middle LST,Eastern sites
+LST15,Kulakov2013a,262.9,34.2,22,24,281.1,42.6,3.2,142,6,47.43,-87.71,25.2,192.1,Middle LST,Eastern sites
+LST18,Kulakov2013a,263.5,32.8,22,24,280.8,41.1,6.6,85,7,47.43,-87.71,24.2,191.4,Middle LST,Eastern sites
+LST22,Kulakov2013a,256.4,30.6,22,24,272.3,42,5.8,133,6,47.43,-87.71,19.1,197.7,Middle LST,Eastern sites
+LST24,Kulakov2013a,257.0,24.2,22,24,269.4,36,2.5,481,6,47.43,-87.71,14.2,196.5,Middle LST,Eastern sites
+LST25,Kulakov2013a,260.6,34.6,22,24,279.1,43.9,6,104,6,47.43,-87.71,24.6,194.2,Middle LST,Eastern sites
+LST28,Kulakov2013a,262.7,27.5,22,24,276.9,36.8,4.9,159,8,47.43,-87.71,19.5,191.7,Middle LST,Eastern sites
+LST30,Kulakov2013a,255.9,24.4,22,24,268.4,36.6,5.1,144,6,47.43,-87.71,13.8,197.5,Middle LST,Eastern sites

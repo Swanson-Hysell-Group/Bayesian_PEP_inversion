@@ -1,0 +1,3 @@
+tab 	ages
+age_high	age_low	age_unit	description	location	method_codes	timescale_citations	timescale_eon	timescale_era	timescale_period
+1086	1085	Ma	U-Pb age 1085.57 +/- 0.5 Ma.	Lake Shore Traps	GM-UPB	10.1130/L580.1	Proterozoic	Mesoproterozoic	Stenian

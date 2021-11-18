@@ -1,0 +1,43 @@
+tab 	ages
+age	age_high	age_low	age_unit	citations	description	location	method_codes	site
+25	1091.75	1091.47	Ma	This study	238U/206Pb weighted mean from Silver Bay aplite of the Beaver Bay Complex (max age of Schroeder-Lutsen basalts)	Two Island River	GM-UPB-MA-206	BBC-SBA1
+26	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB01
+27	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB02
+28	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB03
+29	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB04
+30	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB05
+31	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB06
+32	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB07
+33	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB08
+34	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB09
+35	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB10
+36	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB11
+37	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB12
+38	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB13
+39	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB14
+40	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB15
+41	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB16
+42	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB17
+43	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB18
+44	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB19
+45	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB20
+46	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB21
+47	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB22
+48	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB23
+49	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB24
+50	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB25
+51	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB26
+52	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB27
+53	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB28
+54	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB29
+55	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB30
+56	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB31
+57	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB32
+58	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB33
+59	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB34
+60	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB35
+61	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB36
+62	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB37
+63	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB38
+64	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB39
+65	1091.61	1086.0	Ma	This study		Two Island River	GM-INT	SLB40

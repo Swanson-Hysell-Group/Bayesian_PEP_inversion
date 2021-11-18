@@ -1,0 +1,3 @@
+tab 	locations
+citations	continent_ocean	country	geologic_classes	lat_n	lat_s	lithologies	location	location_type	lon_e	lon_w	method_codes	plate_blocks	region	sites	tectonic_settings
+This study	North America	USA	Extrusive	47.822107	47.55559984	Basalt:Andesite:Rhyolite		Region	-90.0612863	-90.87729197	LT-AF-Z	North American Plate		NS254 : NS255 : NS256 : NS263 : NS381 : NS370 : NS382 : NS372 : NS379 : NS371 : NS380 : NS262 : NS261 : NS260 : NS259 : NS258 : NS264 : NS257 : NS377 : NS171 : NS170 : NS169 : NS376 : NS374 : NS369 : NS368 : NS265 : NS367 : NS365 : NS362 : NS226 : NS375 : NS229 : NS227 : NS378 : NS269	Continental Rift

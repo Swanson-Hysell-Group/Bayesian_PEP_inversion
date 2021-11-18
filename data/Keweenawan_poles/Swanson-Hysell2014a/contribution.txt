@@ -1,0 +1,3 @@
+tab 	contribution
+data_model_version	reference
+3.0	10.1130/G35271.1

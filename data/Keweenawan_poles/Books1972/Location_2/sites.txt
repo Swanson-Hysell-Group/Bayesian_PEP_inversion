@@ -1,0 +1,11 @@
+tab 	sites
+citations	dir_dec	dir_inc	dir_n_samples	dir_polarity	dir_tilt_correction	formation	geologic_classes	geologic_types	lat	lithologies	location	lon	method_codes	result_type	site	site_alternatives	vgp_lat	vgp_lon
+This study	264.4	47.3	4	n	100		Extrusive	Lava Flow	47.88622328	Basalt	Isle Royale:Michigan	-89.20390113	LT-AF-Z	a	MK243		17.20955925	204.4419172
+This study	274.1	46.4	5	n	100		Extrusive	Lava Flow	47.88622328	Basalt	Isle Royale:Michigan	-89.20553158	LT-AF-Z	a	MK244		22.78648203	197.4848709
+This study	272.9	49.3	5	n	100		Extrusive	Lava Flow	47.88594915	Basalt	Isle Royale:Michigan	-89.20695822	LT-AF-Z	a	MK245		23.71189368	200.2232599
+This study	290.4	67.1	4	n	100		Extrusive	Lava Flow	47.88581209	Basalt	Isle Royale:Michigan	-89.20879248	LT-AF-Z	a	MK246		45.84942325	210.5183268
+This study	263.7	56.7	5	n	100		Extrusive	Lava Flow	47.88567502	Basalt	Isle Royale:Michigan	-89.21042293	LT-AF-Z	a	MK247		23.00057697	211.5613646
+This study	285.2	25.2	5	n	100		Extrusive	Lava Flow	47.8873198	Basalt	Isle Royale:Michigan	-89.19391462	LT-AF-Z	a	MK248		19.94072109	178.6269011
+This study	281.9	24.7	5	n	100		Extrusive	Lava Flow	47.88800219	Basalt	Isle Royale:Michigan	-89.21534223	LT-AF-Z	a	MK249		17.51900899	180.8576778
+This study	289.2	14.1	5	n	100		Extrusive	Lava Flow	47.89143175	Basalt	Isle Royale:Michigan	-89.2030859	LT-AF-Z	a	MK250		18.13430688	171.1948422
+This study	292.9	29.5	6	n	100		Extrusive	Lava Flow	47.8947213	Basalt	Isle Royale:Michigan	-89.20023261	LT-AF-Z	a	MK251		26.93671093	174.6643292

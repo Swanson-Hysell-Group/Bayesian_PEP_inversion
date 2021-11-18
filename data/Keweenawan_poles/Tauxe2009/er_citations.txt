@@ -1,0 +1,10 @@
+tab 	er_citations
+book_title	citation_type	city	er_citation_name	journal	long_authors	pages	publisher	title	volume	year
+	Journal		This study	Physics of the Earth and Planetary Interiors	Tauxe, L. and Kodama, K.P.	Unknown		Paleosecular variation models for ancient times: Clues from Keweenawan lava flows	in press	2009
+	Journal		As & Zijderveld 1958	Geophysical Journal International	As, J.A. and Zijderveld, J.D.A.	308-319		Magnetic cleaning of rocks in paleomagnetic research	1	1958
+Methods in rock magnetism and Paleomagnetism: Techniques and instrumentation	Book	London	Collinson 1983		Collinson, D.W.	503	Chapman and Hall			1983
+	Journal		Cox & Doell 1960	Geological Society of America, Bulletin	Cox, A. and Doell, R.R.	645		Review of paleomagnetism	71	1960
+	Journal		Fisher 1953	Proceedings of the Royal Society of London	Fisher, R.A.	295-305		Dispersion on a sphere	A217	1953
+	Journal		Kirschvink 1980	Geophysical Journal of the Royal Astronomical Society	Kirschvink, J.L.	699-718		The least squares line and plane and the analysis of palaeomagnetic data	62	1980
+	Journal		McFadden & McElhinny 1988	Earth and Planetary Science Letters	McFadden, P.L. and McElhinny, M.W.	163-189		The combined analysis of remagnetization circles and direct observations in palaeomagnetism	87	1988
+	Journal		Wilson 1961	Geophysical Journal of the Royal Astronomical Society	Wilson, R.L.	45-58		Palaeomagnetism in Northern Ireland, Part I. The thermal demagnetization of natural magnetic moments in rocks	5	1961

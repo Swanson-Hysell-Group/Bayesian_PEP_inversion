@@ -1,0 +1,17 @@
+tab 	samples
+azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	citations	dip	geologic_classes	geologic_types	height	lithologies	location	method_codes	sample	site
+-76.3	0	11	159.1	This study	-11			2.4		Puff Island	SO-CMD-NORTH	Puf1-1	Puf1
+-89.4	0	11	159.1	This study	-19			2.5		Puff Island	SO-CMD-NORTH	Puf1-2	Puf1
+96.9	0	11	159.1	This study	-9			2.3		Puff Island	SO-CMD-NORTH	Puf1-3	Puf1
+7.3	0	11	159.1	This study	-30			2.5		Puff Island	SO-CMD-NORTH	Puf1-4	Puf1
+22.4	0	11	159.1	This study	-36			2.6		Puff Island	SO-CMD-NORTH	Puf1-5	Puf1
+-83.9	0	11	159.1	This study	-12			2.6		Puff Island	SO-CMD-NORTH	Puf1-6	Puf1
+-81.3	0	11	159.1	This study	-21			2.0		Puff Island	SO-CMD-NORTH	Puf1-7	Puf1
+-29.3	0	11	159.1	This study	-23			1.6		Puff Island	SO-CMD-NORTH	Puf1-8	Puf1
+245.1	0	11	159.1	This study	-54			5.0		Puff Island	SO-CMD-NORTH	Puf2-1	Puf2
+-22.9	0	11	159.1	This study	-27			4.9		Puff Island	SO-CMD-NORTH	Puf2-2	Puf2
+145.1	0	11	159.1	This study	-62			5.2		Puff Island	SO-CMD-NORTH	Puf2-3	Puf2
+151.2	0	11	159.1	This study	-19			5.1		Puff Island	SO-CMD-NORTH	Puf2-4	Puf2
+215.2	0	11	159.1	This study	-49			4.8		Puff Island	SO-CMD-NORTH	Puf2-5	Puf2
+193.1	0	11	159.1	This study	-60			4.8		Puff Island	SO-CMD-NORTH	Puf2-6	Puf2
+194.1	0	11	159.1	This study	-55			4.8		Puff Island	SO-CMD-NORTH	Puf2-7	Puf2

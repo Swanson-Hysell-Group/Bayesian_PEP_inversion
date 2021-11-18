@@ -1,0 +1,3 @@
+tab delimited	contribution
+id	version	contributor	magic_version
+5010	2	@lfairchild	3.0

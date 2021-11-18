@@ -1,0 +1,3 @@
+tab 	contribution
+contributor	doi	id	magic_version	timestamp	version
+@lfairchild	10.1130/l580.1	11883	3.0	2017-03-02T18:50:20.537Z	PRIVATE

@@ -1,0 +1,35 @@
+tab delimited	contribution
+data_model_version	reference
+3	10.1139/cjes-2013-0003
+>>>>>>>>>>
+tab delimited	locations
+location	location_type	geologic_classes	lithologies	geological_province_sections	lat_s	lat_n	lon_w	lon_e	continent_ocean	country	region	age_low	age_high
+Lake Shore Traps	Outcrop	Extrusive	Basalt	Lake Shore Traps	47.6	47.6	271.9	271.9	North America	U.S.A.	Michigan	1085	1086
+>>>>>>>>>>
+tab delimited	ages
+location	age_low	age_high	age_unit	timescale_eon	timescale_era	timescale_period	description	method_codes	timescale_citations
+Lake Shore Traps	1085	1086	Ma	Proterozoic	Mesoproterozoic	Stenian	U-Pb age 1085.57 +/- 0.5 Ma.	GM-UPB	10.1130/L580.1
+>>>>>>>>>>
+tab delimited	sites
+site	dir_tilt_correction	bed_dip_direction	bed_dip	dir_dec	dir_inc	dir_alpha95	dir_n_samples	lat	lon	vgp_lat	vgp_lon	dir_k	member
+CS1	100	356	38	300.3	34.1	3.8	9	47.46	-88.07	34	172.5	240	Middle LST
+CS2	100	356	38	297	37.9	2.7	6	47.46	-88.07	33.6	177.4	803	Middle LST
+SI1	100	356	38	280.4	48.1	3	9	47.46	-88.07	27.7	195.8	185	Middle LST
+SI2	100	356	38	272.4	45.8	5	6	47.46	-88.07	21.2	199.5	163	Middle LST
+SI3	100	356	38	279.9	43.5	4	6	47.46	-88.07	24.9	193.1	620	Middle LST
+SI4	100	356	38	275.5	48.1	2.3	8	47.46	-88.07	24.5	199	681	Middle LST
+SI5	100	356	38	276.6	44.7	6.4	6	47.46	-88.07	23.4	196	630	Middle LST
+SI6	100	356	38	269.8	40.3	2.5	7	47.46	-88.07	16.6	198.1	228	Middle LST
+SI7	100	356	38	285.3	43.1	6.2	4	47.46	-88.07	28.3	189.1	582	Middle LST
+SI8	100	356	38	279	40.1	3.8	6	47.46	-88.07	22.5	191.7	207	Middle LST
+SI9	100	356	38	275.9	47.1	2.5	7	47.46	-88.07	24.2	198.1	206	Middle LST
+SI10	100	356	38	274.2	42.4	3.9	10	47.46	-88.07	20.6	196.3	863	Middle LST
+LST12	100	22	24	291.2	38.3	4.3	6	47.43	-87.71	29.9	182.3	153	Middle LST
+LST14	100	22	24	279.7	45.7	4.1	6	47.43	-87.71	25.9	195	160	Middle LST
+LST15	100	22	24	281.1	42.6	3.2	6	47.43	-87.71	25.2	192.1	142	Middle LST
+LST18	100	22	24	280.8	41.1	6.6	7	47.43	-87.71	24.2	191.4	85	Middle LST
+LST22	100	22	24	272.3	42	5.8	6	47.43	-87.71	19.1	197.7	133	Middle LST
+LST24	100	22	24	269.4	36	2.5	6	47.43	-87.71	14.2	196.5	481	Middle LST
+LST25	100	22	24	279.1	43.9	6	6	47.43	-87.71	24.6	194.2	104	Middle LST
+LST28	100	22	24	276.9	36.8	4.9	8	47.43	-87.71	19.5	191.7	159	Middle LST
+LST30	100	22	24	268.4	36.6	5.1	6	47.43	-87.71	13.8	197.5	144	Middle LST

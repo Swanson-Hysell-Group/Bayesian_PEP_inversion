@@ -1,0 +1,551 @@
+tab 	er_samples
+er_citation_names	er_location_name	er_sample_name	er_site_name	magic_method_codes	sample_azimuth	sample_bed_dip	sample_bed_dip_direction	sample_class	sample_date	sample_declination_correction	sample_description	sample_dip	sample_lat	sample_lithology	sample_lon	sample_orientation_flag	sample_time_zone	sample_type
+This study	North Shore Volcanics	ns002a	ns002	FS-FD : SO-POM : SO-GT5 : SO-SUN	4.1	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	0		-58.5	47.73415	Basalt	269.57081	g		Lava Flow
+This study	North Shore Volcanics	ns002b	ns002	FS-FD : SO-POM : SO-SUN	346.2	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	0		-24	47.73415	Basalt	269.57081	g		Lava Flow
+This study	North Shore Volcanics	ns002c	ns002	FS-FD : SO-POM : SO-GT5 : SO-SUN	336.6	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	0		-20	47.73415	Basalt	269.57081	g		Lava Flow
+This study	North Shore Volcanics	ns002d	ns002	FS-FD : SO-POM : SO-GT5 : SO-CMD-NORTH	294	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	358		-30	47.73415	Basalt	269.57081	g		Lava Flow
+This study	North Shore Volcanics	ns002f	ns002	FS-FD : SO-POM : SO-CMD-NORTH	291	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	358		-94.5	47.73415	Basalt	269.57081	g		Lava Flow
+This study	North Shore Volcanics	ns003a	ns003	FS-FD : SO-POM : SO-SUN	340.2	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	0		-41	47.7371	Andesite	269.58863	g		Lava Flow
+This study	North Shore Volcanics	ns003b	ns003	FS-FD : SO-POM : SO-SUN	338.8	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	0		-44	47.7371	Andesite	269.58863	g		Lava Flow
+This study	North Shore Volcanics	ns003d	ns003	FS-FD : SO-POM : SO-SUN	312.8	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	0		-55	47.7371	Andesite	269.58863	g		Lava Flow
+This study	North Shore Volcanics	ns003e	ns003	FS-FD : SO-POM : SO-SUN	299.2	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	0		-64	47.7371	Andesite	269.58863	g		Lava Flow
+This study	North Shore Volcanics	ns003f	ns003	FS-FD : SO-POM : SO-SUN	278.4	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	0		-79	47.7371	Andesite	269.58863	g		Lava Flow
+This study	North Shore Volcanics	ns004a	ns004	FS-FD : SO-POM : SO-SUN	25	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	0		-28	47.73275	Basalt	269.56367	g		Lava Flow
+This study	North Shore Volcanics	ns004c	ns004	FS-FD : SO-POM : SO-SUN	29.6	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	0		-19	47.73275	Basalt	269.56367	g		Lava Flow
+This study	North Shore Volcanics	ns004e	ns004	FS-FD : SO-POM : SO-SUN	315.8	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	0		-59	47.73275	Basalt	269.56367	g		Lava Flow
+This study	North Shore Volcanics	ns004f	ns004	FS-FD : SO-POM : SO-SUN	29.4	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	0		-83	47.73275	Basalt	269.56367	g		Lava Flow
+This study	North Shore Volcanics	ns004g	ns004	FS-FD : SO-POM : SO-CMD-NORTH	29.1	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	358.1		-21	47.73275	Basalt	269.56367	g		Lava Flow
+This study	North Shore Volcanics	ns005a	ns005	FS-FD : SO-POM : SO-SUN	94	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	0		-77	47.72542	Andesite	269.55701	g		Lava Flow
+This study	North Shore Volcanics	ns005b	ns005	FS-FD : SO-POM : SO-SUN	114.7	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	0		-82	47.72542	Andesite	269.55701	g		Lava Flow
+This study	North Shore Volcanics	ns005c	ns005	FS-FD : SO-POM : SO-CMD-NORTH	112.1	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	358.1		-82	47.72542	Andesite	269.55701	g		Lava Flow
+This study	North Shore Volcanics	ns005e	ns005	FS-FD : SO-POM : SO-SUN	116.7	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	0		-50	47.72542	Andesite	269.55701	g		Lava Flow
+This study	North Shore Volcanics	ns005g	ns005	FS-FD : SO-POM : SO-SUN	109.1	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	0		-47	47.72542	Andesite	269.55701	g		Lava Flow
+This study	North Shore Volcanics	ns006b	ns006	FS-FD : SO-POM : SO-CMD-NORTH	330.1	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	358.1		-76	47.7161	Basalt	269.50957	g		Lava Flow
+This study	North Shore Volcanics	ns006c	ns006	FS-FD : SO-POM : SO-CMD-NORTH	4.1	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	358.1		-78	47.7161	Basalt	269.50957	g		Lava Flow
+This study	North Shore Volcanics	ns006d	ns006	FS-FD : SO-POM : SO-CMD-NORTH	353.1	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	358.1		-85	47.7161	Basalt	269.50957	g		Lava Flow
+This study	North Shore Volcanics	ns006e	ns006	FS-FD : SO-POM : SO-CMD-NORTH	4.1	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	358.1		-87	47.7161	Basalt	269.50957	g		Lava Flow
+This study	North Shore Volcanics	ns006f	ns006	FS-FD : SO-POM : SO-GT5 : SO-CMD-NORTH	3.1	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	358.1		-88	47.7161	Basalt	269.50957	g		Lava Flow
+This study	North Shore Volcanics	ns007a	ns007	FS-FD : SO-POM : SO-GT5 : SO-CMD-NORTH	349.2	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	358.2		-8	47.70123	Basalt	269.46093	g		Lava Flow
+This study	North Shore Volcanics	ns007c	ns007	FS-FD : SO-POM : SO-SUN	297.2	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	0		-7	47.70123	Basalt	269.46093	g		Lava Flow
+This study	North Shore Volcanics	ns007d	ns007	FS-FD : SO-POM : SO-SUN	299.4	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	0		-16	47.70123	Basalt	269.46093	g		Lava Flow
+This study	North Shore Volcanics	ns007f	ns007	FS-FD : SO-POM : SO-CMD-NORTH	258.2	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	358.2		-68	47.70123	Basalt	269.46093	g		Lava Flow
+This study	North Shore Volcanics	ns007g	ns007	FS-FD : SO-POM : SO-CMD-NORTH	295.2	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	358.2		-67	47.70123	Basalt	269.46093	g		Lava Flow
+This study	North Shore Volcanics	ns008a	ns008	FS-FD : SO-POM : SO-SUN	260.6	12	159	Igneous : Intrusive	2006:07:10:00:00:00.00	0		-96	47.60108	Diorite	269.21345	g		Sill
+This study	North Shore Volcanics	ns008b	ns008	FS-FD : SO-POM : SO-SUN	258.2	12	159	Igneous : Intrusive	2006:07:10:00:00:00.00	0		-90	47.60108	Diorite	269.21345	g		Sill
+This study	North Shore Volcanics	ns008c	ns008	FS-FD : SO-POM : SO-SUN	322.7	12	159	Igneous : Intrusive	2006:07:10:00:00:00.00	0		-107	47.60108	Diorite	269.21345	g		Sill
+This study	North Shore Volcanics	ns008d	ns008	FS-FD : SO-POM : SO-SUN	315.8	12	159	Igneous : Intrusive	2006:07:10:00:00:00.00	0		-111	47.60108	Diorite	269.21345	g		Sill
+This study	North Shore Volcanics	ns008h	ns008	FS-FD : SO-POM : SO-SUN	330.3	12	159	Igneous : Intrusive	2006:07:10:00:00:00.00	0		-95	47.60108	Diorite	269.21345	g		Sill
+This study	North Shore Volcanics	ns009a	ns009	FS-FD : SO-POM : SO-SUN	313.3	12	159	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-75	47.59789	Basalt	269.2085	g		Lava Flow
+This study	North Shore Volcanics	ns009b	ns009	FS-FD : SO-POM : SO-SUN	263.7	12	159	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-85	47.59789	Basalt	269.2085	g		Lava Flow
+This study	North Shore Volcanics	ns009c	ns009	FS-FD : SO-POM : SO-SUN	302.5	12	159	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-81	47.59789	Basalt	269.2085	g		Lava Flow
+This study	North Shore Volcanics	ns009e	ns009	FS-FD : SO-POM : SO-SUN	309	12	159	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-61	47.59789	Basalt	269.2085	g		Lava Flow
+This study	North Shore Volcanics	ns009f	ns009	FS-FD : SO-POM : SO-SUN	356.6	12	159	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-85	47.59789	Basalt	269.2085	g		Lava Flow
+This study	North Shore Volcanics	ns010a	ns010	FS-FD : SO-POM : SO-SUN	323	12	159	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-87	47.59411	Basalt	269.20271	g		Lava Flow
+This study	North Shore Volcanics	ns010b	ns010	FS-FD : SO-POM : SO-GT5 : SO-SUN	322.1	12	159	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-91	47.59411	Basalt	269.20271	g		Lava Flow
+This study	North Shore Volcanics	ns010c	ns010	FS-FD : SO-POM : SO-SUN	303.6	12	159	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-70.5	47.59411	Basalt	269.20271	g		Lava Flow
+This study	North Shore Volcanics	ns010d	ns010	FS-FD : SO-POM : SO-SUN	291.1	12	159	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-69	47.59411	Basalt	269.20271	g		Lava Flow
+This study	North Shore Volcanics	ns010e	ns010	FS-FD : SO-POM : SO-SUN	344.6	12	159	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-79	47.59411	Basalt	269.20271	g		Lava Flow
+This study	North Shore Volcanics	ns011a	ns011	FS-FD : SO-POM : SO-SUN	288.6	12	159	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-97	47.58531	Basalt	269.18479	g		Lava Flow
+This study	North Shore Volcanics	ns011b	ns011	FS-FD : SO-POM : SO-SUN	287.8	12	159	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-93	47.58531	Basalt	269.18479	g		Lava Flow
+This study	North Shore Volcanics	ns011c	ns011	FS-FD : SO-POM : SO-SUN	347.9	12	159	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-76	47.58531	Basalt	269.18479	g		Lava Flow
+This study	North Shore Volcanics	ns011d	ns011	FS-FD : SO-POM : SO-SUN	347.3	12	159	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-8	47.58531	Basalt	269.18479	g		Lava Flow
+This study	North Shore Volcanics	ns011e	ns011	FS-FD : SO-POM : SO-SUN	343.2	12	159	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-24	47.58531	Basalt	269.18479	g		Lava Flow
+This study	North Shore Volcanics	ns012a	ns012	FS-FD : SO-POM : SO-SUN	221.3	12	149	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-84	47.54605	Basalt	269.10639	g		Lava Flow
+This study	North Shore Volcanics	ns012b	ns012	FS-FD : SO-POM : SO-SUN	210.2	12	149	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-81	47.54605	Basalt	269.10639	g		Lava Flow
+This study	North Shore Volcanics	ns012c	ns012	FS-FD : SO-POM : SO-SUN	207.5	12	149	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-77	47.54605	Basalt	269.10639	g		Lava Flow
+This study	North Shore Volcanics	ns012d	ns012	FS-FD : SO-POM : SO-GT5 : SO-SUN	236	12	149	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-87.5	47.54605	Basalt	269.10639	g		Lava Flow
+This study	North Shore Volcanics	ns012e	ns012	FS-FD : SO-POM : SO-SUN	246.9	12	149	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-76	47.54605	Basalt	269.10639	g		Lava Flow
+This study	North Shore Volcanics	ns013a	ns013	FS-FD : SO-POM : SO-SUN	353	12	149	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-54	47.55097	Basalt	269.11716	g		Lava Flow
+This study	North Shore Volcanics	ns013c	ns013	FS-FD : SO-POM : SO-SUN	344.3	12	149	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-43	47.55097	Basalt	269.11716	g		Lava Flow
+This study	North Shore Volcanics	ns013d	ns013	FS-FD : SO-POM : SO-SUN	302.7	12	149	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-37	47.55097	Basalt	269.11716	g		Lava Flow
+This study	North Shore Volcanics	ns013e	ns013	FS-FD : SO-POM : SO-SUN	356.7	12	149	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-81	47.55097	Basalt	269.11716	g		Lava Flow
+This study	North Shore Volcanics	ns014a	ns014	FS-FD : SO-POM : SO-SUN	313.3	12	145	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-22	47.46915	Basalt	268.98572	g		Lava Flow
+This study	North Shore Volcanics	ns014b	ns014	FS-FD : SO-POM : SO-SUN	300.2	12	145	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-4	47.46915	Basalt	268.98572	g		Lava Flow
+This study	North Shore Volcanics	ns014c	ns014	FS-FD : SO-POM : SO-SUN	159.1	12	145	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-7	47.46915	Basalt	268.98572	g		Lava Flow
+This study	North Shore Volcanics	ns014d	ns014	FS-FD : SO-POM : SO-SUN	317.4	12	145	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-9	47.46915	Basalt	268.98572	g		Lava Flow
+This study	North Shore Volcanics	ns014f	ns014	FS-FD : SO-POM : SO-SUN	344.4	12	145	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-10	47.46915	Basalt	268.98572	g		Lava Flow
+This study	North Shore Volcanics	ns015a	ns015	FS-FD : SO-POM : SO-SUN	176.2	12	145	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-55	47.46923	Basalt	268.9863	g		Lava Flow
+This study	North Shore Volcanics	ns015b	ns015	FS-FD : SO-POM : SO-SUN	172	12	145	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-61	47.46923	Basalt	268.9863	g		Lava Flow
+This study	North Shore Volcanics	ns015d	ns015	FS-FD : SO-POM : SO-SUN	300.7	12	145	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-41	47.46923	Basalt	268.9863	g		Lava Flow
+This study	North Shore Volcanics	ns015e	ns015	FS-FD : SO-POM : SO-SUN	299.8	12	145	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-31	47.46923	Basalt	268.9863	g		Lava Flow
+This study	North Shore Volcanics	ns015g	ns015	FS-FD : SO-POM : SO-SUN	323.8	12	145	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-27	47.46923	Basalt	268.9863	g		Lava Flow
+This study	North Shore Volcanics	ns016a	ns016	FS-FD : SO-POM : SO-SUN	308.6	12	167	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-91	47.74304	Basalt	269.6176	g		Lava Flow
+This study	North Shore Volcanics	ns016b	ns016	FS-FD : SO-POM : SO-SUN	309.4	12	167	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-92	47.74304	Basalt	269.6176	g		Lava Flow
+This study	North Shore Volcanics	ns016c	ns016	FS-FD : SO-POM : SO-SUN	0.5	12	167	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-65	47.74304	Basalt	269.6176	g		Lava Flow
+This study	North Shore Volcanics	ns016e	ns016	FS-FD : SO-POM : SO-SUN	0	12	167	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-76	47.74304	Basalt	269.6176	g		Lava Flow
+This study	North Shore Volcanics	ns016f	ns016	FS-FD : SO-POM : SO-SUN	284	12	167	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-82	47.74304	Basalt	269.6176	g		Lava Flow
+This study	North Shore Volcanics	ns017a	ns017	FS-FD : SO-POM : SO-GT5 : SO-SUN	155.1	0	0	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-78	47.38919	Basalt	268.86152	g		Lava Flow
+This study	North Shore Volcanics	ns017c	ns017	FS-FD : SO-POM : SO-CMD-NORTH	93.8	0	0	Igneous : Extrusive	2006:07:10:00:00:00.00	358.8		-2	47.38919	Basalt	268.86152	g		Lava Flow
+This study	North Shore Volcanics	ns017d	ns017	FS-FD : SO-POM : SO-CMD-NORTH	154.8	0	0	Igneous : Extrusive	2006:07:10:00:00:00.00	358.8		-1.5	47.38919	Basalt	268.86152	g		Lava Flow
+This study	North Shore Volcanics	ns017f	ns017	FS-FD : SO-POM : SO-CMD-NORTH	20.8	12	140	Igneous : Extrusive	2006:07:10:00:00:00.00	358.8		-3	47.38919	Basalt	268.86152	g		Lava Flow
+This study	North Shore Volcanics	ns018a	ns018	FS-FD : SO-POM : SO-GT5 : SO-SUN	117.4	10	180	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-16	47.77667	Basalt	269.7907	g		Lava Flow
+This study	North Shore Volcanics	ns018b	ns018	FS-FD : SO-POM : SO-SUN	103.5	10	180	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-30	47.77667	Basalt	269.7907	g		Lava Flow
+This study	North Shore Volcanics	ns018c	ns018	FS-FD : SO-POM : SO-SUN	123.3	10	180	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-11	47.77667	Basalt	269.7907	g		Lava Flow
+This study	North Shore Volcanics	ns018e	ns018	FS-FD : SO-POM : SO-SUN	108.1	10	180	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-16	47.77667	Basalt	269.7907	g		Lava Flow
+This study	North Shore Volcanics	ns018g	ns018	FS-FD : SO-POM : SO-SUN	237.7	10	180	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-6	47.77667	Basalt	269.7907	g		Lava Flow
+This study	North Shore Volcanics	ns019a	ns019	FS-FD : SO-POM : SO-SUN	7.8	12	166	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-81	47.74169	Basalt	269.60941	g		Lava Flow
+This study	North Shore Volcanics	ns019b	ns019	FS-FD : SO-POM : SO-GT5 : SO-SUN	359.3	12	166	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-83	47.74169	Basalt	269.60941	g		Lava Flow
+This study	North Shore Volcanics	ns019c	ns019	FS-FD : SO-POM : SO-SUN	354.1	12	166	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-87.5	47.74169	Basalt	269.60941	g		Lava Flow
+This study	North Shore Volcanics	ns019d	ns019	FS-FD : SO-POM : SO-SUN	355.1	12	166	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-92	47.74169	Basalt	269.60941	g		Lava Flow
+This study	North Shore Volcanics	ns019e	ns019	FS-FD : SO-POM : SO-SUN	56.8	12	166	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-92	47.74169	Basalt	269.60941	g		Lava Flow
+This study	North Shore Volcanics	ns020a	ns020	FS-FD : SO-POM : SO-GT5 : SO-SUN	287.7	10	180	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-63	47.77857	Basalt	269.80928	g		Lava Flow
+This study	North Shore Volcanics	ns020b	ns020	FS-FD : SO-POM : SO-SUN	339.4	10	180	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-85	47.77857	Basalt	269.80928	g		Lava Flow
+This study	North Shore Volcanics	ns020c	ns020	FS-FD : SO-POM : SO-SUN	288.2	10	180	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-41	47.77857	Basalt	269.80928	g		Lava Flow
+This study	North Shore Volcanics	ns020d	ns020	FS-FD : SO-POM : SO-GT5 : SO-SUN	285.5	10	180	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-62	47.77857	Basalt	269.80928	g		Lava Flow
+This study	North Shore Volcanics	ns020e	ns020	FS-FD : SO-POM : SO-SUN	337.7	10	180	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-102	47.77857	Basalt	269.80928	g		Lava Flow
+This study	North Shore Volcanics	ns021a	ns021	FS-FD : SO-POM : SO-CMD-NORTH	342.8	10	180	Igneous : Extrusive	2006:07:11:00:00:00.00	357.8		-38	47.77705	Rhyolite	269.7795	g		Lava Flow
+This study	North Shore Volcanics	ns021b	ns021	FS-FD : SO-POM : SO-SUN	309.6	10	180	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-83	47.77705	Rhyolite	269.7795	g		Lava Flow
+This study	North Shore Volcanics	ns021c	ns021	FS-FD : SO-POM : SO-SUN	299.2	10	180	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-37	47.77705	Rhyolite	269.7795	g		Lava Flow
+This study	North Shore Volcanics	ns021d	ns021	FS-FD : SO-POM : SO-SUN	71.9	10	180	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-32	47.77705	Rhyolite	269.7795	g		Lava Flow
+This study	North Shore Volcanics	ns021e	ns021	FS-FD : SO-POM : SO-SUN	75	10	180	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-18	47.77705	Rhyolite	269.7795	g		Lava Flow
+This study	North Shore Volcanics	ns022a	ns022	FS-FD : SO-POM : SO-SUN	351.2	10	180	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-58	47.79647	Rhyolite	269.87137	g		Lava Flow
+This study	North Shore Volcanics	ns022b	ns022	FS-FD : SO-POM : SO-GT5 : SO-SUN	327.9	10	180	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-32	47.79647	Rhyolite	269.87137	g		Lava Flow
+This study	North Shore Volcanics	ns022c	ns022	FS-FD : SO-POM : SO-SUN	338	10	180	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-94	47.79647	Rhyolite	269.87137	g		Lava Flow
+This study	North Shore Volcanics	ns022e	ns022	FS-FD : SO-POM : SO-GT5 : SO-SUN	345.6	10	180	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-57	47.79647	Rhyolite	269.87137	g		Lava Flow
+This study	North Shore Volcanics	ns022f	ns022	FS-FD : SO-POM : SO-SUN	347.4	10	180	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-7	47.79647	Rhyolite	269.87137	g		Lava Flow
+This study	North Shore Volcanics	ns023a	ns023	FS-FD : SO-POM : SO-SUN	60.9	10	180	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-102	47.77633	Basalt	269.79895	g		Lava Flow
+This study	North Shore Volcanics	ns023b	ns023	FS-FD : SO-POM : SO-SUN	306.7	10	180	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-81	47.77633	Basalt	269.79895	g		Lava Flow
+This study	North Shore Volcanics	ns023c	ns023	FS-FD : SO-POM : SO-SUN	322.6	10	180	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-80	47.77633	Basalt	269.79895	g		Lava Flow
+This study	North Shore Volcanics	ns023e	ns023	FS-FD : SO-POM : SO-CMD-NORTH	324.8	10	180	Igneous : Extrusive	2006:07:11:00:00:00.00	357.8		-92	47.77633	Basalt	269.79895	g		Lava Flow
+This study	North Shore Volcanics	ns023g	ns023	FS-FD : SO-POM : SO-SUN	284.2	10	180	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-70	47.77633	Basalt	269.79895	g		Lava Flow
+This study	North Shore Volcanics	ns024a	ns024	FS-FD : SO-POM : SO-SUN	311.3	10	190	Igneous : Extrusive	2006:07:12:00:00:00.00	0		-79	47.92843	Basalt	270.27459	g		Lava Flow
+This study	North Shore Volcanics	ns024b	ns024	FS-FD : SO-POM : SO-SUN	318.4	10	190	Igneous : Extrusive	2006:07:12:00:00:00.00	0		-62	47.92843	Basalt	270.27459	g		Lava Flow
+This study	North Shore Volcanics	ns024c	ns024	FS-FD : SO-POM : SO-SUN	313.2	10	190	Igneous : Extrusive	2006:07:12:00:00:00.00	0		-71	47.92843	Basalt	270.27459	g		Lava Flow
+This study	North Shore Volcanics	ns024e	ns024	FS-FD : SO-POM : SO-SUN	309.3	10	190	Igneous : Extrusive	2006:07:12:00:00:00.00	0		-79	47.92843	Basalt	270.27459	g		Lava Flow
+This study	North Shore Volcanics	ns024f	ns024	FS-FD : SO-POM : SO-SUN	337.9	10	190	Igneous : Extrusive	2006:07:12:00:00:00.00	0		-67	47.92843	Basalt	270.27459	g		Lava Flow
+This study	North Shore Volcanics	ns025a	ns025	FS-FD : SO-POM : SO-SUN	303.5	10	180	Igneous : Intrusive	2006:07:12:00:00:00.00	0		-68	47.77634	Diabase	269.79893	g		Sill
+This study	North Shore Volcanics	ns025b	ns025	FS-FD : SO-POM : SO-GT5 : SO-SUN	323.8	10	180	Igneous : Intrusive	2006:07:12:00:00:00.00	0		-38	47.77634	Diabase	269.79893	g		Sill
+This study	North Shore Volcanics	ns025d	ns025	FS-FD : SO-POM : SO-SUN	245.6	10	180	Igneous : Intrusive	2006:07:12:00:00:00.00	0		-85	47.77634	Diabase	269.79893	g		Sill
+This study	North Shore Volcanics	ns025e	ns025	FS-FD : SO-POM : SO-SUN	319.3	10	180	Igneous : Intrusive	2006:07:12:00:00:00.00	0		-59	47.77634	Diabase	269.79893	g		Sill
+This study	North Shore Volcanics	ns025g	ns025	FS-FD : SO-POM : SO-SUN	252.6	10	180	Igneous : Intrusive	2006:07:12:00:00:00.00	0		-65	47.77634	Diabase	269.79893	g		Sill
+This study	North Shore Volcanics	ns026a	ns026	FS-FD : SO-POM : SO-SUN	300.3	10	190	Igneous : Extrusive	2006:07:12:00:00:00.00	0		-24	47.91243	Andesite	270.24872	g		Lava Flow
+This study	North Shore Volcanics	ns026b	ns026	FS-FD : SO-POM : SO-SUN	263.1	10	190	Igneous : Extrusive	2006:07:12:00:00:00.00	0		-19	47.91243	Andesite	270.24872	g		Lava Flow
+This study	North Shore Volcanics	ns026c	ns026	FS-FD : SO-POM : SO-SUN	348.9	10	190	Igneous : Extrusive	2006:07:12:00:00:00.00	0		-89	47.91243	Andesite	270.24872	g		Lava Flow
+This study	North Shore Volcanics	ns026d	ns026	FS-FD : SO-POM : SO-GT5 : SO-SUN	337.5	10	190	Igneous : Extrusive	2006:07:12:00:00:00.00	0		-50	47.91243	Andesite	270.24872	g		Lava Flow
+This study	North Shore Volcanics	ns026e	ns026	FS-FD : SO-POM : SO-SUN	300.8	10	190	Igneous : Extrusive	2006:07:12:00:00:00.00	0		-33	47.91243	Andesite	270.24872	g		Lava Flow
+This study	North Shore Volcanics	ns027a	ns027	FS-FD : SO-POM : SO-GT5 : SO-SUN	334.2	10	190	Igneous : Intrusive	2006:07:12:00:00:00.00	0		-33	47.90276	Diabase	270.22183	g		Sill
+This study	North Shore Volcanics	ns027b	ns027	FS-FD : SO-POM : SO-GT5 : SO-SUN	345.2	10	190	Igneous : Intrusive	2006:07:12:00:00:00.00	0		-78	47.90276	Diabase	270.22183	g		Sill
+This study	North Shore Volcanics	ns027c	ns027	FS-FD : SO-POM : SO-SUN	284.9	10	190	Igneous : Intrusive	2006:07:12:00:00:00.00	0		-80	47.90276	Diabase	270.22183	g		Sill
+This study	North Shore Volcanics	ns027d	ns027	FS-FD : SO-POM : SO-SUN	333.2	10	190	Igneous : Intrusive	2006:07:12:00:00:00.00	0		-82	47.90276	Diabase	270.22183	g		Sill
+This study	North Shore Volcanics	ns027e	ns027	FS-FD : SO-POM : SO-GT5 : SO-SUN	314	10	190	Igneous : Intrusive	2006:07:12:00:00:00.00	0		-99	47.90276	Diabase	270.22183	g		Sill
+This study	North Shore Volcanics	ns028a	ns028	FS-FD : SO-POM : SO-SUN	330.1	14	177	Igneous : Extrusive	2006:07:12:00:00:00.00	0		-88.5	47.76711	Basalt	269.66823	g		Lava Flow
+This study	North Shore Volcanics	ns028b	ns028	FS-FD : SO-POM : SO-SUN	332.9	14	177	Igneous : Extrusive	2006:07:12:00:00:00.00	0		-90	47.76711	Basalt	269.66823	g		Lava Flow
+This study	North Shore Volcanics	ns028c	ns028	FS-FD : SO-POM : SO-GT5 : SO-SUN	333.8	14	177	Igneous : Extrusive	2006:07:12:00:00:00.00	0		-88	47.76711	Basalt	269.66823	g		Lava Flow
+This study	North Shore Volcanics	ns028e	ns028	FS-FD : SO-POM : SO-SUN	326.9	14	177	Igneous : Extrusive	2006:07:12:00:00:00.00	0		-90	47.76711	Basalt	269.66823	g		Lava Flow
+This study	North Shore Volcanics	ns028f	ns028	FS-FD : SO-POM : SO-SUN	333.5	14	177	Igneous : Extrusive	2006:07:12:00:00:00.00	0		-88	47.76711	Basalt	269.66823	g		Lava Flow
+This study	North Shore Volcanics	ns029a	ns029	FS-FD : SO-POM : SO-SUN	0.9	10	190	Igneous : Intrusive	2006:07:12:00:00:00.00	0		-68	47.86887	Gabbro	270.11115	g		Sill
+This study	North Shore Volcanics	ns029b	ns029	FS-FD : SO-POM : SO-SUN	358.3	10	190	Igneous : Intrusive	2006:07:12:00:00:00.00	0		-74	47.86887	Gabbro	270.11115	g		Sill
+This study	North Shore Volcanics	ns030a	ns030	FS-FD : SO-POM : SO-CMD-NORTH	314.7	10	180	Igneous : Extrusive	2006:07:12:00:00:00.00	357.7		-24	47.79897	Rhyolite	269.89441	g		Lava Flow
+This study	North Shore Volcanics	ns030b	ns030	FS-FD : SO-POM : SO-CMD-NORTH	333.7	10	180	Igneous : Extrusive	2006:07:12:00:00:00.00	357.7		-85	47.79897	Rhyolite	269.89441	g		Lava Flow
+This study	North Shore Volcanics	ns030c	ns030	FS-FD : SO-POM : SO-CMD-NORTH	351.7	10	180	Igneous : Extrusive	2006:07:12:00:00:00.00	357.7		-50	47.79897	Rhyolite	269.89441	g		Lava Flow
+This study	North Shore Volcanics	ns030d	ns030	FS-FD : SO-POM : SO-GT5 : SO-SUN	2	10	180	Igneous : Extrusive	2006:07:12:00:00:00.00	0		-61	47.79897	Rhyolite	269.89441	g		Lava Flow
+This study	North Shore Volcanics	ns030f	ns030	FS-FD : SO-POM : SO-GT5 : SO-CMD-NORTH	349.7	10	180	Igneous : Extrusive	2006:07:12:00:00:00.00	357.7		-48	47.79897	Rhyolite	269.89441	g		Lava Flow
+This study	North Shore Volcanics	ns031a	ns031	FS-FD : SO-POM : SO-SUN	339.5	14	177	Igneous : Extrusive	2006:07:12:00:00:00.00	0		-91	47.76888	Basalt	269.66913	g		Lava Flow
+This study	North Shore Volcanics	ns031b	ns031	FS-FD : SO-POM : SO-SUN	330.4	14	177	Igneous : Extrusive	2006:07:12:00:00:00.00	0		-90	47.76888	Basalt	269.66913	g		Lava Flow
+This study	North Shore Volcanics	ns031c	ns031	FS-FD : SO-POM : SO-SUN	350.1	14	177	Igneous : Extrusive	2006:07:12:00:00:00.00	0		-94	47.76888	Basalt	269.66913	g		Lava Flow
+This study	North Shore Volcanics	ns031d	ns031	FS-FD : SO-POM : SO-SUN	326.9	14	177	Igneous : Extrusive	2006:07:12:00:00:00.00	0		-61	47.76888	Basalt	269.66913	g		Lava Flow
+This study	North Shore Volcanics	ns031f	ns031	FS-FD : SO-POM : SO-GT5 : SO-SUN	341.7	14	177	Igneous : Extrusive	2006:07:12:00:00:00.00	0		-74	47.76888	Basalt	269.66913	g		Lava Flow
+This study	North Shore Volcanics	ns032a	ns032	FS-FD : SO-POM : SO-GT5 : SO-SUN	302.8	12	166	Igneous : Extrusive	2006:07:13:00:00:00.00	0		-80	47.73193	Andesite	269.55709	g		Lava Flow
+This study	North Shore Volcanics	ns032b	ns032	FS-FD : SO-POM : SO-GT5 : SO-SUN	300.3	12	166	Igneous : Extrusive	2006:07:13:00:00:00.00	0		-84	47.73193	Andesite	269.55709	g		Lava Flow
+This study	North Shore Volcanics	ns032c	ns032	FS-FD : SO-POM : SO-GT5 : SO-SUN	334.7	12	166	Igneous : Extrusive	2006:07:13:00:00:00.00	0		-24	47.73193	Andesite	269.55709	g		Lava Flow
+This study	North Shore Volcanics	ns032e	ns032	FS-FD : SO-POM : SO-SUN	292	12	166	Igneous : Extrusive	2006:07:13:00:00:00.00	0		-18	47.73193	Andesite	269.55709	g		Lava Flow
+This study	North Shore Volcanics	ns032f	ns032	FS-FD : SO-POM : SO-SUN	299.9	12	166	Igneous : Extrusive	2006:07:13:00:00:00.00	0		-10	47.73193	Andesite	269.55709	g		Lava Flow
+This study	North Shore Volcanics	ns033a	ns033	FS-FD : SO-POM : SO-SUN	132.2	10	180	Igneous : Extrusive	2006:07:12:00:00:00.00	0		-24	47.81594	Rhyolite	269.89617	g		Lava Flow
+This study	North Shore Volcanics	ns033b	ns033	FS-FD : SO-POM : SO-SUN	77.6	10	180	Igneous : Extrusive	2006:07:12:00:00:00.00	0		-32	47.81594	Rhyolite	269.89617	g		Lava Flow
+This study	North Shore Volcanics	ns034a	ns034	FS-FD : SO-POM : SO-SUN	357.1	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	0		-18	47.01668	Basalt	268.33971	g		Lava Flow
+This study	North Shore Volcanics	ns034b	ns034	FS-FD : SO-POM : SO-SUN	6.2	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	0		-31	47.01668	Basalt	268.33971	g		Lava Flow
+This study	North Shore Volcanics	ns034c	ns034	FS-FD : SO-POM : SO-SUN	19	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	0		-26	47.01668	Basalt	268.33971	g		Lava Flow
+This study	North Shore Volcanics	ns034d	ns034	FS-FD : SO-POM : SO-SUN	155.7	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	0		-53	47.01668	Basalt	268.33971	g		Lava Flow
+This study	North Shore Volcanics	ns034g	ns034	FS-FD : SO-POM : SO-GT5 : SO-SUN	299	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	0		-49	47.01668	Basalt	268.33971	g		Lava Flow
+This study	North Shore Volcanics	ns035a	ns035	FS-FD : SO-POM : SO-GT5 : SO-SUN	258.2	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	0		-10	47.01823	Basalt	268.34011	g		Lava Flow
+This study	North Shore Volcanics	ns035b	ns035	FS-FD : SO-POM : SO-GT5 : SO-SUN	131.7	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	0		-30	47.01823	Basalt	268.34011	g		Lava Flow
+This study	North Shore Volcanics	ns035c	ns035	FS-FD : SO-POM : SO-SUN	149	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	0		-70	47.01823	Basalt	268.34011	g		Lava Flow
+This study	North Shore Volcanics	ns035d	ns035	FS-FD : SO-POM : SO-SUN	303.4	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	0		-4	47.01823	Basalt	268.34011	g		Lava Flow
+This study	North Shore Volcanics	ns035e	ns035	FS-FD : SO-POM : SO-SUN	299.4	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	0		-6	47.01823	Basalt	268.34011	g		Lava Flow
+This study	North Shore Volcanics	ns036a	ns036	FS-FD : SO-POM : SO-CMD-NORTH	252.4	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	359.4		-94	47.01631	Basalt	268.33969	g		Lava Flow
+This study	North Shore Volcanics	ns036b	ns036	FS-FD : SO-POM : SO-CMD-NORTH	249.4	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	359.4		-83	47.01631	Basalt	268.33969	g		Lava Flow
+This study	North Shore Volcanics	ns036d	ns036	FS-FD : SO-POM : SO-CMD-NORTH	279.4	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	359.4		-2	47.01631	Basalt	268.33969	g		Lava Flow
+This study	North Shore Volcanics	ns036e	ns036	FS-FD : SO-POM : SO-CMD-NORTH	312.4	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	359.4		-58	47.01631	Basalt	268.33969	g		Lava Flow
+This study	North Shore Volcanics	ns036f	ns036	FS-FD : SO-POM : SO-CMD-NORTH	263.4	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	359.4		-91	47.01631	Basalt	268.33969	g		Lava Flow
+This study	North Shore Volcanics	ns037a	ns037	FS-FD : SO-POM : SO-SUN	307.1	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	0		-29	47.02017	Basalt	268.34019	g		Lava Flow
+This study	North Shore Volcanics	ns037b	ns037	FS-FD : SO-POM : SO-SUN	80.9	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	0		-73	47.02017	Basalt	268.34019	g		Lava Flow
+This study	North Shore Volcanics	ns037c	ns037	FS-FD : SO-POM : SO-SUN	152.3	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	0		-52	47.02017	Basalt	268.34019	g		Lava Flow
+This study	North Shore Volcanics	ns037f	ns037	FS-FD : SO-POM : SO-SUN	339.7	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	0		-86	47.02017	Basalt	268.34019	g		Lava Flow
+This study	North Shore Volcanics	ns037g	ns037	FS-FD : SO-POM : SO-GT5 : SO-SUN	12.3	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	0		-83	47.02017	Basalt	268.34019	g		Lava Flow
+This study	North Shore Volcanics	ns038a	ns038	FS-FD : SO-POM : SO-SUN	345.4	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	0		-29	46.95412	Basalt	268.22677	g		Lava Flow
+This study	North Shore Volcanics	ns038b	ns038	FS-FD : SO-POM : SO-SUN	337.1	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	0		-31	46.95412	Basalt	268.22677	g		Lava Flow
+This study	North Shore Volcanics	ns038c	ns038	FS-FD : SO-POM : SO-CMD-NORTH	308.5	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	359.5		-29	46.95412	Basalt	268.22677	g		Lava Flow
+This study	North Shore Volcanics	ns038d	ns038	FS-FD : SO-POM : SO-CMD-NORTH	312.5	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	359.5		-94	46.95412	Basalt	268.22677	g		Lava Flow
+This study	North Shore Volcanics	ns038f	ns038	FS-FD : SO-POM : SO-GT5 : SO-CMD-NORTH	306.5	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	359.5		-24	46.95412	Basalt	268.22677	g		Lava Flow
+This study	North Shore Volcanics	ns039a	ns039	FS-FD : SO-POM : SO-GT5 : SO-CMD-NORTH	270.5	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	359.5		-80	46.95296	Basalt	268.22442	g		Lava Flow
+This study	North Shore Volcanics	ns039b	ns039	FS-FD : SO-POM : SO-GT5 : SO-CMD-NORTH	299.5	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	359.5		-98	46.95296	Basalt	268.22442	g		Lava Flow
+This study	North Shore Volcanics	ns039c	ns039	FS-FD : SO-POM : SO-CMD-NORTH	285.5	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	359.5		-99	46.95296	Basalt	268.22442	g		Lava Flow
+This study	North Shore Volcanics	ns039d	ns039	FS-FD : SO-POM : SO-GT5 : SO-CMD-NORTH	286.5	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	359.5		-70	46.95296	Basalt	268.22442	g		Lava Flow
+This study	North Shore Volcanics	ns039e	ns039	FS-FD : SO-POM : SO-CMD-NORTH	282.5	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	359.5		-84	46.95296	Basalt	268.22442	g		Lava Flow
+This study	North Shore Volcanics	ns040a	ns040	FS-FD : SO-POM : SO-SUN	187	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-34	46.92496	Basalt	268.17933	g		Lava Flow
+This study	North Shore Volcanics	ns040b	ns040	FS-FD : SO-POM : SO-SUN	11	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-28	46.92496	Basalt	268.17933	g		Lava Flow
+This study	North Shore Volcanics	ns040c	ns040	FS-FD : SO-POM : SO-SUN	311.7	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-9	46.92496	Basalt	268.17933	g		Lava Flow
+This study	North Shore Volcanics	ns040e	ns040	FS-FD : SO-POM : SO-SUN	301	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-24	46.92496	Basalt	268.17933	g		Lava Flow
+This study	North Shore Volcanics	ns040f	ns040	FS-FD : SO-POM : SO-GT5 : SO-SUN	338.6	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-39	46.92496	Basalt	268.17933	g		Lava Flow
+This study	North Shore Volcanics	ns041a	ns041	FS-FD : SO-POM : SO-GT5 : SO-SUN	312.6	16	112	Igneous : Intrusive	2006:07:15:00:00:00.00	0		-29	46.92407	Basalt	268.18249	g		Sill
+This study	North Shore Volcanics	ns041c	ns041	FS-FD : SO-POM : SO-SUN	338.6	16	112	Igneous : Intrusive	2006:07:15:00:00:00.00	0		-38	46.92407	Basalt	268.18249	g		Sill
+This study	North Shore Volcanics	ns041d	ns041	FS-FD : SO-POM : SO-SUN	3.6	16	112	Igneous : Intrusive	2006:07:15:00:00:00.00	0		-48	46.92407	Basalt	268.18249	g		Sill
+This study	North Shore Volcanics	ns041e	ns041	FS-FD : SO-POM : SO-SUN	350.6	16	112	Igneous : Intrusive	2006:07:15:00:00:00.00	0		-51	46.92407	Basalt	268.18249	g		Sill
+This study	North Shore Volcanics	ns041f	ns041	FS-FD : SO-POM : SO-SUN	350.8	16	112	Igneous : Intrusive	2006:07:15:00:00:00.00	0		-40	46.92407	Basalt	268.18249	g		Sill
+This study	North Shore Volcanics	ns042a	ns042	FS-FD : SO-POM : SO-GT5 : SO-SUN	121.3	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-17	46.91051	Basalt	268.18249	g		Lava Flow
+This study	North Shore Volcanics	ns042b	ns042	FS-FD : SO-POM : SO-GT5 : SO-SUN	238.6	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-16	46.91051	Basalt	268.18249	g		Lava Flow
+This study	North Shore Volcanics	ns042c	ns042	FS-FD : SO-POM : SO-GT5 : SO-SUN	322.9	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-11	46.91051	Basalt	268.18249	g		Lava Flow
+This study	North Shore Volcanics	ns042d	ns042	FS-FD : SO-POM : SO-GT5 : SO-SUN	16.3	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-5	46.91051	Basalt	268.18249	g		Lava Flow
+This study	North Shore Volcanics	ns042e	ns042	FS-FD : SO-POM : SO-SUN	235.9	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-7	46.91051	Basalt	268.18249	g		Lava Flow
+This study	North Shore Volcanics	ns043a	ns043	FS-FD : SO-POM : SO-GT5 : SO-SUN	304	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-34	46.90964	Basalt	268.13537	g		Lava Flow
+This study	North Shore Volcanics	ns043b	ns043	FS-FD : SO-POM : SO-GT5 : SO-SUN	317.6	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-38	46.90964	Basalt	268.13537	g		Lava Flow
+This study	North Shore Volcanics	ns043c	ns043	FS-FD : SO-POM : SO-GT5 : SO-SUN	327	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-43	46.90964	Basalt	268.13537	g		Lava Flow
+This study	North Shore Volcanics	ns043e	ns043	FS-FD : SO-POM : SO-GT5 : SO-SUN	273.9	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-18	46.90964	Basalt	268.13537	g		Lava Flow
+This study	North Shore Volcanics	ns043f	ns043	FS-FD : SO-POM : SO-SUN	317.9	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-30	46.90964	Basalt	268.13537	g		Lava Flow
+This study	North Shore Volcanics	ns044a	ns044	FS-FD : SO-POM : SO-GT5 : SO-SUN	285	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-20	46.91107	Basalt	268.13956	g		Lava Flow
+This study	North Shore Volcanics	ns044b	ns044	FS-FD : SO-POM : SO-SUN	306.1	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-19	46.91107	Basalt	268.13956	g		Lava Flow
+This study	North Shore Volcanics	ns044d	ns044	FS-FD : SO-POM : SO-GT5 : SO-SUN	335.3	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-47	46.91107	Basalt	268.13956	g		Lava Flow
+This study	North Shore Volcanics	ns044e	ns044	FS-FD : SO-POM : SO-SUN	0.7	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-38	46.91107	Basalt	268.13956	g		Lava Flow
+This study	North Shore Volcanics	ns044f	ns044	FS-FD : SO-POM : SO-SUN	343.4	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-33	46.91107	Basalt	268.13956	g		Lava Flow
+This study	North Shore Volcanics	ns045a	ns045	FS-FD : SO-POM : SO-SUN	38.4	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-72	46.90995	Basalt	268.13652	g		Lava Flow
+This study	North Shore Volcanics	ns045b	ns045	FS-FD : SO-POM : SO-GT5 : SO-SUN	133	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-67	46.90995	Basalt	268.13652	g		Lava Flow
+This study	North Shore Volcanics	ns045e	ns045	FS-FD : SO-POM : SO-GT5 : SO-SUN	290.6	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-78	46.90995	Basalt	268.13652	g		Lava Flow
+This study	North Shore Volcanics	ns045f	ns045	FS-FD : SO-POM : SO-SUN	326.6	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-66	46.90995	Basalt	268.13652	g		Lava Flow
+This study	North Shore Volcanics	ns046a	ns046	FS-FD : SO-POM : SO-GT5 : SO-SUN	46.1	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-18	46.89996	Basalt	268.10844	g		Lava Flow
+This study	North Shore Volcanics	ns046b	ns046	FS-FD : SO-POM : SO-SUN	309.4	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-23	46.89996	Basalt	268.10844	g		Lava Flow
+This study	North Shore Volcanics	ns046c	ns046	FS-FD : SO-POM : SO-SUN	329.1	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-38	46.89996	Basalt	268.10844	g		Lava Flow
+This study	North Shore Volcanics	ns046f	ns046	FS-FD : SO-POM : SO-GT5 : SO-SUN	335.8	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-28	46.89996	Basalt	268.10844	g		Lava Flow
+This study	North Shore Volcanics	ns046h	ns046	FS-FD : SO-POM : SO-SUN	323.7	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-9	46.89996	Basalt	268.10844	g		Lava Flow
+This study	North Shore Volcanics	ns047a	ns047	FS-FD : SO-POM : SO-GT5 : SO-SUN	117.9	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-76	46.90163	Basalt	268.11151	g		Lava Flow
+This study	North Shore Volcanics	ns047b	ns047	FS-FD : SO-POM : SO-SUN	110.4	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-77	46.90163	Basalt	268.11151	g		Lava Flow
+This study	North Shore Volcanics	ns047c	ns047	FS-FD : SO-POM : SO-GT5 : SO-SUN	128	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-39	46.90163	Basalt	268.11151	g		Lava Flow
+This study	North Shore Volcanics	ns047e	ns047	FS-FD : SO-POM : SO-GT5 : SO-SUN	312.7	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-29	46.90163	Basalt	268.11151	g		Lava Flow
+This study	North Shore Volcanics	ns047f	ns047	FS-FD : SO-POM : SO-GT5 : SO-SUN	317.5	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-57	46.90163	Basalt	268.11151	g		Lava Flow
+This study	North Shore Volcanics	ns048b	ns048	FS-FD : SO-POM : SO-SUN	272.3	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-22	46.89692	Basalt	268.10385	g		Lava Flow
+This study	North Shore Volcanics	ns048c	ns048	FS-FD : SO-POM : SO-SUN	305.4	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-14	46.89692	Basalt	268.10385	g		Lava Flow
+This study	North Shore Volcanics	ns048d	ns048	FS-FD : SO-POM : SO-SUN	22.2	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-10	46.89692	Basalt	268.10385	g		Lava Flow
+This study	North Shore Volcanics	ns048e	ns048	FS-FD : SO-POM : SO-SUN	82.7	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-39	46.89692	Basalt	268.10385	g		Lava Flow
+This study	North Shore Volcanics	ns049a	ns049	FS-FD : SO-POM : SO-SUN	128.9	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-55	46.90292	Basalt	268.11385	g		Lava Flow
+This study	North Shore Volcanics	ns049b	ns049	FS-FD : SO-POM : SO-SUN	153.6	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-64	46.90292	Basalt	268.11385	g		Lava Flow
+This study	North Shore Volcanics	ns049e	ns049	FS-FD : SO-POM : SO-SUN	101.8	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-54	46.90292	Basalt	268.11385	g		Lava Flow
+This study	North Shore Volcanics	ns049f	ns049	FS-FD : SO-POM : SO-SUN	148.4	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-73	46.90292	Basalt	268.11385	g		Lava Flow
+This study	North Shore Volcanics	ns049g	ns049	FS-FD : SO-POM : SO-SUN	155.3	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-76	46.90292	Basalt	268.11385	g		Lava Flow
+This study	North Shore Volcanics	ns050a	ns050	FS-FD : SO-POM : SO-GT5 : SO-SUN	124.7	18	111	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-5	46.88286	Basalt	268.08416	g		Lava Flow
+This study	North Shore Volcanics	ns050b	ns050	FS-FD : SO-POM : SO-SUN	23.2	18	111	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-4	46.88286	Basalt	268.08416	g		Lava Flow
+This study	North Shore Volcanics	ns050c	ns050	FS-FD : SO-POM : SO-SUN	64.1	18	111	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-6	46.88286	Basalt	268.08416	g		Lava Flow
+This study	North Shore Volcanics	ns050d	ns050	FS-FD : SO-POM : SO-SUN	334.8	18	111	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-7	46.88286	Basalt	268.08416	g		Lava Flow
+This study	North Shore Volcanics	ns050f	ns050	FS-FD : SO-POM : SO-GT5 : SO-SUN	310.1	18	111	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-41	46.88286	Basalt	268.08416	g		Lava Flow
+This study	North Shore Volcanics	ns051a	ns051	FS-FD : SO-POM : SO-SUN	350.2	18	111	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-80	46.88497	Basalt	268.08801	g		Lava Flow
+This study	North Shore Volcanics	ns051b	ns051	FS-FD : SO-POM : SO-SUN	1.2	18	111	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-81	46.88497	Basalt	268.08801	g		Lava Flow
+This study	North Shore Volcanics	ns051c	ns051	FS-FD : SO-POM : SO-CMD-NORTH	321.7	18	111	Igneous : Extrusive	2006:07:15:00:00:00.00	359.7		-80	46.88497	Basalt	268.08801	g		Lava Flow
+This study	North Shore Volcanics	ns051d	ns051	FS-FD : SO-POM : SO-SUN	208.8	18	111	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-84	46.88497	Basalt	268.08801	g		Lava Flow
+This study	North Shore Volcanics	ns051e	ns051	FS-FD : SO-POM : SO-SUN	212	18	111	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-86	46.88497	Basalt	268.08801	g		Lava Flow
+This study	North Shore Volcanics	ns052a	ns052	FS-FD : SO-POM : SO-GT5 : SO-SUN	263.5	16	112	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-3	46.89534	Basalt	268.1015	g		Lava Flow
+This study	North Shore Volcanics	ns052b	ns052	FS-FD : SO-POM : SO-GT5 : SO-SUN	318	16	112	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-20	46.89534	Basalt	268.1015	g		Lava Flow
+This study	North Shore Volcanics	ns052c	ns052	FS-FD : SO-POM : SO-GT5 : SO-SUN	246.9	16	112	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-14	46.89534	Basalt	268.1015	g		Lava Flow
+This study	North Shore Volcanics	ns052d	ns052	FS-FD : SO-POM : SO-GT5 : SO-SUN	283.4	16	112	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-28	46.89534	Basalt	268.1015	g		Lava Flow
+This study	North Shore Volcanics	ns052f	ns052	FS-FD : SO-POM : SO-GT5 : SO-SUN	263.8	16	112	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-22	46.89534	Basalt	268.1015	g		Lava Flow
+This study	North Shore Volcanics	ns053a	ns053	FS-FD : SO-POM : SO-SUN	252.2	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-40	46.87654	Basalt	268.06891	g		Lava Flow
+This study	North Shore Volcanics	ns053b	ns053	FS-FD : SO-POM : SO-GT5 : SO-SUN	280.4	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-35	46.87654	Basalt	268.06891	g		Lava Flow
+This study	North Shore Volcanics	ns053c	ns053	FS-FD : SO-POM : SO-GT5 : SO-SUN	269.2	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-30	46.87654	Basalt	268.06891	g		Lava Flow
+This study	North Shore Volcanics	ns053e	ns053	FS-FD : SO-POM : SO-SUN	219.5	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-29	46.87654	Basalt	268.06891	g		Lava Flow
+This study	North Shore Volcanics	ns053f	ns053	FS-FD : SO-POM : SO-SUN	207.9	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-23	46.87654	Basalt	268.06891	g		Lava Flow
+This study	North Shore Volcanics	ns054a	ns054	FS-FD : SO-POM : SO-SUN	302.9	16	112	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-20	46.89499	Basalt	268.10066	g		Lava Flow
+This study	North Shore Volcanics	ns054b	ns054	FS-FD : SO-POM : SO-SUN	182.1	16	112	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-19	46.89499	Basalt	268.10066	g		Lava Flow
+This study	North Shore Volcanics	ns054c	ns054	FS-FD : SO-POM : SO-SUN	240	16	112	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-21	46.89499	Basalt	268.10066	g		Lava Flow
+This study	North Shore Volcanics	ns054d	ns054	FS-FD : SO-POM : SO-SUN	313.7	16	112	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-30	46.89499	Basalt	268.10066	g		Lava Flow
+This study	North Shore Volcanics	ns054f	ns054	FS-FD : SO-POM : SO-SUN	287	16	112	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-16	46.89499	Basalt	268.10066	g		Lava Flow
+This study	North Shore Volcanics	ns055a	ns055	FS-FD : SO-POM : SO-SUN	311	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-86	46.87575	Rhyolite	268.04751	g		Lava Flow
+This study	North Shore Volcanics	ns055b	ns055	FS-FD : SO-POM : SO-SUN	314.5	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-90	46.87575	Rhyolite	268.04751	g		Lava Flow
+This study	North Shore Volcanics	ns055c	ns055	FS-FD : SO-POM : SO-GT5 : SO-SUN	261	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-58	46.87575	Rhyolite	268.04751	g		Lava Flow
+This study	North Shore Volcanics	ns055e	ns055	FS-FD : SO-POM : SO-SUN	142.7	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-47	46.87575	Rhyolite	268.04751	g		Lava Flow
+This study	North Shore Volcanics	ns055g	ns055	FS-FD : SO-POM : SO-SUN	150.8	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-55	46.87575	Rhyolite	268.04751	g		Lava Flow
+This study	North Shore Volcanics	ns056a	ns056	FS-FD : SO-POM : SO-SUN	266.7	18	111	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-29	46.89011	Basalt	268.09337	g		Lava Flow
+This study	North Shore Volcanics	ns056b	ns056	FS-FD : SO-POM : SO-SUN	263.7	18	111	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-40	46.89011	Basalt	268.09337	g		Lava Flow
+This study	North Shore Volcanics	ns056c	ns056	FS-FD : SO-POM : SO-SUN	248.3	18	111	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-23	46.89011	Basalt	268.09337	g		Lava Flow
+This study	North Shore Volcanics	ns056d	ns056	FS-FD : SO-POM : SO-SUN	234.3	18	111	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-31	46.89011	Basalt	268.09337	g		Lava Flow
+This study	North Shore Volcanics	ns056e	ns056	FS-FD : SO-POM : SO-SUN	297.4	18	111	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-40	46.89011	Basalt	268.09337	g		Lava Flow
+This study	North Shore Volcanics	ns057a	ns057	FS-FD : SO-POM : SO-SUN	306.1	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-61	46.87453	Rhyolite	268.06569	g		Lava Flow
+This study	North Shore Volcanics	ns057b	ns057	FS-FD : SO-POM : SO-GT5 : SO-SUN	285	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-42	46.87453	Rhyolite	268.06569	g		Lava Flow
+This study	North Shore Volcanics	ns057c	ns057	FS-FD : SO-POM : SO-SUN	179.4	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-67	46.87453	Rhyolite	268.06569	g		Lava Flow
+This study	North Shore Volcanics	ns057d	ns057	FS-FD : SO-POM : SO-SUN	235.7	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-77	46.87453	Rhyolite	268.06569	g		Lava Flow
+This study	North Shore Volcanics	ns057e	ns057	FS-FD : SO-POM : SO-SUN	218.8	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-82	46.87453	Rhyolite	268.06569	g		Lava Flow
+This study	North Shore Volcanics	ns058a	ns058	FS-FD : SO-POM : SO-GT5 : SO-SUN	318.7	18	111	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-25	46.89011	Basalt	268.09337	g		Lava Flow
+This study	North Shore Volcanics	ns058b	ns058	FS-FD : SO-POM : SO-SUN	306.1	18	111	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-25	46.89011	Basalt	268.09337	g		Lava Flow
+This study	North Shore Volcanics	ns058d	ns058	FS-FD : SO-POM : SO-SUN	320.7	18	111	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-52	46.89011	Basalt	268.09337	g		Lava Flow
+This study	North Shore Volcanics	ns058e	ns058	FS-FD : SO-POM : SO-SUN	229.4	18	111	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-44	46.89011	Basalt	268.09337	g		Lava Flow
+This study	North Shore Volcanics	ns058f	ns058	FS-FD : SO-POM : SO-GT5 : SO-SUN	176	18	111	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-29	46.89011	Basalt	268.09337	g		Lava Flow
+This study	North Shore Volcanics	ns059a	ns059	FS-FD : SO-POM : SO-SUN	342.3	18	111	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-95	46.8835	Basalt	268.08551	g		Lava Flow
+This study	North Shore Volcanics	ns059c	ns059	FS-FD : SO-POM : SO-GT5 : SO-SUN	219.2	18	111	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-44	46.8835	Basalt	268.08551	g		Lava Flow
+This study	North Shore Volcanics	ns059e	ns059	FS-FD : SO-POM : SO-SUN	63.2	18	111	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-71	46.8835	Basalt	268.08551	g		Lava Flow
+This study	North Shore Volcanics	ns059f	ns059	FS-FD : SO-POM : SO-SUN	67.7	18	111	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-78	46.8835	Basalt	268.08551	g		Lava Flow
+This study	North Shore Volcanics	ns059g	ns059	FS-FD : SO-POM : SO-SUN	68.7	18	111	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-79	46.8835	Basalt	268.08551	g		Lava Flow
+This study	North Shore Volcanics	ns060a	ns060	FS-FD : SO-POM : SO-GT5 : SO-SUN	313.1	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-29	46.86945	Basalt	268.05315	g		Lava Flow
+This study	North Shore Volcanics	ns060b	ns060	FS-FD : SO-POM : SO-SUN	318	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-15	46.86945	Basalt	268.05315	g		Lava Flow
+This study	North Shore Volcanics	ns060c	ns060	FS-FD : SO-POM : SO-SUN	290.3	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-12	46.86945	Basalt	268.05315	g		Lava Flow
+This study	North Shore Volcanics	ns060d	ns060	FS-FD : SO-POM : SO-SUN	276.7	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-76	46.86945	Basalt	268.05315	g		Lava Flow
+This study	North Shore Volcanics	ns060f	ns060	FS-FD : SO-POM : SO-GT5 : SO-SUN	324.4	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-12.5	46.86945	Basalt	268.05315	g		Lava Flow
+This study	North Shore Volcanics	ns061a	ns061	FS-FD : SO-POM : SO-SUN	108.9	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-87	46.86879	Basalt	268.05134	g		Lava Flow
+This study	North Shore Volcanics	ns061b	ns061	FS-FD : SO-POM : SO-SUN	26.6	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-27	46.86879	Basalt	268.05134	g		Lava Flow
+This study	North Shore Volcanics	ns061e	ns061	FS-FD : SO-POM : SO-SUN	136.8	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-85	46.86879	Basalt	268.05134	g		Lava Flow
+This study	North Shore Volcanics	ns061f	ns061	FS-FD : SO-POM : SO-SUN	132.1	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-86	46.86879	Basalt	268.05134	g		Lava Flow
+This study	North Shore Volcanics	ns061g	ns061	FS-FD : SO-POM : SO-SUN	128.4	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-69	46.86879	Basalt	268.05134	g		Lava Flow
+This study	North Shore Volcanics	ns062a	ns062	FS-FD : SO-POM : SO-GT5 : SO-SUN	285.9	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-26	46.86996	Basalt	268.05477	g		Lava Flow
+This study	North Shore Volcanics	ns062b	ns062	FS-FD : SO-POM : SO-GT5 : SO-SUN	298	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-28	46.86996	Basalt	268.05477	g		Lava Flow
+This study	North Shore Volcanics	ns062c	ns062	FS-FD : SO-POM : SO-SUN	253.6	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-30	46.86996	Basalt	268.05477	g		Lava Flow
+This study	North Shore Volcanics	ns062e	ns062	FS-FD : SO-POM : SO-SUN	294.2	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-23.5	46.86996	Basalt	268.05477	g		Lava Flow
+This study	North Shore Volcanics	ns062f	ns062	FS-FD : SO-POM : SO-GT5 : SO-SUN	323.8	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-33	46.86996	Basalt	268.05477	g		Lava Flow
+This study	North Shore Volcanics	ns063a	ns063	FS-FD : SO-POM : SO-SUN	297.2	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-98	46.86909	Basalt	268.05227	g		Lava Flow
+This study	North Shore Volcanics	ns063b	ns063	FS-FD : SO-POM : SO-SUN	28.9	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-88	46.86909	Basalt	268.05227	g		Lava Flow
+This study	North Shore Volcanics	ns063c	ns063	FS-FD : SO-POM : SO-SUN	27.2	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-89	46.86909	Basalt	268.05227	g		Lava Flow
+This study	North Shore Volcanics	ns063e	ns063	FS-FD : SO-POM : SO-SUN	118.5	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-64	46.86909	Basalt	268.05227	g		Lava Flow
+This study	North Shore Volcanics	ns063f	ns063	FS-FD : SO-POM : SO-GT5 : SO-SUN	115	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-57	46.86909	Basalt	268.05227	g		Lava Flow
+This study	North Shore Volcanics	ns064a	ns064	FS-FD : SO-POM : SO-SUN	255.3	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-15	46.86785	Basalt	268.04964	g		Lava Flow
+This study	North Shore Volcanics	ns064b	ns064	FS-FD : SO-POM : SO-SUN	273.6	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-11	46.86785	Basalt	268.04964	g		Lava Flow
+This study	North Shore Volcanics	ns064c	ns064	FS-FD : SO-POM : SO-SUN	277	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-31	46.86785	Basalt	268.04964	g		Lava Flow
+This study	North Shore Volcanics	ns064e	ns064	FS-FD : SO-POM : SO-GT5 : SO-SUN	240.3	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-33	46.86785	Basalt	268.04964	g		Lava Flow
+This study	North Shore Volcanics	ns064f	ns064	FS-FD : SO-POM : SO-GT5 : SO-SUN	314.3	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-60	46.86785	Basalt	268.04964	g		Lava Flow
+This study	North Shore Volcanics	ns065b	ns065	FS-FD : SO-POM : SO-GT5 : SO-SUN	53.2	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-66	46.86961	Basalt	268.05363	g		Lava Flow
+This study	North Shore Volcanics	ns065c	ns065	FS-FD : SO-POM : SO-SUN	49.3	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-70	46.86961	Basalt	268.05363	g		Lava Flow
+This study	North Shore Volcanics	ns065d	ns065	FS-FD : SO-POM : SO-SUN	284.8	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-106	46.86961	Basalt	268.05363	g		Lava Flow
+This study	North Shore Volcanics	ns065e	ns065	FS-FD : SO-POM : SO-SUN	287.2	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-102	46.86961	Basalt	268.05363	g		Lava Flow
+This study	North Shore Volcanics	ns065f	ns065	FS-FD : SO-POM : SO-SUN	322.9	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-28	46.86961	Basalt	268.05363	g		Lava Flow
+This study	North Shore Volcanics	ns066a	ns066	FS-FD : SO-POM : SO-GT5 : SO-SUN	302.2	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-89	46.86674	Basalt	268.0474	g		Lava Flow
+This study	North Shore Volcanics	ns066b	ns066	FS-FD : SO-POM : SO-GT5 : SO-SUN	73.9	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-4	46.86674	Basalt	268.0474	g		Lava Flow
+This study	North Shore Volcanics	ns066c	ns066	FS-FD : SO-POM : SO-GT5 : SO-SUN	310.3	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-36	46.86674	Basalt	268.0474	g		Lava Flow
+This study	North Shore Volcanics	ns066d	ns066	FS-FD : SO-POM : SO-SUN	320.1	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-12	46.86674	Basalt	268.0474	g		Lava Flow
+This study	North Shore Volcanics	ns066e	ns066	FS-FD : SO-POM : SO-GT5 : SO-SUN	289.5	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-15	46.86674	Basalt	268.0474	g		Lava Flow
+This study	North Shore Volcanics	ns067a	ns067	FS-FD : SO-POM : SO-SUN	61	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-39	46.87085	Basalt	268.05704	g		Lava Flow
+This study	North Shore Volcanics	ns067b	ns067	FS-FD : SO-POM : SO-SUN	50.2	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-41	46.87085	Basalt	268.05704	g		Lava Flow
+This study	North Shore Volcanics	ns067c	ns067	FS-FD : SO-POM : SO-GT5 : SO-SUN	122.4	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-73	46.87085	Basalt	268.05704	g		Lava Flow
+This study	North Shore Volcanics	ns067e	ns067	FS-FD : SO-POM : SO-SUN	62.4	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-50	46.87085	Basalt	268.05704	g		Lava Flow
+This study	North Shore Volcanics	ns067f	ns067	FS-FD : SO-POM : SO-SUN	98.9	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-74	46.87085	Basalt	268.05704	g		Lava Flow
+This study	North Shore Volcanics	ns068a	ns068	FS-FD : SO-POM : SO-SUN	259.8	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-25	46.86433	Basalt	268.04385	g		Lava Flow
+This study	North Shore Volcanics	ns068b	ns068	FS-FD : SO-POM : SO-GT5 : SO-SUN	251.2	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-16	46.86433	Basalt	268.04385	g		Lava Flow
+This study	North Shore Volcanics	ns068d	ns068	FS-FD : SO-POM : SO-SUN	167.2	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-27	46.86433	Basalt	268.04385	g		Lava Flow
+This study	North Shore Volcanics	ns068f	ns068	FS-FD : SO-POM : SO-SUN	79.7	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-6	46.86433	Basalt	268.04385	g		Lava Flow
+This study	North Shore Volcanics	ns068g	ns068	FS-FD : SO-POM : SO-SUN	247.5	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-11	46.86433	Basalt	268.04385	g		Lava Flow
+This study	North Shore Volcanics	ns069a	ns069	FS-FD : SO-POM : SO-GT5 : SO-SUN	137.7	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-27	46.8676	Basalt	268.04854	g		Lava Flow
+This study	North Shore Volcanics	ns069f	ns069	FS-FD : SO-POM : SO-SUN	316.7	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-54	46.8676	Basalt	268.04854	g		Lava Flow
+This study	North Shore Volcanics	ns070a	ns070	FS-FD : SO-POM : SO-SUN	335.8	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-28	46.86164	Rhyolite	268.04036	g		Lava Flow
+This study	North Shore Volcanics	ns070b	ns070	FS-FD : SO-POM : SO-SUN	158.6	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-36	46.86164	Rhyolite	268.04036	g		Lava Flow
+This study	North Shore Volcanics	ns070c	ns070	FS-FD : SO-POM : SO-SUN	38.2	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-33	46.86164	Rhyolite	268.04036	g		Lava Flow
+This study	North Shore Volcanics	ns070e	ns070	FS-FD : SO-POM : SO-GT5 : SO-SUN	22.9	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-23	46.86164	Rhyolite	268.04036	g		Lava Flow
+This study	North Shore Volcanics	ns070f	ns070	FS-FD : SO-POM : SO-SUN	0.8	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-40	46.86164	Rhyolite	268.04036	g		Lava Flow
+This study	North Shore Volcanics	ns071a	ns071	FS-FD : SO-POM : SO-GT5 : SO-SUN	201.3	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-74	46.8673	Basalt	268.04816	g		Lava Flow
+This study	North Shore Volcanics	ns071b	ns071	FS-FD : SO-POM : SO-GT5 : SO-SUN	164.6	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-19	46.8673	Basalt	268.04816	g		Lava Flow
+This study	North Shore Volcanics	ns071c	ns071	FS-FD : SO-POM : SO-SUN	280	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-89	46.8673	Basalt	268.04816	g		Lava Flow
+This study	North Shore Volcanics	ns071d	ns071	FS-FD : SO-POM : SO-GT5 : SO-SUN	284.3	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-52	46.8673	Basalt	268.04816	g		Lava Flow
+This study	North Shore Volcanics	ns071e	ns071	FS-FD : SO-POM : SO-GT5 : SO-SUN	208.2	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-55	46.8673	Basalt	268.04816	g		Lava Flow
+This study	North Shore Volcanics	ns071f	ns071	FS-FD : SO-POM : SO-GT5 : SO-SUN	96.7	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-65	46.8673	Basalt	268.04816	g		Lava Flow
+This study	North Shore Volcanics	ns072a	ns072	FS-FD : SO-POM : SO-SUN	330	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-41	46.85836	Rhyolite	268.03466	g		Lava Flow
+This study	North Shore Volcanics	ns072b	ns072	FS-FD : SO-POM : SO-GT5 : SO-SUN	286.3	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-31	46.85836	Rhyolite	268.03466	g		Lava Flow
+This study	North Shore Volcanics	ns072c	ns072	FS-FD : SO-POM : SO-GT5 : SO-SUN	275.1	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-50	46.85836	Rhyolite	268.03466	g		Lava Flow
+This study	North Shore Volcanics	ns072d	ns072	FS-FD : SO-POM : SO-GT5 : SO-SUN	265.9	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-35	46.85836	Rhyolite	268.03466	g		Lava Flow
+This study	North Shore Volcanics	ns072e	ns072	FS-FD : SO-POM : SO-SUN	292.8	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-51	46.85836	Rhyolite	268.03466	g		Lava Flow
+This study	North Shore Volcanics	ns073b	ns073	FS-FD : SO-POM : SO-GT5 : SO-SUN	295.1	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-15	46.86576	Rhyolite	268.04598	g		Lava Flow
+This study	North Shore Volcanics	ns073c	ns073	FS-FD : SO-POM : SO-GT5 : SO-SUN	300.2	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-28	46.86576	Rhyolite	268.04598	g		Lava Flow
+This study	North Shore Volcanics	ns073d	ns073	FS-FD : SO-POM : SO-SUN	296.4	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-22	46.86576	Rhyolite	268.04598	g		Lava Flow
+This study	North Shore Volcanics	ns073e	ns073	FS-FD : SO-POM : SO-SUN	325.5	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-22	46.86576	Rhyolite	268.04598	g		Lava Flow
+This study	North Shore Volcanics	ns074a	ns074	FS-FD : SO-POM : SO-GT5 : SO-SUN	236.6	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-15	46.85744	Rhyolite	268.03275	g		Lava Flow
+This study	North Shore Volcanics	ns074b	ns074	FS-FD : SO-POM : SO-SUN	205.9	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-21	46.85744	Rhyolite	268.03275	g		Lava Flow
+This study	North Shore Volcanics	ns074c	ns074	FS-FD : SO-POM : SO-GT5 : SO-SUN	307.4	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-37	46.85744	Rhyolite	268.03275	g		Lava Flow
+This study	North Shore Volcanics	ns074d	ns074	FS-FD : SO-POM : SO-GT5 : SO-SUN	299	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-39	46.85744	Rhyolite	268.03275	g		Lava Flow
+This study	North Shore Volcanics	ns074e	ns074	FS-FD : SO-POM : SO-SUN	230.3	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-25	46.85744	Rhyolite	268.03275	g		Lava Flow
+This study	North Shore Volcanics	ns075a	ns075	FS-FD : SO-POM : SO-SUN	25	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-55	46.86576	Rhyolite	268.04598	g		Lava Flow
+This study	North Shore Volcanics	ns075b	ns075	FS-FD : SO-POM : SO-SUN	85.8	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-63	46.86576	Rhyolite	268.04598	g		Lava Flow
+This study	North Shore Volcanics	ns075c	ns075	FS-FD : SO-POM : SO-SUN	310.2	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-31	46.86576	Rhyolite	268.04598	g		Lava Flow
+This study	North Shore Volcanics	ns075d	ns075	FS-FD : SO-POM : SO-SUN	285.4	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-30	46.86576	Rhyolite	268.04598	g		Lava Flow
+This study	North Shore Volcanics	ns075f	ns075	FS-FD : SO-POM : SO-SUN	263.8	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-43	46.86576	Rhyolite	268.04598	g		Lava Flow
+This study	North Shore Volcanics	ns076a	ns076	FS-FD : SO-POM : SO-SUN	302.4	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-39	46.85625	Rhyolite	268.03115	g		Lava Flow
+This study	North Shore Volcanics	ns076b	ns076	FS-FD : SO-POM : SO-GT5 : SO-SUN	95.3	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-22	46.85625	Rhyolite	268.03115	g		Lava Flow
+This study	North Shore Volcanics	ns076d	ns076	FS-FD : SO-POM : SO-GT5 : SO-SUN	291.3	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-39	46.85625	Rhyolite	268.03115	g		Lava Flow
+This study	North Shore Volcanics	ns076e	ns076	FS-FD : SO-POM : SO-GT5 : SO-SUN	44.9	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-35	46.85625	Rhyolite	268.03115	g		Lava Flow
+This study	North Shore Volcanics	ns076f	ns076	FS-FD : SO-POM : SO-SUN	295.4	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-19	46.85625	Rhyolite	268.03115	g		Lava Flow
+This study	North Shore Volcanics	ns077a	ns077	FS-FD : SO-POM : SO-SUN	312.2	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-49	46.86121	Basalt	268.03966	g		Lava Flow
+This study	North Shore Volcanics	ns077b	ns077	FS-FD : SO-POM : SO-SUN	235.9	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-90	46.86121	Basalt	268.03966	g		Lava Flow
+This study	North Shore Volcanics	ns077c	ns077	FS-FD : SO-POM : SO-GT5 : SO-SUN	205.6	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-81	46.86121	Basalt	268.03966	g		Lava Flow
+This study	North Shore Volcanics	ns077f	ns077	FS-FD : SO-POM : SO-GT5 : SO-SUN	197.1	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-35	46.86121	Basalt	268.03966	g		Lava Flow
+This study	North Shore Volcanics	ns077g	ns077	FS-FD : SO-POM : SO-GT5 : SO-SUN	279.5	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-95	46.86121	Basalt	268.03966	g		Lava Flow
+This study	North Shore Volcanics	ns078c	ns078	FS-FD : SO-POM : SO-SUN	290.1	19	108	Igneous : Extrusive	2006:07:18:00:00:00.00	0		-11	46.85303	Rhyolite	268.02196	g		Lava Flow
+This study	North Shore Volcanics	ns078d	ns078	FS-FD : SO-POM : SO-SUN	318.5	19	108	Igneous : Extrusive	2006:07:18:00:00:00.00	0		-29	46.85303	Rhyolite	268.02196	g		Lava Flow
+This study	North Shore Volcanics	ns078f	ns078	FS-FD : SO-POM : SO-SUN	313.8	19	108	Igneous : Extrusive	2006:07:18:00:00:00.00	0		-23	46.85303	Rhyolite	268.02196	g		Lava Flow
+This study	North Shore Volcanics	ns078g	ns078	FS-FD : SO-POM : SO-GT5 : SO-SUN	28.6	19	108	Igneous : Extrusive	2006:07:18:00:00:00.00	0		-13	46.85303	Rhyolite	268.02196	g		Lava Flow
+This study	North Shore Volcanics	ns078h	ns078	FS-FD : SO-POM : SO-SUN	306.9	19	108	Igneous : Extrusive	2006:07:18:00:00:00.00	0		-26	46.85303	Rhyolite	268.02196	g		Lava Flow
+This study	North Shore Volcanics	ns079a	ns079	FS-FD : SO-POM : SO-SUN	334.1	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-44	46.85781	Basalt	268.03353	g		Lava Flow
+This study	North Shore Volcanics	ns079b	ns079	FS-FD : SO-POM : SO-SUN	328	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-36	46.85781	Basalt	268.03353	g		Lava Flow
+This study	North Shore Volcanics	ns079c	ns079	FS-FD : SO-POM : SO-SUN	313.6	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-19	46.85781	Basalt	268.03353	g		Lava Flow
+This study	North Shore Volcanics	ns079d	ns079	FS-FD : SO-POM : SO-SUN	84.9	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-72	46.85781	Basalt	268.03353	g		Lava Flow
+This study	North Shore Volcanics	ns079e	ns079	FS-FD : SO-POM : SO-GT5 : SO-SUN	299.1	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-23	46.85781	Basalt	268.03353	g		Lava Flow
+This study	North Shore Volcanics	ns079f	ns079	FS-FD : SO-POM : SO-SUN	291.5	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-28	46.85781	Basalt	268.03353	g		Lava Flow
+This study	North Shore Volcanics	ns080a	ns080	FS-FD : SO-POM : SO-GT5 : SO-SUN	224.2	19	108	Igneous : Extrusive	2006:07:18:00:00:00.00	0		-12	46.8525	Rhyolite	268.02071	g		Lava Flow
+This study	North Shore Volcanics	ns080b	ns080	FS-FD : SO-POM : SO-SUN	278.9	19	108	Igneous : Extrusive	2006:07:18:00:00:00.00	0		-24	46.8525	Rhyolite	268.02071	g		Lava Flow
+This study	North Shore Volcanics	ns080e	ns080	FS-FD : SO-POM : SO-SUN	292.5	19	108	Igneous : Extrusive	2006:07:18:00:00:00.00	0		-32	46.8525	Rhyolite	268.02071	g		Lava Flow
+This study	North Shore Volcanics	ns080f	ns080	FS-FD : SO-POM : SO-SUN	332.4	19	108	Igneous : Extrusive	2006:07:18:00:00:00.00	0		-9	46.8525	Rhyolite	268.02071	g		Lava Flow
+This study	North Shore Volcanics	ns081a	ns081	FS-FD : SO-POM : SO-SUN	354.9	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-88	46.85641	Basalt	268.0295	g		Lava Flow
+This study	North Shore Volcanics	ns081b	ns081	FS-FD : SO-POM : SO-CMD-NORTH	65.7	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	359.7		-75	46.85641	Basalt	268.0295	g		Lava Flow
+This study	North Shore Volcanics	ns081c	ns081	FS-FD : SO-POM : SO-SUN	359	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-89	46.85641	Basalt	268.0295	g		Lava Flow
+This study	North Shore Volcanics	ns081d	ns081	FS-FD : SO-POM : SO-CMD-NORTH	336.7	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	359.7		-98	46.85641	Basalt	268.0295	g		Lava Flow
+This study	North Shore Volcanics	ns081e	ns081	FS-FD : SO-POM : SO-CMD-NORTH	341.7	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	359.7		-94	46.85641	Basalt	268.0295	g		Lava Flow
+This study	North Shore Volcanics	ns083b	ns083	FS-FD : SO-POM : SO-GT5 : SO-SUN	84.4	19	108	Igneous : Extrusive	2006:07:18:00:00:00.00	0		-73	46.85339	Basalt	268.02273	g		Lava Flow
+This study	North Shore Volcanics	ns083c	ns083	FS-FD : SO-POM : SO-GT5 : SO-SUN	47.9	19	108	Igneous : Extrusive	2006:07:18:00:00:00.00	0		-78	46.85339	Basalt	268.02273	g		Lava Flow
+This study	North Shore Volcanics	ns083d	ns083	FS-FD : SO-POM : SO-SUN	166.3	19	108	Igneous : Extrusive	2006:07:18:00:00:00.00	0		-50	46.85339	Basalt	268.02273	g		Lava Flow
+This study	North Shore Volcanics	ns083e	ns083	FS-FD : SO-POM : SO-GT5 : SO-SUN	52	19	108	Igneous : Extrusive	2006:07:18:00:00:00.00	0		-90	46.85339	Basalt	268.02273	g		Lava Flow
+This study	North Shore Volcanics	ns083f	ns083	FS-FD : SO-POM : SO-GT5 : SO-SUN	46.3	19	108	Igneous : Extrusive	2006:07:18:00:00:00.00	0		-87	46.85339	Basalt	268.02273	g		Lava Flow
+This study	North Shore Volcanics	ns085a	ns085	FS-FD : SO-POM : SO-SUN	112	19	108	Igneous : Extrusive	2006:07:18:00:00:00.00	0		-47	46.8528	Rhyolite	268.02126	g		Lava Flow
+This study	North Shore Volcanics	ns085b	ns085	FS-FD : SO-POM : SO-SUN	115.2	19	108	Igneous : Extrusive	2006:07:18:00:00:00.00	0		-66	46.8528	Rhyolite	268.02126	g		Lava Flow
+This study	North Shore Volcanics	ns085c	ns085	FS-FD : SO-POM : SO-GT5 : SO-SUN	101	19	108	Igneous : Extrusive	2006:07:18:00:00:00.00	0		-52	46.8528	Rhyolite	268.02126	g		Lava Flow
+This study	North Shore Volcanics	ns085f	ns085	FS-FD : SO-POM : SO-SUN	141.7	19	108	Igneous : Extrusive	2006:07:18:00:00:00.00	0		-18	46.8528	Rhyolite	268.02126	g		Lava Flow
+This study	North Shore Volcanics	ns085g	ns085	FS-FD : SO-POM : SO-GT5 : SO-SUN	40.3	19	108	Igneous : Extrusive	2006:07:18:00:00:00.00	0		-90	46.8528	Rhyolite	268.02126	g		Lava Flow
+This study	North Shore Volcanics	ns087a	ns087	FS-FD : SO-POM : SO-SUN	310.6	19	108	Igneous : Extrusive	2006:07:18:00:00:00.00	0		-45	46.85188	Not Specified	268.01965	g		Lava Flow
+This study	North Shore Volcanics	ns087b	ns087	FS-FD : SO-POM : SO-GT5 : SO-SUN	300.8	19	108	Igneous : Extrusive	2006:07:18:00:00:00.00	0		-49	46.85188	Not Specified	268.01965	g		Lava Flow
+This study	North Shore Volcanics	ns087c	ns087	FS-FD : SO-POM : SO-GT5 : SO-SUN	316.4	19	108	Igneous : Extrusive	2006:07:18:00:00:00.00	0		-38	46.85188	Not Specified	268.01965	g		Lava Flow
+This study	North Shore Volcanics	ns087d	ns087	FS-FD : SO-POM : SO-GT5 : SO-SUN	154.9	19	108	Igneous : Extrusive	2006:07:18:00:00:00.00	0		-48	46.85188	Not Specified	268.01965	g		Lava Flow
+This study	North Shore Volcanics	ns087e	ns087	FS-FD : SO-POM : SO-SUN	151	19	108	Igneous : Extrusive	2006:07:18:00:00:00.00	0		-54	46.85188	Not Specified	268.01965	g		Lava Flow
+This study	North Shore Volcanics	ns002e	ns002	FS-FD : SO-POM : SO-MAG	297	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	0		-80	47.73415	Basalt	269.57081	g		Lava Flow
+This study	North Shore Volcanics	ns002g	ns002	FS-FD : SO-POM : SO-MAG	358	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	0		-88	47.73415	Basalt	269.57081	g		Lava Flow
+This study	North Shore Volcanics	ns003c	ns003	FS-FD : SO-POM : SO-MAG	312	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	0		-87	47.7371	Andesite	269.58863	g		Lava Flow
+This study	North Shore Volcanics	ns003g	ns003	FS-FD : SO-POM : SO-GT5 : SO-MAG	289	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	0		-85	47.7371	Andesite	269.58863	g		Lava Flow
+This study	North Shore Volcanics	ns004b	ns004	FS-FD : SO-POM : SO-MAG	318	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	0		-61	47.73275	Basalt	269.56367	g		Lava Flow
+This study	North Shore Volcanics	ns004d	ns004	FS-FD : SO-POM : SO-GT5 : SO-MAG	3	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	0		-74	47.73275	Basalt	269.56367	g		Lava Flow
+This study	North Shore Volcanics	ns005d	ns005	FS-FD : SO-POM : SO-MAG	113	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	0		-80	47.72542	Andesite	269.55701	g		Lava Flow
+This study	North Shore Volcanics	ns005f	ns005	FS-FD : SO-POM : SO-MAG	132	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	0		-55	47.72542	Andesite	269.55701	g		Lava Flow
+This study	North Shore Volcanics	ns005h	ns005	FS-FD : SO-POM : SO-MAG	109	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	0		-65	47.72542	Andesite	269.55701	g		Lava Flow
+This study	North Shore Volcanics	ns006a	ns006	FS-FD : SO-POM : SO-MAG	331	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	0		-79	47.7161	Basalt	269.50957	g		Lava Flow
+This study	North Shore Volcanics	ns007b	ns007	FS-FD : SO-POM : SO-GT5 : SO-MAG	126	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	0	## direction deleted because: bad mark in field##.	-7	47.70123	Basalt	269.46093	b		Lava Flow
+This study	North Shore Volcanics	ns007e	ns007	FS-FD : SO-POM : SO-GT5 : SO-MAG	268	12	167	Igneous : Extrusive	2006:07:09:00:00:00.00	0		-26	47.70123	Basalt	269.46093	g		Lava Flow
+This study	North Shore Volcanics	ns008e	ns008	FS-FD : SO-POM : SO-GT5 : SO-MAG	320	12	159	Igneous : Intrusive	2006:07:10:00:00:00.00	0		-96	47.60108	Diorite	269.21345	g		Sill
+This study	North Shore Volcanics	ns008f	ns008	FS-FD : SO-POM : SO-MAG	266	12	159	Igneous : Intrusive	2006:07:10:00:00:00.00	0		-96	47.60108	Diorite	269.21345	g		Sill
+This study	North Shore Volcanics	ns008g	ns008	FS-FD : SO-POM : SO-MAG	329	12	159	Igneous : Intrusive	2006:07:10:00:00:00.00	0		-97	47.60108	Diorite	269.21345	g		Sill
+This study	North Shore Volcanics	ns008i	ns008	FS-FD : SO-POM : SO-GT5 : SO-MAG	265	12	159	Igneous : Intrusive	2006:07:10:00:00:00.00	0		-70	47.60108	Diorite	269.21345	g		Sill
+This study	North Shore Volcanics	ns008j	ns008	FS-FD : SO-POM : SO-MAG	331	12	159	Igneous : Intrusive	2006:07:10:00:00:00.00	0		-76	47.60108	Diorite	269.21345	g		Sill
+This study	North Shore Volcanics	ns008k	ns008	FS-FD : SO-POM : SO-MAG	326	12	159	Igneous : Intrusive	2006:07:10:00:00:00.00	0		-73	47.60108	Diorite	269.21345	g		Sill
+This study	North Shore Volcanics	ns009d	ns009	FS-FD : SO-POM : SO-MAG	276	12	159	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-54	47.59789	Basalt	269.2085	g		Lava Flow
+This study	North Shore Volcanics	ns010f	ns010	FS-FD : SO-POM : SO-GT5 : SO-MAG	316	12	159	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-75	47.59411	Basalt	269.20271	g		Lava Flow
+This study	North Shore Volcanics	ns011f	ns011	FS-FD : SO-POM : SO-MAG	271	12	159	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-12	47.58531	Basalt	269.18479	g		Lava Flow
+This study	North Shore Volcanics	ns011g	ns011	FS-FD : SO-POM : SO-MAG	313	12	159	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-83	47.58531	Basalt	269.18479	g		Lava Flow
+This study	North Shore Volcanics	ns012f	ns012	FS-FD : SO-POM : SO-MAG	326	12	149	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-86	47.54605	Basalt	269.10639	g		Lava Flow
+This study	North Shore Volcanics	ns012g	ns012	FS-FD : SO-POM : SO-GT5 : SO-MAG	330	12	149	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-90	47.54605	Basalt	269.10639	g		Lava Flow
+This study	North Shore Volcanics	ns013b	ns013	FS-FD : SO-POM : SO-MAG	308	12	149	Igneous : Extrusive	2006:07:10:00:00:00.00	0	## direction deleted because: bad mark in field##.	-59	47.55097	Basalt	269.11716	b		Lava Flow
+This study	North Shore Volcanics	ns013f	ns013	FS-FD : SO-POM : SO-MAG	24	12	149	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-51	47.55097	Basalt	269.11716	g		Lava Flow
+This study	North Shore Volcanics	ns014e	ns014	FS-FD : SO-POM : SO-MAG	301	12	145	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-9	47.46915	Basalt	268.98572	g		Lava Flow
+This study	North Shore Volcanics	ns014g	ns014	FS-FD : SO-POM : SO-MAG	330	12	145	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-10.5	47.46915	Basalt	268.98572	g		Lava Flow
+This study	North Shore Volcanics	ns014h	ns014	FS-FD : SO-POM : SO-MAG	301	12	145	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-9	47.46915	Basalt	268.98572	g		Lava Flow
+This study	North Shore Volcanics	ns015c	ns015	FS-FD : SO-POM : SO-MAG	87	12	145	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-11	47.46923	Basalt	268.9863	g		Lava Flow
+This study	North Shore Volcanics	ns015f	ns015	FS-FD : SO-POM : SO-MAG	312	12	145	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-41	47.46923	Basalt	268.9863	g		Lava Flow
+This study	North Shore Volcanics	ns015h	ns015	FS-FD : SO-POM : SO-MAG	345	12	145	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-18	47.46923	Basalt	268.9863	g		Lava Flow
+This study	North Shore Volcanics	ns016d	ns016	FS-FD : SO-POM : SO-MAG	1	12	167	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-99	47.74304	Basalt	269.6176	g		Lava Flow
+This study	North Shore Volcanics	ns016g	ns016	FS-FD : SO-POM : SO-MAG	4	12	167	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-64	47.74304	Basalt	269.6176	g		Lava Flow
+This study	North Shore Volcanics	ns017b	ns017	FS-FD : SO-POM : SO-GT5 : SO-MAG	166	12	140	Igneous : Extrusive	2006:07:10:00:00:00.00	0	## direction deleted because: bad mark in field##.	-88	47.38919	Basalt	268.86152	b		Lava Flow
+This study	North Shore Volcanics	ns017e	ns017	FS-FD : SO-POM : SO-MAG	134	12	140	Igneous : Extrusive	2006:07:10:00:00:00.00	0		-3	47.38919	Basalt	268.86152	g		Lava Flow
+This study	North Shore Volcanics	ns018d	ns018	FS-FD : SO-POM : SO-MAG	71	10	180	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-29	47.77667	Basalt	269.7907	g		Lava Flow
+This study	North Shore Volcanics	ns018f	ns018	FS-FD : SO-POM : SO-GT5 : SO-MAG	112	10	180	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-18	47.77667	Basalt	269.7907	g		Lava Flow
+This study	North Shore Volcanics	ns019f	ns019	FS-FD : SO-POM : SO-GT5 : SO-MAG	65	12	166	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-96	47.74169	Basalt	269.60941	g		Lava Flow
+This study	North Shore Volcanics	ns019g	ns019	FS-FD : SO-POM : SO-MAG	326	12	166	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-92.5	47.74169	Basalt	269.60941	g		Lava Flow
+This study	North Shore Volcanics	ns020f	ns020	FS-FD : SO-POM : SO-MAG	330	10	180	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-94	47.77857	Basalt	269.80928	g		Lava Flow
+This study	North Shore Volcanics	ns020g	ns020	FS-FD : SO-POM : SO-MAG	394	10	180	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-96	47.77857	Basalt	269.80928	g		Lava Flow
+This study	North Shore Volcanics	ns021f	ns021	FS-FD : SO-POM : SO-MAG	19	10	180	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-69	47.77705	Rhyolite	269.7795	g		Lava Flow
+This study	North Shore Volcanics	ns022d	ns022	FS-FD : SO-POM : SO-MAG	46	10	180	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-10	47.79647	Rhyolite	269.87137	g		Lava Flow
+This study	North Shore Volcanics	ns023d	ns023	FS-FD : SO-POM : SO-MAG	325	10	180	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-92	47.77633	Basalt	269.79895	g		Lava Flow
+This study	North Shore Volcanics	ns023f	ns023	FS-FD : SO-POM : SO-MAG	351	10	180	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-64	47.77633	Basalt	269.79895	g		Lava Flow
+This study	North Shore Volcanics	ns023h	ns023	FS-FD : SO-POM : SO-GT5 : SO-MAG	309	10	180	Igneous : Extrusive	2006:07:11:00:00:00.00	0		-90	47.77633	Basalt	269.79895	g		Lava Flow
+This study	North Shore Volcanics	ns024d	ns024	FS-FD : SO-POM : SO-MAG	343	10	190	Igneous : Extrusive	2006:07:12:00:00:00.00	0		-74	47.92843	Basalt	270.27459	g		Lava Flow
+This study	North Shore Volcanics	ns025c	ns025	FS-FD : SO-POM : SO-MAG	326	10	180	Igneous : Intrusive	2006:07:12:00:00:00.00	0		-66	47.77634	Diabase	269.79893	g		Sill
+This study	North Shore Volcanics	ns025f	ns025	FS-FD : SO-POM : SO-GT5 : SO-MAG	309	10	180	Igneous : Intrusive	2006:07:12:00:00:00.00	0		-96	47.77634	Diabase	269.79893	g		Sill
+This study	North Shore Volcanics	ns026f	ns026	FS-FD : SO-POM : SO-MAG	281	10	190	Igneous : Extrusive	2006:07:12:00:00:00.00	0		-85	47.91243	Andesite	270.24872	g		Lava Flow
+This study	North Shore Volcanics	ns027f	ns027	FS-FD : SO-POM : SO-MAG	330	10	190	Igneous : Intrusive	2006:07:12:00:00:00.00	0		-86	47.90276	Diabase	270.22183	g		Sill
+This study	North Shore Volcanics	ns028d	ns028	FS-FD : SO-POM : SO-MAG	331	14	177	Igneous : Extrusive	2006:07:12:00:00:00.00	0		-88	47.76711	Basalt	269.66823	g		Lava Flow
+This study	North Shore Volcanics	ns028g	ns028	FS-FD : SO-POM : SO-MAG	332	14	177	Igneous : Extrusive	2006:07:12:00:00:00.00	0		-90	47.76711	Basalt	269.66823	g		Lava Flow
+This study	North Shore Volcanics	ns029c	ns029	FS-FD : SO-POM : SO-MAG	358	10	190	Igneous : Intrusive	2006:07:12:00:00:00.00	0		-73	47.86887	Gabbro	270.11115	g		Sill
+This study	North Shore Volcanics	ns029d	ns029	FS-FD : SO-POM : SO-MAG	10	10	190	Igneous : Intrusive	2006:07:12:00:00:00.00	0		-39	47.86887	Gabbro	270.11115	g		Sill
+This study	North Shore Volcanics	ns029e	ns029	FS-FD : SO-POM : SO-GT5 : SO-MAG	15	10	190	Igneous : Intrusive	2006:07:12:00:00:00.00	0		-33	47.86887	Gabbro	270.11115	g		Sill
+This study	North Shore Volcanics	ns029f	ns029	FS-FD : SO-POM : SO-MAG	345	10	190	Igneous : Intrusive	2006:07:12:00:00:00.00	0		-75	47.86887	Gabbro	270.11115	g		Sill
+This study	North Shore Volcanics	ns030e	ns030	FS-FD : SO-POM : SO-GT5 : SO-MAG	327	10	180	Igneous : Extrusive	2006:07:12:00:00:00.00	0		-58	47.79897	Rhyolite	269.89441	g		Lava Flow
+This study	North Shore Volcanics	ns030g	ns030	FS-FD : SO-POM : SO-GT5 : SO-MAG	287	10	180	Igneous : Extrusive	2006:07:12:00:00:00.00	0		-71	47.79897	Rhyolite	269.89441	g		Lava Flow
+This study	North Shore Volcanics	ns031e	ns031	FS-FD : SO-POM : SO-MAG	339	14	177	Igneous : Extrusive	2006:07:12:00:00:00.00	0		-68	47.76888	Basalt	269.66913	g		Lava Flow
+This study	North Shore Volcanics	ns031g	ns031	FS-FD : SO-POM : SO-GT5 : SO-MAG	10	14	177	Igneous : Extrusive	2006:07:12:00:00:00.00	0		-96	47.76888	Basalt	269.66913	g		Lava Flow
+This study	North Shore Volcanics	ns032d	ns032	FS-FD : SO-POM : SO-GT5 : SO-MAG	300	12	166	Igneous : Extrusive	2006:07:13:00:00:00.00	0		-23	47.73193	Andesite	269.55709	g		Lava Flow
+This study	North Shore Volcanics	ns033c	ns033	FS-FD : SO-POM : SO-MAG	62	10	180	Igneous : Extrusive	2006:07:12:00:00:00.00	0		-93	47.81594	Rhyolite	269.89617	g		Lava Flow
+This study	North Shore Volcanics	ns034e	ns034	FS-FD : SO-POM : SO-MAG	272	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	0		-32	47.01668	Basalt	268.33971	g		Lava Flow
+This study	North Shore Volcanics	ns035f	ns035	FS-FD : SO-POM : SO-GT5 : SO-MAG	41	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	0		-9	47.01823	Basalt	268.34011	g		Lava Flow
+This study	North Shore Volcanics	ns035g	ns035	FS-FD : SO-POM : SO-GT5 : SO-MAG	46	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	0		-70	47.01823	Basalt	268.34011	g		Lava Flow
+This study	North Shore Volcanics	ns036c	ns036	FS-FD : SO-POM : SO-MAG	258	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	0		-88	47.01631	Basalt	268.33969	g		Lava Flow
+This study	North Shore Volcanics	ns037d	ns037	FS-FD : SO-POM : SO-MAG	13	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	0		-44	47.02017	Basalt	268.34019	g		Lava Flow
+This study	North Shore Volcanics	ns037e	ns037	FS-FD : SO-POM : SO-GT5 : SO-MAG	189	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	0		-39	47.02017	Basalt	268.34019	g		Lava Flow
+This study	North Shore Volcanics	ns038e	ns038	FS-FD : SO-POM : SO-MAG	276	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	0		-92	46.95412	Basalt	268.22677	g		Lava Flow
+This study	North Shore Volcanics	ns039f	ns039	FS-FD : SO-POM : SO-GT5 : SO-MAG	233	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	0		-91	46.95296	Basalt	268.22442	g		Lava Flow
+This study	North Shore Volcanics	ns039g	ns039	FS-FD : SO-POM : SO-MAG	228	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	0		-89	46.95296	Basalt	268.22442	g		Lava Flow
+This study	North Shore Volcanics	ns040d	ns040	FS-FD : SO-POM : SO-MAG	35	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-5	46.92496	Basalt	268.17933	g		Lava Flow
+This study	North Shore Volcanics	ns041b	ns041	FS-FD : SO-POM : SO-GT5 : SO-MAG	73	16	112	Igneous : Intrusive	2006:07:15:00:00:00.00	0		-70	46.92407	Basalt	268.18249	b		Sill
+This study	North Shore Volcanics	ns041g	ns041	FS-FD : SO-POM : SO-GT5 : SO-MAG	294	16	112	Igneous : Intrusive	2006:07:15:00:00:00.00	0		-19	46.92407	Basalt	268.18249	g		Sill
+This study	North Shore Volcanics	ns042f	ns042	FS-FD : SO-POM : SO-GT5 : SO-MAG	310	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-12	46.91051	Basalt	268.18249	g		Lava Flow
+This study	North Shore Volcanics	ns042g	ns042	FS-FD : SO-POM : SO-MAG	244	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-17	46.91051	Basalt	268.18249	g		Lava Flow
+This study	North Shore Volcanics	ns043d	ns043	FS-FD : SO-POM : SO-GT5 : SO-MAG	294	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-45	46.90964	Basalt	268.13537	g		Lava Flow
+This study	North Shore Volcanics	ns044c	ns044	FS-FD : SO-POM : SO-MAG	290	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-20	46.91107	Basalt	268.13956	g		Lava Flow
+This study	North Shore Volcanics	ns045c	ns045	FS-FD : SO-POM : SO-MAG	89	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-84	46.90995	Basalt	268.13652	g		Lava Flow
+This study	North Shore Volcanics	ns045d	ns045	FS-FD : SO-POM : SO-GT5 : SO-MAG	306	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-12	46.90995	Basalt	268.13652	g		Lava Flow
+This study	North Shore Volcanics	ns045g	ns045	FS-FD : SO-POM : SO-MAG	311	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-64	46.90995	Basalt	268.13652	g		Lava Flow
+This study	North Shore Volcanics	ns045h	ns045	FS-FD : SO-POM : SO-MAG	319	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-94	46.90995	Basalt	268.13652	g		Lava Flow
+This study	North Shore Volcanics	ns046d	ns046	FS-FD : SO-POM : SO-MAG	335	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-31	46.89996	Basalt	268.10844	g		Lava Flow
+This study	North Shore Volcanics	ns046e	ns046	FS-FD : SO-POM : SO-GT5 : SO-MAG	138	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-45	46.89996	Basalt	268.10844	g		Lava Flow
+This study	North Shore Volcanics	ns046g	ns046	FS-FD : SO-POM : SO-GT5 : SO-MAG	320	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-37	46.89996	Basalt	268.10844	g		Lava Flow
+This study	North Shore Volcanics	ns047d	ns047	FS-FD : SO-POM : SO-GT5 : SO-MAG	138	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-49	46.90163	Basalt	268.11151	g		Lava Flow
+This study	North Shore Volcanics	ns048a	ns048	FS-FD : SO-POM : SO-MAG	310	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-10	46.89692	Basalt	268.10385	g		Lava Flow
+This study	North Shore Volcanics	ns048f	ns048	FS-FD : SO-POM : SO-MAG	14	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-23	46.89692	Basalt	268.10385	g		Lava Flow
+This study	North Shore Volcanics	ns049c	ns049	FS-FD : SO-POM : SO-GT5 : SO-MAG	115	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-53	46.90292	Basalt	268.11385	g		Lava Flow
+This study	North Shore Volcanics	ns049d	ns049	FS-FD : SO-POM : SO-GT5 : SO-MAG	173	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-49	46.90292	Basalt	268.11385	b		Lava Flow
+This study	North Shore Volcanics	ns050e	ns050	FS-FD : SO-POM : SO-MAG	340	18	111	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-28	46.88286	Basalt	268.08416	g		Lava Flow
+This study	North Shore Volcanics	ns051f	ns051	FS-FD : SO-POM : SO-GT5 : SO-MAG	269	18	111	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-13	46.88497	Basalt	268.08801	g		Lava Flow
+This study	North Shore Volcanics	ns052e	ns052	FS-FD : SO-POM : SO-MAG	299	16	112	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-26	46.89534	Basalt	268.1015	g		Lava Flow
+This study	North Shore Volcanics	ns053d	ns053	FS-FD : SO-POM : SO-MAG	286	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-50	46.87654	Basalt	268.06891	g		Lava Flow
+This study	North Shore Volcanics	ns054e	ns054	FS-FD : SO-POM : SO-MAG	290	16	112	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-13	46.89499	Basalt	268.10066	g		Lava Flow
+This study	North Shore Volcanics	ns055d	ns055	FS-FD : SO-POM : SO-GT5 : SO-MAG	135	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-41	46.87575	Rhyolite	268.04751	g		Lava Flow
+This study	North Shore Volcanics	ns055f	ns055	FS-FD : SO-POM : SO-GT5 : SO-MAG	49	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-23	46.87575	Rhyolite	268.04751	g		Lava Flow
+This study	North Shore Volcanics	ns056f	ns056	FS-FD : SO-POM : SO-GT5 : SO-MAG	271	18	111	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-17	46.89011	Basalt	268.09337	g		Lava Flow
+This study	North Shore Volcanics	ns056g	ns056	FS-FD : SO-POM : SO-MAG	258	18	111	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-41	46.89011	Basalt	268.09337	g		Lava Flow
+This study	North Shore Volcanics	ns057f	ns057	FS-FD : SO-POM : SO-MAG	219	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-84	46.87453	Rhyolite	268.06569	g		Lava Flow
+This study	North Shore Volcanics	ns058c	ns058	FS-FD : SO-POM : SO-GT5 : SO-MAG	120	18	111	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-23	46.89011	Basalt	268.09337	g		Lava Flow
+This study	North Shore Volcanics	ns059b	ns059	FS-FD : SO-POM : SO-GT5 : SO-MAG	336	18	111	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-90	46.8835	Basalt	268.08551	b		Lava Flow
+This study	North Shore Volcanics	ns059d	ns059	FS-FD : SO-POM : SO-GT5 : SO-MAG	74	18	111	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-61	46.8835	Basalt	268.08551	g		Lava Flow
+This study	North Shore Volcanics	ns060e	ns060	FS-FD : SO-POM : SO-GT5 : SO-MAG	355	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-14	46.86945	Basalt	268.05315	g		Lava Flow
+This study	North Shore Volcanics	ns061c	ns061	FS-FD : SO-POM : SO-GT5 : SO-MAG	355	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-34	46.86879	Basalt	268.05134	g		Lava Flow
+This study	North Shore Volcanics	ns061d	ns061	FS-FD : SO-POM : SO-MAG	28	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-53	46.86879	Basalt	268.05134	g		Lava Flow
+This study	North Shore Volcanics	ns062d	ns062	FS-FD : SO-POM : SO-GT5 : SO-MAG	285	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-13	46.86996	Basalt	268.05477	g		Lava Flow
+This study	North Shore Volcanics	ns062g	ns062	FS-FD : SO-POM : SO-MAG	302	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-30	46.86996	Basalt	268.05477	g		Lava Flow
+This study	North Shore Volcanics	ns063d	ns063	FS-FD : SO-POM : SO-MAG	7	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-88	46.86909	Basalt	268.05227	g		Lava Flow
+This study	North Shore Volcanics	ns064d	ns064	FS-FD : SO-POM : SO-MAG	282	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-9	46.86785	Basalt	268.04964	g		Lava Flow
+This study	North Shore Volcanics	ns064g	ns064	FS-FD : SO-POM : SO-MAG	310	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-35.3	46.86785	Basalt	268.04964	g		Lava Flow
+This study	North Shore Volcanics	ns064h	ns064	FS-FD : SO-POM : SO-GT5 : SO-MAG	231	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-30	46.86785	Basalt	268.04964	g		Lava Flow
+This study	North Shore Volcanics	ns065a	ns065	FS-FD : SO-POM : SO-MAG	53	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0	## direction deleted because: bad mark in field##.	-70	46.86961	Basalt	268.05363	b		Lava Flow
+This study	North Shore Volcanics	ns065g	ns065	FS-FD : SO-POM : SO-MAG	81	19	108	Igneous : Extrusive	2006:07:16:00:00:00.00	0		-53	46.86961	Basalt	268.05363	g		Lava Flow
+This study	North Shore Volcanics	ns066f	ns066	FS-FD : SO-POM : SO-GT5 : SO-MAG	221	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-9	46.86674	Basalt	268.0474	g		Lava Flow
+This study	North Shore Volcanics	ns067d	ns067	FS-FD : SO-POM : SO-GT5 : SO-MAG	140	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0	## direction deleted because: bad mark in field##.	-12	46.87085	Basalt	268.05704	b		Lava Flow
+This study	North Shore Volcanics	ns068c	ns068	FS-FD : SO-POM : SO-GT5 : SO-MAG	146	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-32	46.86433	Basalt	268.04385	b		Lava Flow
+This study	North Shore Volcanics	ns068e	ns068	FS-FD : SO-POM : SO-GT5 : SO-MAG	251	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-29	46.86433	Basalt	268.04385	g		Lava Flow
+This study	North Shore Volcanics	ns069b	ns069	FS-FD : SO-POM : SO-MAG	164	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0	## direction deleted because: bad mark in field##.	-34	46.8676	Basalt	268.04854	b		Lava Flow
+This study	North Shore Volcanics	ns069c	ns069	FS-FD : SO-POM : SO-GT5 : SO-MAG	295	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-55	46.8676	Basalt	268.04854	g		Lava Flow
+This study	North Shore Volcanics	ns069d	ns069	FS-FD : SO-POM : SO-GT5 : SO-MAG	227	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-70	46.8676	Basalt	268.04854	g		Lava Flow
+This study	North Shore Volcanics	ns069e	ns069	FS-FD : SO-POM : SO-MAG	209	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-82	46.8676	Basalt	268.04854	g		Lava Flow
+This study	North Shore Volcanics	ns070d	ns070	FS-FD : SO-POM : SO-MAG	299	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-23	46.86164	Rhyolite	268.04036	g		Lava Flow
+This study	North Shore Volcanics	ns072f	ns072	FS-FD : SO-POM : SO-MAG	303	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-53	46.85836	Rhyolite	268.03466	g		Lava Flow
+This study	North Shore Volcanics	ns073a	ns073	FS-FD : SO-POM : SO-GT5 : SO-MAG	208	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0	## direction deleted because: bad mark in field##.	-24	46.86576	Rhyolite	268.04598	b		Lava Flow
+This study	North Shore Volcanics	ns073f	ns073	FS-FD : SO-POM : SO-GT5 : SO-MAG	317	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-52	46.86576	Rhyolite	268.04598	g		Lava Flow
+This study	North Shore Volcanics	ns074f	ns074	FS-FD : SO-POM : SO-MAG	279	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-32	46.85744	Rhyolite	268.03275	g		Lava Flow
+This study	North Shore Volcanics	ns075e	ns075	FS-FD : SO-POM : SO-MAG	48	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-81	46.86576	Rhyolite	268.04598	g		Lava Flow
+This study	North Shore Volcanics	ns076c	ns076	FS-FD : SO-POM : SO-GT5 : SO-MAG	290	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-27	46.85625	Rhyolite	268.03115	g		Lava Flow
+This study	North Shore Volcanics	ns076g	ns076	FS-FD : SO-POM : SO-MAG	313	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-18	46.85625	Rhyolite	268.03115	g		Lava Flow
+This study	North Shore Volcanics	ns077d	ns077	FS-FD : SO-POM : SO-GT5 : SO-MAG	231	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-45	46.86121	Basalt	268.03966	g		Lava Flow
+This study	North Shore Volcanics	ns077e	ns077	FS-FD : SO-POM : SO-GT5 : SO-MAG	186	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-76	46.86121	Basalt	268.03966	g		Lava Flow
+This study	North Shore Volcanics	ns077h	ns077	FS-FD : SO-POM : SO-MAG	288	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-92	46.86121	Basalt	268.03966	g		Lava Flow
+This study	North Shore Volcanics	ns077i	ns077	FS-FD : SO-POM : SO-MAG	295	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-88	46.86121	Basalt	268.03966	g		Lava Flow
+This study	North Shore Volcanics	ns078e	ns078	FS-FD : SO-POM : SO-GT5 : SO-MAG	337	19	108	Igneous : Extrusive	2006:07:18:00:00:00.00	0		-14	46.85303	Rhyolite	268.02196	g		Lava Flow
+This study	North Shore Volcanics	ns080c	ns080	FS-FD : SO-POM : SO-GT5 : SO-MAG	321	19	108	Igneous : Extrusive	2006:07:18:00:00:00.00	0		-21	46.8525	Rhyolite	268.02071	g		Lava Flow
+This study	North Shore Volcanics	ns080d	ns080	FS-FD : SO-POM : SO-MAG	316	19	108	Igneous : Extrusive	2006:07:18:00:00:00.00	0		-25	46.8525	Rhyolite	268.02071	g		Lava Flow
+This study	North Shore Volcanics	ns081f	ns081	FS-FD : SO-POM : SO-MAG	279	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-85	46.85641	Basalt	268.0295	g		Lava Flow
+This study	North Shore Volcanics	ns083a	ns083	FS-FD : SO-POM : SO-MAG	124	19	108	Igneous : Extrusive	2006:07:18:00:00:00.00	0		-74	46.85339	Basalt	268.02273	g		Lava Flow
+This study	North Shore Volcanics	ns085e	ns085	FS-FD : SO-POM : SO-GT5 : SO-MAG	112	19	108	Igneous : Extrusive	2006:07:18:00:00:00.00	0		-65	46.8528	Rhyolite	268.02126	g		Lava Flow
+This study	North Shore Volcanics	ns087f	ns087	FS-FD : SO-POM : SO-MAG	301	19	108	Igneous : Extrusive	2006:07:18:00:00:00.00	0		-45	46.85188	Not Specified	268.01965	g		Lava Flow
+This study	North Shore Volcanics	ns087g	ns087	FS-FD : SO-POM : SO-MAG	239	19	108	Igneous : Extrusive	2006:07:18:00:00:00.00	0		-86	46.85188	Not Specified	268.01965	g		Lava Flow
+This study	North Shore Volcanics	ns034f	ns034	FS-FD : SO-POM : SO-SUN	343.2	12	119	Igneous : Extrusive	2006:07:14:00:00:00.00	0		-62	47.01668	Basalt	268.33971	g		Lava Flow
+This study	North Shore Volcanics	ns043g	ns043	FS-FD : SO-POM : SO-SUN	304.7	16	112	Igneous : Extrusive	2006:07:15:00:00:00.00	0		-31	46.90964	Basalt	268.13537	g		Lava Flow
+This study	North Shore Volcanics	ns081dd	ns081	FS-FD : SO-POM : SO-SUN	245.3	19	108	Igneous : Extrusive	2006:07:17:00:00:00.00	0		-71	46.85641	Basalt	268.0295	g		Lava Flow

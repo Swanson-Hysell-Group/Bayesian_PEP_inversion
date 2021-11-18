@@ -1,0 +1,32 @@
+tab 	sites
+citations	dir_alpha95	dir_dec	dir_inc	dir_k	dir_n_samples	dir_polarity	dir_tilt_correction	geologic_classes	geologic_types	lat	lithologies	location	lon	method_codes	result_type	site	vgp_lat	vgp_lon
+This study	7.8	302.8	40.8	51.9	8	n	100	Extrusive	Lava Flow	47.28	Basalt	Keweenaw Peninsula	-88.41	LT-T-Z	a	H_PL01	38.94260295	174.4573579
+This study	11.8	291.5	32.3	23.2	8	n	100	Extrusive	Lava Flow	47.3	Basalt	Keweenaw Peninsula	-88.4	LT-T-Z	a	H_PL02	27.28936333	178.2176279
+This study	7	274.3	45.7	63.4	8	n	100	Extrusive	Lava Flow	47.31	Basalt	Keweenaw Peninsula	-88.38	LT-T-Z	a	H_PL03	22.35961874	197.9566808
+This study	10.4	270.3	26.7	34.7	7	n	100	Extrusive	Lava Flow	47.31	Basalt	Keweenaw Peninsula	-88.38	LT-T-Z	a	H_PL04	10.52725562	191.0819957
+This study	15.7	298.2	32.3	19.3	6	n	100	Extrusive	Lava Flow	47.32	Basalt	Keweenaw Peninsula	-88.38	LT-T-Z	a	H_PL05	31.80397111	173.0304616
+This study	13.8	302.6	22.2	20.1	7	n	100	Extrusive	Lava Flow	47.32	Basalt	Keweenaw Peninsula	-88.37	LT-T-Z	a	H_PL06	30.3205315	164.6181262
+This study	8	306.4	15.5	71.1	6	n	100	Extrusive	Lava Flow	47.43	Basalt	Keweenaw Peninsula	-88.21	LT-T-Z	a	H_PL07	29.91984142	158.695772
+This study	7.2	276	41.1	71.4	7	n	100	Extrusive	Lava Flow	47.19	Basalt	Keweenaw Peninsula	-88.48	LT-T-Z	a	H_PL08	21.0025186	193.9787877
+This study	13.3	296.5	35.8	34.2	5	n	100	Extrusive	Lava Flow	47.39	Basalt	Keweenaw Peninsula	-88.03	LT-T-Z	a	H_PL10	32.26466429	176.5915444
+This study	10.9	291	40.9	50.2	5	n	100	Extrusive	Lava Flow	47.34	Basalt	Keweenaw Peninsula	-88.34	LT-T-Z	a	H_PL11	31.0050825	183.4979812
+This study	14	316.2	49.8	30.6	5	n	100	Extrusive	Lava Flow	47.14	Basalt	Keweenaw Peninsula	-88.58	LT-T-Z	a	H_PL12	52.73019924	171.0543062
+This study	12.6	270	39.6	23.9	7	n	100	Extrusive	Lava Flow	47.39	Basalt	Keweenaw Peninsula	-88.27	LT-T-Z	a	H_PL13	16.33850208	197.3740203
+This study	5.4	288.9	28.8	93.1	9	n	100	Extrusive	Lava Flow	47.43	Basalt	Keweenaw Peninsula	-87.98	LT-T-Z	a	H_PL14	23.98415413	178.837921
+This study	4.9	280.3	44	128.1	8	n	100	Extrusive	Lava Flow	47.42	Basalt	Keweenaw Peninsula	-88.1	LT-T-Z	a	H_PL15	25.41123745	193.1128413
+This study	4.4	280.2	27	159.5	8	n	100	Extrusive	Lava Flow	47.4	Basalt	Keweenaw Peninsula	-88.28	LT-T-Z	a	H_PL16	17.33029549	184.1688828
+This study	7.1	298.1	44.3	73.4	7	n	100	Extrusive	Lava Flow	47.37	Basalt	Keweenaw Peninsula	-88.16	LT-T-Z	a	H_PL17	37.54070364	180.7951907
+This study	11.7	283.1	18.6	23.3	8	n	100	Extrusive	Lava Flow	47.08	Basalt	Keweenaw Peninsula	-88.64	LT-T-Z	a	H_PL19	15.88575743	178.3396399
+This study	8.2	290.1	27.3	55.3	7	n	100	Extrusive	Lava Flow	47.43	Basalt	Keweenaw Peninsula	-88.04	LT-T-Z	a	H_PL20	24.1504115	177.1812456
+This study	3.8	285.4	36.1	258.8	7	n	100	Extrusive	Lava Flow	47.41	Basalt	Keweenaw Peninsula	-88.18	LT-T-Z	a	H_PL21	24.89967377	184.8623045
+This study	7.3	299.2	37.6	111.4	5	n	100	Extrusive	Lava Flow	47.41	Basalt	Keweenaw Peninsula	-87.71	LT-T-Z	a	H_PL22	34.93545726	175.8463829
+This study	5.5	290.5	27.4	88.9	9	n	100	Extrusive	Lava Flow	47.45	Basalt	Keweenaw Peninsula	-87.87	LT-T-Z	a	H_PL23	24.46090081	177.0825224
+This study	5.5	304.9	26.5	77.6	10	n	100	Extrusive	Lava Flow	47.11	Basalt	Keweenaw Peninsula	-88.58	LT-T-Z	a	H_PL24	33.71464012	164.4980914
+This study	12.3	310.3	46.1	25.1	7	n	100	Extrusive	Lava Flow	47.06	Basalt	Keweenaw Peninsula	-88.66	LT-T-Z	a	H_PL25	46.76185861	172.4318871
+This study	10	279.6	15.6	37.2	7	n	100	Extrusive	Lava Flow	46.93	Basalt	Keweenaw Peninsula	-88.83	LT-T-Z	a	H_PL26	12.34478967	179.6307844
+This study	2.9	288.8	42.9	321.8	9	n	100	Extrusive	Lava Flow	46.81	Basalt	Keweenaw Peninsula	-89	LT-T-Z	a	H_PL28	30.48029747	186.0132101
+This study	20.7	301.5	26.9	20.7	4	n	100	Extrusive	Lava Flow	46.78	Basalt	Keweenaw Peninsula	-89.05	LT-T-Z	a	H_PL29	31.73568716	167.3008112
+This study	13.5	301	-4.5	21	7	n	100	Extrusive	Lava Flow	46.77	Basalt	Keweenaw Peninsula	-89.1	LT-T-Z	a	H_PL30	18.89545043	155.7623006
+This study	9.2	268	36	43.6	7	n	100	Extrusive	Lava Flow	46.7	Basalt	Keweenaw Peninsula	-89.23	LT-T-Z	a	H_PL31	13.06135812	196.1305013
+This study	16.7	301.9	20.4	31.4	4	n	100	Extrusive	Lava Flow	46.66	Basalt	Keweenaw Peninsula	-89.39	LT-T-Z	a	H_PL32	29.30962414	163.7859414
+This study	11.6	291.7	11.4	27.9	7	n	100	Extrusive	Lava Flow	46.59	Basalt	Keweenaw Peninsula	-89.59	LT-T-Z	a	H_PL33	19.00700639	168.3022083

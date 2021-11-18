@@ -1,0 +1,8 @@
+name	row_number	problem_type	problem_col	error_message
+AP1	1	value	criteria	Must contain a value from criteria table. Missing criteria table.
+AP2	3	value	criteria	Must contain a value from criteria table. Missing criteria table.
+AP3	5	value	criteria	Must contain a value from criteria table. Missing criteria table.
+AP4	7	value	criteria	Must contain a value from criteria table. Missing criteria table.
+AP5	9	value	criteria	Must contain a value from criteria table. Missing criteria table.
+Puf1	11	value	criteria	Must contain a value from criteria table. Missing criteria table.
+Puf2-	13	value	criteria	Must contain a value from criteria table. Missing criteria table.

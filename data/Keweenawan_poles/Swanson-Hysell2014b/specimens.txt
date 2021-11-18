@@ -1,0 +1,669 @@
+tab 	specimens
+citations	dir_dec	dir_inc	dir_mad_free	dir_n_measurements	dir_tilt_correction	geologic_classes	geologic_types	lithologies	meas_step_max	meas_step_min	meas_step_unit	method_codes	sample	specimen
+This study	56.8	-66.2	4.8	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.17	0.06	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-116.95	SI1-116.95a
+This study	90.7	-68.9	0.5	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.07	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-116.96	SI1-116.96a
+This study	53.7	-65.0	1.5	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.09	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-116.97	SI1-116.97a
+This study	73.0	-72.7	0.9	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.07	0.06	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-116.9	SI1-116.9a
+This study	76.8	-75.5	0.3	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.07	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-117.05	SI1-117.05a
+This study	99.7	-68.3	0.6	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.04	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-117.2	SI1-117.2a
+This study	69.2	-71.9	2.2	6	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.025	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-12.5	SI1-12.5-D
+This study	90.9	-70.7	1.3	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.025	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-12.55	SI1-12.55-D
+This study	73.3	-70.7	0.5	14	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-120.42	SI1-120.42a
+This study	103.8	-62.8	0.9	14	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-120.45	SI1-120.45a
+This study	62.9	-72.9		14	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-120.4	SI1-120.4a
+This study	91.0	-66.5	0.5	14	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-120.52	SI1-120.52a
+This study	95.5	-68.2	0.7	9	100	Extrusive:Igneous	Lava Flow	Basalt	0.14	0.04	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-120.5	SI1-120.5a
+This study	51.9	-57.3	2.9	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.17	0.07	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-120.6	SI1-120.6a
+This study	64.5	-73.2	0.4	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.05	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-122.4	SI1-122.4a
+This study	59.5	-68.9	0.4	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-122.5	SI1-122.5a
+This study	79.5	-61.4	0.5	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-122.65	SI1-122.65a
+This study	82.7	-70.9	0.4	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-122.69	SI1-122.69a
+This study	90.1	-66.8	0.2	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-123.35	SI1-123.35a
+This study	73.2	-71.6	0.5	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-123.4	SI1-123.4a
+This study	83.4	-69.7	7.7	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-13.0	SI1-13.0-D
+This study	84.8	-69	1.3	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-13.4	SI1-13.4-D
+This study	69.7	-75.2	3.5	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-14.2	SI1-14.2-D
+This study	82.0	-68.3	0.3	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-14.4	SI1-14.4-D
+This study	74.9	-68	0.5	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-14.9	SI1-14.9-D
+This study	114.2	-64	1.1	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-28.68	SI1-28.68-D
+This study	108.6	-64.6	1.6	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-28.7	SI1-28.7-D
+This study	127.5	-69.3	0.4	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-28.8	SI1-28.8-D
+This study	107.0	-70.6	0.4	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-28.9	SI1-28.9-D
+This study	117.5	-64	0.2	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-29.0	SI1-29.0-D
+This study	91.3	-66.5	0.3	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.035	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-29.1	SI1-29.1-D
+This study	62.5	-59.9	1.4	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.145	0.04	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-29.15	SI1-29.15-D
+This study	102.9	-66.1	0.4	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.035	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-29.2	SI1-29.2-D
+This study	100.0	-69.4	1.4	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-29.24	SI1-29.24-D
+This study	94.5	-65.7	0.4	6	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.04	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-29.25	SI1-29.25-D
+This study	104.3	-63.3	0.4	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-29.4	SI1-29.4-D
+This study	75.6	-63	3.4	5	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.04	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-33.4	SI1-33.4a
+This study						Extrusive:Igneous	Lava Flow	Basalt					SI1-33.5	SI1-33.5a
+This study	104.4	-79.4	1.4	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.17	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-34.2	SI1-34.2a
+This study	99.4	-65.7	1	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-34.75	SI1-34.75a
+This study	89.8	-67.7	0.8	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-34.7	SI1-34.7a
+This study	101.0	-63.2	0.3	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-34.8	SI1-34.8a
+This study	89.9	-75.9	0.7	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.025	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-40.95	SI1-40.95a
+This study	82.7	-75.2	1.4	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.025	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-40.96	SI1-40.96a
+This study	80.5	-77.2	0.8	5	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.025	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-40.9	SI1-40.9a
+This study	88.5	-66.2	0.7	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.025	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-41.15	SI1-41.15a
+This study	90.0	-72.9	0.7	6	100	Extrusive:Igneous	Lava Flow	Basalt	0.07	0.025	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-41.1	SI1-41.1a
+This study	79.1	-72	0.8	6	100	Extrusive:Igneous	Lava Flow	Basalt	0.07	0.025	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-41	SI1-41a
+This study	89.8	-70.3	0.9	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-43.19	SI1-43.19-D
+This study	77.4	-67.6	2.6	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-43.2	SI1-43.2-D
+This study	75.8	-60.2	1.2	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-43.4	SI1-43.4-D
+This study	73.8	-60.2	2	6	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-43.51	SI1-43.51-D
+This study	81.5	-63.7	1.4	6	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-43.6	SI1-43.6-D
+This study	72.8	-58.4	2	6	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-43.61	SI1-43.61-D
+This study	85.0	-53.5	7.3	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.145	0.035	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-61.1	SI1-61.1-D
+This study	83.6	-59.6	5	5	100	Extrusive:Igneous	Lava Flow	Basalt	0.05	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-61.15	SI1-61.15-D
+This study	66.1	-70.1	2.9	6	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-61.2	SI1-61.2-D
+This study	106.4	-70	0.2	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-61.73	SI1-61.73-D
+This study	90.6	-66.7	0.1	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-61.78	SI1-61.78-D
+This study	314.8	52	5	5	100	Igneous:Intrusive	Sill	Diabase	0.03	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-80.3	SI1-80.3-D
+This study	310.7	50.8	4.2	7	100	Igneous:Intrusive	Sill	Diabase	0.05	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-80.7	SI1-80.7-D
+This study	306.0	43.4	3.6	6	100	Igneous:Intrusive	Sill	Diabase	0.04	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-81.8	SI1-81.8-D
+This study	311.8	50.1	4.4	6	100	Igneous:Intrusive	Sill	Diabase	0.03	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-82.1	SI1-82.1-D
+This study	306.7	54	2.1	6	100	Igneous:Intrusive	Sill	Diabase	0.035	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-84.5	SI1-84.5-D
+This study	304.9	53.3	2.4	6	100	Igneous:Intrusive	Sill	Diabase	0.03	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-86.1	SI1-86.1-D
+This study	311.7	42	2.3	7	100	Igneous:Intrusive	Sill	Diabase	0.04	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-86.4	SI1-86.4-D
+This study	90.9	-72.8	1.2	6	100	Extrusive:Igneous	Lava Flow	Basalt	0.145	0.05	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-88.25	SI1-88.25-D
+This study	86.7	-73.8	1.2	6	100	Extrusive:Igneous	Lava Flow	Basalt	0.145	0.05	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-88.35	SI1-88.35-D
+This study	99.6	-70.9	0.3	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-88.37	SI1-88.37-D
+This study	84.5	-70.4	0.7	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.035	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-88.4	SI1-88.4-D
+This study	86.3	-70.6	0.7	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.035	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-88.43	SI1-88.43-D
+This study	95.7	-73	0.2	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-88.55	SI1-88.55-D
+This study	91.2	-72.7	0.2	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.035	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-88.9	SI1-88.9-D
+This study	92.8	-68.9	0.2	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-88.93	SI1-88.93-D
+This study	80.1	-74.3	0.2	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-88.97	SI1-88.97-D
+This study	98.7	-68.8	0.2	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-89.0	SI1-89.0-D
+This study	78.7	-63.9	0.5	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-89.15	SI1-89.15-D
+This study	102.0	-69.6	0.6	14	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-89.25	SI1-89.25-A
+This study	94.6	-61.4	1	16	100	Extrusive:Igneous	Lava Flow	Basalt	0.14	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-89.92	SI1-89.92-A
+This study	89.0	-62	0.9	16	100	Extrusive:Igneous	Lava Flow	Basalt	0.14	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-90.0	SI1-90.0-A
+This study	82.4	-66	0.9	16	100	Extrusive:Igneous	Lava Flow	Basalt	0.14	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-90.05	SI1-90.05-A
+This study	56.4	-74.3	0.4	16	100	Extrusive:Igneous	Lava Flow	Basalt	0.14	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-91.1	SI1-91.1-A
+This study	124.7	-52.7	0.4	16	100	Extrusive:Igneous	Lava Flow	Basalt	0.14	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-91.2	SI1-91.2-A
+This study	74.1	-67.6	0.3	15	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.003	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-91.6	SI1-91.6-A
+This study	85.7	-68.3	0.2	15	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.003	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-91.61	SI1-91.61-A
+This study	85.2	-71	0.2	15	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.003	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-91.64	SI1-91.64-A
+This study	92.2	-69.3	0.2	15	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.003	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-91.67	SI1-91.67-A
+This study	85.1	-70.7	0.2	15	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.003	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-91.75	SI1-91.75-A
+This study	77.1	-63.6	0.5	15	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.003	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-92.0	SI1-92.0-A
+This study	86.6	-74.3	0.4	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-94.57	SI1-94.57a
+This study	111.7	-74.5	1.5	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.09	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-94.67	SI1-94.67a
+This study	105.1	-73.9	1.3	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-94.6	SI1-94.6a
+This study	80.6	-69.9	0.2	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.04	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-94.7	SI1-94.7a
+This study	89.4	-77.6	0.7	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.09	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-94.8	SI1-94.8a
+This study	80.1	-76.4	0.8	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-95	SI1-95a
+This study	84.2	-72.2	0.8	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.04	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-96.02	SI1-96.02a
+This study	87.0	-75.8	0.8	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.04	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-96.04	SI1-96.04a
+This study	68.9	-75.6	0.6	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.04	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-96.1	SI1-96.1a
+This study	74.8	-74.3	0.5	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.04	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI1-96	SI1-96a
+This study	114.4	-54.2	0.8	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.05	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI2a-1.1	SI2a-1.1a
+This study	114.2	-56.8	0.7	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.05	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI2a-1.35	SI2a-1.35a
+This study	116.4	-59.1	0.9	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.05	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI2a-1.3	SI2a-1.3a
+This study	110.0	-56.3	1.2	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.05	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI2a-1.4	SI2a-1.4a
+This study	122.8	-56.4	1.7	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.05	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI2a-1.5	SI2a-1.5a
+This study	127.4	-64.9	1.2	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.05	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI2a-1.6	SI2a-1.6a
+This study	139.5	-69.3	0.4	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI2a-10.2	SI2a-10.2a
+This study	137.8	-71.9	0.7	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI2a-10.4	SI2a-10.4a
+This study	148.0	-67.6	0.3	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI2a-10.5	SI2a-10.5a
+This study	161.0	-71.4	0.2	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI2a-12.2	SI2a-12.2a
+This study	165.2	-60.9	0.3	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI2a-12.7	SI2a-12.7a
+This study	157.0	-69.5	0.4	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.04	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI2a-12.8	SI2a-12.8a
+This study	102.0	-71.5	0.3	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI2b-10.56	SI2b-10.56a
+This study	104.2	-68.6	0.4	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI2b-10.58	SI2b-10.58a
+This study	122.0	-67.1	0.2	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI2b-10.5	SI2b-10.5a
+This study	101.0	-62.8	0.2	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI2b-10.63	SI2b-10.63a
+This study	107.6	-65.4	0.4	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI2b-10.6	SI2b-10.6a
+This study	137.2	-66.1	0.2	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI2b-2.2	SI2b-2.2a
+This study	114.4	-67.6	0.3	9	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI2b-2.3	SI2b-2.3a
+This study	119.4	-61.8	1.6	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI2b-2.42	SI2b-2.42a
+This study	126.3	-65.5	2	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI2b-2.46	SI2b-2.46a
+This study	119.4	-54.4	1.5	5	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.025	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI2b-2.53	SI2b-2.53a
+This study	113.9	-62.5	1.7	6	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI2b-2.5	SI2b-2.5a
+This study	114.6	-55.2	10.2	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.17	0.06	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI2b-2.61	SI2b-2.61a
+This study	117.9	-64.8	0.2	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI2b-2.6	SI2b-2.6a
+This study	113.4	-38	0.5	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI2c-0.15	SI2c-0.15a
+This study	112.3	-40.6	0.3	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI2c-0.35	SI2c-0.35a
+This study	109.5	-42.8	0.3	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI2c-0.45	SI2c-0.45a
+This study	102.6	-31.7	0.2	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI2c-0.55	SI2c-0.55a
+This study	107.4	-38.4	0.3	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI2c-0.5	SI2c-0.5a
+This study	107.5	-43.6	0.4	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI2c-1.0	SI2c-1.0a
+This study	110.2	-46.7	0.7	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI2c-3.05	SI2c-3.05a
+This study	107.4	-46.2	0.5	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.07	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI2c-3.0	SI2c-3.0a
+This study	113.5	-51.6	0.7	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI2c-3.15	SI2c-3.15a
+This study	111.7	-46.7	0.2	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.07	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI2c-4.7	SI2c-4.7a
+This study	113.2	-47.8	0.6	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.07	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI2c-4.8	SI2c-4.8a
+This study	112.3	-44.4	0.4	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.07	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI2c-6.3	SI2c-6.3a
+This study	87.5	-74.7	1.1	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-103.4	SI3-103.4-D
+This study	76.4	-73.2	1.5	5	100	Extrusive:Igneous	Lava Flow	Basalt	0.17	0.08	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-103.5	SI3-103.5-D
+This study	90.0	-66.6	1.1	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.025	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-103.9	SI3-103.9-D
+This study	81.6	-69.5	0.8	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-103.95	SI3-103.95-D
+This study	87.8	-55	0.2	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.025	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-104.3	SI3-104.3-D
+This study	77.1	-69.1	0.7	9	100	Extrusive:Igneous	Lava Flow	Basalt	0.145	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-104.4	SI3-104.4-D
+This study	128.7	-74.2	1.5	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-12.95	SI3-12.95-D
+This study	87.7	-67.9	0.3	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-126.9	SI3-126.9-D
+This study	80.4	-67.2	0.5	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-127.1	SI3-127.1-D
+This study	89.1	-63	0.4	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-127.3	SI3-127.3-D
+This study	78.6	-57	0.3	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-129.3	SI3-129.3-D
+This study	73.2	-62.7	0.4	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-129.45	SI3-129.45-D
+This study	125.8	-73.7	0.2	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-13.05	SI3-13.05-D
+This study	106.8	-71.2	0.4	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-16.3	SI3-16.3-D
+This study	125.3	-69.7	0.7	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-16.4	SI3-16.4-D
+This study	87.2	-68.5	0.7	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.145	0.04	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-18.75	SI3-18.75-D
+This study	71.3	-78.8	2.9	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.145	0.04	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-19.9	SI3-19.9-D
+This study	110.1	-71.9	0.1	9	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.08	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-20.40	SI3-20.4-D
+This study						Igneous:Extrusive	Lava Flow	Basaltic Lava					SI3-20.40	SI3-20.40a
+This study	116.7	-67.8	0.4	9	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-20.45	SI3-20.45-D
+This study						Extrusive:Igneous	Lava Flow	Basalt					SI3-20.45	SI3-20.45a
+This study						Igneous:Extrusive	Lava Flow	Basaltic Lava					SI3-21.30	SI3-21.30a
+This study	109.3	-71.8	0.5	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-21.35	SI3-21.35-D
+This study						Igneous:Extrusive	Lava Flow	Basaltic Lava					SI3-22.30	SI3-22.30a
+This study	111.5	-69.6	0.6	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-22.35	SI3-22.35-D
+This study						Extrusive:Igneous	Lava Flow	Basalt					SI3-22.35	SI3-22.35a
+This study	107.9	-71.6	0.7	9	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.06	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-22.60	SI3-22.6-D
+This study						Igneous:Extrusive	Lava Flow	Basaltic Lava					SI3-22.60	SI3-22.60a
+This study	109.5	-69.1	0.7	9	100	Extrusive:Igneous	Lava Flow	Basalt	0.07	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-22.65	SI3-22.65a
+This study	104.0	-73.2	0.6	9	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.08	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-27.90	SI3-27.9-D
+This study	100.2	-72.6	0.6	8	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-27.90	SI3-27.90a
+This study	147.5	-73.7	1.2	8	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-3.60	SI3-3.6-D
+This study	142.7	-71.8	0.8	8	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-3.60	SI3-3.60a
+This study	134.8	-71.5	0.2	9	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.06	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-3.70	SI3-3.7-D
+This study	142.6	-67.2	1.4	8	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.06	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-3.70	SI3-3.70a
+This study	96.6	-61.9	0.4	8	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.06	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-37.80	SI3-37.8-D
+This study	94.3	-65.5	0.6	7	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.06	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-37.80	SI3-37.80a
+This study	121.4	-72.1	0.6	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-37.85	SI3-37.85-D
+This study	114.8	-68.5	0.7	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-37.85	SI3-37.85a
+This study	87.3	-74.7	0.2	8	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-38.70	SI3-38.7-D
+This study	88.3	-70.8	0.3	10	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-38.70	SI3-38.70a
+This study	96.7	-72.2	0.4	8	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-38.80	SI3-38.8-D
+This study	88.6	-66.4	0.3	8	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-38.80	SI3-38.80a
+This study	99.3	-72.5	0.3	8	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-39.80	SI3-39.8-D
+This study	118.9	-75.6	0.2	8	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-39.80	SI3-39.80a
+This study	93.7	-70.8	0.3	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-39.82	SI3-39.82-D
+This study	103.1	-70.5	0.3	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-39.82	SI3-39.82a
+This study	132.6	-71.5	0.8	8	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.06	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-4.10	SI3-4.1-D
+This study	122.1	-65.2	1.1	7	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.06	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-4.10	SI3-4.10a
+This study	134.3	-64.1	1	7	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.08	0.025	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-4.20	SI3-4.2-D
+This study	123.3	-56.3	1.2	6	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.08	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-4.20	SI3-4.20a
+This study	147.9	-70	0.5	7	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.08	0.025	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-4.60	SI3-4.6-D
+This study	140.0	-74.5	0.8	8	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.09	0.025	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-4.60	SI3-4.60a
+This study	135.3	-71.5	0.6	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.025	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-4.7	SI3-4.7-D
+This study	136.7	-69.7	0.4	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-5.6	SI3-5.6-D
+This study	117.1	-70.8	0.3	8	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.06	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-58.00	SI3-58.0-D
+This study	117.2	-71.6	0.4	7	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.06	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-58.00	SI3-58.00a
+This study	115.5	-70.4	0.3	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-58.02	SI3-58.02-D
+This study	106.3	-73.2	0.3	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-58.02	SI3-58.02a
+This study	90.4	-65	0.6	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-58.04	SI3-58.04-D
+This study	90.9	-65.2	0.5	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-58.04	SI3-58.04a
+This study	97.3	-69	0.4	8	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.06	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-59.70	SI3-59.7-D
+This study	93.5	-69.1	0.9	6	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.05	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-59.70	SI3-59.70a
+This study	121.8	-73.1	0.6	7	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.06	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-59.80	SI3-59.8-D
+This study	124.5	-71.2	0.4	6	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.06	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-59.80	SI3-59.80a
+This study	106.9	-73	0.7	7	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.06	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-59.90	SI3-59.9-D
+This study	98.3	-72.5	0.4	6	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.06	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-59.80	SI3-59.90a
+This study	143.8	-72.1	0.4	9	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-6.4	SI3-6.4-D
+This study	125.5	-72.3	1.1	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.14	0.05	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-7.05	SI3-7.05a
+This study	122.6	-74.5	0.4	8	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.07	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-7.20	SI3-7.20a
+This study	136.9	-75	0.3	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-7.25	SI3-7.25-D
+This study	109.2	-73.2	1.9	9	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.14	0.04	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-7.30	SI3-7.30a
+This study	161.2	-75.2	0.3	8	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-8.30	SI3-8.30a
+This study	110.4	-62	0.5	7	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.06	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-8.80	SI3-8.8-D
+This study	104.9	-64.1	0.4	7	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.07	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-8.80	SI3-8.80a
+This study	121.7	-71.3	0.4	8	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-9.60	SI3-9.6-D
+This study	122.4	-70	0.5	10	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-9.60	SI3-9.60a
+This study	124.5	-73.6	0.5	9	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-9.63	SI3-9.63-D
+This study	284.9	45	2	7	100	Igneous:Intrusive	Dike	Diabase	0.05	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-D10	SI3-D10a
+This study	286.6	55.7	1.8	7	100	Igneous:Intrusive	Dike	Diabase	0.04	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-D1	SI3-D1a
+This study	288.8	56	1	7	100	Igneous:Intrusive	Dike	Diabase	0.04	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-D2	SI3-D2a
+This study	278.9	50.2	1.3	7	100	Igneous:Intrusive	Dike	Diabase	0.03	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-D4	SI3-D4a
+This study	295.0	55.1	0.7	7	100	Igneous:Intrusive	Dike	Diabase	0.03	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-D5	SI3-D5a
+This study	293.8	56.5	0.7	7	100	Igneous:Intrusive	Dike	Diabase	0.04	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-D6	SI3-D6a
+This study	287.2	55.4	1.4	7	100	Igneous:Intrusive	Dike	Diabase	0.04	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-D7	SI3-D7a
+This study	284.5	47.8	1.2	7	100	Igneous:Intrusive	Dike	Diabase	0.04	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI3-D9	SI3-D9a
+This study	125.0	-72.5	0.6	9	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-1.9	SI4-1.9a
+This study	128.4	-59.7	0.5	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-108.00	SI4-108.00a
+This study	132.0	-57.5	0.4	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-109.20	SI4-109.20a
+This study	127.7	-54.8	0.5	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-109.21	SI4-109.21a
+This study	125.4	-54.9	0.3	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-109.40	SI4-109.40a
+This study	114.0	-56.4	0.4	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-111.40	SI4-111.40a
+This study	107.8	-53.9	0.3	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-113.40	SI4-113.40a
+This study	110.4	-57.9	0.1	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-113.50	SI4-113.50a
+This study	104.2	-41.7	0.3	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-113.60	SI4-113.60a
+This study	109.1	-49.6	0.5	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-122.80	SI4-122.80a
+This study	119.2	-51.9	0.5	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-123.10	SI4-123.10a
+This study	108.9	-52.8	0.7	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-123.65	SI4-123.65a
+This study	108.5	-51.2	0.7	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-123.70	SI4-123.70a
+This study	108.5	-55.6	0.3	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-123.80	SI4-123.80a
+This study	114.6	-40.8	1	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-123.81	SI4-123.81a
+This study	72.6	-45.1	0.3	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-124.05	SI4-124.05a
+This study	110.9	-54	0.4	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-124.10	SI4-124.10a
+This study	112.5	-54.8	0.5	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-138.60	SI4-138.60a
+This study	104.7	-62.8	0.3	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-138.70	SI4-138.70a
+This study	103.0	-62.4	0.5	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-139.20	SI4-139.20a
+This study	74.2	-53	0.3	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-139.80	SI4-139.80a
+This study	115.1	-62	0.4	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-139.81	SI4-139.81a
+This study	115.7	-75.8	0.6	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-14.0	SI4-14.0a
+This study	95.3	-59.3	1	9	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-140.80	SI4-140.80a
+This study	116.9	-54.4	1.7	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-140.85	SI4-140.85a
+This study	120.2	-66.6	1.2	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-141.30	SI4-141.30a
+This study	114.1	-71.7	0.3	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-15.1	SI4-15.1a
+This study	106.6	-71.7	0.9	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-15.7	SI4-15.7a
+This study	154.3	-55.6	0.5	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-161.10	SI4-161.10a
+This study	156.5	-66.3	0.6	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-161.21	SI4-161.21a
+This study	151.6	-63.7	0.6	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-161.22	SI4-161.22a
+This study	157.1	-62.8	0.4	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-161.23	SI4-161.23a
+This study	154.9	-67.1	0.6	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-162.00	SI4-162.00a
+This study	156.1	-59.7	0.8	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-162.11	SI4-162.11a
+This study	150.5	-63	0.7	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-162.12	SI4-162.12a
+This study	130.1	-58.5	0.6	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-162.20	SI4-162.20a
+This study	113.6	-75.3	0.4	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-18.5	SI4-18.5a
+This study	109.6	-70.5	0.5	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-18.7	SI4-18.7a
+This study	110.2	-70.2	0.4	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-18.9	SI4-18.9a
+This study	131.3	-73.6	0.4	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-2.5	SI4-2.5a
+This study	91.5	-72.4	0.4	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-23.0	SI4-23.0a
+This study	94.7	-65.6	0.4	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-24.1	SI4-24.1a
+This study	106.9	-75.8	0.2	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.07	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-24.7	SI4-24.7a
+This study	94.6	-68.8	0.5	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-25.2	SI4-25.2a
+This study	103.4	-70.9	0.3	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-25.6	SI4-25.6a
+This study	97.3	-70.6	0.5	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-25.8	SI4-25.8a
+This study	119.6	-70.2	0.4	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-25.9	SI4-25.9a
+This study	106.2	-70.6	0.3	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-3.2	SI4-3.2a
+This study	129.6	-74.1	0.6	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-4.5	SI4-4.5a
+This study	121.1	-73.3	0.3	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-4.6	SI4-4.6a
+This study	144.6	-79.6	0.3	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-40.15	SI4-40.15a
+This study	144.7	-68.9	0.9	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-40.2	SI4-40.2a
+This study	163.1	-80.9	0.6	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-40.3	SI4-40.3a
+This study	141.0	-69.6	1	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-40.5	SI4-40.5a
+This study	140.0	-76	0.8	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-40.8	SI4-40.8a
+This study	137.1	-67.7	0.8	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-41.0	SI4-41.0a
+This study	107.6	-70.8	0.3	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-6.4	SI4-6.4a
+This study	140.8	-72	0.4	5	100	Extrusive:Igneous	Lava Flow	Basalt	0.14	0.08	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-73.65	SI4-73.65a
+This study	141.2	-72.4	0.6	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.17	0.07	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-73.66	SI4-73.66a
+This study	148.1	-75.1	0.4	9	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-73.70	SI4-73.70a
+This study	300.0	-84	2	9	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-73.90	SI4-73.90a
+This study	159.7	-55.6	1.9	9	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-74.00	SI4-74.00a
+This study	124.1	-73	2.2	9	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-74.20	SI4-74.20a
+This study	119.2	-72.7	0.6	9	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-74.39	SI4-74.39a
+This study	124.4	-69.1	0.7	9	100	Extrusive:Igneous	Lava Flow	Basalt	0.09	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-74.41	SI4-74.41a
+This study	127.1	-66.8	1.3	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-75.20	SI4-75.20a
+This study	129.7	-63	1.1	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-75.30	SI4-75.30a
+This study	93.0	-60.6	0.9	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.09	0.025	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-75.35	SI4-75.35a
+This study	130.5	-65.1	1.2	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.09	0.025	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-75.45	SI4-75.45a
+This study	133.5	-64.1	0.8	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.09	0.025	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-75.60	SI4-75.60a
+This study	136.0	-63.4	0.7	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.09	0.025	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-75.70	SI4-75.70a
+This study	131.3	-67.4	0.7	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.09	0.025	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-76.00	SI4-76.00a
+This study	137.6	-58.2	0.5	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-82.00	SI4-82.00a
+This study	115.0	-63.1	0.9	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-82.60	SI4-82.60a
+This study	112.5	-64.2	0.9	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-82.61	SI4-82.61a
+This study	113.0	-67.7	0.3	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-82.90	SI4-82.90a
+This study	108.3	-74.8	0.4	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-85.20	SI4-85.20a
+This study	117.7	-58.8	0.7	9	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-86.70	SI4-86.70a
+This study	119.9	-61.9	0.7	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.07	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-86.75	SI4-86.75a
+This study	126.7	-67.9	0.7	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI4-86.85	SI4-86.85a
+This study	109.2	-57.9	0.3	8	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5a-1.40	SI5a-1.40a
+This study	112.4	-60.1	0.5	8	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.07	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5a-1.60	SI5a-1.60a
+This study	110.6	-59.1	0.3	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5a-2.1	SI5a-2.1-D
+This study						Extrusive:Igneous	Lava Flow	Basalt					SI5a-2.1	SI5a-2.10a
+This study	119.8	-61.2	0.3	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5a-2.3	SI5a-2.3-D
+This study						Extrusive:Igneous	Lava Flow	Basalt					SI5a-2.3	SI5a-2.30a
+This study	111.6	-58.8	0.4	10	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5a-2.60	SI5a-2.60a
+This study	113.3	-52.8	0.3	10	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5a-3.00	SI5a-3.00a
+This study	116.5	-53.4	0.1	10	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5a-5.00	SI5a-5.00a
+This study	109.3	-45.9	0.6	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5a-6.93	SI5a-6.93-D
+This study						Extrusive:Igneous	Lava Flow	Basalt					SI5a-6.93	SI5a-6.93a
+This study	112.6	-49.1	0.5	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5a-6.99	SI5a-6.99-D
+This study						Extrusive:Igneous	Lava Flow	Basalt					SI5a-6.99	SI5a-6.99a
+This study	115.6	-47.8	1.2	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5a-7.0	SI5a-7.0-D
+This study						Extrusive:Igneous	Lava Flow	Basalt					SI5a-7.0	SI5a-7.00a
+This study	111.4	-40.8	1.3	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.04	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5a-7.25	SI5a-7.25-D
+This study						Extrusive:Igneous	Lava Flow	Basalt					SI5a-7.25	SI5a-7.25a
+This study	112.4	-42.8	1.2	7	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.05	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5a-7.30	SI5a-7.30a
+This study	111.4	-56.6	0.7	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.05	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-116.6	SI5b-116.6-D
+This study	112.8	-56.1	0.6	6	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.05	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-116.90	SI5b-116.90a
+This study	116.3	-55.4	0.7	6	100	Extrusive:Igneous	Lava Flow	Basalt	0.04	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-117.0	SI5b-117.0-D
+This study	113.8	-52	0.8	6	100	Extrusive:Igneous	Lava Flow	Basalt	0.05	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-117.05	SI5b-117.05a
+This study	115.3	-52.2	0.8	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.05	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-117.1	SI5b-117.1-D
+This study	118.6	-61.7	0.5	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.05	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-117.15	SI5b-117.15-D
+This study	108.0	-58.2	0.6	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.05	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-117.4	SI5b-117.4-D
+This study	117.4	-56.6	0.6	8	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-117.90	SI5b-117.90a
+This study	119.0	-54.8	0.9	6	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.025	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-118.25	SI5b-118.25-D
+This study	122.7	-60.8	0.6	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.025	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-13.6	SI5b-13.6-D
+This study	103.0	-55.3	0.7	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-133.3	SI5b-133.3-D
+This study	104.7	-54	0.5	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-133.4	SI5b-133.4-D
+This study	110.8	-56.8	0.5	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.025	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-14.4	SI5b-14.4-D
+This study	113.1	-54.1	0.7	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.025	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-14.7	SI5b-14.7-D
+This study	161.3	-72.9	0.1	6	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.06	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-146.00	SI5b-146.00a
+This study	106.5	-68.7	0.3	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-146.3	SI5b-146.3-D
+This study	106.2	-63.3	0.3	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-146.5	SI5b-146.5-D
+This study	103.7	-51.8	0.3	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-15.0	SI5b-15.0-D
+This study	111.7	-58.5	0.2	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-15.5	SI5b-15.5-D
+This study	99.0	-61.8	0.3	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-159.7	SI5b-159.7-D
+This study	114.4	-59.6	0.4	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-159.9	SI5b-159.9-D
+This study	111.5	-60	0.4	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-16.2	SI5b-16.2-D
+This study	90.3	-62.2	0.2	6	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.06	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-160.00	SI5b-160.00a
+This study						Extrusive:Igneous	Lava Flow	Basalt					SI5b-184.2	SI5b-184.2-A
+This study	284.9	59.1	1.7	6	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.035	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-184.2	SI5b-184.2-D
+This study						Extrusive:Igneous	Lava Flow	Basalt					SI5b-184.3	SI5b-184.3-A
+This study	116.1	-62.2	0.6	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-184.3	SI5b-184.3-D
+This study						Extrusive:Igneous	Lava Flow	Basalt					SI5b-184.5	SI5b-184.5-A
+This study	118.7	-62.9	0.7	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-184.5	SI5b-184.5-D
+This study						Extrusive:Igneous	Lava Flow	Basalt					SI5b-185.7	SI5b-185.7-A
+This study	107.0	-56.9	0.4	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-185.7	SI5b-185.7-D
+This study						Extrusive:Igneous	Lava Flow	Basalt					SI5b-186.2	SI5b-186.2-A
+This study	121.8	-62.3	0.3	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-186.2	SI5b-186.2-D
+This study						Extrusive:Igneous	Lava Flow	Basalt					SI5b-186.5	SI5b-186.5-A
+This study	117.9	-60.3	0.7	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.05	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-186.5	SI5b-186.5-D
+This study	101.1	-67.8	0.4	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-198.3	SI5b-198.3-D
+This study	74.1	-75.4	0.7	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.145	0.04	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-198.6	SI5b-198.6-D
+This study	108.8	-70.9	0.7	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-198.8	SI5b-198.8-D
+This study	100.6	-65	0.5	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-212.4	SI5b-212.4-D
+This study	97.2	-70.8	0.4	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-214.0	SI5b-214.0-D
+This study	102.9	-68.3	0.3	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-214.2	SI5b-214.2-D
+This study	100.6	-47.5	0.9	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-57.6	SI5b-57.6-D
+This study	98.3	-44.1	0.6	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-57.65	SI5b-57.65-D
+This study	95.7	-34.9	1.2	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-57.7	SI5b-57.7-D
+This study	98.6	-49.2	0.8	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-58.0	SI5b-58.0-D
+This study	101.1	-45	0.9	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-58.05	SI5b-58.05-D
+This study	94.2	-34.2	0.8	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-58.7	SI5b-58.7-D
+This study	96.5	-54.2	0.5	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-65.1	SI5b-65.1-D
+This study	97.2	-53.7	0.3	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-65.2	SI5b-65.2-D
+This study	92.7	-45.5	0.3	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-65.4	SI5b-65.4-D
+This study	96.2	-49.7	0.4	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-68.35	SI5b-68.35-D
+This study	282.1	-26.9	1	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-68.4	SI5b-68.4-D
+This study	113.2	-47.6	0.6	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-68.45	SI5b-68.45-D
+This study	94.9	-53.5	0.4	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-74.0	SI5b-74.0-D
+This study	99.5	-51	0.5	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.025	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-74.25	SI5b-74.25-D
+This study	96.1	-51.3	1	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-74.3	SI5b-74.3-D
+This study	98.6	-50.1	0.8	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.05	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-75.4	SI5b-75.4-D
+This study	100.8	-46.7	0.7	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-76.0	SI5b-76.0-D
+This study	92.3	-43.6	0.6	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI5b-76.2	SI5b-76.2-D
+This study						Extrusive:Igneous	Lava Flow	Basalt					SI6-0.30	SI6-0.30a
+This study						Extrusive:Igneous	Lava Flow	Basalt					SI6-0.50	SI6-0.50a
+This study	98.5	-59.1	0.6	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.09	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-0.70	SI6-0.70a
+This study	112.6	-67.9	0.5	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-0.80	SI6-0.80a
+This study						Extrusive:Igneous	Lava Flow	Basalt					SI6-1.35	SI6-1.35a
+This study	116.3	-63	0.5	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-1.40	SI6-1.40a
+This study	106.2	-79.9	0.2	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-123.90	SI6-123.90a
+This study	114.5	-79.4	0.3	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-124.00	SI6-124.00a
+This study	99.4	-73.9	1.6	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.04	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-125.30	SI6-125.30a
+This study	122.5	-85.4	0.4	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-125.80	SI6-125.80a
+This study	81.1	-82.4	0.4	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-125.90	SI6-125.90a
+This study	35.3	-73.8	0.3	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-126.00	SI6-126.00a
+This study	55.5	-70.7	0.1	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-126.20	SI6-126.20a
+This study	77.4	-59.7	0.9	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-13.35	SI6-13.35a
+This study	77.9	-64.4	0.5	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-13.36	SI6-13.36a
+This study	77.7	-68.2	0.4	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-13.45	SI6-13.45a
+This study	80.1	-62.7	0.4	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-13.50	SI6-13.50a
+This study	79.4	-63.2	0.4	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.09	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-14.20	SI6-14.20a
+This study	83.1	-59.1	0.4	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-14.40	SI6-14.40a
+This study	80.6	-64	0.4	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-14.45	SI6-14.45a
+This study	69.5	-62.5	0.4	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-15.00	SI6-15.00a
+This study	68.6	-40.2	0.3	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-181.60	SI6-181.60a
+This study	74.8	-53.4	0.3	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-181.75	SI6-181.75a
+This study	80.5	-54.5	0.5	14	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-182.20	SI6-182.20a
+This study	80.1	-50.7	0.5	14	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-182.30	SI6-182.30a
+This study	78.8	-53.8	0.6	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-182.40	SI6-182.40a
+This study	82.1	-57.4	0.7	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-182.50	SI6-182.50a
+This study	70.8	-57.9	1	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-183.00	SI6-183.00a
+This study	67.7	-57.6	0.9	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-183.10	SI6-183.10a
+This study	105.2	-60.7	1.7	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-2.20	SI6-2.20a
+This study	85.1	-63.5	1.4	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-2.40	SI6-2.40a
+This study	103.0	-45.1	11.7	6	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.025	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-208.60	SI6-208.60a
+This study	104.2	-50.8	2.7	9	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.025	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-209.00	SI6-209.00a
+This study	93.3	-49.5	2.1	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-209.10	SI6-209.10a
+This study	101.3	-59.4	0.8	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-209.40	SI6-209.40a
+This study	103.1	-55	1	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-209.50	SI6-209.50a
+This study	193.6	-48.6	1.3	9	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.025	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-209.80	SI6-209.80a
+This study						Extrusive:Igneous	Lava Flow	Basalt					SI6-210.05	SI6-210.05a
+This study	350.5	-72	0.3	14	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-247.4	SI6-247.4a
+This study	93.3	-58.5	1.5	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-247.7	SI6-247.7a
+This study	98.1	-52.3	1.9	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.07	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-248.1	SI6-248.1a
+This study	117.5	-59	2.4	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-248.8	SI6-248.8a
+This study	118.7	-51.5	2.1	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-248.9	SI6-248.9a
+This study	105.9	-57.7	0.5	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.09	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-249.2	SI6-249.2a
+This study	116.3	-53.6	1.7	9	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-251.0	SI6-251.0a
+This study	107.1	-52.4	1.5	9	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-251.2	SI6-251.2a
+This study	86.8	-68.6	0.8	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-274.2	SI6-274.2a
+This study	95.1	-69.2	0.6	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-274.3	SI6-274.3a
+This study	91.9	-65.1	0.8	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-274.9	SI6-274.9a
+This study	100.0	-71	0.5	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-275.3	SI6-275.3a
+This study	95.8	-62.9	0.3	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-276.3	SI6-276.3a
+This study	90.3	-61.1	0.7	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-277.0	SI6-277.0a
+This study	86.3	-68.2	0.9	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-277.3	SI6-277.3a
+This study	98.9	-64.1	0.9	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-277.5	SI6-277.5a
+This study	116.1	-61.3	1.9	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.07	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-291.4	SI6-291.4a
+This study	113.2	-65.9	0.7	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-291.8	SI6-291.8a
+This study	98.1	-56	0.9	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-293.2	SI6-293.2a
+This study	96.2	-51.3	0.9	9	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-294.0	SI6-294.0a
+This study	100.0	-68	0.3	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-294.4	SI6-294.4a
+This study	100.0	-67.2	0.7	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-294.6	SI6-294.6a
+This study	93.1	-54.9	0.4	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-295.2	SI6-295.2a
+This study	102.1	-61.6	0.8	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-296.2	SI6-296.2a
+This study	33.0	-32.9	0.2	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-41.6	SI6-41.6a
+This study	92.9	-60	0.5	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-42.6	SI6-42.6a
+This study	79.6	-69.1	0.5	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-43.5	SI6-43.5a
+This study	104.1	-66.6	0.8	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-43.6	SI6-43.6a
+This study	99.2	-63.8	1.2	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-43.8	SI6-43.8a
+This study	345.2	-71.3	0.3	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-46.5	SI6-46.5a
+This study	113.6	-68.7	0.5	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-46.6	SI6-46.6a
+This study	84.3	-61.4	0.6	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-50.9	SI6-50.9a
+This study	103.0	-82.9	0.3	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-78.05	SI6-78.05a
+This study	92.8	-69.1	0.1	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-78.20	SI6-78.20a
+This study	102.2	-72	0.2	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-78.40	SI6-78.40a
+This study	105.6	-68	0.7	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-79.80	SI6-79.80a
+This study	101.7	-68.7	0.6	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-79.85	SI6-79.85a
+This study	148.6	-75.1	0.6	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-79.90	SI6-79.90a
+This study	97.0	-65	0.2	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-80.40	SI6-80.40a
+This study						Extrusive:Igneous	Lava Flow	Basalt					SI6-80.45	SI6-80.45a
+This study	96.2	-79.3	0.6	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-95.40	SI6-95.40a
+This study	95.9	-75.6	0.5	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-95.50	SI6-95.50a
+This study	122.8	-76	0.9	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-95.51	SI6-95.51a
+This study	103.4	-77.7	0.6	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-95.60	SI6-95.60a
+This study	91.1	-83.4	0.4	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-96.38	SI6-96.38a
+This study	71.0	-45.1	0.6	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-96.40	SI6-96.40a
+This study	252.4	-74.1	0.7	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI6-96.60	SI6-96.60a
+This study	131.5	-49.3	1.1	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI7-0.2	SI7-0.2a
+This study	127.4	-44.9	1.4	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI7-0.5	SI7-0.5a
+This study	134.0	-48.3	1.4	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI7-1.0	SI7-1.0a
+This study	127.9	-50.4	1.6	9	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.025	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI7-1.1	SI7-1.1a
+This study	126.9	-45.8	2.3	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI7-1.4	SI7-1.4a
+This study	108.7	-65.9	0.8	9	100	Extrusive:Igneous	Lava Flow	Basalt	0.07	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI7-10.9	SI7-10.9a
+This study	116.9	-52.8	1.3	9	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.08	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI7-11.80	SI7-11.80a
+This study						Extrusive:Igneous	Lava Flow	Basalt					SI7-11.8	SI7-11.8a
+This study	119.5	-54	3.6	8	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.14	0.05	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI7-12.70	SI7-12.70a
+This study						Extrusive:Igneous	Lava Flow	Basalt					SI7-12.7	SI7-12.7a
+This study	129.7	-48.7	3	10	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.14	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI7-13.20	SI7-13.20a
+This study						Extrusive:Igneous	Lava Flow	Basalt					SI7-13.2	SI7-13.2a
+This study	125.6	-42.5	1.7	11	100	Igneous:Extrusive	Lava Flow	Basaltic Lava	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI7-13.70	SI7-13.70a
+This study						Extrusive:Igneous	Lava Flow	Basalt					SI7-13.7	SI7-13.7a
+This study						Extrusive:Igneous	Lava Flow	Basalt					SI7-14.2	SI7-14.2a
+This study	115.4	-59.4	3.1	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.14	0.05	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI7-15.6	SI7-15.6a
+This study	117.3	-64.7	2	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.14	0.05	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI7-16.0	SI7-16.0a
+This study	125.4	-53.5	1.7	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI7-2.4	SI7-2.4a
+This study	129.1	-49.8	2.3	9	100	Extrusive:Igneous	Lava Flow	Basalt	0.17	0.05	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI7-2.6	SI7-2.6a
+This study	126.3	-45.3	2.6	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.17	0.06	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI7-2.7	SI7-2.7a
+This study	134.4	-56.7	0.2	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI7-3.94	SI7-3.94a
+This study	132.9	-62.6	0.3	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI7-3.95	SI7-3.95a
+This study	111.5	-54.5	0.6	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI7-3.96	SI7-3.96a
+This study	127.4	-60	1.4	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI7-3.98	SI7-3.98a
+This study	134.0	-48.8	3.9	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.14	0.05	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI7-4.20	SI7-4.20a
+This study	142.6	-57.9	1.5	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.14	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI7-4.70	SI7-4.70a
+This study	142.0	-31.6	5.7	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.025	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI7-4.75	SI7-4.75a
+This study	115.4	-67.1	0.7	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-1.70	SI8-1.70a
+This study	136.2	-69.1	0.3	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-1.80	SI8-1.80a
+This study	134.3	-71	0.6	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-1.90	SI8-1.90a
+This study	89.0	-63.4	0.1	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-108.6	SI8-108.6a
+This study	110.5	-67.2	0.3	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-109.8	SI8-109.8a
+This study	83.6	-67	0.2	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-111.2	SI8-111.2a
+This study	78.5	-62.9	0.3	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-111.6	SI8-111.6a
+This study	100.4	-67.5	0.3	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-111.8	SI8-111.8a
+This study	108.7	-65.3	0.7	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-113.6	SI8-113.6a
+This study	130.9	-49.3	0.4	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-114.4	SI8-114.4a
+This study	118.8	-69.6	0.3	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-115.4	SI8-115.4a
+This study	126.1	-71	0.4	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-2.00	SI8-2.00a
+This study	123.9	-69.6	0.3	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-2.30	SI8-2.30a
+This study	125.2	-65.1	0.5	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-2.70	SI8-2.70a
+This study	124.0	-67	0.5	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-2.75	SI8-2.75a
+This study	111.5	-52.7	0.8	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-28.7	SI8-28.7a
+This study	111.1	-61.7	0.4	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-29.7	SI8-29.7a
+This study	92.4	-51.1	0.7	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-29.9	SI8-29.9a
+This study	126.0	-70.4	0.6	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-3.30	SI8-3.30a
+This study	98.5	-57.2	0.3	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-31.5	SI8-31.5a
+This study	100.4	-61.4	0.3	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-31.7	SI8-31.7a
+This study	112.7	-58	0.4	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-32.4	SI8-32.4a
+This study	122.6	-66.8	0.9	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-32.8	SI8-32.8a
+This study	127.4	-60	1.5	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-35.2	SI8-35.2a
+This study	124.7	-65.2	3.5	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-50.0	SI8-50.0a
+This study	115.3	-56.9	2.1	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-50.5	SI8-50.5a
+This study	111.5	-60.7	2.6	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-50.6	SI8-50.6a
+This study	128.0	-60.6	1.9	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-51.3	SI8-51.3a
+This study	126.3	-68.7	0.5	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-52.2	SI8-52.2a
+This study	125.6	-73.3	0.4	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-53.0	SI8-53.0a
+This study	18.1	-44.5	2.5	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-53.2	SI8-53.2a
+This study	202.9	-20.5	0.6	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-54.0	SI8-54.0a
+This study	124.9	-72.1	0.7	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-6.0	SI8-6.0a
+This study	147.5	-78.4	0.3	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-6.2	SI8-6.2a
+This study	111.1	-72.3	0.6	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-6.3	SI8-6.3a
+This study	109.6	-73.8	0.4	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-6.4	SI8-6.4a
+This study	116.2	-63.6	0.3	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-6.5	SI8-6.5a
+This study	116.3	-74	0.5	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-7.8	SI8-7.8a
+This study	111.7	-72	0.8	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-70.3	SI8-70.3a
+This study	114.5	-70.1	0.7	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-70.4	SI8-70.4a
+This study	107.5	-73.4	0.2	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-70.7	SI8-70.7a
+This study	97.6	-65.2	0.6	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-72.1	SI8-72.1a
+This study	94.7	-66	0.7	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-72.3	SI8-72.3a
+This study	99.4	-69.3	0.6	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-72.9	SI8-72.9a
+This study	110.0	-71.1	0.3	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-73.2	SI8-73.2a
+This study	96.5	-68.1	0.7	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-73.4	SI8-73.4a
+This study	85.7	-63.7	0.5	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-88.2	SI8-88.2a
+This study	138.8	-63.1	0.5	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-9.0	SI8-9.0a
+This study	38.1	-45	0.6	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-9.2	SI8-9.2a
+This study	104.0	-74.9	0.2	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-90.2	SI8-90.2a
+This study	74.4	-67.1	0.2	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-90.8	SI8-90.8a
+This study	78.7	-68.3	0.4	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-90.9	SI8-90.9a
+This study	73.0	-65	0.2	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-91.3	SI8-91.3a
+This study	66.5	-62.7	0.5	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-92.5	SI8-92.5a
+This study	91.8	-63.3	0.6	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-96.9	SI8-96.9a
+This study	81.5	-60.4	1	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-97.0	SI8-97.0a
+This study	131.3	-25.6	5.5	10	100	Igneous:Intrusive	Dike	Diabase	0.06	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-D1	SI8-D1a
+This study	116.1	-30.5	3.3	10	100	Igneous:Intrusive	Dike	Diabase	0.06	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-D2	SI8-D2a
+This study	124.6	-38.8	2.9	10	100	Igneous:Intrusive	Dike	Diabase	0.06	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-D3	SI8-D3a
+This study	126.6	-39.8	2.9	10	100	Igneous:Intrusive	Dike	Diabase	0.06	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-D5	SI8-D5a
+This study	116.2	-37.9	1.2	10	100	Igneous:Intrusive	Dike	Diabase	0.06	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-D6	SI8-D6a
+This study	115.4	-39.9	0.9	10	100	Igneous:Intrusive	Dike	Diabase	0.06	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-D7	SI8-D7a
+This study	113.4	-38.2	0.9	10	100	Igneous:Intrusive	Dike	Diabase	0.06	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-D8	SI8-D8a
+This study	115.6	-36.5	1.6	10	100	Igneous:Intrusive	Dike	Diabase	0.06	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI8-D9	SI8-D9a
+This study	64.0	-58.7	0.6	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-14.00	SI9-14.00a
+This study	61.0	-67.8	0.9	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-14.20	SI9-14.20a
+This study	55.7	-69.8	0.8	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.09	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-14.21	SI9-14.21a
+This study	49.3	-60.1	0.9	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.09	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-14.50	SI9-14.50a
+This study	64.3	-67.9	0.9	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-14.80	SI9-14.80a
+This study	105.9	-54.4	0.4	14	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-142.8	SI9-142.8a
+This study	95.9	-57.8	0.3	14	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-143.4	SI9-143.4a
+This study	114.5	-53	0.5	14	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-143.6	SI9-143.6a
+This study	92.0	-58.2	0.2	14	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-144.8	SI9-144.8a
+This study	92.2	-49.9	0.5	14	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-146.0	SI9-146.0a
+This study	93.9	-44.4	0.2	14	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-146.4	SI9-146.4a
+This study	90.1	-49.5	0.5	14	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-148.3	SI9-148.3a
+This study	86.8	-44.3	0.6	14	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-148.4	SI9-148.4a
+This study	81.4	-68.9	1.1	14	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-15.30	SI9-15.30a
+This study	72.4	-62.8	0.5	16	100	Extrusive:Igneous	Lava Flow	Basalt	0.14	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-16.00	SI9-16.00a
+This study	69.8	-64	1.5	15	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-16.10	SI9-16.10a
+This study	83.5	-47.6	2.3	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-162.90	SI9-162.90a
+This study	95.7	-47.8	0.7	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-163.50	SI9-163.50a
+This study	108.9	-57.2	0.1	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-163.90	SI9-163.90a
+This study	96.0	-57.1	0.3	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-164.10	SI9-164.10a
+This study	103.8	-50.2	1.1	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-164.20	SI9-164.20a
+This study	104.5	-49.5	1.9	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.05	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-164.25	SI9-164.25a
+This study	93.4	-56.5	0.7	9	100	Extrusive:Igneous	Lava Flow	Basalt	0.07	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-164.30	SI9-164.30a
+This study	104.3	-57.9	0.9	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-164.40	SI9-164.40a
+This study	119.4	-69.9	0.6	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-166.9	SI9-166.9a
+This study	113.6	-55.8	0.4	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-167.0	SI9-167.0a
+This study	111.6	-40.1	0.7	14	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-167.1	SI9-167.1a
+This study	102.7	-29.7	0.6	14	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-167.2	SI9-167.2a
+This study	90.9	-55.1	0.5	14	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-167.3	SI9-167.3a
+This study	109.9	-57.8	0.4	14	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-167.6	SI9-167.6a
+This study	118.7	-56.6	0.2	14	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-167.7	SI9-167.7a
+This study	117.2	-55.7	0.2	14	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-168.1	SI9-168.1a
+This study	119.1	-46	5.7	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.17	0.07	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-173.0	SI9-173.0a
+This study	121.1	-52.9	4.6	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.17	0.07	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-173.1	SI9-173.1a
+This study	116.3	-50.4	23.5	9	100	Extrusive:Igneous	Lava Flow	Basalt	0.17	0.05	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-173.3	SI9-173.3a
+This study	103.5	-38.7	11.7	4	100	Extrusive:Igneous	Lava Flow	Basalt	0.14	0.09	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-173.5	SI9-173.5a
+This study	102.4	-38.2	9.5	4	100	Extrusive:Igneous	Lava Flow	Basalt	0.17	0.1	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-173.6	SI9-173.6a
+This study	111.6	-49.1	3.5	7	100	Extrusive:Igneous	Lava Flow	Basalt	0.17	0.07	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-173.7	SI9-173.7a
+This study	55.4	-63.6	0.2	15	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.003	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-3.90	SI9-3.90a
+This study	132.5	-60.1	0.7	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-315.30	SI9-315.30a
+This study	121.2	-57.7	0.6	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-315.35	SI9-315.35a
+This study	126.5	-62.3	0.9	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-315.40	SI9-315.40a
+This study	122.2	-60.9	0.5	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-316.40	SI9-316.40a
+This study	111.9	-65.6	0.5	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-316.80	SI9-316.80a
+This study	121.6	-63.8	0.4	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-317.10	SI9-317.10a
+This study	115.5	-58.1	0.6	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-317.60	SI9-317.60a
+This study	121.8	-59.8	0.5	12	0	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-317.70	SI9-317.70a
+This study	117.3	-54.2	0.7	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-337.4	SI9-337.4a
+This study	130.8	-57.9	1.2	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-337.7	SI9-337.7a
+This study	116.7	-59	1.1	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-337.8	SI9-337.8a
+This study	102.5	-55.4	1.2	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-337.9	SI9-337.9a
+This study	123.9	-59.5	0.8	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-338.3	SI9-338.3a
+This study	107.7	-51.9	0.8	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-338.5	SI9-338.5a
+This study	109.3	-55.5	0.7	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-340.2	SI9-340.2a
+This study	116.0	-55.6	0.7	11	0	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-340.3	SI9-340.3a
+This study	106.6	-60.4	1.1	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-377.0	SI9-377.0a
+This study	109.9	-53.2	0.9	9	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.025	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-377.3	SI9-377.3a
+This study	122.4	-52	1.6	9	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.025	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-377.4	SI9-377.4a
+This study						Extrusive:Igneous	Lava Flow	Basalt					SI9-377.5	SI9-377.5a
+This study	125.8	-54.7	1.6	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-377.6	SI9-377.6a
+This study	101.4	-66.1	1	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-390.20	SI9-390.20a
+This study	127.5	-62.6	1.3	5	100	Extrusive:Igneous	Lava Flow	Basalt	0.12	0.07	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-390.30	SI9-390.30a
+This study	116.2	-48.3	2.1	6	100	Extrusive:Igneous	Lava Flow	Basalt	0.09	0.04	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-390.90	SI9-390.90a
+This study	161.4	-46.2	0.9	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.09	0.025	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-391.00	SI9-391.00a
+This study	129.2	-52.2	1.7	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-391.10	SI9-391.10a
+This study	123.5	-51	2.7	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-391.50	SI9-391.50a
+This study	117.0	-61.8	1.1	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-391.51	SI9-391.51a
+This study	107.4	-48.8	2.4	8	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-392.30	SI9-392.30a
+This study	107.4	-59.3	0.8	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-396.10	SI9-396.10a
+This study	116.4	-57.1	1.1	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-396.50	SI9-396.50a
+This study	130.9	-65.4	0.4	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-396.51	SI9-396.51a
+This study	113.9	-65.5	0.5	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-396.60	SI9-396.60a
+This study	121.9	-62.3	0.6	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-396.80	SI9-396.80a
+This study	122.0	-70	0.4	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-396.85	SI9-396.85a
+This study	119.1	-65.5	0.4	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.09	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-396.90	SI9-396.90a
+This study	49.3	-63.5	0.6	15	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.003	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-4.00	SI9-4.00a
+This study	53.4	-70.3	0.3	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.06	0.003	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-4.80	SI9-4.80a
+This study	55.6	-68.3	0.2	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.003	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-4.81	SI9-4.81a
+This study	56.4	-62.9	0.2	15	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.003	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-6.50	SI9-6.50a
+This study	47.9	-72.1	0.4	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.003	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-6.68	SI9-6.68a
+This study	63.3	-70.1	0.5	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.08	0.003	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-6.70	SI9-6.70a
+This study	72.2	-61.1	5.6	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-80.60	SI9-80.60a
+This study	75.0	-69.8	2.9	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-80.70	SI9-80.70a
+This study	68.6	-62.8	6.7	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-81.20	SI9-81.20a
+This study	56.4	-71.3	3.4	10	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.02	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-81.30	SI9-81.30a
+This study	65.5	-71.5	2.3	9	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.025	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-81.40	SI9-81.40a
+This study	69.0	-69.2	1.2	12	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-81.85	SI9-81.85a
+This study	61.3	-70.6	1.9	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.09	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-81.90	SI9-81.90a
+This study	60.8	-72.3	1.3	14	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-84.60	SI9-84.60a
+This study	56.2	-75.9	1.6	14	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-84.70	SI9-84.70a
+This study	48.6	-65.2	0.8	15	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.003	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-85.10	SI9-85.10a
+This study	49.8	-63.8	1	15	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.003	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-85.15	SI9-85.15a
+This study	48.9	-66.2	0.7	15	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.003	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-85.20	SI9-85.20a
+This study	52.7	-64.1	0.7	9	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.025	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-85.40	SI9-85.40a
+This study	33.2	-72.5	1.8	11	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-85.60	SI9-85.60a
+This study	24.3	-71.1	1.8	13	100	Extrusive:Igneous	Lava Flow	Basalt	0.1	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-85.64	SI9-85.64a
+This study	274.2	47.6	0.9	9	100	Igneous:Intrusive	Dike	Diabase	0.07	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-D10	SI9-D10a
+This study	270.5	33.9	0.5	10	100	Igneous:Intrusive	Dike	Diabase	0.08	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-D11	SI9-D11a
+This study	194.4	27.2	1.1	8	100	Igneous:Intrusive	Dike	Diabase	0.06	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-D12	SI9-D12a
+This study	274.7	50.1	0.8	8	100	Igneous:Intrusive	Dike	Diabase	0.06	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-D13	SI9-D13a
+This study	342.6	70.6	0.6	6	100	Igneous:Intrusive	Dike	Diabase	0.05	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-D14	SI9-D14a
+This study	268.8	57.2	0.6	9	100	Igneous:Intrusive	Dike	Diabase	0.07	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-D16	SI9-D16a
+This study	64.7	68.6	0.8	9	100	Igneous:Intrusive	Dike	Diabase	0.07	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-D17	SI9-D17a
+This study	276.4	53.7	0.8	10	100	Igneous:Intrusive	Dike	Diabase	0.07	0.008	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-D18	SI9-D18a
+This study						Igneous:Intrusive	Dike	Diabase					SI9-D1	SI9-D1a
+This study	93.9	-51.5	2	15	100	Igneous:Intrusive	Dike	Diabase	0.1	0.003	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-D2	SI9-D2a
+This study	95.8	-48.9	1.6	15	100	Igneous:Intrusive	Dike	Diabase	0.1	0.003	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-D3	SI9-D3a
+This study	88.9	-61.3	1.1	14	100	Igneous:Intrusive	Dike	Diabase	0.1	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-D4	SI9-D4a
+This study	88.0	-64.3	0.6	15	100	Igneous:Intrusive	Dike	Diabase	0.1	0.003	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-D6	SI9-D6a
+This study	87.2	-49.4	2.2	6	100	Igneous:Intrusive	Dike	Diabase	0.05	0.015	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-D7	SI9-D7a
+This study	110.8	-46.3	2.5	8	100	Igneous:Intrusive	Dike	Diabase	0.04	0.005	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-D8	SI9-D8a
+This study	88.5	-32.5	3.2	6	100	Igneous:Intrusive	Dike	Diabase	0.04	0.01	T	DA-DIR-GEO:DE-BFL:LP-DC4:LP-DIR-AF	SI9-D9	SI9-D9a

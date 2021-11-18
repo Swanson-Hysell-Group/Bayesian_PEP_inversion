@@ -1,0 +1,3 @@
+tab 	locations
+citations	continent_ocean	country	geologic_classes	lat_n	lat_s	lithologies	location	location_type	lon_e	lon_w	method_codes	plate_blocks	region	result_name	result_type	sites	tectonic_settings
+This study	North America		Extrusive	47.45	46.59	Basalt	Keweenaw Peninsula	Region	-87.71	-89.59		North American Plate				H_PL01 : H_PL02  : H_PL03 : H_PL04 : H_PL05  : H_PL06  : H_PL07 : H_PL08 : H_PL10  : H_PL11 : H_PL12  : H_PL13 : H_PL14  : H_PL15 : H_PL16  : H_PL17 : H_PL19 : H_PL20  : H_PL21 : H_PL22 : H_PL23  : H_PL24 : H_PL25  : H_PL26 : H_PL28  : H_PL29 : H_PL30  : H_PL31  : H_PL32  : H_PL33	Continental Rift

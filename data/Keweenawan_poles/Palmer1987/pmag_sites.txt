@@ -1,0 +1,28 @@
+tab 	pmag_sites
+er_citation_names	er_location_name	er_site_name	magic_method_codes	site_alpha95	site_comp_name	site_dec	site_direction_type	site_flag	site_inc	site_k	site_n	site_nrm	site_polarity	site_r	site_tilt_correction
+This study	Michipicoten Island Intrusive	20	LP-DC4:LT-AF-Z:LT-T-Z	17.7	Characteristic	288	l	g	-3	28	4	p	r	3.892	100
+This study	Michipicoten Island Intrusive	21	LP-DC4:LT-AF-Z:LT-T-Z	7.8	Characteristic	313	l	g	12	140	4	p	n	3.979	100
+This study	Michipicoten Island Intrusive	6	LP-DC4:LT-AF-Z:LT-T-Z	13	Characteristic	297	l	g	25	36	5	p	n	4.888	100
+This study	Mamainse Point Formation, Michipicoten Island	19	LP-DC4:LT-AF-Z:LT-T-Z	3.2	Characteristic	321	l	g	33	809	4	p	n	3.996	100
+This study	Mamainse Point Formation, Michipicoten Island	18	LP-DC4:LT-AF-Z:LT-T-Z	13.4	Characteristic	217	l	b	47	26	6	p	n	5.808	100
+This study	Mamainse Point Formation, Michipicoten Island	7	LP-DC4:LT-AF-Z:LT-T-Z	8.4	Characteristic	277	l	g	61	52	5	p	n	6.886	100
+This study	Mamainse Point Formation, Michipicoten Island	8	LP-DC4:LT-AF-Z:LT-T-Z	11.9	Characteristic	299	l	g	30	33	4	p	n	5.847	100
+This study	Mamainse Point Formation, Michipicoten Island	22	LP-DC4:LT-AF-Z:LT-T-Z	3.4	Characteristic	270	l	g	46	399	4	p	n	5.987	100
+This study	Mamainse Point Formation, Michipicoten Island	10	LP-DC4:LT-AF-Z:LT-T-Z	3	Characteristic	300	l	g	41	508	5	p	n	5.99	100
+This study	Mamainse Point Formation, Michipicoten Island	9	LP-DC4:LT-AF-Z:LT-T-Z	3.3	Characteristic	296	l	g	54	537	4	p	n	4.993	100
+This study	Mamainse Point Formation, Michipicoten Island	23	LP-DC4:LT-AF-Z:LT-T-Z	2.7	Characteristic	303	l	g	40	2044	4	p	n	2.999	100
+This study	Mamainse Point Formation, Michipicoten Island	KM	LP-DC4:LT-AF-Z:LT-T-Z	8.2	Characteristic	299	l	g	51	68	5	p	n	5.927	100
+This study	Michipicoten Island Formation	11	LP-DC4:LT-AF-Z:LT-T-Z		Characteristic	321	l	g	39	1	4	p	n	1.736	100
+This study	Michipicoten Island Formation	1	LP-DC4:LT-AF-Z:LT-T-Z	14.6	Characteristic	304	l	g	20	22	6	p	n	5.772	100
+This study	Michipicoten Island Formation	24	LP-DC4:LT-AF-Z:LT-T-Z	12.1	Characteristic	299	l	g	26	41	5	p	n	4.903	100
+This study	Michipicoten Island Formation	12	LP-DC4:LT-AF-Z:LT-T-Z	24.5	Characteristic	276	l	g	21	15	4	p	n	3.8	100
+This study	Michipicoten Island Formation	25	LP-DC4:LT-AF-Z:LT-T-Z	5.2	Characteristic	311	l	g	8	313	4	p	n	3.99	100
+This study	Michipicoten Island Formation	3	LP-DC4:LT-AF-Z:LT-T-Z	3.7	Characteristic	297	l	g	6	432	5	p	n	4.991	100
+This study	Michipicoten Island Formation	13	LP-DC4:LT-AF-Z:LT-T-Z	9.2	Characteristic	296	l	g	37	101	4	p	n	3.97	100
+This study	Michipicoten Island Formation	2	LP-DC4:LT-AF-Z:LT-T-Z	7.5	Characteristic	303	l	g	35	152	4	p	n	3.98	100
+This study	Michipicoten Island Formation	4	LP-DC4:LT-AF-Z:LT-T-Z	5.1	Characteristic	312	l	g	43	228	5	p	n	4.982	100
+This study	Michipicoten Island Formation	14	LP-DC4:LT-AF-Z:LT-T-Z	5.6	Characteristic	283	l	g	24	188	5	p	n	4.979	100
+This study	Michipicoten Island Formation	5	LP-DC4:LT-AF-Z:LT-T-Z	5.1	Characteristic	286	l	g	32	224	5	p	n	4.982	100
+This study	Michipicoten Island Formation	16	LP-DC4:LT-AF-Z:LT-T-Z	11.2	Characteristic	283	l	g	13	68	4	p	n	3.956	100
+This study	Michipicoten Island Formation	15	LP-DC4:LT-AF-Z:LT-T-Z	23.7	Characteristic	291	l	g	5	28	3	p	n	2.929	100
+This study	Michipicoten Island Formation	17	LP-DC4:LT-AF-Z:LT-T-Z	7.3	Characteristic	283	l	g	34	160	4	p	n	3.981	100

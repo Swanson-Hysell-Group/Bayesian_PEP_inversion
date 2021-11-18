@@ -1,0 +1,28 @@
+tab 	er_sites
+er_citation_names	er_location_name	er_site_name	magic_method_codes	site_bed_dip	site_bed_dip_direction	site_class	site_definition	site_lat	site_lithology	site_lon	site_type
+This study	Michipicoten Island Intrusive	20	FS-LOC-GOOGLE	20	160	Intrusive	s	47.75	Quartz Feldspar Porphyry	274.4	Sill
+This study	Michipicoten Island Intrusive	21	FS-LOC-GOOGLE	51	180	Intrusive	s	47.79	Quartz Feldspar Porphyry	274.18	Sill
+This study	Michipicoten Island Intrusive	6	FS-LOC-GOOGLE	25	170	Intrusive	s	47.73	Quartz Feldspar Porphyry	274.04	Sill
+This study	Mamainse Point Formation, Michipicoten Island	19	FS-LOC-GOOGLE	51	206	Extrusive	s	47.8	Basalt	274.25	Lava Flow
+This study	Mamainse Point Formation, Michipicoten Island	18	FS-LOC-GOOGLE	80	360	Extrusive	s	47.79	Basalt	274.28	Lava Flow
+This study	Mamainse Point Formation, Michipicoten Island	7	FS-LOC-GOOGLE	42	110	Extrusive	s	47.75	Basalt	274.07	Lava Flow
+This study	Mamainse Point Formation, Michipicoten Island	8	FS-LOC-GOOGLE	42	200	Extrusive	s	47.74	Basalt	274.4	Lava Flow
+This study	Mamainse Point Formation, Michipicoten Island	22	FS-LOC-GOOGLE	40	190	Extrusive	s	47.73	Basalt	274.38	Lava Flow
+This study	Mamainse Point Formation, Michipicoten Island	10	FS-LOC-GOOGLE	32	200	Extrusive	s	47.71	Basalt	274.06	Lava Flow
+This study	Mamainse Point Formation, Michipicoten Island	9	FS-LOC-GOOGLE	35	180	Extrusive	s	47.73	Basalt	274.39	Lava Flow
+This study	Mamainse Point Formation, Michipicoten Island	23	FS-LOC-GOOGLE	33	180	Extrusive	s	47.71	Basalt	274.06	Lava Flow
+This study	Mamainse Point Formation, Michipicoten Island	KM	FS-LOC-GOOGLE			Extrusive	c	47.71	Basalt	274.13	Lava Flow
+This study	Michipicoten Island Formation	11	FS-LOC-GOOGLE	25	180	Extrusive	s	47.72	Andesite	274.04	Lava Flow
+This study	Michipicoten Island Formation	1	FS-LOC-GOOGLE	19	180	Extrusive	s	47.72	Andesite	274.05	Lava Flow
+This study	Michipicoten Island Formation	24	FS-LOC-GOOGLE	30	200	Extrusive	s	47.72	Andesite	274.06	Lava Flow
+This study	Michipicoten Island Formation	12	FS-LOC-GOOGLE	19	160	Extrusive	s	47.74	Andesite	274.4	Lava Flow
+This study	Michipicoten Island Formation	25	FS-LOC-GOOGLE	20	160	Extrusive	s	47.73	Andesite	274.38	Lava Flow
+This study	Michipicoten Island Formation	3	FS-LOC-GOOGLE	20	167	Extrusive	s	47.71	Andesite	274.06	Lava Flow
+This study	Michipicoten Island Formation	13	FS-LOC-GOOGLE	17	155	Extrusive	s	47.73	Andesite	274.39	Lava Flow
+This study	Michipicoten Island Formation	2	FS-LOC-GOOGLE	22	190	Extrusive	s	47.71	Andesite	274.06	Lava Flow
+This study	Michipicoten Island Formation	4	FS-LOC-GOOGLE	14	170	Extrusive	s	47.71	Andesite	274.13	Lava Flow
+This study	Michipicoten Island Formation	14	FS-LOC-GOOGLE	19	185	Extrusive	s	47.73	Basalt	274.36	Lava Flow
+This study	Michipicoten Island Formation	5	FS-LOC-GOOGLE	30	160	Extrusive	s	47.7	Basalt	274.15	Lava Flow
+This study	Michipicoten Island Formation	16	FS-LOC-GOOGLE	16	170	Extrusive	s	47.71	Basalt	274.21	Lava Flow
+This study	Michipicoten Island Formation	15	FS-LOC-GOOGLE	21	160	Extrusive	s	47.7	Rhyolite	274.21	Lava Flow
+This study	Michipicoten Island Formation	17	FS-LOC-GOOGLE	22	167	Extrusive	s	47.69	Rhyolite	274.17	Lava Flow

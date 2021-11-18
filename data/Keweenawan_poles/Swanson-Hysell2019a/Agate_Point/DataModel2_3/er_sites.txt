@@ -1,0 +1,1 @@
+tab 	er_sites			er_citation_names	er_location_name	er_site_name	site_lat	site_lonThis study	Agate Point	AP1	48.6	-88.2This study	Agate Point	AP2	48.6	-88.2This study	Agate Point	AP3	48.6	-88.2This study	Agate Point	AP4	48.6	-88.2This study	Agate Point	AP5	48.6	-88.2This study	Puff Island	Puf1	48.7	-88This study	Puff Island	Puf2-	48.7	-88

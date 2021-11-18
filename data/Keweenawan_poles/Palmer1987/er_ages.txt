@@ -1,0 +1,5 @@
+tab 	er_ages
+age_description	age_range_high	age_range_low	age_unit	er_citation_names	er_location_name	er_timescale_citation_names	magic_method_codes	timescale_eon	timescale_era	timescale_period
+U-Pb zircon, intruded porphyry has age 1086. 5+1. 3/-3. 0 Ma.	1100	1084	Ma	This study	Mamainse Point Formation, Michipicoten Island	Gradstein et al. 2004	GM-UPB	Proterozoic	Mesoproterozoic	Stenian
+U-Pb zircon on underlying porphyry 1086. 5+1. 3/-3. 0 Ma.	1088	1070	Ma	This study	Michipicoten Island Formation	Gradstein et al. 2004	GM-UPB	Proterozoic	Mesoproterozoic	Stenian
+U-Pb zircon . Younger than 1086. 5+1. 3/-3. 0 Ma.	1088	1070	Ma	This study	Michipicoten Island Intrusive	Gradstein et al. 2004	GM-UPB	Proterozoic	Mesoproterozoic	Stenian

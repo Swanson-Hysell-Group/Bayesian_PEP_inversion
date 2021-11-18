@@ -1,0 +1,40 @@
+tab 	locations
+citations	continent_ocean	country	geologic_classes	lat_n	lat_s	lithologies	location	location_type	lon_e	lon_w	method_codes	plate_blocks	region	result_name	result_type	sites	tectonic_settings	pole_lat	pole_lon	pole_dp	pole_dm	pole_n_sites
+Pesonen and Halls (1979)	North America	USA	Intrusive:Igneous	46.636399	46.44823841	Basalt	Marquette County:Michigan	Region	-87.37260384	-87.955328		North American Plate		Marquette dikes mean pole	a	R1:R2:R3:R4:R5:R6:R7:R8:R9:R10:R11:R12:R13:R14	Continental Rift	48.4	213.5	5.2	6.2	14
+Pesonen and Halls (1979)	North America	USA	Intrusive:Igneous	46.67591355	46.56977917	Basalt	Baraga County:Michigan	Region	-88.44231047	-88.52449947		North American Plate		Baraga dikes mean pole	a	R18:R19:R20:R21	Continental Rift	48.9	238.2	9.6	10.2	4
+>>>>>>>>>>
+tab 	sites
+citations	dir_alpha95	dir_dec	dir_inc	dir_k	dir_n_samples	geologic_classes	geologic_types	lat	lithologies	location	lon	method_codes	result_type	site
+Pesonen and Halls (1979)	6.2	111.2	-71.1	96	7	Intrusive:Igneous	Volcanic Dike	46.55403282	Basalt	Marquette County:Michigan	-87.37260384	LT-AF-Z	i	R1
+Pesonen and Halls (1979)		119.4	-68.4		1	Intrusive:Igneous	Volcanic Dike	46.55403282	Basalt	Marquette County:Michigan	-87.37260384	LT-T-Z	i	R1
+Pesonen and Halls (1979)	4.6	114.7	-68.4	210	6	Intrusive:Igneous	Volcanic Dike	46.56024914	Basalt	Marquette County:Michigan	-87.37415792	LT-AF-Z	i	R2
+Pesonen and Halls (1979)	5.1	114.7	-68	32	4	Intrusive:Igneous	Volcanic Dike	46.56024914	Basalt	Marquette County:Michigan	-87.37415792	LT-T-Z	i	R2
+Pesonen and Halls (1979)	5.5	99.3	-69.8	197	5	Intrusive:Igneous	Volcanic Dike	46.56439335	Basalt	Marquette County:Michigan	-87.37415792	LT-AF-Z	i	R3
+Pesonen and Halls (1979)		85.4	-58.7		1	Intrusive:Igneous	Volcanic Dike	46.56439335	Basalt	Marquette County:Michigan	-87.37415792	LT-T-Z	i	R3
+Pesonen and Halls (1979)	7.1	120.5	-58.2	121	5	Intrusive:Igneous	Volcanic Dike	46.59858308	Basalt	Marquette County:Michigan	-87.41352792	LT-AF-Z	i	R5
+Pesonen and Halls (1979)		124.1	-68		1	Intrusive:Igneous	Volcanic Dike	46.59858308	Basalt	Marquette County:Michigan	-87.41352792	LT-T-Z	i	R5
+Pesonen and Halls (1979)	18.8	136.5	-68.2	17	5	Intrusive:Igneous	Volcanic Dike	46.60169124	Basalt	Marquette County:Michigan	-87.42751462	LT-AF-Z	i	R4
+Pesonen and Halls (1979)	7.6	103.2	-70.3	144	4	Intrusive:Igneous	Volcanic Dike	46.6265565	Basalt	Marquette County:Michigan	-87.45600607	LT-AF-Z	i	R13
+Pesonen and Halls (1979)		85.9	-67.9		1	Intrusive:Igneous	Volcanic Dike	46.6265565	Basalt	Marquette County:Michigan	-87.45600607	LT-T-Z	i	R13
+Pesonen and Halls (1979)	3.2	132.9	-70	822	4	Intrusive:Igneous	Volcanic Dike	46.636399	Basalt	Marquette County:Michigan	-87.4881237	LT-AF-Z	i	R7
+Pesonen and Halls (1979)		129.3	-66.2		1	Intrusive:Igneous	Volcanic Dike	46.636399	Basalt	Marquette County:Michigan	-87.4881237	LT-T-Z	i	R7
+Pesonen and Halls (1979)	12.1	106.5	-67.3	41	5	Intrusive:Igneous	Volcanic Dike	46.63121874	Basalt	Marquette County:Michigan	-87.51661514	LT-AF-Z	i	R6
+Pesonen and Halls (1979)	7.8	113.6	-64.7	97	5	Intrusive:Igneous	Volcanic Dike	46.6068715	Basalt	Marquette County:Michigan	-87.55598514	LT-AF-Z	i	R12
+Pesonen and Halls (1979)		123.6	-61.9		1	Intrusive:Igneous	Volcanic Dike	46.6068715	Basalt	Marquette County:Michigan	-87.55598514	LT-T-Z	i	R12
+Pesonen and Halls (1979)	3.3	98.3	-76.4	541	5	Intrusive:Igneous	Volcanic Dike	46.5638849	Basalt	Marquette County:Michigan	-87.50093336	LT-AF-Z	i	R8
+Pesonen and Halls (1979)		64.5	-82		1	Intrusive:Igneous	Volcanic Dike	46.5638849	Basalt	Marquette County:Michigan	-87.50093336	LT-T-Z	i	R8
+Pesonen and Halls (1979)	5.6	104	-64.4	98	8	Intrusive:Igneous	Volcanic Dike	46.50888215	Basalt	Marquette County:Michigan	-87.42019832	LT-AF-Z	i	R9
+Pesonen and Halls (1979)		80.4	-54.5		1	Intrusive:Igneous	Volcanic Dike	46.50888215	Basalt	Marquette County:Michigan	-87.42019832	LT-T-Z	i	R9
+Pesonen and Halls (1979)	10	129	-53.1	46	6	Intrusive:Igneous	Volcanic Dike	46.60443615	Basalt	Marquette County:Michigan	-87.66409178	LT-AF-Z	i	R10
+Pesonen and Halls (1979)		121.3	-61.8		1	Intrusive:Igneous	Volcanic Dike	46.60443615	Basalt	Marquette County:Michigan	-87.66409178	LT-T-Z	i	R10
+Pesonen and Halls (1979)	7.7	114.5	-71.1	63	7	Intrusive:Igneous	Volcanic Dike	46.44823841	Basalt	Marquette County:Michigan	-87.955328	LT-AF-Z	i	R11
+Pesonen and Halls (1979)		134.1	-81.3		1	Intrusive:Igneous	Volcanic Dike	46.44823841	Basalt	Marquette County:Michigan	-87.955328	LT-T-Z	i	R11
+Pesonen and Halls (1979)	4.3	110.3	-73.8	446	4	Volcanic Dike	Volcanic Dike	46.6265565	Basalt	Marquette County:Michigan	-87.45600607	LT-AF-Z		R14
+Pesonen and Halls (1979)	7	104.8	-73.9	122	5	Intrusive:Igneous	Volcanic Dike	46.67591355	Basalt	Baraga County:Michigan	-88.44231047	LT-AF-Z	i	R18
+Pesonen and Halls (1979)	8.8	130.5	-76.7	198	3	Intrusive:Igneous	Volcanic Dike	46.67591355	Basalt	Baraga County:Michigan	-88.44231047	LT-T-Z	i	R18
+Pesonen and Halls (1979)	4	111.9	-84.1	509	4	Intrusive:Igneous	Volcanic Dike	46.67379063	Basalt	Baraga County:Michigan	-88.4635396	LT-AF-Z	i	R21
+Pesonen and Halls (1979)		68.2	-83.7		1	Intrusive:Igneous	Volcanic Dike	46.67379063	Basalt	Baraga County:Michigan	-88.4635396	LT-T-Z	i	R21
+Pesonen and Halls (1979)	13.4	95.8	-78.4	34	5	Intrusive:Igneous	Volcanic Dike	46.63802132	Basalt	Baraga County:Michigan	-88.48360911	LT-AF-Z	i	R19
+Pesonen and Halls (1979)	40.1	179.4	-79.2	11	3	Intrusive:Igneous	Volcanic Dike	46.63802132	Basalt	Baraga County:Michigan	-88.48360911	LT-T-Z	i	R19
+Pesonen and Halls (1979)	2.8	121.2	-76.8	730	6	Intrusive:Igneous	Volcanic Dike	46.56977917	Basalt	Baraga County:Michigan	-88.52449947	LT-AF-Z	i	R20
+Pesonen and Halls (1979)		130.8	-80.1		2	Intrusive:Igneous	Volcanic Dike	46.56977917	Basalt	Baraga County:Michigan	-88.52449947	LT-T-Z	i	R20

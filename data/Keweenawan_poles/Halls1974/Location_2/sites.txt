@@ -1,0 +1,7 @@
+tab 	sites
+bed_dip	bed_dip_direction	citations	dir_dec	dir_inc	dir_k	dir_n_samples	dir_polarity	dir_tilt_correction	geologic_classes	geologic_types	lat	lithologies	location	lon	method_codes	result_type	site	vgp_lat	vgp_lon
+10	135	This study	289.8	43.6	517	5	n	100	Extrusive	Lava Flow	48.626429	Basalt	Osler Volcanics, Nipigon Strait, Upper Normal	271.894142	DE-K:FS-FD:FS-H:LP-DC2:SO-SM:DE-DI:FS-LOC-GOOGLE	i	1	31.65155202	185.5745062
+12	140	This study	285.7	42	243	5	n	100	Extrusive	Lava Flow	48.637185	Basalt	Osler Volcanics, Nipigon Strait, Upper Normal	271.913846	DE-K:FS-FD:FS-H:LP-DC2:SO-SM:DE-DI:FS-LOC-GOOGLE	i	2	28.11008553	187.514758
+14	146	This study	307.4	37.9	2485	5	n	100	Extrusive	Lava Flow	48.640811	Basalt	Osler Volcanics, Nipigon Strait, Upper Normal	271.928039	DE-K:FS-FD:FS-H:LP-DC2:SO-SM:DE-DI:FS-LOC-GOOGLE	i	3	40.26060376	167.8862917
+12	135	This study	302.8	29.9	331	5	n	100	Extrusive	Lava Flow	48.655732	Basalt	Osler Volcanics, Nipigon Strait, Upper Normal	271.959099	DE-K:FS-FD:FS-H:LP-DC2:SO-SM:DE-DI:FS-LOC-GOOGLE	i	4	33.46021472	167.4988097
+10	135	This study	294.7	42.5	130	5	n	100	Extrusive	Lava Flow	48.661489	Basalt	Osler Volcanics, Nipigon Strait, Upper Normal	271.958187	DE-K:FS-FD:FS-H:LP-DC2:SO-SM:DE-DI:FS-LOC-GOOGLE	i	5	34.30926268	181.2568193

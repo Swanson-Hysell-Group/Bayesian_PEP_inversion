@@ -1,0 +1,190 @@
+tab 	pmag_sites
+er_citation_names	er_location_name	er_site_name	er_specimen_names	magic_method_codes	magic_software_packages	pmag_criteria_codes	site_alpha95	site_comp_name	site_dec	site_description	site_inc	site_k	site_n	site_n_lines	site_n_planes	site_polarity	site_r	site_tilt_correction
+This study	North Shore Volcanics	ns004	ns004a1 : ns004c1 : ns004e1 : ns004f1 : ns004g1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	5.6	MAG	299.3	Magnetite remanence.	40.4	184.5	5	5	0	n	4.9783	0
+This study	North Shore Volcanics	ns004	ns004a1 : ns004c1 : ns004e1 : ns004f1 : ns004g1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	5.6	MAG	290	Magnetite remanence.	47.8	186.1	5	5	0	n	4.9785	100
+This study	North Shore Volcanics	ns005	ns005b1 : ns005c1 : ns005e1 : ns005g1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	5.3	MAG	305.3	Magnetite remanence.	29	298.6	4	4	0	n	3.99	0
+This study	North Shore Volcanics	ns005	ns005b1 : ns005c1 : ns005e1 : ns005g1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	5.3	MAG	299.8	Magnetite remanence.	37.6	298.6	4	4	0	n	3.99	100
+This study	North Shore Volcanics	ns016	ns016a1 : ns016b1 : ns016c1 : ns016e2 : ns016f1	DE-FM-LP : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	9.3	MAG	291.4	Magnetite remanence.	50.6	72.7	5	4	1	n	4.9519	0
+This study	North Shore Volcanics	ns016	ns016a1 : ns016b1 : ns016c1 : ns016e2 : ns016f1	DE-FM-LP : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	9.3	MAG	277	Magnetite remanence.	56.1	72.7	5	4	1	n	4.9518	100
+This study	North Shore Volcanics	ns017	ns017c1 : ns017d2 : ns017f1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	7.8	MAG	14.2	Magnetite remanence.	49.7	252.3	3	3	0	n	2.9921	0
+This study	North Shore Volcanics	ns017	ns017c1 : ns017d2 : ns017f1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	7.8	MAG	28	Magnetite remanence.	55.5	253.5	3	3	0	n	2.9921	100
+This study	North Shore Volcanics	ns019	ns019a1 : ns019b1 : ns019c1 : ns019d2 : ns019e1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	4.4	MAG	288.1	Magnetite remanence.	49.7	304.6	5	5	0	n	4.9869	0
+This study	North Shore Volcanics	ns019	ns019a1 : ns019b1 : ns019c1 : ns019d2 : ns019e1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	4.4	MAG	273.9	Magnetite remanence.	54.8	302	5	5	0	n	4.9868	100
+This study	North Shore Volcanics	ns022	ns022a1 : ns022b1 : ns022c1 : ns022e1 : ns022f1	DE-FM-LP : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	5	MAG	307.1	Magnetite remanence.	32.5	254.3	5	4	1	n	4.9862	0
+This study	North Shore Volcanics	ns022	ns022a1 : ns022b1 : ns022c1 : ns022e1 : ns022f1	DE-FM-LP : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	4.9	MAG	301.3	Magnetite remanence.	38.1	255.9	5	4	1	n	4.9863	100
+This study	North Shore Volcanics	ns025	ns025a1 : ns025b1 : ns025d1 : ns025e1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	14.2	MAG	131.6	Magnetite remanence.	-64.8	42.6	4	4	0	n	3.9296	0
+This study	North Shore Volcanics	ns025	ns025a1 : ns025b1 : ns025d1 : ns025e1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	14.2	MAG	110.8	Magnetite remanence.	-70.1	42.6	4	4	0	r	3.9295	100
+This study	North Shore Volcanics	ns026	ns026a1 : ns026b2 : ns026c2 : ns026d1 : ns026e2	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	3.4	MAG	140.3	Magnetite remanence.	-56.6	521.9	5	5	0	r	4.9923	0
+This study	North Shore Volcanics	ns026	ns026a1 : ns026b2 : ns026c2 : ns026d1 : ns026e2	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	3.4	MAG	126.2	Magnetite remanence.	-62.1	518.8	5	5	0	r	4.9923	100
+This study	North Shore Volcanics	ns027	ns027a1 : ns027b1 : ns027c1 : ns027d2 : ns027e2	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	3.5	MAG	303.5	Magnetite remanence.	43.6	466.1	5	5	0	r	4.9914	0
+This study	North Shore Volcanics	ns027	ns027a1 : ns027b1 : ns027c1 : ns027d2 : ns027e2	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	3.6	MAG	293.9	Magnetite remanence.	46.8	455.8	5	5	0	n	4.9912	100
+This study	North Shore Volcanics	ns028	ns028a1 : ns028b1 : ns028c1 : ns028e2 : ns028f2	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	3.4	MAG	295.9	Magnetite remanence.	26.7	505.9	5	5	0	n	4.9921	0
+This study	North Shore Volcanics	ns028	ns028a1 : ns028b1 : ns028c1 : ns028e2 : ns028f2	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	3.4	MAG	288.6	Magnetite remanence.	32.7	501.3	5	5	0	n	4.992	100
+This study	North Shore Volcanics	ns030	ns030b1 : ns030c1 : ns030d2	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	6	MAG	295.3	Magnetite remanence.	29.6	422	3	3	0	n	2.9953	0
+This study	North Shore Volcanics	ns030	ns030b1 : ns030c1 : ns030d2	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	6	MAG	289.6	Magnetite remanence.	33.4	424.5	3	3	0	n	2.9953	100
+This study	North Shore Volcanics	ns031	ns031a1 : ns031b1 : ns031c1 : ns031d2 : ns031f1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	2.1	MAG	295.4	Magnetite remanence.	27	1314.5	5	5	0	n	4.997	0
+This study	North Shore Volcanics	ns031	ns031a1 : ns031b1 : ns031c1 : ns031d2 : ns031f1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	2.1	MAG	288	Magnetite remanence.	32.9	1287.4	5	5	0	n	4.9969	100
+This study	North Shore Volcanics	ns032	ns032a1 : ns032b1 : ns032c1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	6	MAG	290.3	Magnetite remanence.	32	424.6	3	3	0	n	2.9953	0
+This study	North Shore Volcanics	ns032	ns032a1 : ns032b1 : ns032c1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	5.9	MAG	283	Magnetite remanence.	38.2	431.4	3	3	0	n	2.9954	100
+This study	North Shore Volcanics	ns035	ns035a1 : ns035b1 : ns035c2 : ns035d2 : ns035e2	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	1.6	MAG	295	Magnetite remanence.	44	2377	5	5	0	n	4.9983	0
+This study	North Shore Volcanics	ns035	ns035a1 : ns035b1 : ns035c2 : ns035d2 : ns035e2	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	1.6	MAG	293.8	Magnetite remanence.	55.9	2377.3	5	5	0	n	4.9983	100
+This study	North Shore Volcanics	ns037	ns037a1 : ns037b1 : ns037c2 : ns037f2 : ns037g1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	3.2	MAG	294.5	Magnetite remanence.	41.3	590.3	5	5	0	n	4.9932	0
+This study	North Shore Volcanics	ns037	ns037a1 : ns037b1 : ns037c2 : ns037f2 : ns037g1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	3.2	MAG	293.4	Magnetite remanence.	53.3	577.7	5	5	0	n	4.9931	100
+This study	North Shore Volcanics	ns038	ns038a1 : ns038d1 : ns038f1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	13.9	MAG	286.9	Magnetite remanence.	17.8	79.8	3	3	0	n	2.9749	0
+This study	North Shore Volcanics	ns038	ns038a1 : ns038d1 : ns038f1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	13.9	MAG	285.8	Magnetite remanence.	29.5	79.8	3	3	0	n	2.9749	100
+This study	North Shore Volcanics	ns040	ns040a1 : ns040b1 : ns040c1 : ns040e2 : ns040f2	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	3.1	MAG	290.2	Magnetite remanence.	39.6	598.1	5	5	0	n	4.9933	0
+This study	North Shore Volcanics	ns040	ns040a1 : ns040b1 : ns040c1 : ns040e2 : ns040f2	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	3.2	MAG	289.5	Magnetite remanence.	55.6	587.6	5	5	0	n	4.9932	100
+This study	North Shore Volcanics	ns041	ns041a1 : ns041c1 : ns041d1 : ns041e1 : ns041f3	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	2.1	MAG	286.2	Magnetite remanence.	34.1	1321.2	5	5	0	n	4.997	0
+This study	North Shore Volcanics	ns041	ns041a1 : ns041c1 : ns041d1 : ns041e1 : ns041f3	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	2.1	MAG	284.5	Magnetite remanence.	50	1292.4	5	5	0	n	4.9969	100
+This study	North Shore Volcanics	ns042	ns042c1 : ns042d1 : ns042e2	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	7	MAG	289.2	Magnetite remanence.	24.5	308.7	3	3	0	n	2.9935	0
+This study	North Shore Volcanics	ns042	ns042c1 : ns042d1 : ns042e2	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	7.1	MAG	288.7	Magnetite remanence.	40.4	306.7	3	3	0	n	2.9935	100
+This study	North Shore Volcanics	ns043	ns043a1 : ns043b1 : ns043c2 : ns043e1 : ns043f2	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	5.5	MAG	276.1	Magnetite remanence.	16.8	196.7	5	5	0	n	4.9797	0
+This study	North Shore Volcanics	ns043	ns043a1 : ns043b1 : ns043c2 : ns043e1 : ns043f2	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	5.5	MAG	274	Magnetite remanence.	32.2	196.4	5	5	0	n	4.9796	100
+This study	North Shore Volcanics	ns045	ns045a1 : ns045b1 : ns045e1 : ns045f1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	2.6	MAG	275.1	Magnetite remanence.	15.4	1285.3	4	4	0	n	3.9977	0
+This study	North Shore Volcanics	ns045	ns045a1 : ns045b1 : ns045e1 : ns045f1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	2.6	MAG	273	Magnetite remanence.	30.7	1278.4	4	4	0	n	3.9977	100
+This study	North Shore Volcanics	ns046	ns046b1 : ns046c1 : ns046f1 : ns046h2	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	7	MAG	302.2	Magnetite remanence.	27	171	4	4	0	n	3.9825	0
+This study	North Shore Volcanics	ns046	ns046b1 : ns046c1 : ns046f1 : ns046h2	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	7.1	MAG	304.4	Magnetite remanence.	42.8	170.3	4	4	0	n	3.9824	100
+This study	North Shore Volcanics	ns047	ns047b1 : ns047c2 : ns047e1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	3	MAG	307.4	Magnetite remanence.	40.5	1722.3	3	3	0	n	2.9988	0
+This study	North Shore Volcanics	ns047	ns047b1 : ns047c2 : ns047e1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	2.9	MAG	313	Magnetite remanence.	55.8	1760	3	3	0	n	2.9989	100
+This study	North Shore Volcanics	ns048	ns048b1 : ns048c1 : ns048d1 : ns048e2	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	7.7	MAG	302	Magnetite remanence.	40.6	141.7	4	4	0	n	3.9788	0
+This study	North Shore Volcanics	ns048	ns048b1 : ns048c1 : ns048d1 : ns048e2	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	7.7	MAG	305.8	Magnetite remanence.	56.3	142	4	4	0	n	3.9789	100
+This study	North Shore Volcanics	ns049	ns049a1 : ns049b1 : ns049e2 : ns049f2	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	7	MAG	299.9	Magnetite remanence.	38.4	175.6	4	4	0	n	3.9829	0
+This study	North Shore Volcanics	ns049	ns049a1 : ns049b1 : ns049e2 : ns049f2	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	6.9	MAG	302.6	Magnetite remanence.	54.2	176.2	4	4	0	n	3.983	100
+This study	North Shore Volcanics	ns050	ns050a1 : ns050c1 : ns050d2 : ns050f1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	4.2	MAG	291.2	Magnetite remanence.	26.7	473.6	4	4	0	n	3.9937	0
+This study	North Shore Volcanics	ns050	ns050a1 : ns050c1 : ns050d2 : ns050f1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	4.2	MAG	291.3	Magnetite remanence.	44.7	473.1	4	4	0	n	3.9937	100
+This study	North Shore Volcanics	ns051	ns051c1 : ns051d1 : ns051e1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	7.6	MAG	291.3	Magnetite remanence.	22.9	264.3	3	3	0	n	2.9924	0
+This study	North Shore Volcanics	ns051	ns051c1 : ns051d1 : ns051e1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	7.6	MAG	291.4	Magnetite remanence.	40.9	262.3	3	3	0	n	2.9924	100
+This study	North Shore Volcanics	ns052	ns052a1 : ns052c1 : ns052d1 : ns052f1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	6.9	MAG	294.8	Magnetite remanence.	38.2	180.8	4	4	0	n	3.9834	0
+This study	North Shore Volcanics	ns052	ns052a1 : ns052c1 : ns052d1 : ns052f1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	6.9	MAG	295.8	Magnetite remanence.	54.2	180.8	4	4	0	n	3.9834	100
+This study	North Shore Volcanics	ns053	ns053b1 : ns053c1 : ns053e2 : ns053f2	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	3.3	MAG	293.7	Magnetite remanence.	24.2	785	4	4	0	n	3.9962	0
+This study	North Shore Volcanics	ns053	ns053b1 : ns053c1 : ns053e2 : ns053f2	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	3.3	MAG	295.1	Magnetite remanence.	43	768.3	4	4	0	n	3.9961	100
+This study	North Shore Volcanics	ns054	ns054b1 : ns054c1 : ns054d1 : ns054f1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	7.5	MAG	290.2	Magnetite remanence.	40	150.5	4	4	0	n	3.9801	0
+This study	North Shore Volcanics	ns054	ns054b1 : ns054c1 : ns054d1 : ns054f1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	7.5	MAG	289.5	Magnetite remanence.	56	151.1	4	4	0	n	3.9801	100
+This study	North Shore Volcanics	ns056	ns056b1 : ns056c1 : ns056d1 : ns056e2	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	2.5	MAG	297	Magnetite remanence.	23.4	1302.5	4	4	0	n	3.9977	0
+This study	North Shore Volcanics	ns056	ns056b1 : ns056c1 : ns056d1 : ns056e2	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	2.6	MAG	298.4	Magnetite remanence.	41.3	1271.2	4	4	0	n	3.9976	100
+This study	North Shore Volcanics	ns057	ns057c1 : ns057d1 : ns057e2	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	2.9	MAG	287.4	Magnetite remanence.	10.5	1806.6	3	3	0	n	2.9989	0
+This study	North Shore Volcanics	ns057	ns057c1 : ns057d1 : ns057e2	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	3	MAG	287.3	Magnetite remanence.	29.5	1734.9	3	3	0	n	2.9988	100
+This study	North Shore Volcanics	ns058	ns058a1 : ns058b1 : ns058d2 : ns058e2	DE-FM-LP : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	7.8	MAG	302.2	Magnetite remanence.	34.9	158.3	4	3	1	n	3.9842	0
+This study	North Shore Volcanics	ns058	ns058a1 : ns058b1 : ns058d2 : ns058e2	DE-FM-LP : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	7.8	MAG	306.1	Magnetite remanence.	52.5	158.6	4	3	1	n	3.9842	100
+This study	North Shore Volcanics	ns059	ns059a1 : ns059c2 : ns059f1 : ns059g2	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	9.8	MAG	290.4	Magnetite remanence.	26.3	89.4	4	4	0	n	3.9664	0
+This study	North Shore Volcanics	ns059	ns059a1 : ns059c2 : ns059f1 : ns059g2	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	9.8	MAG	290.2	Magnetite remanence.	44.3	88.9	4	4	0	n	3.9663	100
+This study	North Shore Volcanics	ns061	ns061a1 : ns061b1 : ns061e2 : ns061f2 : ns061g3	DE-FM-LP : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	5.1	MAG	300.4	Magnetite remanence.	31.4	237.9	5	4	1	n	4.9853	0
+This study	North Shore Volcanics	ns061	ns061a1 : ns061b1 : ns061e2 : ns061f2 : ns061g3	DE-FM-LP : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	5.1	MAG	304.5	Magnetite remanence.	49.8	241.1	5	4	1	n	4.9855	100
+This study	North Shore Volcanics	ns062	ns062b1 : ns062c1 : ns062e2 : ns062f1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	5.2	MAG	292.6	Magnetite remanence.	33.6	314.8	4	4	0	n	3.9905	0
+This study	North Shore Volcanics	ns062	ns062b1 : ns062c1 : ns062e2 : ns062f1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	5.2	MAG	294.3	Magnetite remanence.	52.6	316	4	4	0	n	3.9905	100
+This study	North Shore Volcanics	ns063	ns063a1 : ns063e1 : ns063f1	DE-FM-LP : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	4.5	MAG	297.5	Magnetite remanence.	12.1	1028	3	2	1	n	2.9985	0
+This study	North Shore Volcanics	ns063	ns063a1 : ns063e1 : ns063f1	DE-FM-LP : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	4.5	MAG	298.8	Magnetite remanence.	30.8	1019.9	3	2	1	n	2.9985	100
+This study	North Shore Volcanics	ns064	ns064b1 : ns064c2 : ns064e1 : ns064f2	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	5.8	MAG	296.4	Magnetite remanence.	29.4	253.6	4	4	0	n	3.9882	0
+This study	North Shore Volcanics	ns064	ns064b1 : ns064c2 : ns064e1 : ns064f2	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	5.7	MAG	298.9	Magnetite remanence.	48.1	257.8	4	4	0	n	3.9884	100
+This study	North Shore Volcanics	ns065	ns065b1 : ns065d1 : ns065e1 : ns065f2	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	9.5	MAG	290.8	Magnetite remanence.	28.9	95.5	4	4	0	n	3.9686	0
+This study	North Shore Volcanics	ns065	ns065b1 : ns065d1 : ns065e1 : ns065f2	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	9.4	MAG	291.6	Magnetite remanence.	47.9	95.9	4	4	0	n	3.9687	100
+This study	North Shore Volcanics	ns068	ns068a1 : ns068b1 : ns068d1 : ns068f1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	8.2	MAG	310.8	Magnetite remanence.	16.1	127	4	4	0	n	3.9764	0
+This study	North Shore Volcanics	ns068	ns068a1 : ns068b1 : ns068d1 : ns068f1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	8.1	MAG	314.5	Magnetite remanence.	33.4	128.1	4	4	0	n	3.9766	100
+This study	North Shore Volcanics	ns071	ns071b1 : ns071c1 : ns071d2 : ns071e1 : ns071f2	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	7.3	MAG	305.6	Magnetite remanence.	27.6	111.6	5	5	0	n	4.9642	0
+This study	North Shore Volcanics	ns071	ns071b1 : ns071c1 : ns071d2 : ns071e1 : ns071f2	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	7.3	MAG	310.5	Magnetite remanence.	45.5	111.5	5	5	0	n	4.9641	100
+This study	North Shore Volcanics	ns072	ns072a1 : ns072b1 : ns072d1	DE-FM-LP : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	9.8	MAG	289.5	Magnetite remanence.	35.3	219.8	3	2	1	n	2.9932	0
+This study	North Shore Volcanics	ns072	ns072a1 : ns072b1 : ns072d1	DE-FM-LP : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	9.8	MAG	290.1	Magnetite remanence.	54.3	218.7	3	2	1	n	2.9931	100
+This study	North Shore Volcanics	ns073	ns073b1 : ns073c1 : ns073d2	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	13	MAG	303.4	Magnetite remanence.	18.6	90.6	3	3	0	n	2.9779	0
+This study	North Shore Volcanics	ns073	ns073b1 : ns073c1 : ns073d2	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	13	MAG	306.3	Magnetite remanence.	36.8	91.5	3	3	0	n	2.9781	100
+This study	North Shore Volcanics	ns074	ns074b1 : ns074c2 : ns074d1 : ns074e2	DE-FM-LP : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	17.9	MAG	290.8	Magnetite remanence.	42.4	49.8	4	1	3	n	3.9699	0
+This study	North Shore Volcanics	ns074	ns074b1 : ns074c2 : ns074d1 : ns074e2	DE-FM-LP : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	17.9	MAG	292.3	Magnetite remanence.	61.4	49.6	4	1	3	n	3.9698	100
+This study	North Shore Volcanics	ns075	ns075a1 : ns075b1 : ns075c2 : ns075d2 : ns075f1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	5.8	MAG	302.4	Magnetite remanence.	33.1	175.8	5	5	0	n	4.9773	0
+This study	North Shore Volcanics	ns075	ns075a1 : ns075b1 : ns075c2 : ns075d2 : ns075f1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	5.8	MAG	307.6	Magnetite remanence.	51.3	175.6	5	5	0	n	4.9772	100
+This study	North Shore Volcanics	ns076	ns076a1 : ns076b1 : ns076d1 : ns076e1 : ns076f1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	54.2	MAG	334.4	Magnetite remanence.	70.6	2.9	5	5	0	n	3.6425	0
+This study	North Shore Volcanics	ns076	ns076a1 : ns076b1 : ns076d1 : ns076e1 : ns076f1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	54.2	MAG	38.6	Magnetite remanence.	75.1	2.9	5	5	0	n	3.6438	100
+This study	North Shore Volcanics	ns077	ns077b1 : ns077c1 : ns077f1 : ns077g1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	6.5	MAG	305.5	Magnetite remanence.	16.5	200.6	4	4	0	n	3.985	0
+This study	North Shore Volcanics	ns077	ns077b1 : ns077c1 : ns077f1 : ns077g1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	6.5	MAG	308.4	Magnetite remanence.	34.5	201.4	4	4	0	n	3.9851	100
+This study	North Shore Volcanics	ns002	ns002b1 : ns002c1 : ns002d1 : ns002f1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	6.7	HEM	291	Hematite remanence.	32.6	191.1	4	4	0	n	3.9843	0
+This study	North Shore Volcanics	ns002	ns002b1 : ns002c1 : ns002d1 : ns002f1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	6.6	HEM	283.5	Hematite remanence.	38.7	192	4	4	0	n	3.9844	100
+This study	North Shore Volcanics	ns003	ns003d2 : ns003e1 : ns003f1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	8.1	HEM	296.5	Hematite remanence.	41.3	234.1	3	3	0	n	2.9915	0
+This study	North Shore Volcanics	ns003	ns003d2 : ns003e1 : ns003f1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	8.1	HEM	286.6	Hematite remanence.	48.2	232.9	3	3	0	n	2.9914	100
+This study	North Shore Volcanics	ns006	ns006b1 : ns006c1 : ns006d2 : ns006e2 : ns006f1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	3	HEM	301.1	Hematite remanence.	30.4	657	5	5	0	n	4.9939	0
+This study	North Shore Volcanics	ns006	ns006b1 : ns006c1 : ns006d2 : ns006e2 : ns006f1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	3	HEM	294.9	Hematite remanence.	38.4	653.4	5	5	0	n	4.9939	100
+This study	North Shore Volcanics	ns007	ns007a1 : ns007c1 : ns007d1 : ns007f1 : ns007g1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	5.8	HEM	307.4	Hematite remanence.	31.8	173.2	5	5	0	n	4.9769	0
+This study	North Shore Volcanics	ns007	ns007a1 : ns007c1 : ns007d1 : ns007f1 : ns007g1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	5.8	HEM	301.5	Hematite remanence.	40.6	173.7	5	5	0	n	4.977	100
+This study	North Shore Volcanics	ns008	ns008a1 : ns008b1 : ns008c1 : ns008d1 : ns008h1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	4.8	HEM	313.9	Hematite remanence.	34	255.1	5	5	0	n	4.9843	0
+This study	North Shore Volcanics	ns008	ns008a1 : ns008b1 : ns008c1 : ns008d1 : ns008h1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	4.8	HEM	309.4	Hematite remanence.	44.7	252.3	5	5	0	n	4.9841	100
+This study	North Shore Volcanics	ns009	ns009a1 : ns009c1 : ns009e1 : ns009f1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	4.6	HEM	291.5	Hematite remanence.	41.6	400.8	4	4	0	n	3.9925	0
+This study	North Shore Volcanics	ns009	ns009a1 : ns009c1 : ns009e1 : ns009f1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	4.6	HEM	281.9	Hematite remanence.	49	407	4	4	0	n	3.9926	100
+This study	North Shore Volcanics	ns010	ns010a1 : ns010b1 : ns010c1 : ns010d1 : ns010e1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	4.6	HEM	292.3	Hematite remanence.	31.7	280.5	5	5	0	n	4.9857	0
+This study	North Shore Volcanics	ns010	ns010a1 : ns010b1 : ns010c1 : ns010d1 : ns010e1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	4.5	HEM	285.7	Hematite remanence.	39.5	284	5	5	0	n	4.9859	100
+This study	North Shore Volcanics	ns011	ns011a1 : ns011b1 : ns011c1 : ns011d1 : ns011e1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	4.9	HEM	293.8	Hematite remanence.	19	249.8	5	5	0	n	4.984	0
+This study	North Shore Volcanics	ns011	ns011a1 : ns011b1 : ns011c1 : ns011d1 : ns011e1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	4.9	HEM	290.1	Hematite remanence.	27.2	249.6	5	5	0	n	4.984	100
+This study	North Shore Volcanics	ns012	ns012b1 : ns012c1 : ns012d2 : ns012e2	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	9.4	HEM	288.8	Hematite remanence.	32.5	97.1	4	4	0	n	3.9691	0
+This study	North Shore Volcanics	ns012	ns012b1 : ns012c1 : ns012d2 : ns012e2	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	9.4	HEM	282.5	Hematite remanence.	41.2	96.6	4	4	0	n	3.9689	100
+This study	North Shore Volcanics	ns013	ns013a1 : ns013c1 : ns013d3 : ns013e3	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	4.4	HEM	290.5	Hematite remanence.	29.2	444.3	4	4	0	n	3.9932	0
+This study	North Shore Volcanics	ns013	ns013a1 : ns013c1 : ns013d3 : ns013e3	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	4.4	HEM	285.2	Hematite remanence.	38.2	446.6	4	4	0	n	3.9933	100
+This study	North Shore Volcanics	ns014	ns014a1 : ns014b1 : ns014c1 : ns014d1 : ns014f1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	2	HEM	277.7	Hematite remanence.	23.9	1478.5	5	5	0	n	4.9973	0
+This study	North Shore Volcanics	ns014	ns014a1 : ns014b1 : ns014c1 : ns014d1 : ns014f1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	2	HEM	272.8	Hematite remanence.	31.7	1458.2	5	5	0	n	4.9973	100
+This study	North Shore Volcanics	ns015	ns015a1 : ns015b1 : ns015e2 : ns015g1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	4.9	HEM	294.5	Hematite remanence.	16.4	350.8	4	4	0	n	3.9914	0
+This study	North Shore Volcanics	ns015	ns015a1 : ns015b1 : ns015e2 : ns015g1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	4.9	HEM	292	Hematite remanence.	26.6	353.9	4	4	0	n	3.9915	100
+This study	North Shore Volcanics	ns018	ns018a1 : ns018b1 : ns018c1 : ns018e2 : ns018g1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	9.1	HEM	312.6	Hematite remanence.	5.5	71	5	5	0	n	4.9437	0
+This study	North Shore Volcanics	ns018	ns018a1 : ns018b1 : ns018c1 : ns018e2 : ns018g1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	9.1	HEM	311.4	Hematite remanence.	12.2	71.2	5	5	0	n	4.9439	100
+This study	North Shore Volcanics	ns020	ns020a1 : ns020b1 : ns020c1 : ns020d1 : ns020e2	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	6.1	HEM	303.8	Hematite remanence.	7.2	160.3	5	5	0	n	4.9751	0
+This study	North Shore Volcanics	ns020	ns020a1 : ns020b1 : ns020c1 : ns020d1 : ns020e2	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	6	HEM	302.3	Hematite remanence.	12.7	161.5	5	5	0	n	4.9752	100
+This study	North Shore Volcanics	ns021	ns021a1 : ns021b1 : ns021c1 : ns021d2 : ns021e1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	2.5	HEM	311.6	Hematite remanence.	21	903	5	5	0	n	4.9956	0
+This study	North Shore Volcanics	ns021	ns021a1 : ns021b1 : ns021c1 : ns021d2 : ns021e1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	2.5	HEM	308.1	Hematite remanence.	27.5	936	5	5	0	n	4.9957	100
+This study	North Shore Volcanics	ns023	ns023a1 : ns023b1 : ns023c1 : ns023e1 : ns023g1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	2.4	HEM	305.6	Hematite remanence.	14	1001.5	5	5	0	n	4.996	0
+This study	North Shore Volcanics	ns023	ns023a1 : ns023b1 : ns023c1 : ns023e1 : ns023g1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	2.4	HEM	303.1	Hematite remanence.	19.6	997.3	5	5	0	n	4.996	100
+This study	North Shore Volcanics	ns024	ns024b1 : ns024c1 : ns024e2 : ns024f2	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	4.3	HEM	147.1	Hematite remanence.	-69.7	462.2	4	4	0	n	3.9935	0
+This study	North Shore Volcanics	ns024	ns024b1 : ns024c1 : ns024e2 : ns024f2	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	4.3	HEM	120.2	Hematite remanence.	-75.5	467	4	4	0	n	3.9936	100
+This study	North Shore Volcanics	ns034	ns034a1 : ns034b1 : ns034c1 : ns034d1 : ns034g1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	4.8	HEM	299.5	Hematite remanence.	42.2	260.3	5	5	0	n	4.9846	0
+This study	North Shore Volcanics	ns034	ns034a1 : ns034b1 : ns034c1 : ns034d1 : ns034g1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	4.8	HEM	299.7	Hematite remanence.	54.2	259.8	5	5	0	n	4.9846	100
+This study	North Shore Volcanics	ns036	ns036a1 : ns036b1 : ns036d1 : ns036f1	DE-FM-LP : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	7	HEM	297.5	Hematite remanence.	42.6	197	4	3	1	n	3.9873	0
+This study	North Shore Volcanics	ns036	ns036a1 : ns036b1 : ns036d1 : ns036f1	DE-FM-LP : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	7	HEM	297	Hematite remanence.	54.6	193.5	4	3	1	n	3.9871	100
+This study	North Shore Volcanics	ns039	ns039a1 : ns039b1 : ns039c1 : ns039d2 : ns039e1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	2	HEM	288.8	Hematite remanence.	21.2	1425.8	5	5	0	n	4.9972	0
+This study	North Shore Volcanics	ns039	ns039a1 : ns039b1 : ns039c1 : ns039d2 : ns039e1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	2	HEM	287.6	Hematite remanence.	33	1438.9	5	5	0	n	4.9972	100
+This study	North Shore Volcanics	ns044	ns044a1 : ns044b1 : ns044d1 : ns044f2	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	5	HEM	289.7	Hematite remanence.	28.5	344	4	4	0	n	3.9913	0
+This study	North Shore Volcanics	ns044	ns044a1 : ns044b1 : ns044d1 : ns044f2	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	5	HEM	289.2	Hematite remanence.	44.5	341.9	4	4	0	n	3.9912	100
+This study	North Shore Volcanics	ns055	ns055a1 : ns055b1 : ns055c1 : ns055e2 : ns055g1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	3.9	HEM	284.3	Hematite remanence.	17.7	390.5	5	5	0	n	4.9898	0
+This study	North Shore Volcanics	ns055	ns055a1 : ns055b1 : ns055c1 : ns055e2 : ns055g1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	3.9	HEM	283.6	Hematite remanence.	36.7	391.3	5	5	0	n	4.9898	100
+This study	North Shore Volcanics	ns060	ns060a1 : ns060b1 : ns060c1 : ns060f1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	10.1	HEM	292.5	Hematite remanence.	26.8	83.7	4	4	0	n	3.9642	0
+This study	North Shore Volcanics	ns060	ns060a1 : ns060b1 : ns060c1 : ns060f1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	10.1	HEM	293.7	Hematite remanence.	45.7	83.8	4	4	0	n	3.9642	100
+This study	North Shore Volcanics	ns066	ns066a1 : ns066c1 : ns066d1 : ns066e1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	2.8	HEM	313	Hematite remanence.	19.7	1062.2	4	4	0	n	3.9972	0
+This study	North Shore Volcanics	ns066	ns066a1 : ns066c1 : ns066d1 : ns066e1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	2.8	HEM	317.6	Hematite remanence.	36.6	1055.8	4	4	0	n	3.9972	100
+This study	North Shore Volcanics	ns067	ns067a1 : ns067b1 : ns067c3 : ns067e1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	5.3	HEM	287.5	Hematite remanence.	28.6	299.2	4	4	0	n	3.99	0
+This study	North Shore Volcanics	ns067	ns067a1 : ns067b1 : ns067c3 : ns067e1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	5.3	HEM	287.4	Hematite remanence.	47.6	300.9	4	4	0	n	3.99	100
+This study	North Shore Volcanics	ns070	ns070a1 : ns070c1 : ns070c2 : ns070f1	DE-FM-LP : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	25.7	HEM	312	Hematite remanence.	55.3	18.1	4	2	2	n	3.8894	0
+This study	North Shore Volcanics	ns070	ns070a1 : ns070c1 : ns070c2 : ns070f1	DE-FM-LP : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	25.7	HEM	334	Hematite remanence.	71.2	18.1	4	2	2	n	3.8894	100
+This study	North Shore Volcanics	ns078	ns078c1 : ns078d1 : ns078f1 : ns078g1 : ns078h1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	5	HEM	279.2	Hematite remanence.	16.1	238.4	5	5	0	n	4.9832	0
+This study	North Shore Volcanics	ns078	ns078c1 : ns078d1 : ns078f1 : ns078g1 : ns078h1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	5	HEM	277.7	Hematite remanence.	34.8	238.2	5	5	0	n	4.9832	100
+This study	North Shore Volcanics	ns079	ns079a1 : ns079b1 : ns079d1 : ns079f1	DE-FM-LP : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	4	HEM	285.7	Hematite remanence.	30.5	963.9	4	1	3	n	3.9984	0
+This study	North Shore Volcanics	ns079	ns079a1 : ns079b1 : ns079d1 : ns079f1	DE-FM-LP : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	4	HEM	285	Hematite remanence.	49.5	958.8	4	1	3	n	3.9984	100
+This study	North Shore Volcanics	ns080	ns080a1 : ns080a2 : ns080b1 : ns080e1 : ns080f2	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	6.5	HEM	286.4	Hematite remanence.	19.8	141.3	5	5	0	n	4.9717	0
+This study	North Shore Volcanics	ns080	ns080a1 : ns080a2 : ns080b1 : ns080e1 : ns080f2	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	6.4	HEM	286	Hematite remanence.	38.8	142	5	5	0	n	4.9718	100
+This study	North Shore Volcanics	ns081	ns081a1 : ns081b1 : ns081c1 : ns081d2 : ns081e1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	7.2	HEM	277.2	Hematite remanence.	32.9	115	5	5	0	n	4.9652	0
+This study	North Shore Volcanics	ns081	ns081a1 : ns081b1 : ns081c1 : ns081d2 : ns081e1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	7.2	HEM	273.3	Hematite remanence.	51.4	114.3	5	5	0	n	4.965	100
+This study	North Shore Volcanics	ns083	ns083b1 : ns083c2 : ns083d1 : ns083f1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	7.7	HEM	286.8	Hematite remanence.	39.4	143.3	4	4	0	n	3.9791	0
+This study	North Shore Volcanics	ns083	ns083b1 : ns083c2 : ns083d1 : ns083f1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	7.7	HEM	286.3	Hematite remanence.	58.4	143.5	4	4	0	n	3.9791	100
+This study	North Shore Volcanics	ns085	ns085a1 : ns085b1 : ns085c1 : ns085f1 : ns085g1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	3.9	HEM	280.5	Hematite remanence.	19.3	383.7	5	5	0	n	4.9896	0
+This study	North Shore Volcanics	ns085	ns085a1 : ns085b1 : ns085c1 : ns085f1 : ns085g1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	3.9	HEM	279	Hematite remanence.	38.1	383.5	5	5	0	n	4.9896	100
+This study	North Shore Volcanics	ns087	ns087a1 : ns087b1 : ns087c1 : ns087d1 : ns087e1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	5.1	HEM	281.9	Hematite remanence.	20	223.4	5	5	0	n	4.9821	0
+This study	North Shore Volcanics	ns087	ns087a1 : ns087b1 : ns087c1 : ns087d1 : ns087e1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	5.2	HEM	280.7	Hematite remanence.	38.9	221.6	5	5	0	n	4.9819	100
+This study	North Shore Volcanics	ns003	ns003a1 : ns003b1 : ns003d2 : ns003e1 : ns003f1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	3.8	MAG:HEM	296.7	Mixed remanence.	41	414.1	5	5	0	n	4.9903	0
+This study	North Shore Volcanics	ns003	ns003a1 : ns003b1 : ns003d2 : ns003e1 : ns003f1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	3.8	MAG:HEM	286.9	Mixed remanence.	47.9	412.9	5	5	0	n	4.9903	100
+This study	North Shore Volcanics	ns017	ns017a1 : ns017c1 : ns017d2 : ns017f1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	5.7	MAG:HEM	16.4	Mixed remanence.	49.9	259.7	4	4	0	n	3.9884	0
+This study	North Shore Volcanics	ns017	ns017a1 : ns017c1 : ns017d2 : ns017f1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	5.7	MAG:HEM	30.5	Mixed remanence.	55.3	261	4	4	0	n	3.9885	100
+This study	North Shore Volcanics	ns025	ns025a1 : ns025b1 : ns025d1 : ns025e1 : ns025g1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	10.6	MAG:HEM	133.9	Mixed remanence.	-64	53.3	5	5	0	n	4.925	0
+This study	North Shore Volcanics	ns025	ns025a1 : ns025b1 : ns025d1 : ns025e1 : ns025g1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	10.6	MAG:HEM	114.3	Mixed remanence.	-69.7	53.3	5	5	0	n	4.9249	100
+This study	North Shore Volcanics	ns030	ns030a1 : ns030b1 : ns030c1 : ns030d2 : ns030f2	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	3.9	MAG:HEM	295.1	Mixed remanence.	30.2	395.1	5	5	0	n	4.9899	0
+This study	North Shore Volcanics	ns030	ns030a1 : ns030b1 : ns030c1 : ns030d2 : ns030f2	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	3.9	MAG:HEM	289.2	Mixed remanence.	33.9	394.3	5	5	0	n	4.9899	100
+This study	North Shore Volcanics	ns032	ns032a1 : ns032b1 : ns032c1 : ns032e1 : ns032f1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	4.5	MAG:HEM	293.4	Mixed remanence.	33	285.9	5	5	0	n	4.986	0
+This study	North Shore Volcanics	ns032	ns032a1 : ns032b1 : ns032c1 : ns032e1 : ns032f1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	4.5	MAG:HEM	286	Mixed remanence.	39.7	284.8	5	5	0	n	4.986	100
+This study	North Shore Volcanics	ns038	ns038a1 : ns038b1 : ns038c1 : ns038d1 : ns038f1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	7.5	MAG:HEM	287.1	Mixed remanence.	17.5	104.2	5	5	0	n	4.9616	0
+This study	North Shore Volcanics	ns038	ns038a1 : ns038b1 : ns038c1 : ns038d1 : ns038f1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	7.5	MAG:HEM	286	Mixed remanence.	29.2	104.6	5	5	0	n	4.9618	100
+This study	North Shore Volcanics	ns042	ns042a1 : ns042b1 : ns042c1 : ns042d1 : ns042e2	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	7.5	MAG:HEM	291.6	Mixed remanence.	27.1	104.5	5	5	0	n	4.9617	0
+This study	North Shore Volcanics	ns042	ns042a1 : ns042b1 : ns042c1 : ns042d1 : ns042e2	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	7.5	MAG:HEM	291.6	Mixed remanence.	43	104.3	5	5	0	n	4.9616	100
+This study	North Shore Volcanics	ns047	ns047a1 : ns047b1 : ns047c2 : ns047e1 : ns047f2	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	3.4	MAG:HEM	306.5	Mixed remanence.	40.5	496.7	5	5	0	n	4.9919	0
+This study	North Shore Volcanics	ns047	ns047a1 : ns047b1 : ns047c2 : ns047e1 : ns047f2	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	3.4	MAG:HEM	311.7	Mixed remanence.	55.9	500	5	5	0	n	4.992	100
+This study	North Shore Volcanics	ns051	ns051a1 : ns051b1 : ns051c1 : ns051d1 : ns051e1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	5.1	MAG:HEM	292.9	Mixed remanence.	24	224.5	5	5	0	n	4.9822	0
+This study	North Shore Volcanics	ns051	ns051a1 : ns051b1 : ns051c1 : ns051d1 : ns051e1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	5.1	MAG:HEM	293.3	Mixed remanence.	42	222.6	5	5	0	n	4.982	100
+This study	North Shore Volcanics	ns057	ns057a1 : ns057b1 : ns057c1 : ns057d1 : ns057e2	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	1.6	MAG:HEM	287.8	Mixed remanence.	10.6	2270.1	5	5	0	n	4.9982	0
+This study	North Shore Volcanics	ns057	ns057a1 : ns057b1 : ns057c1 : ns057d1 : ns057e2	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	1.6	MAG:HEM	287.7	Mixed remanence.	29.6	2203.3	5	5	0	n	4.9982	100
+This study	North Shore Volcanics	ns063	ns063a1 : ns063b1 : ns063c2 : ns063e1 : ns063f1	DE-FM-LP : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	4.6	MAG:HEM	298	Mixed remanence.	15.3	290.3	5	4	1	n	4.9879	0
+This study	North Shore Volcanics	ns063	ns063a1 : ns063b1 : ns063c2 : ns063e1 : ns063f1	DE-FM-LP : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	4.6	MAG:HEM	299.6	Mixed remanence.	33.9	292.6	5	4	1	n	4.988	100
+This study	North Shore Volcanics	ns072	ns072a1 : ns072b1 : ns072c1 : ns072d1 : ns072e1	DE-FM-LP : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	5.7	MAG:HEM	290.5	Mixed remanence.	35.2	236.1	5	2	3	n	4.9894	0
+This study	North Shore Volcanics	ns072	ns072a1 : ns072b1 : ns072c1 : ns072d1 : ns072e1	DE-FM-LP : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	5.7	MAG:HEM	291.5	Mixed remanence.	54.2	235.8	5	2	3	n	4.9894	100
+This study	North Shore Volcanics	ns073	ns073b1 : ns073c1 : ns073d2 : ns073e1	DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	10.2	MAG:HEM	305.4	Mixed remanence.	16.5	82.1	4	4	0	n	3.9634	0
+This study	North Shore Volcanics	ns073	ns073b1 : ns073c1 : ns073d2 : ns073e1	DE-FM : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	10.2	MAG:HEM	308.4	Mixed remanence.	34.5	82.5	4	4	0	n	3.9637	100
+This study	North Shore Volcanics	ns074	ns074a1 : ns074b1 : ns074c2 : ns074d1 : ns074e2	DE-FM-LP : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	13.4	MAG:HEM	289.6	Mixed remanence.	37.7	51.5	5	1	4	n	4.9612	0
+This study	North Shore Volcanics	ns074	ns074a1 : ns074b1 : ns074c2 : ns074d1 : ns074e2	DE-FM-LP : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	13.4	MAG:HEM	290.3	Mixed remanence.	56.7	51.3	5	1	4	n	4.961	100

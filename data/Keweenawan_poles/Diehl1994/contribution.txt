@@ -1,0 +1,3 @@
+tab 	contribution
+contributor	data_model_version	description	reference	timestamp	version
+@polarwand	3.0	Upgraded to MagIC Data Model 3.0 by the MagIC Database Team	10.1139/E94-034	2017-10-11T22:13:48.059Z	1

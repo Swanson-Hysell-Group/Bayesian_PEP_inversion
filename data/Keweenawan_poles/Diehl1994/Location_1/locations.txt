@@ -1,0 +1,4 @@
+tab 	locations
+age_low	citations	continent_ocean	country	geologic_classes	geological_province_sections	lat_n	lat_s	lithologies	location	location_type	lon_e	lon_w	method_codes	region	result_name	result_type
+1085	This study	North America	U.S.A.	Extrusive	Lake Shore Traps	47.6	47.6	Basalt	Lake Shore Traps	Outcrop	271.9	271.9	DE-VGP:LT-AF-Z:LT-T-Z:LP-DC4	Michigan	7198	i
+	This study	North America	U.S.A.	Extrusive	Lake Shore Traps	47.6	47.6	Basalt	Lake Shore Traps	Outcrop	271.9	271.9	DE-VGP:LT-AF-Z:LT-T-Z:LP-DC4		7198	i

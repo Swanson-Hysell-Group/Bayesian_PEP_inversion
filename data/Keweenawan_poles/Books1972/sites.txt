@@ -1,0 +1,152 @@
+tab 	sites
+citations	dir_dec	dir_inc	dir_n_samples	dir_polarity	dir_tilt_correction	formation	geologic_classes	geologic_types	lat	lithologies	location	lon	method_codes	result_type	site	site_alternatives	vgp_lat	vgp_lon
+This study	284	33	4	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.28798041	Basalt	Keweenaw Peninsula:Michigan	-88.40954543	LT-AF-Z	a	PL150		22.51950636	184.0980891
+This study	284.2	19.9	5	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.26585103	Basalt	Keweenaw Peninsula:Michigan	-88.41569905	LT-AF-Z	a	PL50	Iroquois Flow	17.13489983	178.1983954
+This study	283.3	35.3	5	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.2807152	Basalt	Keweenaw Peninsula:Michigan	-88.41458184	LT-AF-Z	a	PL331		23.09785206	185.7672225
+This study	294.7	38.2	3	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.35741186	Basalt	Keweenaw Peninsula:Michigan	-88.4218405	LT-AF-Z	a	PL344		32.19117618	179.004237
+This study	290.9	24.8	3	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.28373095	Basalt	Keweenaw Peninsula:Michigan	-88.40551631	LT-AF-Z	a	PL51	Osceola Flow	23.65177545	175.1587292
+This study	286.8	21	5	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.27345896	Basalt	Keweenaw Peninsula:Michigan	-88.41489345	LT-AF-Z	a	PL330		19.33305326	176.6835764
+This study	287.4	32.9	5	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.26786732	Basalt	Keweenaw Peninsula:Michigan	-88.41888577	LT-AF-Z	a	PL52		24.77997804	181.5713987
+This study	289.6	30.6	4	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.26553697	Basalt	Keweenaw Peninsula:Michigan	-88.41828157	LT-AF-Z	a	PL323		25.25023144	178.8026426
+This study	300.8	24.6	5	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.26731901	Basalt	Keweenaw Peninsula:Michigan	-88.41727456	LT-AF-Z	a	PL53		30.17262227	167.1684944
+This study	293	35	5	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.26626227	Basalt	Keweenaw Peninsula:Michigan	-88.41348364	LT-AF-Z	a	PL324		29.53563072	178.5133619
+This study	296.1	33.7	4	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.30666996	Basalt	Keweenaw Peninsula:Michigan	-88.35529607	LT-AF-Z	a	PL335	Kearsarge Flow	31.03063497	175.4645159
+This study	285.6	32	5	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.26777014	Basalt	Keweenaw Peninsula:Michigan	-88.41086543	LT-AF-Z	a	PL54	Kearsarge Flow	23.15559744	182.4503982
+This study	291.1	48.8	5	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.26639935	Basalt	Keweenaw Peninsula:Michigan	-88.41005982	LT-AF-Z	a	PL55		35.19882559	189.1095289
+This study	285.6	51.5	5	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.26653643	Basalt	Keweenaw Peninsula:Michigan	-88.41026123	LT-AF-Z	a	PL56		33.05163463	194.9653767
+This study	279.8	50	5	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.26394531	Basalt	Keweenaw Peninsula:Michigan	-88.40422811	LT-AF-Z	a	PL326		28.37259349	197.4235456
+This study	283.8	41.5	4	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.26353407	Basalt	Keweenaw Peninsula:Michigan	-88.40261734	LT-AF-Z	a	PL327		26.43429702	188.9319434
+This study	283.6	39.6	4	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.26393191	Basalt	Keweenaw Peninsula:Michigan	-88.40160098	LT-AF-Z	a	PL57		25.35322771	187.9384697
+This study	290.9	30.2	4	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.26390449	Basalt	Keweenaw Peninsula:Michigan	-88.40160098	LT-AF-Z	a	PL58		25.95566938	177.6466365
+This study	290.3	32.5	4	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.26434315	Basalt	Keweenaw Peninsula:Michigan	-88.39998978	LT-AF-Z	a	PL59	Scales Creek Flow	26.56775516	179.2397059
+This study	288.5	40	4	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.26393191	Basalt	Keweenaw Peninsula:Michigan	-88.39958698	LT-AF-Z	a	PL60		28.86323417	184.718492
+This study	293.2	33.6	5	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.26790722	Basalt	Keweenaw Peninsula:Michigan	-88.4052262	LT-AF-Z	a	PL325		29.02915213	177.6151862
+This study	294.2	31.7	4	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.26201279	Basalt	Keweenaw Peninsula:Michigan	-88.39535756	LT-AF-Z	a	PL61		28.8499436	175.8759117
+This study	285.7	37.1	5	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.2564059	Basalt	Keweenaw Peninsula:Michigan	-88.39557021	LT-AF-Z	a	PL343	Copper City Flow	25.56584401	185.0478687
+This study	264.9	45.6	5	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.29195572	Basalt	Keweenaw Peninsula:Michigan	-88.40984762	LT-AF-Z	a	PL35		16.28714602	204.043843
+This study	294.6	45.2	4	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.28976244	Basalt	Keweenaw Peninsula:Michigan	-88.41256728	LT-AF-Z	a	PL7		35.63666209	183.8322171
+This study	274.7	45.2	4	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.29154448	Basalt	Keweenaw Peninsula:Michigan	-88.40974689	LT-AF-Z	a	PL6		22.33963824	197.351944
+This study	280.8	49.7	5	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.29181864	Basalt	Keweenaw Peninsula:Michigan	-88.40994835	LT-AF-Z	a	PL5		28.8607048	196.5354469
+This study	261	43.2	6	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.28811749	Basalt	Keweenaw Peninsula:Michigan	-88.41458184	LT-AF-Z	a	PL4		12.48818304	205.2789886
+This study	279.5	36.6	5	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.28798041	Basalt	Keweenaw Peninsula:Michigan	-88.41397747	LT-AF-Z	a	PL3		21.14513846	189.1294607
+This study	265.6	51.6	5	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.2860613	Basalt	Keweenaw Peninsula:Michigan	-88.41397747	LT-AF-Z	a	PL1		20.36558789	207.4930682
+This study	287.9	29.6	3	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.28246441	Basalt	Keweenaw Peninsula:Michigan	-88.4469834	LT-AF-Z	a	PL44		23.6605352	179.5591134
+This study	281.8	28.8	5	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.29269809	Basalt	Keweenaw Peninsula:Michigan	-88.42945971	LT-AF-Z	a	PL333		19.17795371	183.6865311
+This study	290.1	27.5	5	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.20875577	Basalt	Keweenaw Peninsula:Michigan	-88.43443316	LT-AF-Z	a	PL49		24.25361288	176.9768944
+This study	286.1	24.4	3	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.3185796	Basalt	Keweenaw Peninsula:Michigan	-88.39288396	LT-AF-Z	a	PL329	Ashbed Flow	20.23960008	178.6218721
+This study	293.7	38.1	4	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.29160146	Basalt	Keweenaw Peninsula:Michigan	-88.42764661	LT-AF-Z	a	PL43	Ashbed Flow	31.46832908	179.7306788
+This study	282.8	41.5	4	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.29360067	Basalt	Keweenaw Peninsula:Michigan	-88.41699931	LT-AF-Z	a	PL27		25.7659544	189.5932598
+This study	285.9	33.6	5	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.29401191	Basalt	Keweenaw Peninsula:Michigan	-88.41861096	LT-AF-Z	a	PL26		24.07925811	183.0104413
+This study	279.3	49.7	5	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.29332651	Basalt	Keweenaw Peninsula:Michigan	-88.4184095	LT-AF-Z	a	PL25		27.88037346	197.4823528
+This study	280.2	35.7	4	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.29305235	Basalt	Keweenaw Peninsula:Michigan	-88.41820805	LT-AF-Z	a	PL24		21.19224998	188.1635623
+This study	291.4	43.6	6	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.2920928	Basalt	Keweenaw Peninsula:Michigan	-88.41800659	LT-AF-Z	a	PL22		32.63902035	184.9522894
+This study	295.3	40.2	5	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.29195572	Basalt	Keweenaw Peninsula:Michigan	-88.41720077	LT-AF-Z	a	PL20		33.57356051	179.8441741
+This study	299	31.7	3	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.2914074	Basalt	Keweenaw Peninsula:Michigan	-88.41710004	LT-AF-Z	a	PL19		32.07334295	172.0555512
+This study	294.7	32	5	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.28955683	Basalt	Keweenaw Peninsula:Michigan	-88.41699931	LT-AF-Z	a	PL14		29.31873569	175.6058032
+This study	296.9	28.2	5	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.28948829	Basalt	Keweenaw Peninsula:Michigan	-88.41679786	LT-AF-Z	a	PL13		29.12339641	171.9982461
+This study	297.8	33.6	5	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.28914559	Basalt	Keweenaw Peninsula:Michigan	-88.41669713	LT-AF-Z	a	PL12		32.13157917	174.0255776
+This study	293.6	30.3	5	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.28910446	Basalt	Keweenaw Peninsula:Michigan	-88.4165964	LT-AF-Z	a	PL11		27.82222889	175.6035635
+This study	293.6	33.7	5	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.28907705	Basalt	Keweenaw Peninsula:Michigan	-88.41649567	LT-AF-Z	a	PL10		29.34384483	177.3404554
+This study	297.6	40.8	4	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.28935121	Basalt	Keweenaw Peninsula:Michigan	-88.41639494	LT-AF-Z	a	PL9		35.42895354	178.5039283
+This study	297.1	45.5	5	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.28893997	Basalt	Keweenaw Peninsula:Michigan	-88.41639494	LT-AF-Z	a	PL8		37.48892251	182.2526397
+This study	296.4	32	5	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.30219625	Basalt	Keweenaw Peninsula:Michigan	-88.39870524	LT-AF-Z	a	PL32	Greenstone Flow	30.4624705	174.2908906
+This study	291	37.2	5	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.30192209	Basalt	Keweenaw Peninsula:Michigan	-88.39850373	LT-AF-Z	a	PL33	Greenstone Flow	29.20815858	181.2325482
+This study	293.7	39.1	4	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.30151085	Basalt	Keweenaw Peninsula:Michigan	-88.39830222	LT-AF-Z	a	PL34	Greenstone Flow	31.95069833	180.3598401
+This study	284.8	27.9	5	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.43256329	Basalt	Keweenaw Peninsula:Michigan	-88.14170193	LT-AF-Z	a	PL340	Ashbed Flow	20.82557043	181.3220998
+This study	286.9	19.7	4	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.40141725	Basalt	Keweenaw Peninsula:Michigan	-88.29028784	LT-AF-Z	a	PL338	Ashbed Flow	18.86901531	176.1691229
+This study	294.6	29.8	4	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.4115906	Basalt	Keweenaw Peninsula:Michigan	-88.2541964	LT-AF-Z	a	PL339	Ashbed Flow	28.26176137	174.6801764
+This study	284.5	36.8	5	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.44393649	Basalt	Keweenaw Peninsula:Michigan	-87.94004327	LT-AF-Z	a	PL342	Ashbed Flow	24.6245158	186.1093868
+This study	274.6	49.1	4	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.3975791	Basalt	Keweenaw Peninsula:Michigan	-88.27958729	LT-AF-Z	a	PL349	Greenstone Flow	24.5184847	200.1258647
+This study	315.6	33.6	4	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.42936639	Basalt	Keweenaw Peninsula:Michigan	-88.12635013	LT-AF-Z	a	PL348	Greenstone Flow	43.6984393	158.5657671
+This study	301	33.4	4	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.42936639	Basalt	Keweenaw Peninsula:Michigan	-88.11968384	LT-AF-Z	a	PL347	Greenstone Flow	34.15900961	171.5487014
+This study	288.7	30.9	4	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.42826978	Basalt	Keweenaw Peninsula:Michigan	-88.11766375	LT-AF-Z	a	PL346	Greenstone Flow	24.76622665	179.8467056
+This study	281.2	38.3	5	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.42525411	Basalt	Keweenaw Peninsula:Michigan	-88.11022983	LT-AF-Z	a	PL345	Greenstone Flow	23.12184352	189.1011152
+This study	283	38.9	5	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.42271974	Basalt	Keweenaw Peninsula:Michigan	-88.11181499	LT-AF-Z	a	PL158		24.62343197	188.1736381
+This study	283	44.3	4	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.42244559	Basalt	Keweenaw Peninsula:Michigan	-88.11221889	LT-AF-Z	a	PL160		27.36712194	191.469444
+This study	284.3	48.8	4	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.42203436	Basalt	Keweenaw Peninsula:Michigan	-88.11161303	LT-AF-Z	a	PL159		30.68485369	193.8081837
+This study	254.7	40.4	5	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.42025236	Basalt	Keweenaw Peninsula:Michigan	-88.10838178	LT-AF-Z	a	PL157		7.124868599	208.4539683
+This study	287.9	34.9	5	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.39916551	Basalt	Keweenaw Peninsula:Michigan	-88.04722879	LT-AF-Z	a	PL341	Scales Creek Flow	26.03150204	182.5464275
+This study	274.2	33.1	5	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.3942109	Basalt	Keweenaw Peninsula:Michigan	-88.03607512	LT-AF-Z	a	PL154		15.97588005	191.4555736
+This study	286.2	41	6	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.38982443	Basalt	Keweenaw Peninsula:Michigan	-88.03789171	LT-AF-Z	a	PL153		27.81369748	187.2527448
+This study	326.7	19.5	4	n	100	Portage Lake Volcanics	Extrusive	Lava Flow	47.38483976	Basalt	Keweenaw Peninsula:Michigan	-88.01716803	LT-AF-Z	a	PL42		43.27800355	139.9332116
+This study	281.1	24.8	5	n	100		Extrusive	Lava Flow	46.67646632	Rhyolite	Keweenaw Peninsula:Michigan	-89.57781618	LT-AF-Z	a	ER66		17.00546215	181.4997447
+This study	290.3	32.7	4	n	100		Extrusive	Lava Flow	46.67619213	Rhyolite	Keweenaw Peninsula:Michigan	-89.57801537	LT-AF-Z	a	ER67		26.67919303	178.4586686
+This study	290.4	26.4	4	n	100		Extrusive	Lava Flow	46.59455464	Rhyolite	Keweenaw Peninsula:Michigan	-89.5734963	LT-AF-Z	a	ER68		24.0466953	175.384916
+This study	310.5	25	4	n	100		Extrusive	Lava Flow	46.64138413	Quartz Porphyry	Keweenaw Peninsula:Michigan	-89.59216511	LT-AF-Z	a	QP69		36.82203841	158.0914032
+This study	289.1	20.9	4	n	100		Extrusive	Lava Flow	46.64001318	Quartz Porphyry	Keweenaw Peninsula:Michigan	-89.59156786	LT-AF-Z	a	QP71		20.917867	173.9591855
+This study	305.8	44.8	5	n	100		Extrusive	Lava Flow	46.6357222	Quartz Porphyry	Keweenaw Peninsula:Michigan	-89.58843219	LT-AF-Z	a	QP73		43.08322362	174.4750894
+This study	241.8	60	1	n	100		Extrusive	Lava Flow	47.27380649	Rhyolite	Keweenaw Peninsula:Michigan	-88.37273467	LT-AF-Z	i	R36-0		13.80055491	228.3124555
+This study	278.3	70.3	1	n	100		Extrusive	Lava Flow	47.27380649	Rhyolite	Keweenaw Peninsula:Michigan	-88.37269439	LT-AF-Z	i	R36-1		40.86534326	222.0032927
+This study	251.5	32.2	1	n	100		Extrusive	Lava Flow	47.27361458	Rhyolite	Keweenaw Peninsula:Michigan	-88.37237215	LT-AF-Z	i	R36-2		0.87506129	206.8514639
+This study	233.1	54	1	n	100		Extrusive	Lava Flow	47.2738339	Rhyolite	Keweenaw Peninsula:Michigan	-88.37257355	LT-AF-Z	i	R36-3		4.638397957	230.2569156
+This study	276.5	11.2	1	n	100		Extrusive	Lava Flow	47.27375166	Rhyolite	Keweenaw Peninsula:Michigan	-88.37257355	LT-AF-Z	i	R36-4		8.557866453	180.7056167
+This study	285.5	45.5	1	n	100		Extrusive	Lava Flow	47.27386132	Rhyolite	Keweenaw Peninsula:Michigan	-88.37285551	LT-AF-Z	i	R36-5		29.65213787	190.4113577
+This study	246.2	2.2	1	n	100		Extrusive	Lava Flow	47.27377907	Rhyolite	Keweenaw Peninsula:Michigan	-88.37261383	LT-AF-Z	i	R36-6		-15.04903573	200.3151307
+This study	239.9	36	1	n	100		Extrusive	Lava Flow	47.27377907	Rhyolite	Keweenaw Peninsula:Michigan	-88.37265411	LT-AF-Z	i	R36-7		-3.956586235	217.0299348
+This study	296.1	15.1	1	n	100		Extrusive	Lava Flow	47.27855237	Rhyolite	Keweenaw Peninsula:Michigan	-88.37004948	LT-AF-Z	i	R62-1		23.20448318	167.1638981
+This study	305.3	18.5	1	n	100		Extrusive	Lava Flow	47.27868945	Rhyolite	Keweenaw Peninsula:Michigan	-88.37013004	LT-AF-Z	i	R62-2		30.52315304	160.7680303
+This study	297.8	27.9	1	n	100		Extrusive	Lava Flow	47.27868945	Rhyolite	Keweenaw Peninsula:Michigan	-88.37025088	LT-AF-Z	i	R62-3		29.59656598	171.1871571
+This study	301.6	18	1	n	100		Extrusive	Lava Flow	47.27882653	Rhyolite	Keweenaw Peninsula:Michigan	-88.37041201	LT-AF-Z	i	R62-4		27.94974004	163.7517998
+This study	283.9	33.5	1	n	100		Extrusive	Lava Flow	47.27896361	Rhyolite	Keweenaw Peninsula:Michigan	-88.37065369	LT-AF-Z	i	R62-5		22.67760478	184.4622084
+This study	285.5	18.2	1	n	100		Extrusive	Lava Flow	47.27923777	Rhyolite	Keweenaw Peninsula:Michigan	-88.37105649	LT-AF-Z	i	R62-6		17.34196181	176.5995945
+This study	260.8	29.3	6	n	100		Extrusive	Lava Flow	46.47918679	Basalt	Keweenaw Peninsula:Michigan	-90.12259647	LT-AF-Z	a	IB74		5.157382442	197.2668951
+This study	257.6	21.7	4	n	100		Extrusive	Lava Flow	46.47932389	Basalt	Keweenaw Peninsula:Michigan	-90.12259647	LT-AF-Z	a	IB75		-0.201676874	196.5618633
+This study	258.1	44.4	6	n	100		Extrusive	Lava Flow	46.47959808	Basalt	Keweenaw Peninsula:Michigan	-90.12259647	LT-AF-Z	a	IB76		11.03149206	206.3224073
+This study	274.7	53.8	5	n	100		Extrusive	Lava Flow	46.48731595	Basalt	Keweenaw Peninsula:Michigan	-90.16392326	LT-AF-Z	a	IB301		27.108511	202.2439598
+This study	258.2	52.6	6	n	100		Extrusive	Lava Flow	46.48717885	Basalt	Keweenaw Peninsula:Michigan	-90.16412176	LT-AF-Z	a	IB303		16.20605537	211.2816057
+This study	268.1	17.9	4	n	100		Extrusive	Lava Flow	46.47946099	Basalt	Keweenaw Peninsula:Michigan	-90.12279493	LT-AF-Z	a	IB306		5.34012822	187.5839035
+This study	261.3	38.1	5	n	100		Extrusive	Lava Flow	46.47915937	Quartzite	Keweenaw Peninsula:Michigan	-90.12259647	LT-AF-Z	a	IB322		9.653922962	200.8879349
+This study	282.6	30.9	5	n	100		Extrusive	Lava Flow	46.60025921	Basalt	Keweenaw Peninsula:Michigan	-90.08935581	LT-AF-Z	a	MK216		20.60290806	182.6741769
+This study	283	28.1	5	n	100		Extrusive	Lava Flow	46.60020437	Basalt	Keweenaw Peninsula:Michigan	-90.08927624	LT-AF-Z	a	MK217		19.67863708	181.0860464
+This study	286.3	29.4	5	n	100		Extrusive	Lava Flow	46.60014953	Basalt	Keweenaw Peninsula:Michigan	-90.08927624	LT-AF-Z	a	MK218		22.49780789	179.292938
+This study	279.4	35	5	n	100		Extrusive	Lava Flow	46.60003986	Basalt	Keweenaw Peninsula:Michigan	-90.08915688	LT-AF-Z	a	MK219		20.24305629	186.9535965
+This study	287.8	39.5	5	n	100		Extrusive	Lava Flow	46.61852281	Basalt	Keweenaw Peninsula:Michigan	-90.07840399	LT-AF-Z	a	MK316		28.10470974	183.5825817
+This study	229.9	28.5	4	n	100		Extrusive	Lava Flow	46.61770023	Basalt	Keweenaw Peninsula:Michigan	-90.07721012	LT-AF-Z	a	MK317		-13.6833612	220.4792247
+This study	282	32.6	4	n	100		Extrusive	Lava Flow	46.61701475	Basalt	Keweenaw Peninsula:Michigan	-90.07701114	LT-AF-Z	a	MK318		20.93935783	183.9306754
+This study	275	29.1	4	n	100		Extrusive	Lava Flow	46.61578089	Basalt	Keweenaw Peninsula:Michigan	-90.07800603	LT-AF-Z	a	MK319		14.6270035	187.2333772
+This study	278.4	31.9	4	n	100		Extrusive	Lava Flow	46.61578089	Basalt	Keweenaw Peninsula:Michigan	-90.07880195	LT-AF-Z	a	MK320		18.16638612	186.129076
+This study	291.1	46.4	3	n	100		Extrusive	Lava Flow	47.56496753	Basalt	North Shore Volcanic Group:Minnesota	-90.8489728	LT-AF-Z	a	NS254	Schroeder-Lutsen basalts	33.92868506	184.5752198
+This study	293.6	47.8	4	n	100		Extrusive	Lava Flow	47.57127287	Basalt	North Shore Volcanic Group:Minnesota	-90.8390477	LT-AF-Z	a	NS255	Schroeder-Lutsen basalts	36.36635319	183.9346546
+This study	286.6	32.4	5	n	100		Extrusive	Lava Flow	47.58257341	Basalt	North Shore Volcanic Group:Minnesota	-90.8194503	LT-AF-Z	a	NS256	Schroeder-Lutsen basalts	24.01414181	179.3673501
+This study	298.3	52.1	4	n	100		Extrusive	Lava Flow	47.59974286	Basalt	North Shore Volcanic Group:Minnesota	-90.78850286	LT-AF-Z	a	NS263	Schroeder-Lutsen basalts	41.91660416	184.5967113
+This study	296	51.1	5	n	100		Extrusive	Lava Flow	47.5562852	Basalt	North Shore Volcanic Group:Minnesota	-90.8740277	LT-AF-Z	a	NS381	Schroeder-Lutsen basalts	39.80449051	185.1402281
+This study	285	54.2	5	n	100		Extrusive	Lava Flow	47.60965688	Basalt	North Shore Volcanic Group:Minnesota	-90.77224503	LT-AF-Z	a	NS370	Onion River lavas	34.34636562	195.1869061
+This study	287.8	37.4	3	n	100		Extrusive	Lava Flow	47.55559984	Basalt	North Shore Volcanic Group:Minnesota	-90.8742302	LT-AF-Z	a	NS382	Schroeder-Lutsen basalts	27.14243073	181.0751984
+This study	288.8	43.3	4	n	100		Extrusive	Lava Flow	47.61075345	Basalt	North Shore Volcanic Group:Minnesota	-90.77325863	LT-AF-Z	a	NS372	Onion River lavas	30.75337973	184.0350317
+This study	279.2	51.9	3	n	100		Extrusive	Lava Flow	47.55724472	Basalt	North Shore Volcanic Group:Minnesota	-90.87666017	LT-AF-Z	a	NS379	Schroeder-Lutsen basalts	29.19229546	196.6818496
+This study	285.2	41.6	4	n	100		Extrusive	Lava Flow	47.61006809	Basalt	North Shore Volcanic Group:Minnesota	-90.77244775	LT-AF-Z	a	NS371	Onion River lavas	27.46621034	185.4744234
+This study	299.4	57.3	3	n	100		Extrusive	Lava Flow	47.55831389	Basalt	North Shore Volcanic Group:Minnesota	-90.87729197	LT-AF-Z	a	NS380	Schroeder-Lutsen basalts	45.6278166	189.7400191
+This study	286.6	40.1	5	n	100		Extrusive	Lava Flow	47.64405279	Basalt	North Shore Volcanic Group:Minnesota	-90.6867258	LT-AF-Z	a	NS262	Schroeder-Lutsen basalts	27.65532287	183.6427455
+This study	282.4	43.4	5	n	100		Extrusive	Lava Flow	47.6675348	Basalt	North Shore Volcanic Group:Minnesota	-90.62215986	LT-AF-Z	a	NS261	Schroeder-Lutsen basalts	26.53387699	188.6628151
+This study	279	44.8	5	n	100		Extrusive	Lava Flow	47.67473392	Basalt	North Shore Volcanic Group:Minnesota	-90.6034691	LT-AF-Z	a	NS260	Schroeder-Lutsen basalts	25.03299995	191.8801901
+This study	292.8	52.8	5	n	100		Extrusive	Lava Flow	47.67733824	Basalt	North Shore Volcanic Group:Minnesota	-90.59737919	LT-AF-Z	a	NS259	Schroeder-Lutsen basalts	38.65399309	189.0682527
+This study	289.1	45.7	5	n	100		Extrusive	Lava Flow	47.68035378	Basalt	North Shore Volcanic Group:Minnesota	-90.59088328	LT-AF-Z	a	NS258	Schroeder-Lutsen basalts	32.22411065	185.6307725
+This study	289	43.9	4	n	100		Extrusive	Lava Flow	47.714	Basalt	North Shore Volcanic Group:Minnesota	-90.5015	LT-AF-Z	a	NS264	Schroeder-Lutsen basalts	31.20842379	184.5083755
+This study	292.4	43.6	5	n	100		Extrusive	Lava Flow	47.71184508	Basalt	North Shore Volcanic Group:Minnesota	-90.50223542	LT-AF-Z	a	NS257	Schroeder-Lutsen basalts	33.33479963	181.8806462
+This study	291.8	32.1	5	n	100		Extrusive	Lava Flow	47.71734951	Basalt	North Shore Volcanic Group:Minnesota	-90.48526733	LT-AF-Z	a	NS377	Terrace Point basalt	27.37510122	175.5881167
+This study	297.4	37.5	4	n	100		Extrusive	Lava Flow	47.71732612	Basalt	North Shore Volcanic Group:Minnesota	-90.48159297	LT-AF-Z	a	NS171	Terrace Point basalt	33.64766531	174.2192349
+This study	291.1	34.1	5	n	100		Extrusive	Lava Flow	47.71732612	Basalt	North Shore Volcanic Group:Minnesota	-90.48138987	LT-AF-Z	a	NS170	Terrace Point basalt	27.81649632	177.1505137
+This study	301.3	34.7	4	n	100		Extrusive	Lava Flow	47.71746319	Basalt	North Shore Volcanic Group:Minnesota	-90.48138987	LT-AF-Z	a	NS169	Terrace Point basalt	34.91341282	169.4688691
+This study	296.9	36.4	5	n	100		Extrusive	Lava Flow	47.71926848	Basalt	North Shore Volcanic Group:Minnesota	-90.47714072	LT-AF-Z	a	NS376	Terrace Point basalt	32.78556225	173.9678184
+This study	294.3	35.2	5	n	100		Extrusive	Lava Flow	47.72187675	Basalt	North Shore Volcanic Group:Minnesota	-90.45717121	LT-AF-Z	a	NS374	Terrace Point basalt	30.47626506	175.3262065
+This study	294	38.5	5	n	100		Extrusive	Lava Flow	47.72228796	Basalt	North Shore Volcanic Group:Minnesota	-90.45310788	LT-AF-Z	a	NS369	Terrace Point basalt	31.8493271	177.453868
+This study	291.7	34.9	4	n	100		Extrusive	Lava Flow	47.72544054	Basalt	North Shore Volcanic Group:Minnesota	-90.44335591	LT-AF-Z	a	NS368	Terrace Point basalt	28.58999559	177.1560882
+This study	286	47.2	3	n	100		Extrusive	Lava Flow	47.73256813	Basalt	North Shore Volcanic Group:Minnesota	-90.43604193	LT-AF-Z	a	NS265	Good Harbor Bay andesite	30.97888647	188.9671733
+This study	285.5	56	5	n	100		Extrusive	Lava Flow	47.73453979	Andesite	North Shore Volcanic Group:Minnesota	-90.42501636	LT-AF-Z	a	NS367	Good Harbor Bay andesite	35.80920156	196.9105739
+This study	285.2	38.7	4	n	100		Extrusive	Lava Flow	47.76532723	Basalt	North Shore Volcanic Group:Minnesota	-90.33460283	LT-AF-Z	a	NS365	Croftville lavas	26.03472707	184.1171014
+This study	292.9	43.5	5	n	100		Extrusive	Lava Flow	47.76702215	Basalt	North Shore Volcanic Group:Minnesota	-90.26737951	LT-AF-Z	a	NS362	Croftville lavas	33.62101046	181.6480653
+This study	295.5	25.7	3	n	100		Extrusive	Lava Flow	47.77600067	Basalt	North Shore Volcanic Group:Minnesota	-90.20147585	LT-AF-Z	a	NS226	Red Cliff basalts	27.03514078	169.925398
+This study	287.9	53.8	5	n	100		Extrusive	Lava Flow	47.78890296	Rhyolite	North Shore Volcanic Group:Minnesota	-90.17323865	LT-AF-Z	a	NS375	Kimball Creek rhyolite	36.03797309	193.4908372
+This study	298.4	46.9	3	n	100		Extrusive	Lava Flow	47.79577622	Basalt	North Shore Volcanic Group:Minnesota	-90.13329374	LT-AF-Z	a	NS229	Kadunce icelandite	39.11629045	180.2976478
+This study	296.1	43.6	5	n	100		Extrusive	Lava Flow	47.79860756	Basalt	North Shore Volcanic Group:Minnesota	-90.10516022	LT-AF-Z	a	NS227	Marr Island lavas	35.82320388	179.5083491
+This study	290.6	47.9	5	n	100		Extrusive	Lava Flow	47.80570607	Basalt	North Shore Volcanic Group:Minnesota	-90.09270441	LT-AF-Z	a	NS378	Marr Island lavas	34.43554321	186.6695934
+This study	264.5	38.2	3	n	100		Extrusive	Lava Flow	47.822107	Basalt	North Shore Volcanic Group:Minnesota	-90.0612863	LT-AF-Z	a	NS269	Marr Island lavas	12.2071707	198.5502682
+This study	264.4	47.3	4	n	100		Extrusive	Lava Flow	47.88622328	Basalt	Isle Royale:Michigan	-89.20390113	LT-AF-Z	a	MK243		17.20955925	204.4419172
+This study	274.1	46.4	5	n	100		Extrusive	Lava Flow	47.88622328	Basalt	Isle Royale:Michigan	-89.20553158	LT-AF-Z	a	MK244		22.78648203	197.4848709
+This study	272.9	49.3	5	n	100		Extrusive	Lava Flow	47.88594915	Basalt	Isle Royale:Michigan	-89.20695822	LT-AF-Z	a	MK245		23.71189368	200.2232599
+This study	290.4	67.1	4	n	100		Extrusive	Lava Flow	47.88581209	Basalt	Isle Royale:Michigan	-89.20879248	LT-AF-Z	a	MK246		45.84942325	210.5183268
+This study	263.7	56.7	5	n	100		Extrusive	Lava Flow	47.88567502	Basalt	Isle Royale:Michigan	-89.21042293	LT-AF-Z	a	MK247		23.00057697	211.5613646
+This study	285.2	25.2	5	n	100		Extrusive	Lava Flow	47.8873198	Basalt	Isle Royale:Michigan	-89.19391462	LT-AF-Z	a	MK248		19.94072109	178.6269011
+This study	281.9	24.7	5	n	100		Extrusive	Lava Flow	47.88800219	Basalt	Isle Royale:Michigan	-89.21534223	LT-AF-Z	a	MK249		17.51900899	180.8576778
+This study	289.2	14.1	5	n	100		Extrusive	Lava Flow	47.89143175	Basalt	Isle Royale:Michigan	-89.2030859	LT-AF-Z	a	MK250		18.13430688	171.1948422
+This study	292.9	29.5	6	n	100		Extrusive	Lava Flow	47.8947213	Basalt	Isle Royale:Michigan	-89.20023261	LT-AF-Z	a	MK251		26.93671093	174.6643292

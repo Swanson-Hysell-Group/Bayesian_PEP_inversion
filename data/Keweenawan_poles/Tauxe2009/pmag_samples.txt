@@ -1,0 +1,812 @@
+tab 	pmag_samples
+er_citation_names	er_location_name	er_sample_name	er_site_name	er_specimen_names	magic_method_codes	magic_software_packages	pmag_criteria_codes	sample_comp_name	sample_dec	sample_direction_type	sample_inc	sample_n	sample_n_lines	sample_n_planes	sample_tilt_correction
+This study	North Shore Volcanics	ns002b	ns002	ns002b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	286	l	28.5	1	1	0	0
+This study	North Shore Volcanics	ns002c	ns002	ns002c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	298.9	l	32.8	1	1	0	0
+This study	North Shore Volcanics	ns002d	ns002	ns002d1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	292.4	l	35.9	1	1	0	0
+This study	North Shore Volcanics	ns002f	ns002	ns002f1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	287	l	32.9	1	1	0	0
+This study	North Shore Volcanics	ns005a	ns005	ns005a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	301.1	l	28.9	1	1	0	0
+This study	North Shore Volcanics	ns006b	ns006	ns006b1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	302.4	l	29.4	1	1	0	0
+This study	North Shore Volcanics	ns006c	ns006	ns006c1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	300.9	l	31.7	1	1	0	0
+This study	North Shore Volcanics	ns006d	ns006	ns006d2	LP-DIR-AF : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	301.1	l	26	1	1	0	0
+This study	North Shore Volcanics	ns006e	ns006	ns006e2	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	298.4	l	32.6	1	1	0	0
+This study	North Shore Volcanics	ns006f	ns006	ns006f1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	302.8	l	32.5	1	1	0	0
+This study	North Shore Volcanics	ns007a	ns007	ns007a1	LP-DIR-AF : LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	296.1	l	35	1	1	0	0
+This study	North Shore Volcanics	ns007c	ns007	ns007c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	309.2	l	33.2	1	1	0	0
+This study	North Shore Volcanics	ns007d	ns007	ns007d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	311.6	l	30.9	1	1	0	0
+This study	North Shore Volcanics	ns007f	ns007	ns007f1	LP-DIR-AF : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	311.5	l	32.1	1	1	0	0
+This study	North Shore Volcanics	ns007g	ns007	ns007g1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	308.3	l	27.1	1	1	0	0
+This study	North Shore Volcanics	ns008a	ns008	ns008a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	321.8	l	33.4	1	1	0	0
+This study	North Shore Volcanics	ns008b	ns008	ns008b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	318.1	l	36.3	1	1	0	0
+This study	North Shore Volcanics	ns008c	ns008	ns008c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	312	l	33.3	1	1	0	0
+This study	North Shore Volcanics	ns008d	ns008	ns008d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	310.8	l	33.7	1	1	0	0
+This study	North Shore Volcanics	ns008h	ns008	ns008h1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	307.2	l	32.8	1	1	0	0
+This study	North Shore Volcanics	ns009a	ns009	ns009a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	290.6	l	46.5	1	1	0	0
+This study	North Shore Volcanics	ns009c	ns009	ns009c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	289.7	l	40.9	1	1	0	0
+This study	North Shore Volcanics	ns009e	ns009	ns009e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	294.8	l	41.3	1	1	0	0
+This study	North Shore Volcanics	ns009f	ns009	ns009f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	290.9	l	37.6	1	1	0	0
+This study	North Shore Volcanics	ns010a	ns010	ns010a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	290.7	l	31.6	1	1	0	0
+This study	North Shore Volcanics	ns010b	ns010	ns010b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	288	l	28.6	1	1	0	0
+This study	North Shore Volcanics	ns010c	ns010	ns010c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	291.1	l	33.3	1	1	0	0
+This study	North Shore Volcanics	ns010d	ns010	ns010d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	290.9	l	34.7	1	1	0	0
+This study	North Shore Volcanics	ns010e	ns010	ns010e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	300.7	l	30.1	1	1	0	0
+This study	North Shore Volcanics	ns011a	ns011	ns011a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	291.8	l	22.7	1	1	0	0
+This study	North Shore Volcanics	ns011b	ns011	ns011b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	294.4	l	22.4	1	1	0	0
+This study	North Shore Volcanics	ns011c	ns011	ns011c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	294.7	l	16	1	1	0	0
+This study	North Shore Volcanics	ns011d	ns011	ns011d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	289.2	l	19.8	1	1	0	0
+This study	North Shore Volcanics	ns011e	ns011	ns011e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	298.8	l	14.1	1	1	0	0
+This study	North Shore Volcanics	ns012b	ns012	ns012b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	284.1	l	44.1	1	1	0	0
+This study	North Shore Volcanics	ns012c	ns012	ns012c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	290.2	l	30.4	1	1	0	0
+This study	North Shore Volcanics	ns012d	ns012	ns012d2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	289.3	l	27.7	1	1	0	0
+This study	North Shore Volcanics	ns012e	ns012	ns012e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	290.6	l	27.6	1	1	0	0
+This study	North Shore Volcanics	ns013a	ns013	ns013a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	293.9	l	25.4	1	1	0	0
+This study	North Shore Volcanics	ns013c	ns013	ns013c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	289.2	l	31.8	1	1	0	0
+This study	North Shore Volcanics	ns013d	ns013	ns013d3	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	290.7	l	27.8	1	1	0	0
+This study	North Shore Volcanics	ns013e	ns013	ns013e3	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	287.9	l	31.6	1	1	0	0
+This study	North Shore Volcanics	ns014a	ns014	ns014a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	276	l	24.1	1	1	0	0
+This study	North Shore Volcanics	ns014b	ns014	ns014b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	277.7	l	24.7	1	1	0	0
+This study	North Shore Volcanics	ns014c	ns014	ns014c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	280.3	l	25.3	1	1	0	0
+This study	North Shore Volcanics	ns014d	ns014	ns014d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	275.7	l	22.4	1	1	0	0
+This study	North Shore Volcanics	ns014f	ns014	ns014f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	278.8	l	23.2	1	1	0	0
+This study	North Shore Volcanics	ns015a	ns015	ns015a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	297.7	l	15.7	1	1	0	0
+This study	North Shore Volcanics	ns015b	ns015	ns015b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	295.8	l	15.9	1	1	0	0
+This study	North Shore Volcanics	ns015e	ns015	ns015e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	287.9	l	16.9	1	1	0	0
+This study	North Shore Volcanics	ns015g	ns015	ns015g1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	296.6	l	16.8	1	1	0	0
+This study	North Shore Volcanics	ns018a	ns018	ns018a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	319.8	l	3.5	1	1	0	0
+This study	North Shore Volcanics	ns018b	ns018	ns018b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	307.8	l	9.7	1	1	0	0
+This study	North Shore Volcanics	ns018c	ns018	ns018c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	312	l	8.9	1	1	0	0
+This study	North Shore Volcanics	ns018e	ns018	ns018e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	300.8	l	0.1	1	1	0	0
+This study	North Shore Volcanics	ns018g	ns018	ns018g1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	322.4	l	5.2	1	1	0	0
+This study	North Shore Volcanics	ns020a	ns020	ns020a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	302	l	1	1	1	0	0
+This study	North Shore Volcanics	ns020b	ns020	ns020b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	310.2	l	5.8	1	1	0	0
+This study	North Shore Volcanics	ns020c	ns020	ns020c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	307.8	l	10	1	1	0	0
+This study	North Shore Volcanics	ns020d	ns020	ns020d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	301.7	l	9.8	1	1	0	0
+This study	North Shore Volcanics	ns020e	ns020	ns020e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	297.4	l	9.5	1	1	0	0
+This study	North Shore Volcanics	ns021a	ns021	ns021a1	LP-DIR-AF : LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	312.9	l	17.5	1	1	0	0
+This study	North Shore Volcanics	ns021b	ns021	ns021b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	311.2	l	21.5	1	1	0	0
+This study	North Shore Volcanics	ns021c	ns021	ns021c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	309.8	l	24	1	1	0	0
+This study	North Shore Volcanics	ns021d	ns021	ns021d2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	310.6	l	21.3	1	1	0	0
+This study	North Shore Volcanics	ns021e	ns021	ns021e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	313.2	l	20.9	1	1	0	0
+This study	North Shore Volcanics	ns023a	ns023	ns023a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	305.5	l	15.7	1	1	0	0
+This study	North Shore Volcanics	ns023b	ns023	ns023b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	305.1	l	11.6	1	1	0	0
+This study	North Shore Volcanics	ns023c	ns023	ns023c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	304	l	16.2	1	1	0	0
+This study	North Shore Volcanics	ns023e	ns023	ns023e1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	307.9	l	11.8	1	1	0	0
+This study	North Shore Volcanics	ns023g	ns023	ns023g1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	305.6	l	14.5	1	1	0	0
+This study	North Shore Volcanics	ns024b	ns024	ns024b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	156.2	l	-73.8	1	1	0	0
+This study	North Shore Volcanics	ns024c	ns024	ns024c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	149.6	l	-68	1	1	0	0
+This study	North Shore Volcanics	ns024e	ns024	ns024e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	139.6	l	-67.2	1	1	0	0
+This study	North Shore Volcanics	ns024f	ns024	ns024f2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	145.5	l	-69.6	1	1	0	0
+This study	North Shore Volcanics	ns034a	ns034	ns034a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	293	l	42.8	1	1	0	0
+This study	North Shore Volcanics	ns034b	ns034	ns034b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	300.4	l	40.3	1	1	0	0
+This study	North Shore Volcanics	ns034c	ns034	ns034c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	305	l	38.8	1	1	0	0
+This study	North Shore Volcanics	ns034d	ns034	ns034d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	304.2	l	41.9	1	1	0	0
+This study	North Shore Volcanics	ns034g	ns034	ns034g1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	294.3	l	46.5	1	1	0	0
+This study	North Shore Volcanics	ns036a	ns036	ns036a1	LP-DIR-AF : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	296	l	45.7	1	1	0	0
+This study	North Shore Volcanics	ns036b	ns036	ns036b1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	296.4	l	43.5	1	1	0	0
+This study	North Shore Volcanics	ns036d	ns036	ns036d1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	304.7	l	37.6	1	1	0	0
+This study	North Shore Volcanics	ns039a	ns039	ns039a1	LP-DIR-AF : LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	290.2	l	20.9	1	1	0	0
+This study	North Shore Volcanics	ns039b	ns039	ns039b1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	285.8	l	19.6	1	1	0	0
+This study	North Shore Volcanics	ns039c	ns039	ns039c1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	288.4	l	21.2	1	1	0	0
+This study	North Shore Volcanics	ns039d	ns039	ns039d2	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	289.1	l	23.2	1	1	0	0
+This study	North Shore Volcanics	ns039e	ns039	ns039e1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	290.3	l	21.3	1	1	0	0
+This study	North Shore Volcanics	ns044a	ns044	ns044a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	294.4	l	29.1	1	1	0	0
+This study	North Shore Volcanics	ns044b	ns044	ns044b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	292.7	l	29	1	1	0	0
+This study	North Shore Volcanics	ns044d	ns044	ns044d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	284.1	l	29.3	1	1	0	0
+This study	North Shore Volcanics	ns044f	ns044	ns044f2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	287.8	l	26.2	1	1	0	0
+This study	North Shore Volcanics	ns046a	ns046	ns046a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	292.9	l	32.1	1	1	0	0
+This study	North Shore Volcanics	ns049g	ns049	ns049g1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	304.1	l	45.4	1	1	0	0
+This study	North Shore Volcanics	ns050b	ns050	ns050b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	298	l	30.9	1	1	0	0
+This study	North Shore Volcanics	ns052b	ns052	ns052b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	295.7	l	36.1	1	1	0	0
+This study	North Shore Volcanics	ns053a	ns053	ns053a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	299.1	l	23.9	1	1	0	0
+This study	North Shore Volcanics	ns054a	ns054	ns054a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	289.3	l	40.4	1	1	0	0
+This study	North Shore Volcanics	ns055a	ns055	ns055a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	283.9	l	17.6	1	1	0	0
+This study	North Shore Volcanics	ns055b	ns055	ns055b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	281.9	l	19.8	1	1	0	0
+This study	North Shore Volcanics	ns055c	ns055	ns055c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	280.9	l	20.7	1	1	0	0
+This study	North Shore Volcanics	ns055e	ns055	ns055e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	285.3	l	14	1	1	0	0
+This study	North Shore Volcanics	ns055g	ns055	ns055g1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	289.2	l	16.4	1	1	0	0
+This study	North Shore Volcanics	ns056a	ns056	ns056a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	292.3	l	22.3	1	1	0	0
+This study	North Shore Volcanics	ns058f	ns058	ns058f1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	297.1	l	34	1	1	0	0
+This study	North Shore Volcanics	ns059e	ns059	ns059e1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	291.8	l	29.4	1	1	0	0
+This study	North Shore Volcanics	ns060a	ns060	ns060a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	292.3	l	32	1	1	0	0
+This study	North Shore Volcanics	ns060b	ns060	ns060b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	299	l	34.3	1	1	0	0
+This study	North Shore Volcanics	ns060c	ns060	ns060c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	289.1	l	16.9	1	1	0	0
+This study	North Shore Volcanics	ns060f	ns060	ns060f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	290.2	l	23.8	1	1	0	0
+This study	North Shore Volcanics	ns062a	ns062	ns062a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	294.8	l	35.6	1	1	0	0
+This study	North Shore Volcanics	ns064a	ns064	ns064a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	301.6	l	31.5	1	1	0	0
+This study	North Shore Volcanics	ns065c	ns065	ns065c2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	288.9	l	20.6	1	1	0	0
+This study	North Shore Volcanics	ns066a	ns066	ns066a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	309.9	l	21.3	1	1	0	0
+This study	North Shore Volcanics	ns066c	ns066	ns066c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	313.7	l	18.3	1	1	0	0
+This study	North Shore Volcanics	ns066d	ns066	ns066d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	315.2	l	20.2	1	1	0	0
+This study	North Shore Volcanics	ns066e	ns066	ns066e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	313	l	18.9	1	1	0	0
+This study	North Shore Volcanics	ns067a	ns067	ns067a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	285.2	l	27	1	1	0	0
+This study	North Shore Volcanics	ns067b	ns067	ns067b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	286.3	l	25	1	1	0	0
+This study	North Shore Volcanics	ns067c	ns067	ns067c3	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	291.8	l	28.2	1	1	0	0
+This study	North Shore Volcanics	ns067e	ns067	ns067e1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	286.8	l	34.1	1	1	0	0
+This study	North Shore Volcanics	ns068g	ns068	ns068g2	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	310.5	l	17.7	1	1	0	0
+This study	North Shore Volcanics	ns070a	ns070	ns070a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	345.3	l	66.7	1	1	0	0
+This study	North Shore Volcanics	ns070c	ns070	ns070c2	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	298	l	39.2	1	1	0	0
+This study	North Shore Volcanics	ns077a	ns077	ns077a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	297.7	l	7.8	1	1	0	0
+This study	North Shore Volcanics	ns078c	ns078	ns078c1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	285.4	l	15.8	1	1	0	0
+This study	North Shore Volcanics	ns078d	ns078	ns078d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	283.6	l	16.7	1	1	0	0
+This study	North Shore Volcanics	ns078f	ns078	ns078f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	276.4	l	14.5	1	1	0	0
+This study	North Shore Volcanics	ns078g	ns078	ns078g1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	272.2	l	17.1	1	1	0	0
+This study	North Shore Volcanics	ns078h	ns078	ns078h1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	278.4	l	16	1	1	0	0
+This study	North Shore Volcanics	ns079b	ns079	ns079b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	288.3	l	29.6	1	1	0	0
+This study	North Shore Volcanics	ns080a	ns080	ns080a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	292.5	l	20.6	1	1	0	0
+This study	North Shore Volcanics	ns080a	ns080	ns080a2	LP-DIR-AF : SO-SUN : DE-FM : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	294	l	24.8	1	1	0	0
+This study	North Shore Volcanics	ns080b	ns080	ns080b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	279.2	l	17.2	1	1	0	0
+This study	North Shore Volcanics	ns080e	ns080	ns080e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	283.2	l	19.1	1	1	0	0
+This study	North Shore Volcanics	ns080f	ns080	ns080f2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	283.5	l	17	1	1	0	0
+This study	North Shore Volcanics	ns081a	ns081	ns081a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	284.4	l	32.7	1	1	0	0
+This study	North Shore Volcanics	ns081b	ns081	ns081b1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	273.7	l	38.3	1	1	0	0
+This study	North Shore Volcanics	ns081c	ns081	ns081c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	285	l	36.5	1	1	0	0
+This study	North Shore Volcanics	ns081d	ns081	ns081d2	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	272.8	l	29.7	1	1	0	0
+This study	North Shore Volcanics	ns081e	ns081	ns081e1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	270.6	l	26.3	1	1	0	0
+This study	North Shore Volcanics	ns083b	ns083	ns083b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	280.5	l	38.1	1	1	0	0
+This study	North Shore Volcanics	ns083c	ns083	ns083c2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	286.8	l	36.3	1	1	0	0
+This study	North Shore Volcanics	ns083d	ns083	ns083d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	284.3	l	37.2	1	1	0	0
+This study	North Shore Volcanics	ns083f	ns083	ns083f1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	296.9	l	45.6	1	1	0	0
+This study	North Shore Volcanics	ns085a	ns085	ns085a1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	285.8	l	24.1	1	1	0	0
+This study	North Shore Volcanics	ns085b	ns085	ns085b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	277.9	l	17.6	1	1	0	0
+This study	North Shore Volcanics	ns085c	ns085	ns085c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	277.8	l	18.3	1	1	0	0
+This study	North Shore Volcanics	ns085f	ns085	ns085f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	281.3	l	18.7	1	1	0	0
+This study	North Shore Volcanics	ns085g	ns085	ns085g1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	279.7	l	17.5	1	1	0	0
+This study	North Shore Volcanics	ns087a	ns087	ns087a1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	279.6	l	19.6	1	1	0	0
+This study	North Shore Volcanics	ns087b	ns087	ns087b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	277.3	l	16.8	1	1	0	0
+This study	North Shore Volcanics	ns087c	ns087	ns087c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	283.5	l	16.1	1	1	0	0
+This study	North Shore Volcanics	ns087d	ns087	ns087d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	287.8	l	25.8	1	1	0	0
+This study	North Shore Volcanics	ns087e	ns087	ns087e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	281.7	l	21.7	1	1	0	0
+This study	North Shore Volcanics	ns036f	ns036	ns036f1	LP-DIR-AF : SO-CMD-NORTH : DE-BFP : DA-DIR-GEO	pmagpy-2.03		HEM	197.4	p	5	1	0	1	0
+This study	North Shore Volcanics	ns070c	ns070	ns070c1	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03		HEM	30.5	p	-4.3	1	0	1	0
+This study	North Shore Volcanics	ns070f	ns070	ns070f1	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03		HEM	212.4	p	8.1	1	0	1	0
+This study	North Shore Volcanics	ns071a	ns071	ns071a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03		HEM	223.2	p	12.4	1	0	1	0
+This study	North Shore Volcanics	ns079a	ns079	ns079a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03		HEM	0.5	p	-22.5	1	0	1	0
+This study	North Shore Volcanics	ns079d	ns079	ns079d1	LP-DIR-AF : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03		HEM	183.4	p	16.4	1	0	1	0
+This study	North Shore Volcanics	ns079f	ns079	ns079f1	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03		HEM	183.5	p	20.4	1	0	1	0
+This study	North Shore Volcanics	ns002b	ns002	ns002b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	279.5	l	33.7	1	1	0	100
+This study	North Shore Volcanics	ns002c	ns002	ns002c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	291.9	l	40.3	1	1	0	100
+This study	North Shore Volcanics	ns002d	ns002	ns002d1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	284	l	42.1	1	1	0	100
+This study	North Shore Volcanics	ns002f	ns002	ns002f1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	279.3	l	38.2	1	1	0	100
+This study	North Shore Volcanics	ns005a	ns005	ns005a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	295.3	l	36.8	1	1	0	100
+This study	North Shore Volcanics	ns006b	ns006	ns006b1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	296.5	l	37.5	1	1	0	100
+This study	North Shore Volcanics	ns006c	ns006	ns006c1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	294.4	l	39.6	1	1	0	100
+This study	North Shore Volcanics	ns006d	ns006	ns006d2	LP-DIR-AF : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	295.9	l	34	1	1	0	100
+This study	North Shore Volcanics	ns006e	ns006	ns006e2	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	291.4	l	40	1	1	0	100
+This study	North Shore Volcanics	ns006f	ns006	ns006f1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	296.2	l	40.7	1	1	0	100
+This study	North Shore Volcanics	ns007a	ns007	ns007a1	LP-DIR-AF : LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	288.3	l	41.9	1	1	0	100
+This study	North Shore Volcanics	ns007c	ns007	ns007c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	303.1	l	42.3	1	1	0	100
+This study	North Shore Volcanics	ns007d	ns007	ns007d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	306.2	l	40.3	1	1	0	100
+This study	North Shore Volcanics	ns007f	ns007	ns007f1	LP-DIR-AF : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	305.9	l	41.5	1	1	0	100
+This study	North Shore Volcanics	ns007g	ns007	ns007g1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	303.4	l	36.1	1	1	0	100
+This study	North Shore Volcanics	ns008a	ns008	ns008a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	318.7	l	44.8	1	1	0	100
+This study	North Shore Volcanics	ns008b	ns008	ns008b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	313.9	l	47.4	1	1	0	100
+This study	North Shore Volcanics	ns008c	ns008	ns008c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	307.3	l	43.8	1	1	0	100
+This study	North Shore Volcanics	ns008d	ns008	ns008d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	305.8	l	44	1	1	0	100
+This study	North Shore Volcanics	ns008h	ns008	ns008h1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	301.9	l	42.7	1	1	0	100
+This study	North Shore Volcanics	ns009a	ns009	ns009a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	278.9	l	53.5	1	1	0	100
+This study	North Shore Volcanics	ns009c	ns009	ns009c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	280.2	l	48	1	1	0	100
+This study	North Shore Volcanics	ns009e	ns009	ns009e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	285.7	l	49.2	1	1	0	100
+This study	North Shore Volcanics	ns009f	ns009	ns009f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	282.5	l	45	1	1	0	100
+This study	North Shore Volcanics	ns010a	ns010	ns010a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	284	l	39.1	1	1	0	100
+This study	North Shore Volcanics	ns010b	ns010	ns010b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	281.9	l	35.7	1	1	0	100
+This study	North Shore Volcanics	ns010c	ns010	ns010c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	284	l	40.8	1	1	0	100
+This study	North Shore Volcanics	ns010d	ns010	ns010d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	283.4	l	42.1	1	1	0	100
+This study	North Shore Volcanics	ns010e	ns010	ns010e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	295.2	l	39.2	1	1	0	100
+This study	North Shore Volcanics	ns011a	ns011	ns011a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	287.2	l	30.5	1	1	0	100
+This study	North Shore Volcanics	ns011b	ns011	ns011b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	290	l	30.7	1	1	0	100
+This study	North Shore Volcanics	ns011c	ns011	ns011c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	291.6	l	24.4	1	1	0	100
+This study	North Shore Volcanics	ns011d	ns011	ns011d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	285.1	l	27.2	1	1	0	100
+This study	North Shore Volcanics	ns011e	ns011	ns011e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	296.1	l	23.1	1	1	0	100
+This study	North Shore Volcanics	ns012b	ns012	ns012b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	273.8	l	51.9	1	1	0	100
+This study	North Shore Volcanics	ns012c	ns012	ns012c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	284.6	l	39.4	1	1	0	100
+This study	North Shore Volcanics	ns012d	ns012	ns012d2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	284.2	l	36.6	1	1	0	100
+This study	North Shore Volcanics	ns012e	ns012	ns012e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	285.6	l	36.7	1	1	0	100
+This study	North Shore Volcanics	ns013a	ns013	ns013a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	289.6	l	35	1	1	0	100
+This study	North Shore Volcanics	ns013c	ns013	ns013c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	283.2	l	40.7	1	1	0	100
+This study	North Shore Volcanics	ns013d	ns013	ns013d3	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	285.7	l	36.9	1	1	0	100
+This study	North Shore Volcanics	ns013e	ns013	ns013e3	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	281.8	l	40.2	1	1	0	100
+This study	North Shore Volcanics	ns014a	ns014	ns014a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	271	l	31.6	1	1	0	100
+This study	North Shore Volcanics	ns014b	ns014	ns014b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	272.7	l	32.5	1	1	0	100
+This study	North Shore Volcanics	ns014c	ns014	ns014c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	275.3	l	33.5	1	1	0	100
+This study	North Shore Volcanics	ns014d	ns014	ns014d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	271.1	l	29.8	1	1	0	100
+This study	North Shore Volcanics	ns014f	ns014	ns014f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	274.1	l	31.1	1	1	0	100
+This study	North Shore Volcanics	ns015a	ns015	ns015a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	295.6	l	26.3	1	1	0	100
+This study	North Shore Volcanics	ns015b	ns015	ns015b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	293.4	l	26.3	1	1	0	100
+This study	North Shore Volcanics	ns015e	ns015	ns015e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	285	l	26.3	1	1	0	100
+This study	North Shore Volcanics	ns015g	ns015	ns015g1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	294.2	l	27.2	1	1	0	100
+This study	North Shore Volcanics	ns018a	ns018	ns018a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	319	l	11.1	1	1	0	100
+This study	North Shore Volcanics	ns018b	ns018	ns018b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	306	l	15.7	1	1	0	100
+This study	North Shore Volcanics	ns018c	ns018	ns018c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	310.4	l	15.5	1	1	0	100
+This study	North Shore Volcanics	ns018e	ns018	ns018e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	300.4	l	5.3	1	1	0	100
+This study	North Shore Volcanics	ns018g	ns018	ns018g1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	321.4	l	13	1	1	0	100
+This study	North Shore Volcanics	ns020a	ns020	ns020a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	301.5	l	6.3	1	1	0	100
+This study	North Shore Volcanics	ns020b	ns020	ns020b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	308.9	l	12.2	1	1	0	100
+This study	North Shore Volcanics	ns020c	ns020	ns020c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	305.9	l	16	1	1	0	100
+This study	North Shore Volcanics	ns020d	ns020	ns020d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	299.8	l	15	1	1	0	100
+This study	North Shore Volcanics	ns020e	ns020	ns020e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	295.5	l	13.9	1	1	0	100
+This study	North Shore Volcanics	ns021a	ns021	ns021a1	LP-DIR-AF : LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	310	l	24.2	1	1	0	100
+This study	North Shore Volcanics	ns021b	ns021	ns021b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	307.6	l	27.9	1	1	0	100
+This study	North Shore Volcanics	ns021c	ns021	ns021c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	305.8	l	30.1	1	1	0	100
+This study	North Shore Volcanics	ns021d	ns021	ns021d2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	307.1	l	27.6	1	1	0	100
+This study	North Shore Volcanics	ns021e	ns021	ns021e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	309.8	l	27.6	1	1	0	100
+This study	North Shore Volcanics	ns023a	ns023	ns023a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	302.7	l	21.3	1	1	0	100
+This study	North Shore Volcanics	ns023b	ns023	ns023b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	303	l	17.2	1	1	0	100
+This study	North Shore Volcanics	ns023c	ns023	ns023c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	301.1	l	21.6	1	1	0	100
+This study	North Shore Volcanics	ns023e	ns023	ns023e1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	305.8	l	17.8	1	1	0	100
+This study	North Shore Volcanics	ns023g	ns023	ns023g1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	303	l	20.1	1	1	0	100
+This study	North Shore Volcanics	ns024b	ns024	ns024b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	121.6	l	-80.4	1	1	0	100
+This study	North Shore Volcanics	ns024c	ns024	ns024c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	126.2	l	-74.3	1	1	0	100
+This study	North Shore Volcanics	ns024e	ns024	ns024e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	115.6	l	-72	1	1	0	100
+This study	North Shore Volcanics	ns024f	ns024	ns024f2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	118.5	l	-75.1	1	1	0	100
+This study	North Shore Volcanics	ns034a	ns034	ns034a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	291.4	l	54.7	1	1	0	100
+This study	North Shore Volcanics	ns034b	ns034	ns034b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	300.7	l	52.3	1	1	0	100
+This study	North Shore Volcanics	ns034c	ns034	ns034c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	306.4	l	50.7	1	1	0	100
+This study	North Shore Volcanics	ns034d	ns034	ns034d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	305.6	l	53.8	1	1	0	100
+This study	North Shore Volcanics	ns034g	ns034	ns034g1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	292.9	l	58.5	1	1	0	100
+This study	North Shore Volcanics	ns036a	ns036	ns036a1	LP-DIR-AF : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	295.1	l	57.7	1	1	0	100
+This study	North Shore Volcanics	ns036b	ns036	ns036b1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	295.6	l	55.5	1	1	0	100
+This study	North Shore Volcanics	ns036d	ns036	ns036d1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	306	l	49.5	1	1	0	100
+This study	North Shore Volcanics	ns039a	ns039	ns039a1	LP-DIR-AF : LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	289.2	l	32.8	1	1	0	100
+This study	North Shore Volcanics	ns039b	ns039	ns039b1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	284.4	l	31.3	1	1	0	100
+This study	North Shore Volcanics	ns039c	ns039	ns039c1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	287.2	l	32.9	1	1	0	100
+This study	North Shore Volcanics	ns039d	ns039	ns039d2	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	287.8	l	35	1	1	0	100
+This study	North Shore Volcanics	ns039e	ns039	ns039e1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	289.3	l	33.1	1	1	0	100
+This study	North Shore Volcanics	ns044a	ns044	ns044a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	295	l	45.1	1	1	0	100
+This study	North Shore Volcanics	ns044b	ns044	ns044b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	292.9	l	45	1	1	0	100
+This study	North Shore Volcanics	ns044d	ns044	ns044d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	282.2	l	45.2	1	1	0	100
+This study	North Shore Volcanics	ns044f	ns044	ns044f2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	286.9	l	42.2	1	1	0	100
+This study	North Shore Volcanics	ns046a	ns046	ns046a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	293.2	l	48.1	1	1	0	100
+This study	North Shore Volcanics	ns049g	ns049	ns049g1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	309.6	l	60.9	1	1	0	100
+This study	North Shore Volcanics	ns050b	ns050	ns050b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	300.1	l	48.8	1	1	0	100
+This study	North Shore Volcanics	ns052b	ns052	ns052b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	296.8	l	52.1	1	1	0	100
+This study	North Shore Volcanics	ns053a	ns053	ns053a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	301.8	l	42.5	1	1	0	100
+This study	North Shore Volcanics	ns054a	ns054	ns054a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	288.3	l	56.4	1	1	0	100
+This study	North Shore Volcanics	ns055a	ns055	ns055a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	283.2	l	36.6	1	1	0	100
+This study	North Shore Volcanics	ns055b	ns055	ns055b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	280.7	l	38.7	1	1	0	100
+This study	North Shore Volcanics	ns055c	ns055	ns055c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	279.3	l	39.5	1	1	0	100
+This study	North Shore Volcanics	ns055e	ns055	ns055e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	284.9	l	33	1	1	0	100
+This study	North Shore Volcanics	ns055g	ns055	ns055g1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	289.4	l	35.4	1	1	0	100
+This study	North Shore Volcanics	ns056a	ns056	ns056a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	292.5	l	40.3	1	1	0	100
+This study	North Shore Volcanics	ns058f	ns058	ns058f1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	299.2	l	51.9	1	1	0	100
+This study	North Shore Volcanics	ns059e	ns059	ns059e1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	292.1	l	47.4	1	1	0	100
+This study	North Shore Volcanics	ns060a	ns060	ns060a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	293.8	l	50.9	1	1	0	100
+This study	North Shore Volcanics	ns060b	ns060	ns060b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	303.1	l	52.8	1	1	0	100
+This study	North Shore Volcanics	ns060c	ns060	ns060c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	289.3	l	35.9	1	1	0	100
+This study	North Shore Volcanics	ns060f	ns060	ns060f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	290.7	l	42.7	1	1	0	100
+This study	North Shore Volcanics	ns062a	ns062	ns062a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	297.5	l	54.4	1	1	0	100
+This study	North Shore Volcanics	ns064a	ns064	ns064a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	306	l	49.8	1	1	0	100
+This study	North Shore Volcanics	ns065c	ns065	ns065c2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	289.1	l	39.6	1	1	0	100
+This study	North Shore Volcanics	ns066a	ns066	ns066a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	314.4	l	38.7	1	1	0	100
+This study	North Shore Volcanics	ns066c	ns066	ns066c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	318.2	l	35.1	1	1	0	100
+This study	North Shore Volcanics	ns066d	ns066	ns066d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	320.3	l	36.7	1	1	0	100
+This study	North Shore Volcanics	ns066e	ns066	ns066e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	317.5	l	35.8	1	1	0	100
+This study	North Shore Volcanics	ns067a	ns067	ns067a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	284.4	l	46	1	1	0	100
+This study	North Shore Volcanics	ns067b	ns067	ns067b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	285.9	l	44	1	1	0	100
+This study	North Shore Volcanics	ns067c	ns067	ns067c3	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	292.9	l	47.2	1	1	0	100
+This study	North Shore Volcanics	ns067e	ns067	ns067e1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	286.4	l	53.1	1	1	0	100
+This study	North Shore Volcanics	ns068g	ns068	ns068g2	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	314.5	l	35.1	1	1	0	100
+This study	North Shore Volcanics	ns070a	ns070	ns070a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	34.3	l	69.7	1	1	0	100
+This study	North Shore Volcanics	ns070c	ns070	ns070c2	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	302.6	l	57.8	1	1	0	100
+This study	North Shore Volcanics	ns077a	ns077	ns077a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	298.7	l	26.5	1	1	0	100
+This study	North Shore Volcanics	ns078c	ns078	ns078c1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	285	l	34.8	1	1	0	100
+This study	North Shore Volcanics	ns078d	ns078	ns078d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	282.8	l	35.6	1	1	0	100
+This study	North Shore Volcanics	ns078f	ns078	ns078f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	274.6	l	33.1	1	1	0	100
+This study	North Shore Volcanics	ns078g	ns078	ns078g1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	269.4	l	35.2	1	1	0	100
+This study	North Shore Volcanics	ns078h	ns078	ns078h1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	276.8	l	34.7	1	1	0	100
+This study	North Shore Volcanics	ns079b	ns079	ns079b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	288.3	l	48.6	1	1	0	100
+This study	North Shore Volcanics	ns080a	ns080	ns080a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	293.4	l	39.5	1	1	0	100
+This study	North Shore Volcanics	ns080a	ns080	ns080a2	LP-DIR-AF : SO-SUN : DE-FM : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	295.5	l	43.7	1	1	0	100
+This study	North Shore Volcanics	ns080b	ns080	ns080b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	277.6	l	35.9	1	1	0	100
+This study	North Shore Volcanics	ns080e	ns080	ns080e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	282.3	l	38.1	1	1	0	100
+This study	North Shore Volcanics	ns080f	ns080	ns080f2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	282.6	l	36	1	1	0	100
+This study	North Shore Volcanics	ns081a	ns081	ns081a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	283.1	l	51.7	1	1	0	100
+This study	North Shore Volcanics	ns081b	ns081	ns081b1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	267.5	l	56.5	1	1	0	100
+This study	North Shore Volcanics	ns081c	ns081	ns081c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	283.8	l	55.5	1	1	0	100
+This study	North Shore Volcanics	ns081d	ns081	ns081d2	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	268.2	l	47.8	1	1	0	100
+This study	North Shore Volcanics	ns081e	ns081	ns081e1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	266	l	44.2	1	1	0	100
+This study	North Shore Volcanics	ns083b	ns083	ns083b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	277.2	l	56.8	1	1	0	100
+This study	North Shore Volcanics	ns083c	ns083	ns083c2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	286.3	l	55.3	1	1	0	100
+This study	North Shore Volcanics	ns083d	ns083	ns083d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	282.7	l	56.1	1	1	0	100
+This study	North Shore Volcanics	ns083f	ns083	ns083f1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	302.4	l	64.2	1	1	0	100
+This study	North Shore Volcanics	ns085a	ns085	ns085a1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	285.3	l	43.1	1	1	0	100
+This study	North Shore Volcanics	ns085b	ns085	ns085b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	276.1	l	36.2	1	1	0	100
+This study	North Shore Volcanics	ns085c	ns085	ns085c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	275.9	l	37	1	1	0	100
+This study	North Shore Volcanics	ns085f	ns085	ns085f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	280	l	37.6	1	1	0	100
+This study	North Shore Volcanics	ns085g	ns085	ns085g1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	278.2	l	36.3	1	1	0	100
+This study	North Shore Volcanics	ns087a	ns087	ns087a1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	277.9	l	38.3	1	1	0	100
+This study	North Shore Volcanics	ns087b	ns087	ns087b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	275.4	l	35.4	1	1	0	100
+This study	North Shore Volcanics	ns087c	ns087	ns087c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	282.7	l	35	1	1	0	100
+This study	North Shore Volcanics	ns087d	ns087	ns087d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	287.8	l	44.8	1	1	0	100
+This study	North Shore Volcanics	ns087e	ns087	ns087e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	280.3	l	40.6	1	1	0	100
+This study	North Shore Volcanics	ns036f	ns036	ns036f1	LP-DIR-AF : SO-CMD-NORTH : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03		HEM	196.6	p	2.4	1	0	1	100
+This study	North Shore Volcanics	ns070c	ns070	ns070c1	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03		HEM	28.5	p	-8.2	1	0	1	100
+This study	North Shore Volcanics	ns070f	ns070	ns070f1	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03		HEM	209	p	12.3	1	0	1	100
+This study	North Shore Volcanics	ns071a	ns071	ns071a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03		HEM	38.1	p	-19.8	1	0	1	100
+This study	North Shore Volcanics	ns079a	ns079	ns079a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03		HEM	174.2	p	15.8	1	0	1	100
+This study	North Shore Volcanics	ns079d	ns079	ns079d1	LP-DIR-AF : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03		HEM	178.9	p	10.8	1	0	1	100
+This study	North Shore Volcanics	ns079f	ns079	ns079f1	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03		HEM	177.8	p	14.7	1	0	1	100
+This study	North Shore Volcanics	ns002a	ns002	ns002a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	290.2	l	38	1	1	0	0
+This study	North Shore Volcanics	ns004a	ns004	ns004a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	303.2	l	41.8	1	1	0	0
+This study	North Shore Volcanics	ns004c	ns004	ns004c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	306.1	l	47	1	1	0	0
+This study	North Shore Volcanics	ns004e	ns004	ns004e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	297.9	l	36.8	1	1	0	0
+This study	North Shore Volcanics	ns004f	ns004	ns004f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	298.6	l	36.4	1	1	0	0
+This study	North Shore Volcanics	ns004g	ns004	ns004g1	LP-DIR-AF : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	291.8	l	39.5	1	1	0	0
+This study	North Shore Volcanics	ns005b	ns005	ns005b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	307.2	l	27.6	1	1	0	0
+This study	North Shore Volcanics	ns005c	ns005	ns005c1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	309.8	l	27.9	1	1	0	0
+This study	North Shore Volcanics	ns005e	ns005	ns005e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	298	l	31	1	1	0	0
+This study	North Shore Volcanics	ns005g	ns005	ns005g1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	306	l	29.3	1	1	0	0
+This study	North Shore Volcanics	ns009b	ns009	ns009b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	287.9	l	43.2	1	1	0	0
+This study	North Shore Volcanics	ns012a	ns012	ns012a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	286.6	l	34.5	1	1	0	0
+This study	North Shore Volcanics	ns015d	ns015	ns015d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	294.2	l	13.3	1	1	0	0
+This study	North Shore Volcanics	ns016a	ns016	ns016a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	287.4	l	47.7	1	1	0	0
+This study	North Shore Volcanics	ns016b	ns016	ns016b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	282.1	l	45.2	1	1	0	0
+This study	North Shore Volcanics	ns016e	ns016	ns016e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	315.1	l	54.3	1	1	0	0
+This study	North Shore Volcanics	ns016f	ns016	ns016f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	289.6	l	52.1	1	1	0	0
+This study	North Shore Volcanics	ns019a	ns019	ns019a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	290.2	l	51.3	1	1	0	0
+This study	North Shore Volcanics	ns019b	ns019	ns019b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	288	l	41.9	1	1	0	0
+This study	North Shore Volcanics	ns019c	ns019	ns019c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	285.7	l	50.1	1	1	0	0
+This study	North Shore Volcanics	ns019d	ns019	ns019d2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	286.3	l	53	1	1	0	0
+This study	North Shore Volcanics	ns019e	ns019	ns019e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	290.1	l	51.9	1	1	0	0
+This study	North Shore Volcanics	ns022b	ns022	ns022b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	301.9	l	36.8	1	1	0	0
+This study	North Shore Volcanics	ns022c	ns022	ns022c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	307.8	l	35.8	1	1	0	0
+This study	North Shore Volcanics	ns022e	ns022	ns022e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	306.5	l	29.8	1	1	0	0
+This study	North Shore Volcanics	ns022f	ns022	ns022f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	308.5	l	27.6	1	1	0	0
+This study	North Shore Volcanics	ns024a	ns024	ns024a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	139	l	-67.5	1	1	0	0
+This study	North Shore Volcanics	ns026a	ns026	ns026a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	139.9	l	-55.9	1	1	0	0
+This study	North Shore Volcanics	ns026b	ns026	ns026b2	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	139.3	l	-58	1	1	0	0
+This study	North Shore Volcanics	ns026c	ns026	ns026c2	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	137.8	l	-59.9	1	1	0	0
+This study	North Shore Volcanics	ns026d	ns026	ns026d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	145.7	l	-51.8	1	1	0	0
+This study	North Shore Volcanics	ns026e	ns026	ns026e2	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	137.9	l	-57.1	1	1	0	0
+This study	North Shore Volcanics	ns027a	ns027	ns027a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	304.7	l	45.4	1	1	0	0
+This study	North Shore Volcanics	ns027b	ns027	ns027b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	298.5	l	38.7	1	1	0	0
+This study	North Shore Volcanics	ns027c	ns027	ns027c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	304	l	44.4	1	1	0	0
+This study	North Shore Volcanics	ns027d	ns027	ns027d2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	303.1	l	43.3	1	1	0	0
+This study	North Shore Volcanics	ns027e	ns027	ns027e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	307.6	l	45.8	1	1	0	0
+This study	North Shore Volcanics	ns028a	ns028	ns028a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	298.4	l	30.3	1	1	0	0
+This study	North Shore Volcanics	ns028b	ns028	ns028b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	299.9	l	24.5	1	1	0	0
+This study	North Shore Volcanics	ns028c	ns028	ns028c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	294.4	l	25	1	1	0	0
+This study	North Shore Volcanics	ns028e	ns028	ns028e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	293.7	l	27.6	1	1	0	0
+This study	North Shore Volcanics	ns028f	ns028	ns028f2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	293.1	l	25.9	1	1	0	0
+This study	North Shore Volcanics	ns029a	ns029	ns029a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	297.3	l	22.9	1	1	0	0
+This study	North Shore Volcanics	ns029b	ns029	ns029b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	299.5	l	25.5	1	1	0	0
+This study	North Shore Volcanics	ns031a	ns031	ns031a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	296.5	l	27.3	1	1	0	0
+This study	North Shore Volcanics	ns031b	ns031	ns031b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	295	l	26.4	1	1	0	0
+This study	North Shore Volcanics	ns031c	ns031	ns031c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	292.4	l	25.3	1	1	0	0
+This study	North Shore Volcanics	ns031d	ns031	ns031d2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	295.6	l	26.9	1	1	0	0
+This study	North Shore Volcanics	ns031f	ns031	ns031f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	297.5	l	29.2	1	1	0	0
+This study	North Shore Volcanics	ns033a	ns033	ns033a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	283.4	l	30.7	1	1	0	0
+This study	North Shore Volcanics	ns033b	ns033	ns033b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	279.3	l	28.8	1	1	0	0
+This study	North Shore Volcanics	ns035a	ns035	ns035a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	291.8	l	45	1	1	0	0
+This study	North Shore Volcanics	ns035b	ns035	ns035b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	295.4	l	43.8	1	1	0	0
+This study	North Shore Volcanics	ns035c	ns035	ns035c2	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	294.9	l	44	1	1	0	0
+This study	North Shore Volcanics	ns035d	ns035	ns035d2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	297.8	l	43.4	1	1	0	0
+This study	North Shore Volcanics	ns035e	ns035	ns035e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	294.8	l	43.5	1	1	0	0
+This study	North Shore Volcanics	ns036e	ns036	ns036e2	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	301.4	l	46.1	1	1	0	0
+This study	North Shore Volcanics	ns037a	ns037	ns037a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	294.2	l	40.7	1	1	0	0
+This study	North Shore Volcanics	ns037b	ns037	ns037b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	297.5	l	41.3	1	1	0	0
+This study	North Shore Volcanics	ns037c	ns037	ns037c2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	295.3	l	40.5	1	1	0	0
+This study	North Shore Volcanics	ns037f	ns037	ns037f2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	290.7	l	38.3	1	1	0	0
+This study	North Shore Volcanics	ns037g	ns037	ns037g1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	295.2	l	45.8	1	1	0	0
+This study	North Shore Volcanics	ns040a	ns040	ns040a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	292.2	l	41.1	1	1	0	0
+This study	North Shore Volcanics	ns040b	ns040	ns040b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	289.7	l	42.3	1	1	0	0
+This study	North Shore Volcanics	ns040c	ns040	ns040c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	284.9	l	38.5	1	1	0	0
+This study	North Shore Volcanics	ns040e	ns040	ns040e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	290.9	l	36.8	1	1	0	0
+This study	North Shore Volcanics	ns040f	ns040	ns040f2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	293.2	l	39.1	1	1	0	0
+This study	North Shore Volcanics	ns041a	ns041	ns041a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	288.5	l	35.4	1	1	0	0
+This study	North Shore Volcanics	ns041c	ns041	ns041c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	287.4	l	33.3	1	1	0	0
+This study	North Shore Volcanics	ns041d	ns041	ns041d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	282.5	l	34	1	1	0	0
+This study	North Shore Volcanics	ns041e	ns041	ns041e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	285.9	l	35.2	1	1	0	0
+This study	North Shore Volcanics	ns041f	ns041	ns041f3	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	286.5	l	32.6	1	1	0	0
+This study	North Shore Volcanics	ns043a	ns043	ns043a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	271.7	l	16.6	1	1	0	0
+This study	North Shore Volcanics	ns043b	ns043	ns043b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	280.4	l	14	1	1	0	0
+This study	North Shore Volcanics	ns043c	ns043	ns043c2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	282	l	13.5	1	1	0	0
+This study	North Shore Volcanics	ns043e	ns043	ns043e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	270.6	l	19.3	1	1	0	0
+This study	North Shore Volcanics	ns043f	ns043	ns043f2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	275.6	l	20.5	1	1	0	0
+This study	North Shore Volcanics	ns044e	ns044	ns044e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	281.7	l	29.7	1	1	0	0
+This study	North Shore Volcanics	ns045a	ns045	ns045a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	276.3	l	14.5	1	1	0	0
+This study	North Shore Volcanics	ns045b	ns045	ns045b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	275.5	l	18.4	1	1	0	0
+This study	North Shore Volcanics	ns045e	ns045	ns045e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	273.9	l	14	1	1	0	0
+This study	North Shore Volcanics	ns045f	ns045	ns045f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	274.8	l	14.6	1	1	0	0
+This study	North Shore Volcanics	ns046b	ns046	ns046b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	296.7	l	28.6	1	1	0	0
+This study	North Shore Volcanics	ns046c	ns046	ns046c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	303.1	l	31.2	1	1	0	0
+This study	North Shore Volcanics	ns046f	ns046	ns046f1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	300.4	l	27.2	1	1	0	0
+This study	North Shore Volcanics	ns046h	ns046	ns046h2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	308.3	l	20.9	1	1	0	0
+This study	North Shore Volcanics	ns048b	ns048	ns048b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	296.6	l	40.9	1	1	0	0
+This study	North Shore Volcanics	ns048c	ns048	ns048c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	299.4	l	36	1	1	0	0
+This study	North Shore Volcanics	ns048d	ns048	ns048d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	306.6	l	36.8	1	1	0	0
+This study	North Shore Volcanics	ns048e	ns048	ns048e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	305.8	l	48.5	1	1	0	0
+This study	North Shore Volcanics	ns049a	ns049	ns049a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	299.7	l	37.4	1	1	0	0
+This study	North Shore Volcanics	ns049b	ns049	ns049b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	293.7	l	31.8	1	1	0	0
+This study	North Shore Volcanics	ns049e	ns049	ns049e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	303.6	l	42.2	1	1	0	0
+This study	North Shore Volcanics	ns049f	ns049	ns049f2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	303.3	l	42	1	1	0	0
+This study	North Shore Volcanics	ns050a	ns050	ns050a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	290.3	l	30.3	1	1	0	0
+This study	North Shore Volcanics	ns050c	ns050	ns050c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	293.2	l	28.9	1	1	0	0
+This study	North Shore Volcanics	ns050d	ns050	ns050d2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	289.7	l	23.5	1	1	0	0
+This study	North Shore Volcanics	ns050f	ns050	ns050f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	291.6	l	23.9	1	1	0	0
+This study	North Shore Volcanics	ns052a	ns052	ns052a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	293.9	l	32.2	1	1	0	0
+This study	North Shore Volcanics	ns052c	ns052	ns052c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	302.8	l	42.2	1	1	0	0
+This study	North Shore Volcanics	ns052d	ns052	ns052d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	292.1	l	37.6	1	1	0	0
+This study	North Shore Volcanics	ns052f	ns052	ns052f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	291	l	40.6	1	1	0	0
+This study	North Shore Volcanics	ns053b	ns053	ns053b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	294	l	22.1	1	1	0	0
+This study	North Shore Volcanics	ns053c	ns053	ns053c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	294.4	l	28.3	1	1	0	0
+This study	North Shore Volcanics	ns053e	ns053	ns053e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	292.8	l	22.7	1	1	0	0
+This study	North Shore Volcanics	ns053f	ns053	ns053f2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	293.7	l	23.5	1	1	0	0
+This study	North Shore Volcanics	ns054b	ns054	ns054b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	281.6	l	35.9	1	1	0	0
+This study	North Shore Volcanics	ns054c	ns054	ns054c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	299.2	l	43.2	1	1	0	0
+This study	North Shore Volcanics	ns054d	ns054	ns054d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	287.1	l	40.2	1	1	0	0
+This study	North Shore Volcanics	ns054f	ns054	ns054f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	293.7	l	39.8	1	1	0	0
+This study	North Shore Volcanics	ns056b	ns056	ns056b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	295.1	l	21.3	1	1	0	0
+This study	North Shore Volcanics	ns056c	ns056	ns056c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	299.1	l	25.1	1	1	0	0
+This study	North Shore Volcanics	ns056d	ns056	ns056d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	296.9	l	24.3	1	1	0	0
+This study	North Shore Volcanics	ns056e	ns056	ns056e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	297.1	l	22.9	1	1	0	0
+This study	North Shore Volcanics	ns058a	ns058	ns058a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	309.8	l	32.2	1	1	0	0
+This study	North Shore Volcanics	ns058d	ns058	ns058d2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	301.1	l	30.8	1	1	0	0
+This study	North Shore Volcanics	ns058e	ns058	ns058e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	299.4	l	37.1	1	1	0	0
+This study	North Shore Volcanics	ns059a	ns059	ns059a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	281.5	l	25.1	1	1	0	0
+This study	North Shore Volcanics	ns059c	ns059	ns059c2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	288.5	l	22.6	1	1	0	0
+This study	North Shore Volcanics	ns059f	ns059	ns059f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	303.1	l	28	1	1	0	0
+This study	North Shore Volcanics	ns059g	ns059	ns059g2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	288.9	l	28.8	1	1	0	0
+This study	North Shore Volcanics	ns060d	ns060	ns060d1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	293.2	l	25.1	1	1	0	0
+This study	North Shore Volcanics	ns060d	ns060	ns060d2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	293.3	l	24.9	1	1	0	0
+This study	North Shore Volcanics	ns061b	ns061	ns061b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	295.2	l	35	1	1	0	0
+This study	North Shore Volcanics	ns061e	ns061	ns061e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	299.2	l	32	1	1	0	0
+This study	North Shore Volcanics	ns061f	ns061	ns061f2	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	301.5	l	29.5	1	1	0	0
+This study	North Shore Volcanics	ns061g	ns061	ns061g3	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	307.6	l	27.6	1	1	0	0
+This study	North Shore Volcanics	ns062b	ns062	ns062b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	290	l	37.8	1	1	0	0
+This study	North Shore Volcanics	ns062c	ns062	ns062c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	289.7	l	31.9	1	1	0	0
+This study	North Shore Volcanics	ns062e	ns062	ns062e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	293.4	l	29.8	1	1	0	0
+This study	North Shore Volcanics	ns062f	ns062	ns062f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	297.3	l	34.9	1	1	0	0
+This study	North Shore Volcanics	ns064b	ns064	ns064b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	298.5	l	30.8	1	1	0	0
+This study	North Shore Volcanics	ns064c	ns064	ns064c2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	298.3	l	32.9	1	1	0	0
+This study	North Shore Volcanics	ns064e	ns064	ns064e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	289.8	l	25.4	1	1	0	0
+This study	North Shore Volcanics	ns064f	ns064	ns064f2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	299.1	l	28.1	1	1	0	0
+This study	North Shore Volcanics	ns065b	ns065	ns065b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	294.8	l	36.7	1	1	0	0
+This study	North Shore Volcanics	ns065d	ns065	ns065d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	291	l	29.7	1	1	0	0
+This study	North Shore Volcanics	ns065e	ns065	ns065e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	286.6	l	30.9	1	1	0	0
+This study	North Shore Volcanics	ns065f	ns065	ns065f2	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	291.1	l	18.1	1	1	0	0
+This study	North Shore Volcanics	ns066b	ns066	ns066b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	302.6	l	33	1	1	0	0
+This study	North Shore Volcanics	ns067f	ns067	ns067f2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	286.7	l	26.2	1	1	0	0
+This study	North Shore Volcanics	ns068a	ns068	ns068a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	308.6	l	19.1	1	1	0	0
+This study	North Shore Volcanics	ns068b	ns068	ns068b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	319.8	l	14.2	1	1	0	0
+This study	North Shore Volcanics	ns068d	ns068	ns068d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	305.2	l	11.5	1	1	0	0
+This study	North Shore Volcanics	ns068f	ns068	ns068f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	309.6	l	19.4	1	1	0	0
+This study	North Shore Volcanics	ns069a	ns069	ns069a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	326.1	l	29.1	1	1	0	0
+This study	North Shore Volcanics	ns069f	ns069	ns069f2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	305.7	l	30.5	1	1	0	0
+This study	North Shore Volcanics	ns071b	ns071	ns071b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	310.4	l	19.8	1	1	0	0
+This study	North Shore Volcanics	ns071c	ns071	ns071c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	302.4	l	30.7	1	1	0	0
+This study	North Shore Volcanics	ns071d	ns071	ns071d2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	305.3	l	22.6	1	1	0	0
+This study	North Shore Volcanics	ns071e	ns071	ns071e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	309.5	l	36.6	1	1	0	0
+This study	North Shore Volcanics	ns071f	ns071	ns071f2	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	300.4	l	28	1	1	0	0
+This study	North Shore Volcanics	ns075a	ns075	ns075a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	302.6	l	40.8	1	1	0	0
+This study	North Shore Volcanics	ns075b	ns075	ns075b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	299	l	27.4	1	1	0	0
+This study	North Shore Volcanics	ns075c	ns075	ns075c2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	305.5	l	30.8	1	1	0	0
+This study	North Shore Volcanics	ns075d	ns075	ns075d2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	300.7	l	29.3	1	1	0	0
+This study	North Shore Volcanics	ns075f	ns075	ns075f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	304.7	l	37.2	1	1	0	0
+This study	North Shore Volcanics	ns076a	ns076	ns076a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	342.4	l	74.1	1	1	0	0
+This study	North Shore Volcanics	ns076b	ns076	ns076b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	115.1	l	40.6	1	1	0	0
+This study	North Shore Volcanics	ns076d	ns076	ns076d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	293.1	l	33.7	1	1	0	0
+This study	North Shore Volcanics	ns076e	ns076	ns076e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	33.1	l	41.5	1	1	0	0
+This study	North Shore Volcanics	ns076f	ns076	ns076f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	284.4	l	37.3	1	1	0	0
+This study	North Shore Volcanics	ns077b	ns077	ns077b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	309.7	l	14.7	1	1	0	0
+This study	North Shore Volcanics	ns077c	ns077	ns077c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	304.9	l	13.9	1	1	0	0
+This study	North Shore Volcanics	ns077f	ns077	ns077f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	307.3	l	22.7	1	1	0	0
+This study	North Shore Volcanics	ns077g	ns077	ns077g1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	300.1	l	14.7	1	1	0	0
+This study	North Shore Volcanics	ns079c	ns079	ns079c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	293.3	l	39.3	1	1	0	0
+This study	North Shore Volcanics	ns079e	ns079	ns079e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	292.9	l	28.8	1	1	0	0
+This study	North Shore Volcanics	ns083e	ns083	ns083e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	287.4	l	31.5	1	1	0	0
+This study	North Shore Volcanics	ns016c	ns016	ns016c1	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03		MAG	194.4	p	1.5	1	0	1	0
+This study	North Shore Volcanics	ns022a	ns022	ns022a1	LP-DIR-AF : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03		MAG	37.3	p	-5.4	1	0	1	0
+This study	North Shore Volcanics	ns058b	ns058	ns058b1	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03		MAG	350.9	p	-36.6	1	0	1	0
+This study	North Shore Volcanics	ns061a	ns061	ns061a1	LP-DIR-AF : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03		MAG	194.1	p	20.7	1	0	1	0
+This study	North Shore Volcanics	ns070b	ns070	ns070b1	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03		MAG	167.4	p	15.6	1	0	1	0
+This study	North Shore Volcanics	ns070e	ns070	ns070e1	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03		MAG	207.1	p	7.7	1	0	1	0
+This study	North Shore Volcanics	ns002a	ns002	ns002a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	281	l	43.7	1	1	0	100
+This study	North Shore Volcanics	ns004a	ns004	ns004a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	294	l	49.9	1	1	0	100
+This study	North Shore Volcanics	ns004c	ns004	ns004c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	295.2	l	55.3	1	1	0	100
+This study	North Shore Volcanics	ns004e	ns004	ns004e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	289.6	l	44.1	1	1	0	100
+This study	North Shore Volcanics	ns004f	ns004	ns004f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	290.5	l	43.8	1	1	0	100
+This study	North Shore Volcanics	ns004g	ns004	ns004g1	LP-DIR-AF : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	282.2	l	45.6	1	1	0	100
+This study	North Shore Volcanics	ns005b	ns005	ns005b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	302.1	l	36.5	1	1	0	100
+This study	North Shore Volcanics	ns005c	ns005	ns005c1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	304.9	l	37.2	1	1	0	100
+This study	North Shore Volcanics	ns005e	ns005	ns005e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	291.4	l	38.4	1	1	0	100
+This study	North Shore Volcanics	ns005g	ns005	ns005g1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	300.5	l	38	1	1	0	100
+This study	North Shore Volcanics	ns009b	ns009	ns009b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	277.2	l	49.9	1	1	0	100
+This study	North Shore Volcanics	ns012a	ns012	ns012a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	279.7	l	42.8	1	1	0	100
+This study	North Shore Volcanics	ns015d	ns015	ns015d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	292.1	l	23.5	1	1	0	100
+This study	North Shore Volcanics	ns016a	ns016	ns016a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	274.2	l	52.5	1	1	0	100
+This study	North Shore Volcanics	ns016b	ns016	ns016b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	269.9	l	49.1	1	1	0	100
+This study	North Shore Volcanics	ns016e	ns016	ns016e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	302.7	l	63.8	1	1	0	100
+This study	North Shore Volcanics	ns016f	ns016	ns016f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	274.2	l	57.2	1	1	0	100
+This study	North Shore Volcanics	ns019a	ns019	ns019a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	275.4	l	56.8	1	1	0	100
+This study	North Shore Volcanics	ns019b	ns019	ns019b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	277.4	l	47.3	1	1	0	100
+This study	North Shore Volcanics	ns019c	ns019	ns019c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	271.2	l	54.7	1	1	0	100
+This study	North Shore Volcanics	ns019d	ns019	ns019d2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	270.1	l	57.6	1	1	0	100
+This study	North Shore Volcanics	ns019e	ns019	ns019e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	274.9	l	57.3	1	1	0	100
+This study	North Shore Volcanics	ns022b	ns022	ns022b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	294.8	l	41.6	1	1	0	100
+This study	North Shore Volcanics	ns022c	ns022	ns022c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	301.2	l	41.5	1	1	0	100
+This study	North Shore Volcanics	ns022e	ns022	ns022e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	301.2	l	35.4	1	1	0	100
+This study	North Shore Volcanics	ns022f	ns022	ns022f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	303.8	l	33.6	1	1	0	100
+This study	North Shore Volcanics	ns024a	ns024	ns024a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	114.4	l	-72.1	1	1	0	100
+This study	North Shore Volcanics	ns026a	ns026	ns026a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	126.1	l	-61.4	1	1	0	100
+This study	North Shore Volcanics	ns026b	ns026	ns026b2	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	124.1	l	-63.3	1	1	0	100
+This study	North Shore Volcanics	ns026c	ns026	ns026c2	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	121	l	-64.9	1	1	0	100
+This study	North Shore Volcanics	ns026d	ns026	ns026d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	134.8	l	-58.3	1	1	0	100
+This study	North Shore Volcanics	ns026e	ns026	ns026e2	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	123.2	l	-62.2	1	1	0	100
+This study	North Shore Volcanics	ns027a	ns027	ns027a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	294.6	l	48.8	1	1	0	100
+This study	North Shore Volcanics	ns027b	ns027	ns027b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	290.3	l	41.1	1	1	0	100
+This study	North Shore Volcanics	ns027c	ns027	ns027c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	294.2	l	47.7	1	1	0	100
+This study	North Shore Volcanics	ns027d	ns027	ns027d2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	293.6	l	46.5	1	1	0	100
+This study	North Shore Volcanics	ns027e	ns027	ns027e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	297.4	l	49.6	1	1	0	100
+This study	North Shore Volcanics	ns028a	ns028	ns028a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	290.1	l	36.8	1	1	0	100
+This study	North Shore Volcanics	ns028b	ns028	ns028b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	293.4	l	31.5	1	1	0	100
+This study	North Shore Volcanics	ns028c	ns028	ns028c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	287.6	l	30.7	1	1	0	100
+This study	North Shore Volcanics	ns028e	ns028	ns028e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	286.1	l	33.1	1	1	0	100
+This study	North Shore Volcanics	ns028f	ns028	ns028f2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	286	l	31.3	1	1	0	100
+This study	North Shore Volcanics	ns029a	ns029	ns029a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	292.9	l	25.5	1	1	0	100
+This study	North Shore Volcanics	ns029b	ns029	ns029b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	294.6	l	28.4	1	1	0	100
+This study	North Shore Volcanics	ns031a	ns031	ns031a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	289.1	l	33.5	1	1	0	100
+This study	North Shore Volcanics	ns031b	ns031	ns031b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	287.8	l	32.3	1	1	0	100
+This study	North Shore Volcanics	ns031c	ns031	ns031c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	285.5	l	30.5	1	1	0	100
+This study	North Shore Volcanics	ns031d	ns031	ns031d2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	288.2	l	32.9	1	1	0	100
+This study	North Shore Volcanics	ns031f	ns031	ns031f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	289.6	l	35.5	1	1	0	100
+This study	North Shore Volcanics	ns033a	ns033	ns033a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	277.4	l	32.5	1	1	0	100
+This study	North Shore Volcanics	ns033b	ns033	ns033b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	273.7	l	29.9	1	1	0	100
+This study	North Shore Volcanics	ns035a	ns035	ns035a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	289.7	l	56.9	1	1	0	100
+This study	North Shore Volcanics	ns035b	ns035	ns035b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	294.4	l	55.8	1	1	0	100
+This study	North Shore Volcanics	ns035c	ns035	ns035c2	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	293.7	l	55.9	1	1	0	100
+This study	North Shore Volcanics	ns035d	ns035	ns035d2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	297.5	l	55.4	1	1	0	100
+This study	North Shore Volcanics	ns035e	ns035	ns035e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	293.6	l	55.5	1	1	0	100
+This study	North Shore Volcanics	ns036e	ns036	ns036e2	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	302.1	l	58.1	1	1	0	100
+This study	North Shore Volcanics	ns037a	ns037	ns037a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	292.9	l	52.6	1	1	0	100
+This study	North Shore Volcanics	ns037b	ns037	ns037b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	297.2	l	53.2	1	1	0	100
+This study	North Shore Volcanics	ns037c	ns037	ns037c2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	294.4	l	52.5	1	1	0	100
+This study	North Shore Volcanics	ns037f	ns037	ns037f2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	288.8	l	50.1	1	1	0	100
+This study	North Shore Volcanics	ns037g	ns037	ns037g1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	294	l	57.8	1	1	0	100
+This study	North Shore Volcanics	ns040a	ns040	ns040a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	292.3	l	57.1	1	1	0	100
+This study	North Shore Volcanics	ns040b	ns040	ns040b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	288.8	l	58.3	1	1	0	100
+This study	North Shore Volcanics	ns040c	ns040	ns040c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	282.4	l	54.3	1	1	0	100
+This study	North Shore Volcanics	ns040e	ns040	ns040e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	290.6	l	52.8	1	1	0	100
+This study	North Shore Volcanics	ns040f	ns040	ns040f2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	293.7	l	55	1	1	0	100
+This study	North Shore Volcanics	ns041a	ns041	ns041a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	287.4	l	51.4	1	1	0	100
+This study	North Shore Volcanics	ns041c	ns041	ns041c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	286.2	l	49.3	1	1	0	100
+This study	North Shore Volcanics	ns041d	ns041	ns041d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	279.7	l	49.7	1	1	0	100
+This study	North Shore Volcanics	ns041e	ns041	ns041e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	284.1	l	51.1	1	1	0	100
+This study	North Shore Volcanics	ns041f	ns041	ns041f3	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	285	l	48.5	1	1	0	100
+This study	North Shore Volcanics	ns043a	ns043	ns043a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	269.1	l	31.5	1	1	0	100
+This study	North Shore Volcanics	ns043b	ns043	ns043b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	279	l	29.7	1	1	0	100
+This study	North Shore Volcanics	ns043c	ns043	ns043c2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	280.9	l	29.2	1	1	0	100
+This study	North Shore Volcanics	ns043e	ns043	ns043e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	267.4	l	34.1	1	1	0	100
+This study	North Shore Volcanics	ns043f	ns043	ns043f2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	272.9	l	35.7	1	1	0	100
+This study	North Shore Volcanics	ns044e	ns044	ns044e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	279.3	l	45.3	1	1	0	100
+This study	North Shore Volcanics	ns045a	ns045	ns045a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	274.4	l	29.9	1	1	0	100
+This study	North Shore Volcanics	ns045b	ns045	ns045b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	273.1	l	33.7	1	1	0	100
+This study	North Shore Volcanics	ns045e	ns045	ns045e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	271.8	l	29.1	1	1	0	100
+This study	North Shore Volcanics	ns045f	ns045	ns045f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	272.8	l	29.9	1	1	0	100
+This study	North Shore Volcanics	ns046b	ns046	ns046b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	297.8	l	44.5	1	1	0	100
+This study	North Shore Volcanics	ns046c	ns046	ns046c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	306	l	46.9	1	1	0	100
+This study	North Shore Volcanics	ns046f	ns046	ns046f1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	302.2	l	43	1	1	0	100
+This study	North Shore Volcanics	ns046h	ns046	ns046h2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	311	l	36.2	1	1	0	100
+This study	North Shore Volcanics	ns048b	ns048	ns048b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	298.4	l	56.9	1	1	0	100
+This study	North Shore Volcanics	ns048c	ns048	ns048c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	301.8	l	51.8	1	1	0	100
+This study	North Shore Volcanics	ns048d	ns048	ns048d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	311.2	l	52.1	1	1	0	100
+This study	North Shore Volcanics	ns048e	ns048	ns048e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	312.9	l	63.8	1	1	0	100
+This study	North Shore Volcanics	ns049a	ns049	ns049a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	302.2	l	53.2	1	1	0	100
+This study	North Shore Volcanics	ns049b	ns049	ns049b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	294.2	l	47.8	1	1	0	100
+This study	North Shore Volcanics	ns049e	ns049	ns049e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	308.3	l	57.8	1	1	0	100
+This study	North Shore Volcanics	ns049f	ns049	ns049f2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	307.7	l	57.5	1	1	0	100
+This study	North Shore Volcanics	ns050a	ns050	ns050a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	290.1	l	48.3	1	1	0	100
+This study	North Shore Volcanics	ns050c	ns050	ns050c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	293.8	l	46.9	1	1	0	100
+This study	North Shore Volcanics	ns050d	ns050	ns050d2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	289.4	l	41.5	1	1	0	100
+This study	North Shore Volcanics	ns050f	ns050	ns050f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	291.8	l	41.9	1	1	0	100
+This study	North Shore Volcanics	ns052a	ns052	ns052a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	294.4	l	48.2	1	1	0	100
+This study	North Shore Volcanics	ns052c	ns052	ns052c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	307.1	l	57.8	1	1	0	100
+This study	North Shore Volcanics	ns052d	ns052	ns052d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	292.1	l	53.6	1	1	0	100
+This study	North Shore Volcanics	ns052f	ns052	ns052f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	290.6	l	56.6	1	1	0	100
+This study	North Shore Volcanics	ns053b	ns053	ns053b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	295.4	l	41	1	1	0	100
+This study	North Shore Volcanics	ns053c	ns053	ns053c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	296.3	l	47.2	1	1	0	100
+This study	North Shore Volcanics	ns053e	ns053	ns053e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	293.9	l	41.6	1	1	0	100
+This study	North Shore Volcanics	ns053f	ns053	ns053f2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	295	l	42.3	1	1	0	100
+This study	North Shore Volcanics	ns054b	ns054	ns054b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	278.4	l	51.6	1	1	0	100
+This study	North Shore Volcanics	ns054c	ns054	ns054c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	302.2	l	59	1	1	0	100
+This study	North Shore Volcanics	ns054d	ns054	ns054d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	285.3	l	56.1	1	1	0	100
+This study	North Shore Volcanics	ns054f	ns054	ns054f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	294.4	l	55.8	1	1	0	100
+This study	North Shore Volcanics	ns056b	ns056	ns056b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	295.9	l	39.2	1	1	0	100
+This study	North Shore Volcanics	ns056c	ns056	ns056c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	301	l	42.9	1	1	0	100
+This study	North Shore Volcanics	ns056d	ns056	ns056d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	298.3	l	42.2	1	1	0	100
+This study	North Shore Volcanics	ns056e	ns056	ns056e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	298.4	l	40.7	1	1	0	100
+This study	North Shore Volcanics	ns058a	ns058	ns058a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	315.5	l	49	1	1	0	100
+This study	North Shore Volcanics	ns058d	ns058	ns058d2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	304.1	l	48.5	1	1	0	100
+This study	North Shore Volcanics	ns058e	ns058	ns058e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	302.7	l	54.9	1	1	0	100
+This study	North Shore Volcanics	ns059a	ns059	ns059a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	279.2	l	42.8	1	1	0	100
+This study	North Shore Volcanics	ns059c	ns059	ns059c2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	287.9	l	40.5	1	1	0	100
+This study	North Shore Volcanics	ns059f	ns059	ns059f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	306.3	l	45.5	1	1	0	100
+This study	North Shore Volcanics	ns059g	ns059	ns059g2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	288.3	l	46.8	1	1	0	100
+This study	North Shore Volcanics	ns060d	ns060	ns060d1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	294.6	l	44	1	1	0	100
+This study	North Shore Volcanics	ns060d	ns060	ns060d2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	294.6	l	43.8	1	1	0	100
+This study	North Shore Volcanics	ns061b	ns061	ns061b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	298.1	l	53.8	1	1	0	100
+This study	North Shore Volcanics	ns061e	ns061	ns061e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	303	l	50.5	1	1	0	100
+This study	North Shore Volcanics	ns061f	ns061	ns061f2	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	305.7	l	47.8	1	1	0	100
+This study	North Shore Volcanics	ns061g	ns061	ns061g3	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	312.9	l	45.3	1	1	0	100
+This study	North Shore Volcanics	ns062b	ns062	ns062b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	290.9	l	56.8	1	1	0	100
+This study	North Shore Volcanics	ns062c	ns062	ns062c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	290.4	l	50.9	1	1	0	100
+This study	North Shore Volcanics	ns062e	ns062	ns062e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	295.1	l	48.7	1	1	0	100
+This study	North Shore Volcanics	ns062f	ns062	ns062f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	300.9	l	53.6	1	1	0	100
+This study	North Shore Volcanics	ns064b	ns064	ns064b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	301.9	l	49.4	1	1	0	100
+This study	North Shore Volcanics	ns064c	ns064	ns064c2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	301.9	l	51.4	1	1	0	100
+This study	North Shore Volcanics	ns064e	ns064	ns064e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	290.3	l	44.4	1	1	0	100
+This study	North Shore Volcanics	ns064f	ns064	ns064f2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	302.3	l	46.7	1	1	0	100
+This study	North Shore Volcanics	ns065b	ns065	ns065b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	297.6	l	55.5	1	1	0	100
+This study	North Shore Volcanics	ns065d	ns065	ns065d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	291.9	l	48.7	1	1	0	100
+This study	North Shore Volcanics	ns065e	ns065	ns065e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	286.1	l	49.9	1	1	0	100
+This study	North Shore Volcanics	ns065f	ns065	ns065f2	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	291.7	l	37.1	1	1	0	100
+This study	North Shore Volcanics	ns066b	ns066	ns066b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	307.8	l	51.2	1	1	0	100
+This study	North Shore Volcanics	ns067f	ns067	ns067f2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	286.4	l	45.2	1	1	0	100
+This study	North Shore Volcanics	ns068a	ns068	ns068a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	312.4	l	36.7	1	1	0	100
+This study	North Shore Volcanics	ns068b	ns068	ns068b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	324.1	l	30	1	1	0	100
+This study	North Shore Volcanics	ns068d	ns068	ns068d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	307.5	l	29.6	1	1	0	100
+This study	North Shore Volcanics	ns068f	ns068	ns068f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	313.8	l	36.8	1	1	0	100
+This study	North Shore Volcanics	ns069a	ns069	ns069a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	335.6	l	43.1	1	1	0	100
+This study	North Shore Volcanics	ns069f	ns069	ns069f2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	311.3	l	48.3	1	1	0	100
+This study	North Shore Volcanics	ns071b	ns071	ns071b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	314.7	l	37.1	1	1	0	100
+This study	North Shore Volcanics	ns071c	ns071	ns071c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	307	l	48.9	1	1	0	100
+This study	North Shore Volcanics	ns071d	ns071	ns071d2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	309.2	l	40.6	1	1	0	100
+This study	North Shore Volcanics	ns071e	ns071	ns071e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	317.9	l	53.8	1	1	0	100
+This study	North Shore Volcanics	ns071f	ns071	ns071f2	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	303.9	l	46.4	1	1	0	100
+This study	North Shore Volcanics	ns075a	ns075	ns075a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	309.7	l	58.9	1	1	0	100
+This study	North Shore Volcanics	ns075b	ns075	ns075b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	302.1	l	46	1	1	0	100
+This study	North Shore Volcanics	ns075c	ns075	ns075c2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	311.1	l	48.6	1	1	0	100
+This study	North Shore Volcanics	ns075d	ns075	ns075d2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	304.6	l	47.7	1	1	0	100
+This study	North Shore Volcanics	ns075f	ns075	ns075f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	311.6	l	55.1	1	1	0	100
+This study	North Shore Volcanics	ns076a	ns076	ns076a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	54.2	l	74	1	1	0	100
+This study	North Shore Volcanics	ns076b	ns076	ns076b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	113.8	l	21.8	1	1	0	100
+This study	North Shore Volcanics	ns076d	ns076	ns076d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	295	l	52.6	1	1	0	100
+This study	North Shore Volcanics	ns076e	ns076	ns076e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	46.9	l	34.3	1	1	0	100
+This study	North Shore Volcanics	ns076f	ns076	ns076f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	282.9	l	56.2	1	1	0	100
+This study	North Shore Volcanics	ns077b	ns077	ns077b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	313	l	32.2	1	1	0	100
+This study	North Shore Volcanics	ns077c	ns077	ns077c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	307.4	l	32	1	1	0	100
+This study	North Shore Volcanics	ns077f	ns077	ns077f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	311.6	l	40.4	1	1	0	100
+This study	North Shore Volcanics	ns077g	ns077	ns077g1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	302	l	33.3	1	1	0	100
+This study	North Shore Volcanics	ns079c	ns079	ns079c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	295.8	l	58.2	1	1	0	100
+This study	North Shore Volcanics	ns079e	ns079	ns079e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	294.4	l	47.8	1	1	0	100
+This study	North Shore Volcanics	ns083e	ns083	ns083e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	287.2	l	50.5	1	1	0	100
+This study	North Shore Volcanics	ns016c	ns016	ns016c1	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03		MAG	194.8	p	-9.1	1	0	1	100
+This study	North Shore Volcanics	ns022a	ns022	ns022a1	LP-DIR-AF : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03		MAG	37.2	p	2.5	1	0	1	100
+This study	North Shore Volcanics	ns058b	ns058	ns058b1	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03		MAG	341.8	p	-26.2	1	0	1	100
+This study	North Shore Volcanics	ns061a	ns061	ns061a1	LP-DIR-AF : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03		MAG	187.4	p	18.2	1	0	1	100
+This study	North Shore Volcanics	ns070b	ns070	ns070b1	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03		MAG	344.4	p	-5.5	1	0	1	100
+This study	North Shore Volcanics	ns070e	ns070	ns070e1	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03		MAG	204.1	p	10.2	1	0	1	100
+This study	North Shore Volcanics	ns003d	ns003	ns003d2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	296.8	l	39.7	1	1	0	0
+This study	North Shore Volcanics	ns003e	ns003	ns003e1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	298.6	l	37.4	1	1	0	0
+This study	North Shore Volcanics	ns003f	ns003	ns003f1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	293.6	l	46.9	1	1	0	0
+This study	North Shore Volcanics	ns017a	ns017	ns017a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	22.9	l	50.5	1	1	0	0
+This study	North Shore Volcanics	ns025g	ns025	ns025g1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	141.6	l	-60.7	1	1	0	0
+This study	North Shore Volcanics	ns030a	ns030	ns030a1	LP-DIR-AF : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	298.7	l	28.8	1	1	0	0
+This study	North Shore Volcanics	ns030f	ns030	ns030f2	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	290.6	l	33	1	1	0	0
+This study	North Shore Volcanics	ns032e	ns032	ns032e1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	297.5	l	35.2	1	1	0	0
+This study	North Shore Volcanics	ns032f	ns032	ns032f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	298.9	l	33.4	1	1	0	0
+This study	North Shore Volcanics	ns038b	ns038	ns038b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	281.1	l	14.5	1	1	0	0
+This study	North Shore Volcanics	ns038c	ns038	ns038c1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	293.8	l	19.7	1	1	0	0
+This study	North Shore Volcanics	ns042a	ns042	ns042a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	286.9	l	28.7	1	1	0	0
+This study	North Shore Volcanics	ns042b	ns042	ns042b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	304.6	l	32.4	1	1	0	0
+This study	North Shore Volcanics	ns047a	ns047	ns047a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	307.1	l	44.8	1	1	0	0
+This study	North Shore Volcanics	ns047f	ns047	ns047f2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	303.2	l	36.2	1	1	0	0
+This study	North Shore Volcanics	ns051a	ns051	ns051a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	290.5	l	27.6	1	1	0	0
+This study	North Shore Volcanics	ns051b	ns051	ns051b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	299.8	l	23.6	1	1	0	0
+This study	North Shore Volcanics	ns057a	ns057	ns057a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	288.1	l	9.4	1	1	0	0
+This study	North Shore Volcanics	ns057b	ns057	ns057b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	288.6	l	11.9	1	1	0	0
+This study	North Shore Volcanics	ns063b	ns063	ns063b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	300.5	l	21.8	1	1	0	0
+This study	North Shore Volcanics	ns063c	ns063	ns063c2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	297.3	l	15	1	1	0	0
+This study	North Shore Volcanics	ns073e	ns073	ns073e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	HEM	311.2	l	10.2	1	1	0	0
+This study	North Shore Volcanics	ns072c	ns072	ns072c1	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03		HEM	180.3	p	22.9	1	0	1	0
+This study	North Shore Volcanics	ns072e	ns072	ns072e1	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03		HEM	192.8	p	18.1	1	0	1	0
+This study	North Shore Volcanics	ns074a	ns074	ns074a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03		HEM	128.9	p	56.5	1	0	1	0
+This study	North Shore Volcanics	ns003d	ns003	ns003d2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	287.5	l	46.6	1	1	0	100
+This study	North Shore Volcanics	ns003e	ns003	ns003e1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	290.3	l	44.7	1	1	0	100
+This study	North Shore Volcanics	ns003f	ns003	ns003f1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	281.2	l	53	1	1	0	100
+This study	North Shore Volcanics	ns017a	ns017	ns017a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	37.7	l	54.5	1	1	0	100
+This study	North Shore Volcanics	ns025g	ns025	ns025g1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	126.7	l	-67.7	1	1	0	100
+This study	North Shore Volcanics	ns030a	ns030	ns030a1	LP-DIR-AF : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	293.3	l	33.2	1	1	0	100
+This study	North Shore Volcanics	ns030f	ns030	ns030f2	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	284	l	36	1	1	0	100
+This study	North Shore Volcanics	ns032e	ns032	ns032e1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	289.8	l	42.6	1	1	0	100
+This study	North Shore Volcanics	ns032f	ns032	ns032f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	291.9	l	41.1	1	1	0	100
+This study	North Shore Volcanics	ns038b	ns038	ns038b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	279.7	l	25.9	1	1	0	100
+This study	North Shore Volcanics	ns038c	ns038	ns038c1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	293.2	l	31.6	1	1	0	100
+This study	North Shore Volcanics	ns042a	ns042	ns042a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	285.7	l	44.6	1	1	0	100
+This study	North Shore Volcanics	ns042b	ns042	ns042b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	307.9	l	48	1	1	0	100
+This study	North Shore Volcanics	ns047a	ns047	ns047a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	313.7	l	60	1	1	0	100
+This study	North Shore Volcanics	ns047f	ns047	ns047f2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	306.7	l	51.8	1	1	0	100
+This study	North Shore Volcanics	ns051a	ns051	ns051a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	290.3	l	45.6	1	1	0	100
+This study	North Shore Volcanics	ns051b	ns051	ns051b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	301.8	l	41.4	1	1	0	100
+This study	North Shore Volcanics	ns057a	ns057	ns057a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	288.1	l	28.4	1	1	0	100
+This study	North Shore Volcanics	ns057b	ns057	ns057b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	288.7	l	30.9	1	1	0	100
+This study	North Shore Volcanics	ns063b	ns063	ns063b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	303.2	l	40.2	1	1	0	100
+This study	North Shore Volcanics	ns063c	ns063	ns063c2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	298.8	l	33.7	1	1	0	100
+This study	North Shore Volcanics	ns073e	ns073	ns073e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	HEM	313.9	l	27.5	1	1	0	100
+This study	North Shore Volcanics	ns072c	ns072	ns072c1	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03		HEM	174	p	16.1	1	0	1	100
+This study	North Shore Volcanics	ns072e	ns072	ns072e1	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03		HEM	187.1	p	15.4	1	0	1	100
+This study	North Shore Volcanics	ns074a	ns074	ns074a1	LP-DIR-AF : LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03		HEM	122.6	p	38.4	1	0	1	100
+This study	North Shore Volcanics	ns003a	ns003	ns003a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	294.8	l	39.8	1	1	0	0
+This study	North Shore Volcanics	ns003b	ns003	ns003b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	299.1	l	41.3	1	1	0	0
+This study	North Shore Volcanics	ns017c	ns017	ns017c1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	5.5	l	50	1	1	0	0
+This study	North Shore Volcanics	ns017d	ns017	ns017d2	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	19.8	l	48	1	1	0	0
+This study	North Shore Volcanics	ns017f	ns017	ns017f1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	17.1	l	50.5	1	1	0	0
+This study	North Shore Volcanics	ns025a	ns025	ns025a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	146.4	l	-58	1	1	0	0
+This study	North Shore Volcanics	ns025b	ns025	ns025b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	136	l	-61.9	1	1	0	0
+This study	North Shore Volcanics	ns025d	ns025	ns025d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	91.9	l	-63.5	1	1	0	0
+This study	North Shore Volcanics	ns025e	ns025	ns025e1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	149.8	l	-68.6	1	1	0	0
+This study	North Shore Volcanics	ns030b	ns030	ns030b1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	295.1	l	29.4	1	1	0	0
+This study	North Shore Volcanics	ns030c	ns030	ns030c1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	299.7	l	28.7	1	1	0	0
+This study	North Shore Volcanics	ns030d	ns030	ns030d2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	290.9	l	30.6	1	1	0	0
+This study	North Shore Volcanics	ns032a	ns032	ns032a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	291.4	l	34.4	1	1	0	0
+This study	North Shore Volcanics	ns032b	ns032	ns032b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	293.1	l	32.4	1	1	0	0
+This study	North Shore Volcanics	ns032c	ns032	ns032c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	286.6	l	29.1	1	1	0	0
+This study	North Shore Volcanics	ns038a	ns038	ns038a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	277	l	17.4	1	1	0	0
+This study	North Shore Volcanics	ns038d	ns038	ns038d1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	296	l	17.7	1	1	0	0
+This study	North Shore Volcanics	ns038f	ns038	ns038f1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	287.7	l	17.7	1	1	0	0
+This study	North Shore Volcanics	ns042c	ns042	ns042c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	284.5	l	23.6	1	1	0	0
+This study	North Shore Volcanics	ns042d	ns042	ns042d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	289	l	23.6	1	1	0	0
+This study	North Shore Volcanics	ns042e	ns042	ns042e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	294.1	l	26.2	1	1	0	0
+This study	North Shore Volcanics	ns047b	ns047	ns047b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	305	l	41.1	1	1	0	0
+This study	North Shore Volcanics	ns047c	ns047	ns047c2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	309.6	l	40.9	1	1	0	0
+This study	North Shore Volcanics	ns047e	ns047	ns047e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	307.6	l	39.5	1	1	0	0
+This study	North Shore Volcanics	ns051c	ns051	ns051c1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	285.8	l	24.4	1	1	0	0
+This study	North Shore Volcanics	ns051d	ns051	ns051d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	294.7	l	20.2	1	1	0	0
+This study	North Shore Volcanics	ns051e	ns051	ns051e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	293.3	l	24.1	1	1	0	0
+This study	North Shore Volcanics	ns057c	ns057	ns057c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	285.6	l	11.4	1	1	0	0
+This study	North Shore Volcanics	ns057d	ns057	ns057d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	288	l	9.3	1	1	0	0
+This study	North Shore Volcanics	ns057e	ns057	ns057e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	288.6	l	10.9	1	1	0	0
+This study	North Shore Volcanics	ns063e	ns063	ns063e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	297.4	l	11.7	1	1	0	0
+This study	North Shore Volcanics	ns063f	ns063	ns063f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	295.3	l	12.4	1	1	0	0
+This study	North Shore Volcanics	ns072b	ns072	ns072b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	289.8	l	39.1	1	1	0	0
+This study	North Shore Volcanics	ns072d	ns072	ns072d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	285.4	l	32.6	1	1	0	0
+This study	North Shore Volcanics	ns073b	ns073	ns073b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	293.8	l	20	1	1	0	0
+This study	North Shore Volcanics	ns073c	ns073	ns073c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	311.3	l	17	1	1	0	0
+This study	North Shore Volcanics	ns073d	ns073	ns073d2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	304.9	l	18.3	1	1	0	0
+This study	North Shore Volcanics	ns074b	ns074	ns074b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO	pmagpy-2.03	DE-SPEC	MAG	292.6	l	37.8	1	1	0	0
+This study	North Shore Volcanics	ns063a	ns063	ns063a1	LP-DIR-AF : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03		MAG	30.3	p	2.7	1	0	1	0
+This study	North Shore Volcanics	ns072a	ns072	ns072a1	LP-DIR-AF : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03		MAG	190.8	p	17.8	1	0	1	0
+This study	North Shore Volcanics	ns074c	ns074	ns074c2	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03		MAG	195.5	p	12.9	1	0	1	0
+This study	North Shore Volcanics	ns074d	ns074	ns074d1	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03		MAG	194.3	p	12.5	1	0	1	0
+This study	North Shore Volcanics	ns074e	ns074	ns074e2	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO	pmagpy-2.03		MAG	348	p	-15.6	1	0	1	0
+This study	North Shore Volcanics	ns003a	ns003	ns003a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	285.3	l	46.4	1	1	0	100
+This study	North Shore Volcanics	ns003b	ns003	ns003b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	289.5	l	48.6	1	1	0	100
+This study	North Shore Volcanics	ns017c	ns017	ns017c1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	18.5	l	57.4	1	1	0	100
+This study	North Shore Volcanics	ns017d	ns017	ns017d2	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	33.2	l	52.8	1	1	0	100
+This study	North Shore Volcanics	ns017f	ns017	ns017f1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	31.6	l	55.7	1	1	0	100
+This study	North Shore Volcanics	ns025a	ns025	ns025a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	134.4	l	-65.7	1	1	0	100
+This study	North Shore Volcanics	ns025b	ns025	ns025b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	118.9	l	-68	1	1	0	100
+This study	North Shore Volcanics	ns025d	ns025	ns025d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	72.5	l	-62.1	1	1	0	100
+This study	North Shore Volcanics	ns025e	ns025	ns025e1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	128.9	l	-76.3	1	1	0	100
+This study	North Shore Volcanics	ns030b	ns030	ns030b1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	289.5	l	33.2	1	1	0	100
+This study	North Shore Volcanics	ns030c	ns030	ns030c1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	294.3	l	33.2	1	1	0	100
+This study	North Shore Volcanics	ns030d	ns030	ns030d2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	284.9	l	33.7	1	1	0	100
+This study	North Shore Volcanics	ns032a	ns032	ns032a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	283.5	l	40.7	1	1	0	100
+This study	North Shore Volcanics	ns032b	ns032	ns032b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	285.8	l	39.1	1	1	0	100
+This study	North Shore Volcanics	ns032c	ns032	ns032c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	279.9	l	34.7	1	1	0	100
+This study	North Shore Volcanics	ns038a	ns038	ns038a1	LP-DIR-AF : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	275	l	28.5	1	1	0	100
+This study	North Shore Volcanics	ns038d	ns038	ns038d1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	295.7	l	29.7	1	1	0	100
+This study	North Shore Volcanics	ns038f	ns038	ns038f1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	286.7	l	29.4	1	1	0	100
+This study	North Shore Volcanics	ns042c	ns042	ns042c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	283.1	l	39.4	1	1	0	100
+This study	North Shore Volcanics	ns042d	ns042	ns042d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	288.5	l	39.5	1	1	0	100
+This study	North Shore Volcanics	ns042e	ns042	ns042e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	294.6	l	42.1	1	1	0	100
+This study	North Shore Volcanics	ns047b	ns047	ns047b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	309.9	l	56.6	1	1	0	100
+This study	North Shore Volcanics	ns047c	ns047	ns047c2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	316	l	55.9	1	1	0	100
+This study	North Shore Volcanics	ns047e	ns047	ns047e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	313.1	l	54.8	1	1	0	100
+This study	North Shore Volcanics	ns051c	ns051	ns051c1	LP-DIR-T : SO-CMD-NORTH : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	284.6	l	42.3	1	1	0	100
+This study	North Shore Volcanics	ns051d	ns051	ns051d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	295.5	l	38.1	1	1	0	100
+This study	North Shore Volcanics	ns051e	ns051	ns051e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	293.8	l	42	1	1	0	100
+This study	North Shore Volcanics	ns057c	ns057	ns057c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	285.2	l	30.4	1	1	0	100
+This study	North Shore Volcanics	ns057d	ns057	ns057d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	288	l	28.3	1	1	0	100
+This study	North Shore Volcanics	ns057e	ns057	ns057e2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	288.7	l	29.9	1	1	0	100
+This study	North Shore Volcanics	ns063e	ns063	ns063e1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	298.7	l	30.4	1	1	0	100
+This study	North Shore Volcanics	ns063f	ns063	ns063f1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	296.3	l	31.2	1	1	0	100
+This study	North Shore Volcanics	ns072b	ns072	ns072b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	290.7	l	58.1	1	1	0	100
+This study	North Shore Volcanics	ns072d	ns072	ns072d1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	284.4	l	51.6	1	1	0	100
+This study	North Shore Volcanics	ns073b	ns073	ns073b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	295.1	l	38.9	1	1	0	100
+This study	North Shore Volcanics	ns073c	ns073	ns073c1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	315.2	l	34.2	1	1	0	100
+This study	North Shore Volcanics	ns073d	ns073	ns073d2	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	308	l	36.4	1	1	0	100
+This study	North Shore Volcanics	ns074b	ns074	ns074b1	LP-DIR-T : SO-SUN : DE-BFL : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03	DE-SPEC	MAG	294.6	l	56.7	1	1	0	100
+This study	North Shore Volcanics	ns063a	ns063	ns063a1	LP-DIR-AF : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03		MAG	30.5	p	-1.4	1	0	1	100
+This study	North Shore Volcanics	ns072a	ns072	ns072a1	LP-DIR-AF : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03		MAG	185.3	p	14.5	1	0	1	100
+This study	North Shore Volcanics	ns074c	ns074	ns074c2	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03		MAG	191.4	p	11.4	1	0	1	100
+This study	North Shore Volcanics	ns074d	ns074	ns074d1	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03		MAG	190.4	p	10.6	1	0	1	100
+This study	North Shore Volcanics	ns074e	ns074	ns074e2	LP-DIR-T : SO-SUN : DE-BFP : DA-DIR-GEO : DA-DIR-TILT	pmagpy-2.03		MAG	164.9	p	5.6	1	0	1	100

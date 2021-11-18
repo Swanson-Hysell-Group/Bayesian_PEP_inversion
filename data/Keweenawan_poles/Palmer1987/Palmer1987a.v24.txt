@@ -1,0 +1,120 @@
+tab delimited	er_locations
+er_location_name	location_type	location_begin_lat	location_begin_lon	location_end_lat	location_end_lon	continent_ocean	country	region	geological_province_section	location_class	location_lithology	location_description	er_citation_names
+Mamainse Point Formation, Michipicoten Island	Outcrop	47.7	274.3	47.7	274.3	North America	Canada	Ontario	Mamainse Point Formation	Extrusive	Basalt	Overlain by Michipicoten Island Formation. Southerly dips 40-50 degrees to 10-15 degrees. .	This study
+Michipicoten Island Formation	Outcrop	47.7	274.3	47.7	274.3	North America	Canada	Ontario	Michipicoten Island Formation	Extrusive	Basalt : Andesite	Underlain by Mamainse Point Formation. Southerly dips 40-50 degrees to 10-15 degrees.	This study
+Michipicoten Island Intrusive	Outcrop	47.7	274.3	47.7	274.3	North America	Canada	Ontario	Michipicoten Island Intrusive	Intrusive	Intrusives	Intrudes Mamainse Point and Michipicoten Island Formations. Southerly dips 40-50 degrees to 10-15 degrees.	This study
+>>>>>>>>>>
+tab delimited	er_sites
+er_site_name	er_location_name	site_definition	site_class	site_lithology	site_type	site_lat	site_lon	site_bed_dip_direction	site_bed_dip	magic_method_codes	er_citation_names
+20	Michipicoten Island Intrusive	s	Intrusive	Quartz Feldspar Porphyry	Sill	47.75	274.4	160	20	FS-LOC-GOOGLE	This study
+21	Michipicoten Island Intrusive	s	Intrusive	Quartz Feldspar Porphyry	Sill	47.79	274.18	180	51	FS-LOC-GOOGLE	This study
+6	Michipicoten Island Intrusive	s	Intrusive	Quartz Feldspar Porphyry	Sill	47.73	274.04	170	25	FS-LOC-GOOGLE	This study
+19	Mamainse Point Formation, Michipicoten Island	s	Extrusive	Basalt	Lava Flow	47.8	274.25	206	51	FS-LOC-GOOGLE	This study
+18	Mamainse Point Formation, Michipicoten Island	s	Extrusive	Basalt	Lava Flow	47.79	274.28	360	80	FS-LOC-GOOGLE	This study
+7	Mamainse Point Formation, Michipicoten Island	s	Extrusive	Basalt	Lava Flow	47.75	274.07	110	42	FS-LOC-GOOGLE	This study
+8	Mamainse Point Formation, Michipicoten Island	s	Extrusive	Basalt	Lava Flow	47.74	274.4	200	42	FS-LOC-GOOGLE	This study
+22	Mamainse Point Formation, Michipicoten Island	s	Extrusive	Basalt	Lava Flow	47.73	274.38	190	40	FS-LOC-GOOGLE	This study
+10	Mamainse Point Formation, Michipicoten Island	s	Extrusive	Basalt	Lava Flow	47.71	274.06	200	32	FS-LOC-GOOGLE	This study
+9	Mamainse Point Formation, Michipicoten Island	s	Extrusive	Basalt	Lava Flow	47.73	274.39	180	35	FS-LOC-GOOGLE	This study
+23	Mamainse Point Formation, Michipicoten Island	s	Extrusive	Basalt	Lava Flow	47.71	274.06	180	33	FS-LOC-GOOGLE	This study
+KM	Mamainse Point Formation, Michipicoten Island	c	Extrusive	Basalt	Lava Flow	47.71	274.13			FS-LOC-GOOGLE	This study
+11	Michipicoten Island Formation	s	Extrusive	Andesite	Lava Flow	47.72	274.04	180	25	FS-LOC-GOOGLE	This study
+1	Michipicoten Island Formation	s	Extrusive	Andesite	Lava Flow	47.72	274.05	180	19	FS-LOC-GOOGLE	This study
+24	Michipicoten Island Formation	s	Extrusive	Andesite	Lava Flow	47.72	274.06	200	30	FS-LOC-GOOGLE	This study
+12	Michipicoten Island Formation	s	Extrusive	Andesite	Lava Flow	47.74	274.4	160	19	FS-LOC-GOOGLE	This study
+25	Michipicoten Island Formation	s	Extrusive	Andesite	Lava Flow	47.73	274.38	160	20	FS-LOC-GOOGLE	This study
+3	Michipicoten Island Formation	s	Extrusive	Andesite	Lava Flow	47.71	274.06	167	20	FS-LOC-GOOGLE	This study
+13	Michipicoten Island Formation	s	Extrusive	Andesite	Lava Flow	47.73	274.39	155	17	FS-LOC-GOOGLE	This study
+2	Michipicoten Island Formation	s	Extrusive	Andesite	Lava Flow	47.71	274.06	190	22	FS-LOC-GOOGLE	This study
+4	Michipicoten Island Formation	s	Extrusive	Andesite	Lava Flow	47.71	274.13	170	14	FS-LOC-GOOGLE	This study
+14	Michipicoten Island Formation	s	Extrusive	Basalt	Lava Flow	47.73	274.36	185	19	FS-LOC-GOOGLE	This study
+5	Michipicoten Island Formation	s	Extrusive	Basalt	Lava Flow	47.7	274.15	160	30	FS-LOC-GOOGLE	This study
+16	Michipicoten Island Formation	s	Extrusive	Basalt	Lava Flow	47.71	274.21	170	16	FS-LOC-GOOGLE	This study
+15	Michipicoten Island Formation	s	Extrusive	Rhyolite	Lava Flow	47.7	274.21	160	21	FS-LOC-GOOGLE	This study
+17	Michipicoten Island Formation	s	Extrusive	Rhyolite	Lava Flow	47.69	274.17	167	22	FS-LOC-GOOGLE	This study
+>>>>>>>>>>
+tab delimited	er_ages
+er_location_name	age_range_low	age_range_high	age_unit	timescale_eon	timescale_era	timescale_period	age_description	magic_method_codes	er_timescale_citation_names	er_citation_names
+Mamainse Point Formation, Michipicoten Island	1084	1100	Ma	Proterozoic	Mesoproterozoic	Stenian	U-Pb zircon, intruded porphyry has age 1086. 5+1. 3/-3. 0 Ma.	GM-UPB	Gradstein et al. 2004	This study
+Michipicoten Island Formation	1070	1088	Ma	Proterozoic	Mesoproterozoic	Stenian	U-Pb zircon on underlying porphyry 1086. 5+1. 3/-3. 0 Ma.	GM-UPB	Gradstein et al. 2004	This study
+Michipicoten Island Intrusive	1070	1088	Ma	Proterozoic	Mesoproterozoic	Stenian	U-Pb zircon . Younger than 1086. 5+1. 3/-3. 0 Ma.	GM-UPB	Gradstein et al. 2004	This study
+>>>>>>>>>>
+tab delimited	er_citations	MAGIC00429139
+er_citation_name	long_authors	year	title	citation_type	journal	volume	pages	book_title	book_editors	publisher	city
+This study	Palmer, H.C. and Davis, D.W.	1987	Paleomagnetism and U-Pb geochronology of volcanic rocks from Michipicoten Island, Lake Superior, Canada: precise calibration of the Keweenawan polar wander track	Journal	Precambrian Research	37	157-171				
+As & Zijderveld 1958	As, J.A. and Zijderveld, J.D.A.	1958	Magnetic cleaning of rocks in paleomagnetic research	Journal	Geophysical Journal International	1	308-319				
+Collinson 1983	Collinson, D.W.	1983		Book			503	Methods in rock magnetism and Paleomagnetism: Techniques and instrumentation		Chapman and Hall	London
+Cox & Doell 1960	Cox, A. and Doell, R.R.	1960	Review of paleomagnetism	Journal	Geological Society of America, Bulletin	71	645				
+Gradstein et al. 2004	Gradstein, F.M., Ogg, J.G. and Smith, A.G.	2004		Book			588	A Geologic Time Scale		Cambridge University Press	Cambridge
+McElhinny & McFadden 2000	McElhinny, M.W. and McFadden, P.L.	2000		Serial Book	International Geophysics Series	73	1-1	Paleomagnetism: continents and oceans	Dmowska, R., Holton, J.R. and Rossby, H.T.	Academic Press	San Diego
+Wilson 1961	Wilson, R.L.	1961	Palaeomagnetism in Northern Ireland, Part I. The thermal demagnetization of natural magnetic moments in rocks	Journal	Geophysical Journal of the Royal Astronomical Society	5	45-58				
+>>>>>>>>>>
+tab delimited	pmag_sites
+er_location_name	er_site_name	site_polarity	site_nrm	site_direction_type	site_flag	site_comp_name	site_inc	site_dec	site_alpha95	site_n	site_k	site_r	site_tilt_correction	magic_method_codes	er_citation_names
+Michipicoten Island Intrusive	20	r	p	l	g	Characteristic	-3	288	17.7	4	28	3.892	100	LP-DC4 : LT-AF-Z : LT-T-Z	This study
+Michipicoten Island Intrusive	21	n	p	l	g	Characteristic	12	313	7.8	4	140	3.979	100	LP-DC4 : LT-AF-Z : LT-T-Z	This study
+Michipicoten Island Intrusive	6	n	p	l	g	Characteristic	25	297	13	5	36	4.888	100	LP-DC4 : LT-AF-Z : LT-T-Z	This study
+Mamainse Point Formation, Michipicoten Island	19	n	p	l	g	Characteristic	33	321	3.2	4	809	3.996	100	LP-DC4 : LT-AF-Z : LT-T-Z	This study
+Mamainse Point Formation, Michipicoten Island	18	n	p	l	b	Characteristic	47	217	13.4	6	26	5.808	100	LP-DC4 : LT-AF-Z : LT-T-Z	This study
+Mamainse Point Formation, Michipicoten Island	7	n	p	l	g	Characteristic	61	277	8.4	5	52	6.886	100	LP-DC4 : LT-AF-Z : LT-T-Z	This study
+Mamainse Point Formation, Michipicoten Island	8	n	p	l	g	Characteristic	30	299	11.9	4	33	5.847	100	LP-DC4 : LT-AF-Z : LT-T-Z	This study
+Mamainse Point Formation, Michipicoten Island	22	n	p	l	g	Characteristic	46	270	3.4	4	399	5.987	100	LP-DC4 : LT-AF-Z : LT-T-Z	This study
+Mamainse Point Formation, Michipicoten Island	10	n	p	l	g	Characteristic	41	300	3	5	508	5.99	100	LP-DC4 : LT-AF-Z : LT-T-Z	This study
+Mamainse Point Formation, Michipicoten Island	9	n	p	l	g	Characteristic	54	296	3.3	4	537	4.993	100	LP-DC4 : LT-AF-Z : LT-T-Z	This study
+Mamainse Point Formation, Michipicoten Island	23	n	p	l	g	Characteristic	40	303	2.7	4	2044	2.999	100	LP-DC4 : LT-AF-Z : LT-T-Z	This study
+Mamainse Point Formation, Michipicoten Island	KM	n	p	l	g	Characteristic	51	299	8.2	5	68	5.927	100	LP-DC4 : LT-AF-Z : LT-T-Z	This study
+Michipicoten Island Formation	11	n	p	l	g	Characteristic	39	321		4	1	1.736	100	LP-DC4 : LT-AF-Z : LT-T-Z	This study
+Michipicoten Island Formation	1	n	p	l	g	Characteristic	20	304	14.6	6	22	5.772	100	LP-DC4 : LT-AF-Z : LT-T-Z	This study
+Michipicoten Island Formation	24	n	p	l	g	Characteristic	26	299	12.1	5	41	4.903	100	LP-DC4 : LT-AF-Z : LT-T-Z	This study
+Michipicoten Island Formation	12	n	p	l	g	Characteristic	21	276	24.5	4	15	3.8	100	LP-DC4 : LT-AF-Z : LT-T-Z	This study
+Michipicoten Island Formation	25	n	p	l	g	Characteristic	8	311	5.2	4	313	3.99	100	LP-DC4 : LT-AF-Z : LT-T-Z	This study
+Michipicoten Island Formation	3	n	p	l	g	Characteristic	6	297	3.7	5	432	4.991	100	LP-DC4 : LT-AF-Z : LT-T-Z	This study
+Michipicoten Island Formation	13	n	p	l	g	Characteristic	37	296	9.2	4	101	3.97	100	LP-DC4 : LT-AF-Z : LT-T-Z	This study
+Michipicoten Island Formation	2	n	p	l	g	Characteristic	35	303	7.5	4	152	3.98	100	LP-DC4 : LT-AF-Z : LT-T-Z	This study
+Michipicoten Island Formation	4	n	p	l	g	Characteristic	43	312	5.1	5	228	4.982	100	LP-DC4 : LT-AF-Z : LT-T-Z	This study
+Michipicoten Island Formation	14	n	p	l	g	Characteristic	24	283	5.6	5	188	4.979	100	LP-DC4 : LT-AF-Z : LT-T-Z	This study
+Michipicoten Island Formation	5	n	p	l	g	Characteristic	32	286	5.1	5	224	4.982	100	LP-DC4 : LT-AF-Z : LT-T-Z	This study
+Michipicoten Island Formation	16	n	p	l	g	Characteristic	13	283	11.2	4	68	3.956	100	LP-DC4 : LT-AF-Z : LT-T-Z	This study
+Michipicoten Island Formation	15	n	p	l	g	Characteristic	5	291	23.7	3	28	2.929	100	LP-DC4 : LT-AF-Z : LT-T-Z	This study
+Michipicoten Island Formation	17	n	p	l	g	Characteristic	34	283	7.3	4	160	3.981	100	LP-DC4 : LT-AF-Z : LT-T-Z	This study
+>>>>>>>>>>
+tab delimited	pmag_results
+pmag_result_name	er_location_names	er_site_names	data_type	fold_test	conglomerate_test	contact_test	reversal_test	rock_magnetic_test	pole_comp_name	average_lat	average_lon	average_age_low	average_age_high	average_age_unit	average_inc	average_dec	average_alpha95	average_n	average_nn	average_k	average_r	vgp_lat	vgp_lon	vgp_dp	vgp_dm	vgp_alpha95	vgp_n	tilt_correction	tilt_k_ratio	tilt_n	tilt_inc_corr	tilt_dec_corr	tilt_k_corr	tilt_alpha95_corr	tilt_inc_uncorr	tilt_dec_uncorr	tilt_k_uncorr	tilt_alpha95_uncorr	fold_test_significance	percent_reversed	result_description	external_database_names	external_database_ids	magic_method_codes	er_citation_names
+Mamainse Point Formation Pole	Mamainse Point Formation, Michipicoten Island	19 : 7 : 8 : 22 : 10 : 9 : 23 : KM	a	Fo	ND	ND	ND	ND	Characteristic	47.7	274.3	1084	1100	Ma	45.5	297.3	10.9	8	43	28.4	7.753	38	186	11	11	11	8	100	1.38	8	45.5	297.3	28.4	10.9	23.9	316.3	20.6	12.5	70	0	AF to 100mT, thermal to 680C.	GPMDB	944	LP-DC4 : DE-VGP : LT-AF-Z : LT-T-Z	This study
+Michipicoten Island Formation Pole	Michipicoten Island Formation	1 : 24 : 12 : 25 : 3 : 13 : 2 : 4 : 14 : 5 : 16 : 15 : 17	a	Fo	ND	ND	ND	ND	Characteristic	47.7	274.3	1070	1088	Ma	23.8	293.8	8.5	13	58	24.8	12.516	26	175	7	7	7	13	100	1.17	13	23.8	293.8	24.8	8.5	12.1	299.4	21.2	9.2	65	0	AF to 100mT, thermal to 680C.	GPMDB	945	LP-DC4 : DE-VGP : LT-AF-Z : LT-T-Z	This study
+Intrusive Units Pole	Michipicoten Island Intrusive	20 : 21 : 6	a	Fo	ND	ND	ND	ND	Characteristic	47.7	274.3	1070	1088	Ma	13.4	298.2	31.1	3	13	16.8	2.881	24	166	22	22	22	3	100	1.24	3	13.4	298.2	16.8	31.1	-7.7	298.5	13.6	34.7	55	0	AF to 100mT, thermal to 680C. .	GPMDB	946	DE-VGP : LP-DC4 : LT-AF-Z : LT-T-Z	This study
+VGP : Site 20	Michipicoten Island Intrusive	20	i	Fo	ND	ND	ND	ND	Characteristic	47.75	274.4				-3	288	17.7	1	4	28	3.892	10.8417217763994	169.718215375649				1	100																FS-LOC-GOOGLE : LP-DC4 : LT-AF-Z : LT-T-Z	This study
+VGP : Site 21	Michipicoten Island Intrusive	21	i	Fo	ND	ND	ND	ND	Characteristic	47.79	274.18				12	313	7.8	1	4	140	3.979	32.2702010855988	153.60905910426				1	100																FS-LOC-GOOGLE : LP-DC4 : LT-AF-Z : LT-T-Z	This study
+VGP : Site 6	Michipicoten Island Intrusive	6	i	Fo	ND	ND	ND	ND	Characteristic	47.73	274.04				25	297	13	1	5	36	4.888	27.7329911913953	172.692947036611				1	100																FS-LOC-GOOGLE : LP-DC4 : LT-AF-Z : LT-T-Z	This study
+VGP : Site 19	Mamainse Point Formation, Michipicoten Island	19	i	Fo	ND	ND	ND	ND	Characteristic	47.8	274.25				33	321	3.2	1	4	809	3.996	46.4930051435144	154.643163102887				1	100																FS-LOC-GOOGLE : LP-DC4 : LT-AF-Z : LT-T-Z	This study
+VGP : Site 18	Mamainse Point Formation, Michipicoten Island	18	i	Fo	ND	ND	ND	ND	Characteristic	47.79	274.28				47	217	13.4	1	6	26	5.808	-7.05778485929531	241.974491074657				1	100																FS-LOC-GOOGLE : LP-DC4 : LT-AF-Z : LT-T-Z	This study
+VGP : Site 7	Mamainse Point Formation, Michipicoten Island	7	i	Fo	ND	ND	ND	ND	Characteristic	47.75	274.07				61	277	8.4	1	5	52	6.886	33.8236814710932	211.551565985825				1	100																FS-LOC-GOOGLE : LP-DC4 : LT-AF-Z : LT-T-Z	This study
+VGP : Site 8	Mamainse Point Formation, Michipicoten Island	8	i	Fo	ND	ND	ND	ND	Characteristic	47.74	274.4				30	299	11.9	1	4	33	5.847	31.2322870700614	173.737070205175				1	100																FS-LOC-GOOGLE : LP-DC4 : LT-AF-Z : LT-T-Z	This study
+VGP : Site 22	Mamainse Point Formation, Michipicoten Island	22	i	Fo	ND	ND	ND	ND	Characteristic	47.73	274.38				46	270	3.4	1	4	399	5.987	19.8913040851909	203.581278641348				1	100																FS-LOC-GOOGLE : LP-DC4 : LT-AF-Z : LT-T-Z	This study
+VGP : Site 10	Mamainse Point Formation, Michipicoten Island	10	i	Fo	ND	ND	ND	ND	Characteristic	47.71	274.06				41	300	3	1	5	508	5.99	37.1162330477546	178.952172828268				1	100																FS-LOC-GOOGLE : LP-DC4 : LT-AF-Z : LT-T-Z	This study
+VGP : Site 9	Mamainse Point Formation, Michipicoten Island	9	i	Fo	ND	ND	ND	ND	Characteristic	47.73	274.39				54	296	3.3	1	4	537	4.993	41.4836315362661	193.150557951204				1	100																FS-LOC-GOOGLE : LP-DC4 : LT-AF-Z : LT-T-Z	This study
+VGP : Site 23	Mamainse Point Formation, Michipicoten Island	23	i	Fo	ND	ND	ND	ND	Characteristic	47.71	274.06				40	303	2.7	1	4	2044	2.999	38.6186961467324	175.877833822598				1	100																FS-LOC-GOOGLE : LP-DC4 : LT-AF-Z : LT-T-Z	This study
+VGP : Site KM	Mamainse Point Formation, Michipicoten Island	KM	i	Fo	ND	ND	ND	ND	Characteristic	47.71	274.13				51	299	8.2	1	5	68	5.927	41.7755591793446	187.847912003087				1	100																FS-LOC-GOOGLE : LP-DC4 : LT-AF-Z : LT-T-Z	This study
+VGP : Site 11	Michipicoten Island Formation	11	i	Fo	ND	ND	ND	ND	Characteristic	47.72	274.04				39	321		1	4	1	1.736	49.6657093578076	158.360734192166				1	100																FS-LOC-GOOGLE : LP-DC4 : LT-AF-Z : LT-T-Z	This study
+VGP : Site 1	Michipicoten Island Formation	1	i	Fo	ND	ND	ND	ND	Characteristic	47.72	274.05				20	304	14.6	1	6	22	5.772	30.1714543772223	164.690202236937				1	100																FS-LOC-GOOGLE : LP-DC4 : LT-AF-Z : LT-T-Z	This study
+VGP : Site 24	Michipicoten Island Formation	24	i	Fo	ND	ND	ND	ND	Characteristic	47.72	274.06				26	299	12.1	1	5	41	4.903	29.4828368843487	171.514206425934				1	100																FS-LOC-GOOGLE : LP-DC4 : LT-AF-Z : LT-T-Z	This study
+VGP : Site 12	Michipicoten Island Formation	12	i	Fo	ND	ND	ND	ND	Characteristic	47.74	274.4				21	276	24.5	1	4	15	3.8	12.0366713270475	187.376514331142				1	100																FS-LOC-GOOGLE : LP-DC4 : LT-AF-Z : LT-T-Z	This study
+VGP : Site 25	Michipicoten Island Formation	25	i	Fo	ND	ND	ND	ND	Characteristic	47.73	274.38				8	311	5.2	1	4	313	3.99	29.4765528601538	154.239258113867				1	100																FS-LOC-GOOGLE : LP-DC4 : LT-AF-Z : LT-T-Z	This study
+VGP : Site 3	Michipicoten Island Formation	3	i	Fo	ND	ND	ND	ND	Characteristic	47.71	274.06				6	297	3.7	1	5	432	4.991	20.1136554314715	165.42416360017				1	100																FS-LOC-GOOGLE : LP-DC4 : LT-AF-Z : LT-T-Z	This study
+VGP : Site 13	Michipicoten Island Formation	13	i	Fo	ND	ND	ND	ND	Characteristic	47.73	274.39				37	296	9.2	1	4	101	3.97	32.4679662976104	179.87599661523				1	100																FS-LOC-GOOGLE : LP-DC4 : LT-AF-Z : LT-T-Z	This study
+VGP : Site 2	Michipicoten Island Formation	2	i	Fo	ND	ND	ND	ND	Characteristic	47.71	274.06				35	303	7.5	1	4	152	3.98	36.1806751267964	172.77747580893				1	100																FS-LOC-GOOGLE : LP-DC4 : LT-AF-Z : LT-T-Z	This study
+VGP : Site 4	Michipicoten Island Formation	4	i	Fo	ND	ND	ND	ND	Characteristic	47.71	274.13				43	312	5.1	1	5	228	4.982	46.1101335214577	170.423287070968				1	100																FS-LOC-GOOGLE : LP-DC4 : LT-AF-Z : LT-T-Z	This study
+VGP : Site 14	Michipicoten Island Formation	14	i	Fo	ND	ND	ND	ND	Characteristic	47.73	274.36				24	283	5.6	1	5	188	4.979	17.9680860290197	183.376674836338				1	100																FS-LOC-GOOGLE : LP-DC4 : LT-AF-Z : LT-T-Z	This study
+VGP : Site 5	Michipicoten Island Formation	5	i	Fo	ND	ND	ND	ND	Characteristic	47.7	274.15				32	286	5.1	1	5	224	4.982	23.4305904550639	184.531613119722				1	100																FS-LOC-GOOGLE : LP-DC4 : LT-AF-Z : LT-T-Z	This study
+VGP : Site 16	Michipicoten Island Formation	16	i	Fo	ND	ND	ND	ND	Characteristic	47.71	274.21				13	283	11.2	1	4	68	3.956	13.6031898349537	179.006564696766				1	100																FS-LOC-GOOGLE : LP-DC4 : LT-AF-Z : LT-T-Z	This study
+VGP : Site 15	Michipicoten Island Formation	15	i	Fo	ND	ND	ND	ND	Characteristic	47.7	274.21				5	291	23.7	1	3	28	2.929	15.8595061241816	170.045337853479				1	100																FS-LOC-GOOGLE : LP-DC4 : LT-AF-Z : LT-T-Z	This study
+VGP : Site 17	Michipicoten Island Formation	17	i	Fo	ND	ND	ND	ND	Characteristic	47.69	274.17				34	283	7.3	1	4	160	3.981	22.3218975661819	187.732708145336				1	100																FS-LOC-GOOGLE : LP-DC4 : LT-AF-Z : LT-T-Z	This study
+>>>>>>>>>>
+tab delimited	magic_methods
+magic_method_code	method_type	method_definition	method_description	method_iaga7	method_url_tauxe	er_citation_names
+DE-VGP	Direction Estimation	Pole latitude and longitude calculation from mean VGP		Ptype V		Cox & Doell 1960
+FS-LOC-GOOGLE	Field Sampling	Location determination: Digitization of latitude and longitudes using Google Maps or Earth				
+GM-UPB	Geochronology Method	U-Pb age determination				
+LP-DC4	Lab Protocol	Principal component analysis carried out from analysis of Zijderveld diagrams		DC4	http://earthref.org/MAGIC/books/Tauxe/2005/lecture.16.htm#IAGA7	McElhinny & McFadden 2000
+LT-AF-Z	Lab Treatment	Alternating field: In zero field	A specimen is subject to a decaying and alternating magnetic field such that the magnetic moments with coercivities below the peak field are aligned in opposed directions, and thus cancel. Specimens are typically reoriented in three or more orthogonal axes.	A	http://earthref.org/MAGIC/books/Tauxe/2005/lecture.09.htm#LT-AFZ	As & Zijderveld 1958 : Collinson 1983
+LT-T-Z	Lab Treatment	Specimen cooling: In zero field	Heating the specimen to the desired temperature step and then cooling in zero ambient magnetic field.	T	http://earthref.org/MAGIC/books/Tauxe/2005/lecture.09.htm#LT-TZ	Wilson 1961 : Collinson 1983

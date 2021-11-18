@@ -1,0 +1,27 @@
+tab 	ages
+age	age_high	age_low	age_unit	citations	description	location	method_codes	site
+0	1086.5	1084.35	Ma	This study		Michipicoten Island	GM-INT	CM1
+1	1086.5	1084.35	Ma	This study		Michipicoten Island	GM-INT	CM2
+2	1083.75	1083.29	Ma	This study	238U/206Pb weighted mean from Davieaux Island rhyolite (min age of South Shore basalts)	Michipicoten Island	GM-UPB-MA-206	MI-DI1
+3	1084.55	1084.15	Ma	This study	238U/206Pb weighted mean from West Sand Bay tuff (max age of South Shore basalts)	Michipicoten Island	GM-UPB-MA-206	MI-WSB1
+4	1084.35	1083.52	Ma	This study		Michipicoten Island	GM-INT	SS1
+5	1084.35	1083.52	Ma	This study		Michipicoten Island	GM-INT	SS10
+6	1084.35	1083.52	Ma	This study		Michipicoten Island	GM-INT	SS11
+7	1084.35	1083.52	Ma	This study		Michipicoten Island	GM-INT	SS12
+8	1084.35	1083.52	Ma	This study		Michipicoten Island	GM-INT	SS13
+9	1084.35	1083.52	Ma	This study		Michipicoten Island	GM-INT	SS14
+10	1084.35	1083.52	Ma	This study		Michipicoten Island	GM-INT	SS15
+11	1084.35	1083.52	Ma	This study		Michipicoten Island	GM-INT	SS16
+12	1084.35	1083.52	Ma	This study		Michipicoten Island	GM-INT	SS17
+13	1084.35	1083.52	Ma	This study		Michipicoten Island	GM-INT	SS18
+14	1084.35	1083.52	Ma	This study		Michipicoten Island	GM-INT	SS19
+15	1084.35	1083.52	Ma	This study		Michipicoten Island	GM-INT	SS2
+16	1084.35	1083.52	Ma	This study		Michipicoten Island	GM-INT	SS20
+17	1084.35	1083.52	Ma	This study		Michipicoten Island	GM-INT	SS21
+18	1084.35	1083.52	Ma	This study		Michipicoten Island	GM-INT	SS3
+19	1084.35	1083.52	Ma	This study		Michipicoten Island	GM-INT	SS4
+20	1084.35	1083.52	Ma	This study		Michipicoten Island	GM-INT	SS5
+21	1084.35	1083.52	Ma	This study		Michipicoten Island	GM-INT	SS6
+22	1084.35	1083.52	Ma	This study		Michipicoten Island	GM-INT	SS7
+23	1084.35	1083.52	Ma	This study		Michipicoten Island	GM-INT	SS8
+24	1084.35	1083.52	Ma	This study		Michipicoten Island	GM-INT	SS9

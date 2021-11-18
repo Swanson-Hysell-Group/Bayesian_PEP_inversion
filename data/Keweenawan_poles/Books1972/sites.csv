@@ -1,0 +1,152 @@
+tab ,sites,,,,,,,,,,,,,,,
+citations,dir_dec,dir_inc,dir_n_samples,dir_polarity,dir_tilt_correction,geologic_classes,geologic_types,lat,lithologies,location,lon,method_codes,result_type,site,formation,site_alternatives
+This study,284,33,4,n,100,Extrusive,Lava Flow,47.28798041,Basalt,Keweenaw Peninsula:Michigan,-88.40954543,,a,PL150,Portage Lake Volcanics,
+This study,284.2,19.9,5,n,100,Extrusive,Lava Flow,47.26585103,Basalt,Keweenaw Peninsula:Michigan,-88.41569905,,a,PL50,Portage Lake Volcanics,Iroquois Flow
+This study,283.3,35.3,5,n,100,Extrusive,Lava Flow,47.2807152,Basalt,Keweenaw Peninsula:Michigan,-88.41458184,,a,PL331,Portage Lake Volcanics,
+This study,294.7,38.2,3,n,100,Extrusive,Lava Flow,47.35741186,Basalt,Keweenaw Peninsula:Michigan,-88.4218405,,a,PL344,Portage Lake Volcanics,
+This study,290.9,24.8,3,n,100,Extrusive,Lava Flow,47.28373095,Basalt,Keweenaw Peninsula:Michigan,-88.40551631,,a,PL51,Portage Lake Volcanics,Osceola Flow
+This study,286.8,21,5,n,100,Extrusive,Lava Flow,47.27345896,Basalt,Keweenaw Peninsula:Michigan,-88.41489345,,a,PL330,Portage Lake Volcanics,
+This study,287.4,32.9,5,n,100,Extrusive,Lava Flow,47.26786732,Basalt,Keweenaw Peninsula:Michigan,-88.41888577,,a,PL52,Portage Lake Volcanics,
+This study,289.6,30.6,4,n,100,Extrusive,Lava Flow,47.26553697,Basalt,Keweenaw Peninsula:Michigan,-88.41828157,,a,PL323,Portage Lake Volcanics,
+This study,300.8,24.6,5,n,100,Extrusive,Lava Flow,47.26731901,Basalt,Keweenaw Peninsula:Michigan,-88.41727456,,a,PL53,Portage Lake Volcanics,
+This study,293,35,5,n,100,Extrusive,Lava Flow,47.26626227,Basalt,Keweenaw Peninsula:Michigan,-88.41348364,,a,PL324,Portage Lake Volcanics,
+This study,296.1,33.7,4,n,100,Extrusive,Lava Flow,47.30666996,Basalt,Keweenaw Peninsula:Michigan,-88.35529607,,a,PL335,Portage Lake Volcanics,Kearsarge Flow
+This study,285.6,32,5,n,100,Extrusive,Lava Flow,47.26777014,Basalt,Keweenaw Peninsula:Michigan,-88.41086543,,a,PL54,Portage Lake Volcanics,Kearsarge Flow
+This study,291.1,48.8,5,n,100,Extrusive,Lava Flow,47.26639935,Basalt,Keweenaw Peninsula:Michigan,-88.41005982,,a,PL55,Portage Lake Volcanics,
+This study,285.6,51.5,5,n,100,Extrusive,Lava Flow,47.26653643,Basalt,Keweenaw Peninsula:Michigan,-88.41026123,,a,PL56,Portage Lake Volcanics,
+This study,279.8,50,5,n,100,Extrusive,Lava Flow,47.26394531,Basalt,Keweenaw Peninsula:Michigan,-88.40422811,,a,PL326,Portage Lake Volcanics,
+This study,283.8,41.5,4,n,100,Extrusive,Lava Flow,47.26353407,Basalt,Keweenaw Peninsula:Michigan,-88.40261734,,a,PL327,Portage Lake Volcanics,
+This study,283.6,39.6,4,n,100,Extrusive,Lava Flow,47.26393191,Basalt,Keweenaw Peninsula:Michigan,-88.40160098,,a,PL57,Portage Lake Volcanics,
+This study,290.9,30.2,4,n,100,Extrusive,Lava Flow,47.26390449,Basalt,Keweenaw Peninsula:Michigan,-88.40160098,,a,PL58,Portage Lake Volcanics,
+This study,290.3,32.5,4,n,100,Extrusive,Lava Flow,47.26434315,Basalt,Keweenaw Peninsula:Michigan,-88.39998978,,a,PL59,Portage Lake Volcanics,Scales Creek Flow
+This study,288.5,40,4,n,100,Extrusive,Lava Flow,47.26393191,Basalt,Keweenaw Peninsula:Michigan,-88.39958698,,a,PL60,Portage Lake Volcanics,
+This study,293.2,33.6,5,n,100,Extrusive,Lava Flow,47.26790722,Basalt,Keweenaw Peninsula:Michigan,-88.4052262,,a,PL325,Portage Lake Volcanics,
+This study,294.2,31.7,4,n,100,Extrusive,Lava Flow,47.26201279,Basalt,Keweenaw Peninsula:Michigan,-88.39535756,,a,PL61,Portage Lake Volcanics,
+This study,285.7,37.1,5,n,100,Extrusive,Lava Flow,47.2564059,Basalt,Keweenaw Peninsula:Michigan,-88.39557021,,a,PL343,Portage Lake Volcanics,Copper City Flow
+This study,264.9,45.6,5,n,100,Extrusive,Lava Flow,47.29195572,Basalt,Keweenaw Peninsula:Michigan,-88.40984762,,a,PL35,Portage Lake Volcanics,
+This study,294.6,45.2,4,n,100,Extrusive,Lava Flow,47.28976244,Basalt,Keweenaw Peninsula:Michigan,-88.41256728,,a,PL7,Portage Lake Volcanics,
+This study,274.7,45.2,4,n,100,Extrusive,Lava Flow,47.29154448,Basalt,Keweenaw Peninsula:Michigan,-88.40974689,,a,PL6,Portage Lake Volcanics,
+This study,280.8,49.7,5,n,100,Extrusive,Lava Flow,47.29181864,Basalt,Keweenaw Peninsula:Michigan,-88.40994835,,a,PL5,Portage Lake Volcanics,
+This study,261,43.2,6,n,100,Extrusive,Lava Flow,47.28811749,Basalt,Keweenaw Peninsula:Michigan,-88.41458184,,a,PL4,Portage Lake Volcanics,
+This study,279.5,36.6,5,n,100,Extrusive,Lava Flow,47.28798041,Basalt,Keweenaw Peninsula:Michigan,-88.41397747,,a,PL3,Portage Lake Volcanics,
+This study,265.6,51.6,5,n,100,Extrusive,Lava Flow,47.2860613,Basalt,Keweenaw Peninsula:Michigan,-88.41397747,,a,PL1,Portage Lake Volcanics,
+This study,287.9,29.6,3,n,100,Extrusive,Lava Flow,47.28246441,Basalt,Keweenaw Peninsula:Michigan,-88.4469834,,a,PL44,Portage Lake Volcanics,
+This study,281.8,28.8,5,n,100,Extrusive,Lava Flow,47.29269809,Basalt,Keweenaw Peninsula:Michigan,-88.42945971,,a,PL333,Portage Lake Volcanics,
+This study,290.1,27.5,5,n,100,Extrusive,Lava Flow,47.20875577,Basalt,Keweenaw Peninsula:Michigan,-88.43443316,,a,PL49,Portage Lake Volcanics,
+This study,286.1,24.4,3,n,100,Extrusive,Lava Flow,47.3185796,Basalt,Keweenaw Peninsula:Michigan,-88.39288396,,a,PL329,Portage Lake Volcanics,Ashbed Flow
+This study,293.7,38.1,4,n,100,Extrusive,Lava Flow,47.29160146,Basalt,Keweenaw Peninsula:Michigan,-88.42764661,,a,PL43,Portage Lake Volcanics,Ashbed Flow
+This study,282.8,41.5,4,n,100,Extrusive,Lava Flow,47.29360067,Basalt,Keweenaw Peninsula:Michigan,-88.41699931,,a,PL27,Portage Lake Volcanics,
+This study,285.9,33.6,5,n,100,Extrusive,Lava Flow,47.29401191,Basalt,Keweenaw Peninsula:Michigan,-88.41861096,,a,PL26,Portage Lake Volcanics,
+This study,279.3,49.7,5,n,100,Extrusive,Lava Flow,47.29332651,Basalt,Keweenaw Peninsula:Michigan,-88.4184095,,a,PL25,Portage Lake Volcanics,
+This study,280.2,35.7,4,n,100,Extrusive,Lava Flow,47.29305235,Basalt,Keweenaw Peninsula:Michigan,-88.41820805,,a,PL24,Portage Lake Volcanics,
+This study,291.4,43.6,6,n,100,Extrusive,Lava Flow,47.2920928,Basalt,Keweenaw Peninsula:Michigan,-88.41800659,,a,PL22,Portage Lake Volcanics,
+This study,295.3,40.2,5,n,100,Extrusive,Lava Flow,47.29195572,Basalt,Keweenaw Peninsula:Michigan,-88.41720077,,a,PL20,Portage Lake Volcanics,
+This study,299,31.7,3,n,100,Extrusive,Lava Flow,47.2914074,Basalt,Keweenaw Peninsula:Michigan,-88.41710004,,a,PL19,Portage Lake Volcanics,
+This study,294.7,32,5,n,100,Extrusive,Lava Flow,47.28955683,Basalt,Keweenaw Peninsula:Michigan,-88.41699931,,a,PL14,Portage Lake Volcanics,
+This study,296.9,28.2,5,n,100,Extrusive,Lava Flow,47.28948829,Basalt,Keweenaw Peninsula:Michigan,-88.41679786,,a,PL13,Portage Lake Volcanics,
+This study,297.8,33.6,5,n,100,Extrusive,Lava Flow,47.28914559,Basalt,Keweenaw Peninsula:Michigan,-88.41669713,,a,PL12,Portage Lake Volcanics,
+This study,293.6,30.3,5,n,100,Extrusive,Lava Flow,47.28910446,Basalt,Keweenaw Peninsula:Michigan,-88.4165964,,a,PL11,Portage Lake Volcanics,
+This study,293.6,33.7,5,n,100,Extrusive,Lava Flow,47.28907705,Basalt,Keweenaw Peninsula:Michigan,-88.41649567,,a,PL10,Portage Lake Volcanics,
+This study,297.6,40.8,4,n,100,Extrusive,Lava Flow,47.28935121,Basalt,Keweenaw Peninsula:Michigan,-88.41639494,,a,PL9,Portage Lake Volcanics,
+This study,297.1,45.5,5,n,100,Extrusive,Lava Flow,47.28893997,Basalt,Keweenaw Peninsula:Michigan,-88.41639494,,a,PL8,Portage Lake Volcanics,
+This study,296.4,32,5,n,100,Extrusive,Lava Flow,47.30219625,Basalt,Keweenaw Peninsula:Michigan,-88.39870524,,a,PL32,Portage Lake Volcanics,Greenstone Flow
+This study,291,37.2,5,n,100,Extrusive,Lava Flow,47.30192209,Basalt,Keweenaw Peninsula:Michigan,-88.39850373,,a,PL33,Portage Lake Volcanics,
+This study,293.7,39.1,4,n,100,Extrusive,Lava Flow,47.30151085,Basalt,Keweenaw Peninsula:Michigan,-88.39830222,,a,PL34,Portage Lake Volcanics,
+This study,284.8,27.9,5,n,100,Extrusive,Lava Flow,47.43256329,Basalt,Keweenaw Peninsula:Michigan,-88.14170193,,a,PL340,Portage Lake Volcanics,Ashbed Flow
+This study,286.9,19.7,4,n,100,Extrusive,Lava Flow,47.40141725,Basalt,Keweenaw Peninsula:Michigan,-88.29028784,,a,PL338,Portage Lake Volcanics,Ashbed Flow
+This study,294.6,29.8,4,n,100,Extrusive,Lava Flow,47.4115906,Basalt,Keweenaw Peninsula:Michigan,-88.2541964,,a,PL339,Portage Lake Volcanics,Ashbed Flow
+This study,284.5,36.8,5,n,100,Extrusive,Lava Flow,47.44393649,Basalt,Keweenaw Peninsula:Michigan,-87.94004327,,a,PL342,Portage Lake Volcanics,Ashbed Flow
+This study,274.6,49.1,4,n,100,Extrusive,Lava Flow,47.3975791,Basalt,Keweenaw Peninsula:Michigan,-88.27958729,,a,PL349,Portage Lake Volcanics,Greenstone Flow
+This study,315.6,33.6,4,n,100,Extrusive,Lava Flow,47.42936639,Basalt,Keweenaw Peninsula:Michigan,-88.12635013,,a,PL348,Portage Lake Volcanics,Greenstone Flow
+This study,301,33.4,4,n,100,Extrusive,Lava Flow,47.42936639,Basalt,Keweenaw Peninsula:Michigan,-88.11968384,,a,PL347,Portage Lake Volcanics,Greenstone Flow
+This study,288.7,30.9,4,n,100,Extrusive,Lava Flow,47.42826978,Basalt,Keweenaw Peninsula:Michigan,-88.11766375,,a,PL346,Portage Lake Volcanics,Greenstone Flow
+This study,281.2,38.3,5,n,100,Extrusive,Lava Flow,47.42525411,Basalt,Keweenaw Peninsula:Michigan,-88.11022983,,a,PL345,Portage Lake Volcanics,Greenstone Flow
+This study,283,38.9,5,n,100,Extrusive,Lava Flow,47.42271974,Basalt,Keweenaw Peninsula:Michigan,-88.11181499,,a,PL158,Portage Lake Volcanics,
+This study,283,44.3,4,n,100,Extrusive,Lava Flow,47.42244559,Basalt,Keweenaw Peninsula:Michigan,-88.11221889,,a,PL160,Portage Lake Volcanics,
+This study,284.3,48.8,4,n,100,Extrusive,Lava Flow,47.42203436,Basalt,Keweenaw Peninsula:Michigan,-88.11161303,,a,PL159,Portage Lake Volcanics,
+This study,254.7,40.4,5,n,100,Extrusive,Lava Flow,47.42025236,Basalt,Keweenaw Peninsula:Michigan,-88.10838178,,a,PL157,Portage Lake Volcanics,
+This study,287.9,34.9,5,n,100,Extrusive,Lava Flow,47.39916551,Basalt,Keweenaw Peninsula:Michigan,-88.04722879,,a,PL341,Portage Lake Volcanics,Scales Creek Flow
+This study,274.2,33.1,5,n,100,Extrusive,Lava Flow,47.3942109,Basalt,Keweenaw Peninsula:Michigan,-88.03607512,,a,PL154,Portage Lake Volcanics,
+This study,286.2,41,6,n,100,Extrusive,Lava Flow,47.38982443,Basalt,Keweenaw Peninsula:Michigan,-88.03789171,,a,PL153,Portage Lake Volcanics,
+This study,326.7,19.5,4,n,100,Extrusive,Lava Flow,47.38483976,Basalt,Keweenaw Peninsula:Michigan,-88.01716803,,a,PL42,Portage Lake Volcanics,
+This study,281.1,24.8,5,n,100,Extrusive,Lava Flow,46.67646632,Rhyolite,Keweenaw Peninsula:Michigan,-89.57781618,,a,ER66,,
+This study,290.3,32.7,4,n,100,Extrusive,Lava Flow,46.67619213,Rhyolite,Keweenaw Peninsula:Michigan,-89.57801537,,a,ER67,,
+This study,290.4,26.4,4,n,100,Extrusive,Lava Flow,46.59455464,Rhyolite,Keweenaw Peninsula:Michigan,-89.5734963,,a,ER68,,
+This study,310.5,25,4,n,100,Extrusive,Lava Flow,46.64138413,Quartz Porphyry,Keweenaw Peninsula:Michigan,-89.59216511,,a,QP69,,
+This study,289.1,20.9,4,n,100,Extrusive,Lava Flow,46.64001318,Quartz Porphyry,Keweenaw Peninsula:Michigan,-89.59156786,,a,QP71,,
+This study,305.8,44.8,5,n,100,Extrusive,Lava Flow,46.6357222,Quartz Porphyry,Keweenaw Peninsula:Michigan,-89.58843219,,a,QP73,,
+This study,241.8,60,1,n,100,Extrusive,Lava Flow,47.27380649,Rhyolite,Keweenaw Peninsula:Michigan,-88.37273467,,i,R36-0,,
+This study,278.3,70.3,1,n,100,Extrusive,Lava Flow,47.27380649,Rhyolite,Keweenaw Peninsula:Michigan,-88.37269439,,i,R36-1,,
+This study,251.5,32.2,1,n,100,Extrusive,Lava Flow,47.27361458,Rhyolite,Keweenaw Peninsula:Michigan,-88.37237215,,i,R36-2,,
+This study,233.1,54,1,n,100,Extrusive,Lava Flow,47.2738339,Rhyolite,Keweenaw Peninsula:Michigan,-88.37257355,,i,R36-3,,
+This study,276.5,11.2,1,n,100,Extrusive,Lava Flow,47.27375166,Rhyolite,Keweenaw Peninsula:Michigan,-88.37257355,,i,R36-4,,
+This study,285.5,45.5,1,n,100,Extrusive,Lava Flow,47.27386132,Rhyolite,Keweenaw Peninsula:Michigan,-88.37285551,,i,R36-5,,
+This study,246.2,2.2,1,n,100,Extrusive,Lava Flow,47.27377907,Rhyolite,Keweenaw Peninsula:Michigan,-88.37261383,,i,R36-6,,
+This study,239.9,36,1,n,100,Extrusive,Lava Flow,47.27377907,Rhyolite,Keweenaw Peninsula:Michigan,-88.37265411,,i,R36-7,,
+This study,296.1,15.1,1,n,100,Extrusive,Lava Flow,47.27855237,Rhyolite,Keweenaw Peninsula:Michigan,-88.37004948,,i,R62-1,,
+This study,305.3,18.5,1,n,100,Extrusive,Lava Flow,47.27868945,Rhyolite,Keweenaw Peninsula:Michigan,-88.37013004,,i,R62-2,,
+This study,297.8,27.9,1,n,100,Extrusive,Lava Flow,47.27868945,Rhyolite,Keweenaw Peninsula:Michigan,-88.37025088,,i,R62-3,,
+This study,301.6,18,1,n,100,Extrusive,Lava Flow,47.27882653,Rhyolite,Keweenaw Peninsula:Michigan,-88.37041201,,i,R62-4,,
+This study,283.9,33.5,1,n,100,Extrusive,Lava Flow,47.27896361,Rhyolite,Keweenaw Peninsula:Michigan,-88.37065369,,i,R62-5,,
+This study,285.5,18.2,1,n,100,Extrusive,Lava Flow,47.27923777,Rhyolite,Keweenaw Peninsula:Michigan,-88.37105649,,i,R62-6,,
+This study,260.8,29.3,6,n,100,Extrusive,Lava Flow,46.47918679,Basalt,Keweenaw Peninsula:Michigan,-90.12259647,,a,IB74,,
+This study,257.6,21.7,4,n,100,Extrusive,Lava Flow,46.47932389,Basalt,Keweenaw Peninsula:Michigan,-90.12259647,,a,IB75,,
+This study,258.1,44.4,6,n,100,Extrusive,Lava Flow,46.47959808,Basalt,Keweenaw Peninsula:Michigan,-90.12259647,,a,IB76,,
+This study,274.7,53.8,5,n,100,Extrusive,Lava Flow,46.48731595,Basalt,Keweenaw Peninsula:Michigan,-90.16392326,,a,IB301,,
+This study,258.2,52.6,6,n,100,Extrusive,Lava Flow,46.48717885,Basalt,Keweenaw Peninsula:Michigan,-90.16412176,,a,IB303,,
+This study,268.1,17.9,4,n,100,Extrusive,Lava Flow,46.47946099,Basalt,Keweenaw Peninsula:Michigan,-90.12279493,,a,IB306,,
+This study,261.3,38.1,5,n,100,Extrusive,Lava Flow,46.47915937,Quartzite,Keweenaw Peninsula:Michigan,-90.12259647,,a,IB322,,
+This study,282.6,30.9,5,n,100,Extrusive,Lava Flow,46.60025921,Basalt,Keweenaw Peninsula:Michigan,-90.08935581,,a,MK216,,
+This study,283,28.1,5,n,100,Extrusive,Lava Flow,46.60020437,Basalt,Keweenaw Peninsula:Michigan,-90.08927624,,a,MK217,,
+This study,286.3,29.4,5,n,100,Extrusive,Lava Flow,46.60014953,Basalt,Keweenaw Peninsula:Michigan,-90.08927624,,a,MK218,,
+This study,279.4,35,5,n,100,Extrusive,Lava Flow,46.60003986,Basalt,Keweenaw Peninsula:Michigan,-90.08915688,,a,MK219,,
+This study,287.8,39.5,5,n,100,Extrusive,Lava Flow,46.61852281,Basalt,Keweenaw Peninsula:Michigan,-90.07840399,,a,MK316,,
+This study,229.9,28.5,4,n,100,Extrusive,Lava Flow,46.61770023,Basalt,Keweenaw Peninsula:Michigan,-90.07721012,,a,MK317,,
+This study,282,32.6,4,n,100,Extrusive,Lava Flow,46.61701475,Basalt,Keweenaw Peninsula:Michigan,-90.07701114,,a,MK318,,
+This study,275,29.1,4,n,100,Extrusive,Lava Flow,46.61578089,Basalt,Keweenaw Peninsula:Michigan,-90.07800603,,a,MK319,,
+This study,278.4,31.9,4,n,100,Extrusive,Lava Flow,46.61578089,Basalt,Keweenaw Peninsula:Michigan,-90.07880195,,a,MK320,,
+This study,291.1,46.4,3,n,100,Extrusive,Lava Flow,47.56496753,Basalt,North Shore Volcanic Group:Minnesota,-90.8489728,,a,NS254,,Schroeder-Lutsen basalts
+This study,293.6,47.8,4,n,100,Extrusive,Lava Flow,47.57127287,Basalt,North Shore Volcanic Group:Minnesota,-90.8390477,,a,NS255,,Schroeder-Lutsen basalts
+This study,286.6,32.4,5,n,100,Extrusive,Lava Flow,47.58257341,Basalt,North Shore Volcanic Group:Minnesota,-90.8194503,,a,NS256,,Schroeder-Lutsen basalts
+This study,298.3,52.1,4,n,100,Extrusive,Lava Flow,47.59974286,Basalt,North Shore Volcanic Group:Minnesota,-90.78850286,,a,NS263,,Schroeder-Lutsen basalts
+This study,296,51.1,5,n,100,Extrusive,Lava Flow,47.5562852,Basalt,North Shore Volcanic Group:Minnesota,-90.8740277,,a,NS381,,Schroeder-Lutsen basalts
+This study,285,54.2,5,n,100,Extrusive,Lava Flow,47.60965688,Basalt,North Shore Volcanic Group:Minnesota,-90.77224503,,a,NS370,,Onion River lavas
+This study,287.8,37.4,3,n,100,Extrusive,Lava Flow,47.55559984,Basalt,North Shore Volcanic Group:Minnesota,-90.8742302,,a,NS382,,Schroeder-Lutsen basalts
+This study,288.8,43.3,4,n,100,Extrusive,Lava Flow,47.61075345,Basalt,North Shore Volcanic Group:Minnesota,-90.77325863,,a,NS372,,Onion River lavas
+This study,279.2,51.9,3,n,100,Extrusive,Lava Flow,47.55724472,Basalt,North Shore Volcanic Group:Minnesota,-90.87666017,,a,NS379,,Schroeder-Lutsen basalts
+This study,285.2,41.6,4,n,100,Extrusive,Lava Flow,47.61006809,Basalt,North Shore Volcanic Group:Minnesota,-90.77244775,,a,NS371,,Onion River lavas
+This study,299.4,57.3,3,n,100,Extrusive,Lava Flow,47.55831389,Basalt,North Shore Volcanic Group:Minnesota,-90.87729197,,a,NS380,,Schroeder-Lutsen basalts
+This study,286.6,40.1,5,n,100,Extrusive,Lava Flow,47.64405279,Basalt,North Shore Volcanic Group:Minnesota,-90.6867258,,a,NS262,,Schroeder-Lutsen basalts
+This study,282.4,43.4,5,n,100,Extrusive,Lava Flow,47.6675348,Basalt,North Shore Volcanic Group:Minnesota,-90.62215986,,a,NS261,,Schroeder-Lutsen basalts
+This study,279,44.8,5,n,100,Extrusive,Lava Flow,47.67473392,Basalt,North Shore Volcanic Group:Minnesota,-90.6034691,,a,NS260,,Schroeder-Lutsen basalts
+This study,292.8,52.8,5,n,100,Extrusive,Lava Flow,47.67733824,Basalt,North Shore Volcanic Group:Minnesota,-90.59737919,,a,NS259,,Schroeder-Lutsen basalts
+This study,289.1,45.7,5,n,100,Extrusive,Lava Flow,47.68035378,Basalt,North Shore Volcanic Group:Minnesota,-90.59088328,,a,NS258,,Schroeder-Lutsen basalts
+This study,289,43.9,4,n,100,Extrusive,Lava Flow,47.714,Basalt,North Shore Volcanic Group:Minnesota,-90.5015,,a,NS264,,Schroeder-Lutsen basalts
+This study,292.4,43.6,5,n,100,Extrusive,Lava Flow,47.71184508,Basalt,North Shore Volcanic Group:Minnesota,-90.50223542,,a,NS257,,Schroeder-Lutsen basalts
+This study,291.8,32.1,5,n,100,Extrusive,Lava Flow,47.71734951,Basalt,North Shore Volcanic Group:Minnesota,-90.48526733,,a,NS377,,Terrace Point basalt
+This study,297.4,37.5,4,n,100,Extrusive,Lava Flow,47.71732612,Basalt,North Shore Volcanic Group:Minnesota,-90.48159297,,a,NS171,,Terrace Point basalt
+This study,291.1,34.1,5,n,100,Extrusive,Lava Flow,47.71732612,Basalt,North Shore Volcanic Group:Minnesota,-90.48138987,,a,NS170,,Terrace Point basalt
+This study,301.3,34.7,4,n,100,Extrusive,Lava Flow,47.71746319,Basalt,North Shore Volcanic Group:Minnesota,-90.48138987,,a,NS169,,Terrace Point basalt
+This study,296.9,36.4,5,n,100,Extrusive,Lava Flow,47.71926848,Basalt,North Shore Volcanic Group:Minnesota,-90.47714072,,a,NS376,,Terrace Point basalt
+This study,294.3,35.2,5,n,100,Extrusive,Lava Flow,47.72187675,Basalt,North Shore Volcanic Group:Minnesota,-90.45717121,,a,NS374,,Terrace Point basalt
+This study,294,38.5,5,n,100,Extrusive,Lava Flow,47.72228796,Basalt,North Shore Volcanic Group:Minnesota,-90.45310788,,a,NS369,,Terrace Point basalt
+This study,291.7,34.9,4,n,100,Extrusive,Lava Flow,47.72544054,Basalt,North Shore Volcanic Group:Minnesota,-90.44335591,,a,NS368,,Terrace Point basalt
+This study,286,47.2,3,n,100,Extrusive,Lava Flow,47.73256813,Basalt,North Shore Volcanic Group:Minnesota,-90.43604193,,a,NS265,,Good Harbor Bay andesite
+This study,285.5,56,5,n,100,Extrusive,Lava Flow,47.73453979,Andesite,North Shore Volcanic Group:Minnesota,-90.42501636,,a,NS367,,Good Harbor Bay andesite
+This study,285.2,38.7,4,n,100,Extrusive,Lava Flow,47.76532723,Basalt,North Shore Volcanic Group:Minnesota,-90.33460283,,a,NS365,,Croftville lavas
+This study,292.9,43.5,5,n,100,Extrusive,Lava Flow,47.76702215,Basalt,North Shore Volcanic Group:Minnesota,-90.26737951,,a,NS362,,Croftville lavas
+This study,295.5,25.7,3,n,100,Extrusive,Lava Flow,47.77600067,Basalt,North Shore Volcanic Group:Minnesota,-90.20147585,,a,NS226,,Red Cliff basalts
+This study,287.9,53.8,5,n,100,Extrusive,Lava Flow,47.78890296,Rhyolite,North Shore Volcanic Group:Minnesota,-90.17323865,,a,NS375,,Kimball Creek rhyolite
+This study,298.4,46.9,3,n,100,Extrusive,Lava Flow,47.79577622,Basalt,North Shore Volcanic Group:Minnesota,-90.13329374,,a,NS229,,Kadunce icelandite
+This study,296.1,43.6,5,n,100,Extrusive,Lava Flow,47.79860756,Basalt,North Shore Volcanic Group:Minnesota,-90.10516022,,a,NS227,,Marr Island lavas
+This study,290.6,47.9,5,n,100,Extrusive,Lava Flow,47.80570607,Basalt,North Shore Volcanic Group:Minnesota,-90.09270441,,a,NS378,,Marr Island lavas
+This study,264.5,38.2,3,n,100,Extrusive,Lava Flow,47.822107,Basalt,North Shore Volcanic Group:Minnesota,-90.0612863,,a,NS269,,Marr Island lavas
+This study,264.4,47.3,4,n,100,Extrusive,Lava Flow,47.88622328,Basalt,Isle Royale:Michigan,-89.20390113,,a,MK243,,
+This study,274.1,46.4,5,n,100,Extrusive,Lava Flow,47.88622328,Basalt,Isle Royale:Michigan,-89.20553158,,a,MK244,,
+This study,272.9,49.3,5,n,100,Extrusive,Lava Flow,47.88594915,Basalt,Isle Royale:Michigan,-89.20695822,,a,MK245,,
+This study,290.4,67.1,4,n,100,Extrusive,Lava Flow,47.88581209,Basalt,Isle Royale:Michigan,-89.20879248,,a,MK246,,
+This study,263.7,56.7,5,n,100,Extrusive,Lava Flow,47.88567502,Basalt,Isle Royale:Michigan,-89.21042293,,a,MK247,,
+This study,285.2,25.2,5,n,100,Extrusive,Lava Flow,47.8873198,Basalt,Isle Royale:Michigan,-89.19391462,,a,MK248,,
+This study,281.9,24.7,5,n,100,Extrusive,Lava Flow,47.88800219,Basalt,Isle Royale:Michigan,-89.21534223,,a,MK249,,
+This study,289.2,14.1,5,n,100,Extrusive,Lava Flow,47.89143175,Basalt,Isle Royale:Michigan,-89.2030859,,a,MK250,,
+This study,292.9,29.5,6,n,100,Extrusive,Lava Flow,47.8947213,Basalt,Isle Royale:Michigan,-89.20023261,,a,MK251,,

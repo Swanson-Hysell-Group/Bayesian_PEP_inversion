@@ -1,0 +1,22 @@
+tab 	magic_methods
+er_citation_names	magic_method_code	method_definition	method_iaga7	method_type	method_url_tauxe
+http://earthref.org/MAGIC/books/Tauxe/2005/lecture.16.htm#IAGA7	LP-DC4	Principal component analysis carried out from analysis of Zijderveld diagrams		Lab Protocol	DC4
+http://earthref.org/MAGIC/books/Tauxe/2005/lecture.16.htm#IAGA7	LP-DC4	Principal component analysis carried out from analysis of Zijderveld diagrams		Lab Protocol	DC4
+http://earthref.org/MAGIC/books/Tauxe/2005/lecture.16.htm#IAGA7	LP-DC4	Principal component analysis carried out from analysis of Zijderveld diagrams		Lab Protocol	DC4
+http://earthref.org/MAGIC/books/Tauxe/2005/lecture.16.htm#IAGA7	LP-DC4	Principal component analysis carried out from analysis of Zijderveld diagrams		Lab Protocol	DC4
+http://earthref.org/MAGIC/books/Tauxe/2005/lecture.16.htm#IAGA7	LP-DC4	Principal component analysis carried out from analysis of Zijderveld diagrams		Lab Protocol	DC4
+http://earthref.org/MAGIC/books/Tauxe/2005/lecture.16.htm#IAGA7	LP-DC4	Principal component analysis carried out from analysis of Zijderveld diagrams		Lab Protocol	DC4
+http://earthref.org/MAGIC/books/Tauxe/2005/lecture.09.htm#SO-POM	SO-POM	Pomeroy orientation device		Sample Orientation	
+http://earthref.org/MAGIC/books/Tauxe/2005/lecture.09.htm#SO-CMD	SO-CMD-NORTH	Correction applied for magnetic declination: True north		Sample Orientation	
+http://earthref.org/MAGIC/books/Tauxe/2005/lecture.09.htm#DE-BFL	DE-BFL	Best fit line		Direction Estimation	
+http://earthref.org/MAGIC/books/Tauxe/2005/lecture.09.htm#DE-BFL	DE-BFL	Best fit line		Direction Estimation	
+http://earthref.org/MAGIC/books/Tauxe/2005/lecture.09.htm#DE-BFL	DE-BFL	Best fit line		Direction Estimation	
+http://earthref.org/MAGIC/books/Tauxe/2005/lecture.09.htm#DE-BFL	DE-BFL	Best fit line		Direction Estimation	
+http://earthref.org/MAGIC/books/Tauxe/2005/lecture.09.htm#DE-BFL	DE-BFL	Best fit line		Direction Estimation	
+http://earthref.org/MAGIC/books/Tauxe/2005/lecture.09.htm#DE-BFL	DE-BFL	Best fit line		Direction Estimation	
+http://earthref.org/MAGIC/books/Tauxe/2005/lecture.09.htm#LT-AFZ	LT-AF-Z	Alternating field: In zero field	A specimen is subject to a decaying and alternating magnetic field such that the magnetic moments with coercivities below the peak field are aligned in opposed directions, and thus cancel. Specimens are typically reoriented in three or more orthogonal axes.	Lab Treatment	A
+http://earthref.org/MAGIC/books/Tauxe/2005/lecture.09.htm#LT-AFZ	LT-AF-Z	Alternating field: In zero field	A specimen is subject to a decaying and alternating magnetic field such that the magnetic moments with coercivities below the peak field are aligned in opposed directions, and thus cancel. Specimens are typically reoriented in three or more orthogonal axes.	Lab Treatment	A
+http://earthref.org/MAGIC/books/Tauxe/2005/lecture.09.htm#LT-AFZ	LT-AF-Z	Alternating field: In zero field	A specimen is subject to a decaying and alternating magnetic field such that the magnetic moments with coercivities below the peak field are aligned in opposed directions, and thus cancel. Specimens are typically reoriented in three or more orthogonal axes.	Lab Treatment	A
+http://earthref.org/MAGIC/books/Tauxe/2005/lecture.09.htm#LT-AFZ	LT-AF-Z	Alternating field: In zero field	A specimen is subject to a decaying and alternating magnetic field such that the magnetic moments with coercivities below the peak field are aligned in opposed directions, and thus cancel. Specimens are typically reoriented in three or more orthogonal axes.	Lab Treatment	A
+http://earthref.org/MAGIC/books/Tauxe/2005/lecture.09.htm#LT-AFZ	LT-AF-Z	Alternating field: In zero field	A specimen is subject to a decaying and alternating magnetic field such that the magnetic moments with coercivities below the peak field are aligned in opposed directions, and thus cancel. Specimens are typically reoriented in three or more orthogonal axes.	Lab Treatment	A
+http://earthref.org/MAGIC/books/Tauxe/2005/lecture.09.htm#LT-AFZ	LT-AF-Z	Alternating field: In zero field	A specimen is subject to a decaying and alternating magnetic field such that the magnetic moments with coercivities below the peak field are aligned in opposed directions, and thus cancel. Specimens are typically reoriented in three or more orthogonal axes.	Lab Treatment	A

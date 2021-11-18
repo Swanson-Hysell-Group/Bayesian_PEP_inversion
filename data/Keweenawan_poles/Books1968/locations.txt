@@ -1,0 +1,4 @@
+tab 	locations
+	citations	continent_ocean	country	geologic_classes	lat_n	lat_s	lithologies	location	location_type	lon_e	lon_w	method_codes	plate_blocks	region	result_name	result_type	sites	tectonic_settings
+	This study	North America		Extrusive	46.5	46.5	Basalt	Ironwood		-90.0	-90.2		North American Plate				K01 : K02 : K06 : K07 : K98 : K09 : K12 : K13 : K20 : K21 : K86 : K87 : K46 : K48	Continental Rift
+	This study	North America		Extrusive	47.9	47.9	Basalt	Grand Portage		-89.7	-89.7		North American Plate				K30 : K31 : K33 : K34 : K35 : K36 : K37 : K38 : K39 : K40 : K42	Continental Rift

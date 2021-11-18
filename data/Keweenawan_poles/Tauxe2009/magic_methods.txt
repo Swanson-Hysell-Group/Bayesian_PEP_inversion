@@ -1,0 +1,21 @@
+tab 	magic_methods
+er_citation_names	magic_method_code	method_definition	method_description	method_iaga7	method_type	method_url_tauxe
+	DA-DIR-GEO	Direction correction: Adjusted for sample orientation			Data Adjustment	
+	DA-DIR-TILT	Direction correction: Adjusted for tilt			Data Adjustment	
+Kirschvink 1980	DE-BFL	Best fit line			Direction Estimation	http://earthref.org/MAGIC/books/Tauxe/2005/lecture.09.htm#DE-BFL
+Kirschvink 1980	DE-BFP	Best fit plane			Direction Estimation	http://earthref.org/MAGIC/books/Tauxe/2005/lecture.09.htm#DE-BFL
+Cox & Doell 1960	DE-DI	Pole latitude and longitude calculation from mean declination-inclination		Ptype D	Direction Estimation	
+Fisher 1953	DE-FM	Fisher mean			Direction Estimation	
+McFadden & McElhinny 1988	DE-FM-LP	Fisher mean: Line and planes			Direction Estimation	
+	DE-VM	Vector mean, including magnitude of vector, rather than just Fisher mean unit vectors			Direction Estimation	
+Collinson 1983	FS-FD	Field drilling using a hand-held portable drill			Field Sampling	http://earthref.org/MAGIC/books/Tauxe/2005/lecture.09.htm#FS-FD
+	LP-DIR-AF	Directional data: Step-wise alternating field demagnetization			Lab Protocol	
+	LP-DIR-T	Directional data: Step-wise thermal demagnetization			Lab Protocol	
+As & Zijderveld 1958 : Collinson 1983	LT-AF-Z	Alternating field: In zero field	A specimen is subject to a decaying and alternating magnetic field such that the magnetic moments with coercivities below the peak field are aligned in opposed directions, and thus cancel. Specimens are typically reoriented in three or more orthogonal axes.	A	Lab Treatment	http://earthref.org/MAGIC/books/Tauxe/2005/lecture.09.htm#LT-AFZ
+	LT-NO	No treatments applied before measurement		N	Lab Treatment	
+Wilson 1961 : Collinson 1983	LT-T-Z	Specimen cooling: In zero field	Heating the specimen to the desired temperature step and then cooling in zero ambient magnetic field.	T	Lab Treatment	http://earthref.org/MAGIC/books/Tauxe/2005/lecture.09.htm#LT-TZ
+	SO-CMD-NORTH	Correction applied for magnetic declination: True north			Sample Orientation	http://earthref.org/MAGIC/books/Tauxe/2005/lecture.09.htm#SO-CMD
+	SO-GT5	Sample orientation uncertainty greater than five degrees			Sample Orientation	
+Collinson 1983	SO-MAG	Magnetic compass			Sample Orientation	http://earthref.org/MAGIC/books/Tauxe/2005/lecture.09.htm#SO-MAG
+	SO-POM	Pomeroy orientation device			Sample Orientation	http://earthref.org/MAGIC/books/Tauxe/2005/lecture.09.htm#SO-POM
+Collinson 1983	SO-SUN	Sun compass			Sample Orientation	http://earthref.org/MAGIC/books/Tauxe/2005/lecture.09.htm#SO-SUN

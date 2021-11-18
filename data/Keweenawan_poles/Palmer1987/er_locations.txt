@@ -1,0 +1,5 @@
+tab 	er_locations
+continent_ocean	country	er_citation_names	er_location_name	geological_province_section	location_begin_lat	location_begin_lon	location_class	location_description	location_end_lat	location_end_lon	location_lithology	location_type	region
+North America	Canada	This study	Mamainse Point Formation, Michipicoten Island	Mamainse Point Formation	47.7	274.3	Extrusive	Overlain by Michipicoten Island Formation. Southerly dips 40-50 degrees to 10-15 degrees. .	47.7	274.3	Basalt	Outcrop	Ontario
+North America	Canada	This study	Michipicoten Island Formation	Michipicoten Island Formation	47.7	274.3	Extrusive	Underlain by Mamainse Point Formation. Southerly dips 40-50 degrees to 10-15 degrees.	47.7	274.3	Basalt : Andesite	Outcrop	Ontario
+North America	Canada	This study	Michipicoten Island Intrusive	Michipicoten Island Intrusive	47.7	274.3	Intrusive	Intrudes Mamainse Point and Michipicoten Island Formations. Southerly dips 40-50 degrees to 10-15 degrees.	47.7	274.3	Intrusives	Outcrop	Ontario

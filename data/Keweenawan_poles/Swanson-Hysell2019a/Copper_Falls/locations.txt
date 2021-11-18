@@ -1,0 +1,4 @@
+tab	locations
+analysts	citations	lat_n	lat_s	location	lon_e	lon_w
+	This study	46.4	46.4	Kallander Creek rhyolite block samples	-90.6	-90.6
+	This study	46.4	46.4	Kallander Creek basalt	-90.6	-90.6

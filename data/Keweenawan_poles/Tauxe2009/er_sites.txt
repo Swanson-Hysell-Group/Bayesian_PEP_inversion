@@ -1,0 +1,85 @@
+tab 	er_sites
+er_citation_names	er_location_name	er_site_name	site_class	site_definition	site_description	site_lat	site_lithology	site_lon	site_type
+This study	North Shore Volcanics	ns002	Igneous : Extrusive	s	ntpb; Terrace Point Basalt.	47.73415	Basalt	269.57081	Lava Flow
+This study	North Shore Volcanics	ns003	Igneous : Extrusive	s	ngha; Good Harbor Andesite.	47.7371	Andesite	269.58863	Lava Flow
+This study	North Shore Volcanics	ns004	Igneous : Extrusive	s	nbwb; Breakwater Basalt.	47.73275	Basalt	269.56367	Lava Flow
+This study	North Shore Volcanics	ns005	Igneous : Extrusive	s	ngha; Good Harbor Andesite.	47.72542	Andesite	269.55701	Lava Flow
+This study	North Shore Volcanics	ns006	Igneous : Extrusive	s	nslb; Undifferentiated North Shore Basalt.	47.7161	Basalt	269.50957	Lava Flow
+This study	North Shore Volcanics	ns007	Igneous : Extrusive	s	nslb; Undifferentiated North Shore Basalt.	47.70123	Basalt	269.46093	Lava Flow
+This study	North Shore Volcanics	ns008	Igneous : Intrusive	s	lvpd; Leveaux porphyritic diorite.	47.60108	Diorite	269.21345	Sill
+This study	North Shore Volcanics	ns009	Igneous : Extrusive	s	nslb; Undifferentiated North Shore Basalt.	47.59789	Basalt	269.2085	Lava Flow
+This study	North Shore Volcanics	ns010	Igneous : Extrusive	s	nslb; Undifferentiated North Shore Basalt.	47.59411	Basalt	269.20271	Lava Flow
+This study	North Shore Volcanics	ns011	Igneous : Extrusive	s	nslb; Undifferentiated North Shore Basalt.	47.58531	Basalt	269.18479	Lava Flow
+This study	North Shore Volcanics	ns012	Igneous : Extrusive	s	nslb; Undifferentiated North Shore Basalt.	47.54605	Basalt	269.10639	Lava Flow
+This study	North Shore Volcanics	ns013	Igneous : Extrusive	s	nslb; Undifferentiated North Shore Basalt.	47.55097	Basalt	269.11716	Lava Flow
+This study	North Shore Volcanics	ns014	Igneous : Extrusive	s	nslb; Undifferentiated North Shore Basalt.	47.46915	Basalt	268.98572	Lava Flow
+This study	North Shore Volcanics	ns015	Igneous : Extrusive	s	nslb; Undifferentiated North Shore Basalt.	47.46923	Basalt	268.9863	Lava Flow
+This study	North Shore Volcanics	ns016	Igneous : Extrusive	s		47.74304	Basalt	269.6176	Lava Flow
+This study	North Shore Volcanics	ns017	Igneous : Extrusive	s	nslb; Undifferentiated North Shore Basalt.	47.38919	Basalt	268.86152	Lava Flow
+This study	North Shore Volcanics	ns018	Igneous : Extrusive	s	nrcb; Red Cliff Basalt; gabbro xenoliths.	47.77667	Basalt	269.7907	Lava Flow
+This study	North Shore Volcanics	ns019	Igneous : Extrusive	s	nbwb; Breakwater Basalt.	47.74169	Basalt	269.60941	Lava Flow
+This study	North Shore Volcanics	ns020	Igneous : Extrusive	s	nrcb; Red Cliff Basalt; gabbro xenoliths.	47.77857	Basalt	269.80928	Lava Flow
+This study	North Shore Volcanics	ns021	Igneous : Extrusive	s	ndtr; Devil's Track Rhyolite.	47.77705	Rhyolite	269.7795	Lava Flow
+This study	North Shore Volcanics	ns022	Igneous : Extrusive	s	nnfi; Undifferentiated felsic-intermediate lavas.	47.79647	Rhyolite	269.87137	Lava Flow
+This study	North Shore Volcanics	ns023	Igneous : Extrusive	s	nrcb; Red Cliff Basalt; gabbro xenoliths.	47.77633	Basalt	269.79895	Lava Flow
+This study	North Shore Volcanics	ns024	Igneous : Extrusive	s	ngbb; Portage River Basalts.	47.92843	Basalt	270.27459	Lava Flow
+This study	North Shore Volcanics	ns025	Igneous : Intrusive	s	mldb; Monker River Diabase.	47.77634	Diabase	269.79893	Sill
+This study	North Shore Volcanics	ns026	Igneous : Extrusive	s	ndba; Deronda Bay Andesite.	47.91243	Andesite	270.24872	Lava Flow
+This study	North Shore Volcanics	ns027	Igneous : Intrusive	s	bhrd; Brule Lake/Hovland Gabbro.	47.90276	Diabase	270.22183	Sill
+This study	North Shore Volcanics	ns028	Igneous : Extrusive	s	ncvb; Croftville Basalt.	47.76711	Basalt	269.66823	Lava Flow
+This study	North Shore Volcanics	ns029	Igneous : Intrusive	s	bhrd; Brule Lake/Hovland Gabbro.	47.86887	Gabbro	270.11115	Sill
+This study	North Shore Volcanics	ns030	Igneous : Extrusive	s	nmll; Marr Island Lavas.	47.79897	Rhyolite	269.89441	Lava Flow
+This study	North Shore Volcanics	ns031	Igneous : Extrusive	s	ncvb; Croftville Basalt.	47.76888	Basalt	269.66913	Lava Flow
+This study	North Shore Volcanics	ns032	Igneous : Extrusive	s	ngha; Good Harbor Andesite.	47.73193	Andesite	269.55709	Lava Flow
+This study	North Shore Volcanics	ns033	Igneous : Extrusive	s	nmll; Marr Island Lavas.	47.81594	Rhyolite	269.89617	Lava Flow
+This study	North Shore Volcanics	ns034	Igneous : Extrusive	s	nthb; Two Harbors Basalt.	47.01668	Basalt	268.33971	Lava Flow
+This study	North Shore Volcanics	ns035	Igneous : Extrusive	s	nthb; Two Harbors Basalt.	47.01823	Basalt	268.34011	Lava Flow
+This study	North Shore Volcanics	ns036	Igneous : Extrusive	s	nthb; Two Harbors Basalt.	47.01631	Basalt	268.33969	Lava Flow
+This study	North Shore Volcanics	ns037	Igneous : Extrusive	s	nthb; Two Harbors Basalt.	47.02017	Basalt	268.34019	Lava Flow
+This study	North Shore Volcanics	ns038	Igneous : Extrusive	s	nlmb; Larsmont Ophitic Basalts.	46.95412	Basalt	268.22677	Lava Flow
+This study	North Shore Volcanics	ns039	Igneous : Extrusive	s	nlmb; Larsmont Ophitic Basalts.	46.95296	Basalt	268.22442	Lava Flow
+This study	North Shore Volcanics	ns040	Igneous : Extrusive	s	nsrb; Sucker River Basalts.	46.92496	Basalt	268.17933	Lava Flow
+This study	North Shore Volcanics	ns041	Igneous : Intrusive	s	spdb; Stony Point Diabase.	46.92407	Basalt	268.18249	Sill
+This study	North Shore Volcanics	ns042	Igneous : Extrusive	s	nsrb; Sucker River Basalts.	46.91051	Basalt	268.18249	Lava Flow
+This study	North Shore Volcanics	ns043	Igneous : Extrusive	s	nsrb; Sucker River Basalts.	46.90964	Basalt	268.13537	Lava Flow
+This study	North Shore Volcanics	ns044	Igneous : Extrusive	s	nsrb; Sucker River Basalts.	46.91107	Basalt	268.13956	Lava Flow
+This study	North Shore Volcanics	ns045	Igneous : Extrusive	s	nsrb; Sucker River Basalts.	46.90995	Basalt	268.13652	Lava Flow
+This study	North Shore Volcanics	ns046	Igneous : Extrusive	s	nsrb; Sucker River Basalts.	46.89996	Basalt	268.10844	Lava Flow
+This study	North Shore Volcanics	ns047	Igneous : Extrusive	s	nsrb; Sucker River Basalts.	46.90163	Basalt	268.11151	Lava Flow
+This study	North Shore Volcanics	ns048	Igneous : Extrusive	s	nsrb; Sucker River Basalts.	46.89692	Basalt	268.10385	Lava Flow
+This study	North Shore Volcanics	ns049	Igneous : Extrusive	s	nsrb; Sucker River Basalts.	46.90292	Basalt	268.11385	Lava Flow
+This study	North Shore Volcanics	ns050	Igneous : Extrusive	s	nlwb; Lakewood Basalts.	46.88286	Basalt	268.08416	Lava Flow
+This study	North Shore Volcanics	ns051	Igneous : Extrusive	s	nlwb; Lakewood Basalts.	46.88497	Basalt	268.08801	Lava Flow
+This study	North Shore Volcanics	ns052	Igneous : Extrusive	s	nsrb; Sucker River Basalts.	46.89534	Basalt	268.1015	Lava Flow
+This study	North Shore Volcanics	ns053	Igneous : Extrusive	s	nlwb; Lakewood Basalts.	46.87654	Basalt	268.06891	Lava Flow
+This study	North Shore Volcanics	ns054	Igneous : Extrusive	s	nsrb; Sucker River Basalts.	46.89499	Basalt	268.10066	Lava Flow
+This study	North Shore Volcanics	ns055	Igneous : Extrusive	s	nlwb; Lakewood Basalts.	46.87575	Rhyolite	268.04751	Lava Flow
+This study	North Shore Volcanics	ns056	Igneous : Extrusive	s	nsrb; Sucker River Basalts.	46.89011	Basalt	268.09337	Lava Flow
+This study	North Shore Volcanics	ns057	Igneous : Extrusive	s	nlwb; Lakewood Basalts.	46.87453	Rhyolite	268.06569	Lava Flow
+This study	North Shore Volcanics	ns058	Igneous : Extrusive	s	nlwb; Lakewood Basalts.	46.89011	Basalt	268.09337	Lava Flow
+This study	North Shore Volcanics	ns059	Igneous : Extrusive	s	nsrb; Sucker River Basalts.	46.8835	Basalt	268.08551	Lava Flow
+This study	North Shore Volcanics	ns060	Igneous : Extrusive	s	nlwb; Lakewood Basalts.	46.86945	Basalt	268.05315	Lava Flow
+This study	North Shore Volcanics	ns061	Igneous : Extrusive	s	nlwb; Lakewood Basalts.	46.86879	Basalt	268.05134	Lava Flow
+This study	North Shore Volcanics	ns062	Igneous : Extrusive	s	nlwb; Lakewood Basalts.	46.86996	Basalt	268.05477	Lava Flow
+This study	North Shore Volcanics	ns063	Igneous : Extrusive	s	nlwb; Lakewood Basalts.	46.86909	Basalt	268.05227	Lava Flow
+This study	North Shore Volcanics	ns064	Igneous : Extrusive	s	nlwb; Lakewood Basalts.	46.86785	Basalt	268.04964	Lava Flow
+This study	North Shore Volcanics	ns065	Igneous : Extrusive	s	nlwb; Lakewood Basalts.	46.86961	Basalt	268.05363	Lava Flow
+This study	North Shore Volcanics	ns066	Igneous : Extrusive	s	nlwb; Lakewood Basalts.	46.86674	Basalt	268.0474	Lava Flow
+This study	North Shore Volcanics	ns067	Igneous : Extrusive	s	nlwb; Lakewood Basalts.	46.87085	Basalt	268.05704	Lava Flow
+This study	North Shore Volcanics	ns068	Igneous : Extrusive	s	nlwb; Lakewood Basalts.	46.86433	Basalt	268.04385	Lava Flow
+This study	North Shore Volcanics	ns069	Igneous : Extrusive	s	nlwb; Lakewood Basalts.	46.8676	Basalt	268.04854	Lava Flow
+This study	North Shore Volcanics	ns070	Igneous : Extrusive	s	nlwb; Lakewood Basalts.	46.86164	Rhyolite	268.04036	Lava Flow
+This study	North Shore Volcanics	ns071	Igneous : Extrusive	s	nlwb; Lakewood Basalts.	46.8673	Basalt	268.04816	Lava Flow
+This study	North Shore Volcanics	ns072	Igneous : Extrusive	s	nlwb; Lakewood Basalts.	46.85836	Rhyolite	268.03466	Lava Flow
+This study	North Shore Volcanics	ns073	Igneous : Extrusive	s	nlwb; Lakewood Basalts.	46.86576	Rhyolite	268.04598	Lava Flow
+This study	North Shore Volcanics	ns074	Igneous : Extrusive	s	nlwb; Lakewood Basalts.	46.85744	Rhyolite	268.03275	Lava Flow
+This study	North Shore Volcanics	ns075	Igneous : Extrusive	s	nlwb; Lakewood Basalts.	46.86576	Rhyolite	268.04598	Lava Flow
+This study	North Shore Volcanics	ns076	Igneous : Extrusive	s	nlwb; Lakewood Basalts.	46.85625	Rhyolite	268.03115	Lava Flow
+This study	North Shore Volcanics	ns077	Igneous : Extrusive	s	nlwb; Lakewood Basalts.	46.86121	Basalt	268.03966	Lava Flow
+This study	North Shore Volcanics	ns078	Igneous : Extrusive	s	nlwb; Lakewood Basalts.	46.85303	Rhyolite	268.02196	Lava Flow
+This study	North Shore Volcanics	ns079	Igneous : Extrusive	s	nlwb; Lakewood Basalts.	46.85781	Basalt	268.03353	Lava Flow
+This study	North Shore Volcanics	ns080	Igneous : Extrusive	s	nlwb; Lakewood Basalts.	46.8525	Rhyolite	268.02071	Lava Flow
+This study	North Shore Volcanics	ns081	Igneous : Extrusive	s	nlwb; Lakewood Basalts.	46.85641	Basalt	268.0295	Lava Flow
+This study	North Shore Volcanics	ns083	Igneous : Extrusive	s	nlwb; Lakewood Basalts.	46.85339	Basalt	268.02273	Lava Flow
+This study	North Shore Volcanics	ns085	Igneous : Extrusive	s	nlwb; Lakewood Basalts.	46.8528	Rhyolite	268.02126	Lava Flow
+This study	North Shore Volcanics	ns087	Igneous : Extrusive	s	nlwb; Lakewood Basalts.	46.85188	Not Specified	268.01965	Lava Flow

@@ -1,0 +1,4 @@
+tab	locations
+location
+Agate Point
+Puff Island

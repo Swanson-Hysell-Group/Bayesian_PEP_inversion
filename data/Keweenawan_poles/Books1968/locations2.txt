@@ -1,0 +1,4 @@
+tab 	locations	
+citations	continent_ocean	country	geologic_classes
+This study	North America		Extrusive
+This study	North America		Extrusive

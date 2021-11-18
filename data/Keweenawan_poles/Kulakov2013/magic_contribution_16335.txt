@@ -1,0 +1,35 @@
+﻿tab delimited	contribution
+version	timestamp	contributor	data_model_version	reference
+1	2017-10-11T22:26:33.140Z	@polarwand	3.0	10.1139/CJES-2013-0003
+>>>>>>>>>>
+tab delimited	locations
+location	location_type	geologic_classes	lithologies	geological_province_sections	lat_s	lat_n	lon_w	lon_e	continent_ocean	country	region	age_low	age_high
+Lake Shore Traps	Outcrop	Extrusive	Basalt	Lake Shore Traps	47.6	47.6	271.9	271.9	North America	U.S.A.	Michigan	1085	1086
+>>>>>>>>>>
+tab delimited	sites
+site	bed_dip	bed_dip_direction	member	lat	lon	dir_tilt_correction	dir_dec	dir_inc	dir_alpha95	dir_k	dir_n_samples	vgp_lat	vgp_lon
+CS1	38	356	Middle LST	47.46	-88.07	100	300.3	34.1	3.8	240	9	34	172.5
+CS2	38	356	Middle LST	47.46	-88.07	100	297	37.9	2.7	803	6	33.6	177.4
+SI1	38	356	Middle LST	47.46	-88.07	100	280.4	48.1	3	185	9	27.7	195.8
+SI2	38	356	Middle LST	47.46	-88.07	100	272.4	45.8	5	163	6	21.2	199.5
+SI3	38	356	Middle LST	47.46	-88.07	100	279.9	43.5	4	620	6	24.9	193.1
+SI4	38	356	Middle LST	47.46	-88.07	100	275.5	48.1	2.3	681	8	24.5	199
+SI5	38	356	Middle LST	47.46	-88.07	100	276.6	44.7	6.4	630	6	23.4	196
+SI6	38	356	Middle LST	47.46	-88.07	100	269.8	40.3	2.5	228	7	16.6	198.1
+SI7	38	356	Middle LST	47.46	-88.07	100	285.3	43.1	6.2	582	4	28.3	189.1
+SI8	38	356	Middle LST	47.46	-88.07	100	279	40.1	3.8	207	6	22.5	191.7
+SI9	38	356	Middle LST	47.46	-88.07	100	275.9	47.1	2.5	206	7	24.2	198.1
+SI10	38	356	Middle LST	47.46	-88.07	100	274.2	42.4	3.9	863	10	20.6	196.3
+LST12	24	22	Middle LST	47.43	-87.71	100	291.2	38.3	4.3	153	6	29.9	182.3
+LST14	24	22	Middle LST	47.43	-87.71	100	279.7	45.7	4.1	160	6	25.9	195
+LST15	24	22	Middle LST	47.43	-87.71	100	281.1	42.6	3.2	142	6	25.2	192.1
+LST18	24	22	Middle LST	47.43	-87.71	100	280.8	41.1	6.6	85	7	24.2	191.4
+LST22	24	22	Middle LST	47.43	-87.71	100	272.3	42	5.8	133	6	19.1	197.7
+LST24	24	22	Middle LST	47.43	-87.71	100	269.4	36	2.5	481	6	14.2	196.5
+LST25	24	22	Middle LST	47.43	-87.71	100	279.1	43.9	6	104	6	24.6	194.2
+LST28	24	22	Middle LST	47.43	-87.71	100	276.9	36.8	4.9	159	8	19.5	191.7
+LST30	24	22	Middle LST	47.43	-87.71	100	268.4	36.6	5.1	144	6	13.8	197.5
+>>>>>>>>>>
+tab delimited	ages
+location	age_low	age_high	age_unit	timescale_eon	timescale_era	timescale_period	description	method_codes	timescale_citations
+Lake Shore Traps	1085	1086	Ma	Proterozoic	Mesoproterozoic	Stenian	U-Pb age 1085.57 +/- 0.5 Ma.	GM-UPB	10.1130/L580.1

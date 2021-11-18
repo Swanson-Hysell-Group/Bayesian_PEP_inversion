@@ -1,0 +1,109 @@
+tab delimited	contribution
+data_model_version	reference
+3.0	10.1130/G35271.1
+>>>>>>>>>>
+tab delimited	locations
+location	location_type	citations	lat_s	lat_n	lon_w	lon_e	age_high	age_low	age_unit
+Mamainse Point	Land Section	This study	47.0428	47.0988	275.2178	275.2877	1110	1090	Ma
+>>>>>>>>>>
+tab delimited	sites
+site	location	result_type	method_codes	citations	geologic_classes	geologic_types	lithologies	lat	lon	height	dir_dec	dir_inc	dir_alpha95	dir_k	dir_n_samples	dir_tilt_correction	vgp_lat	vgp_lon
+MP101(0.0 to 15.5)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0988	275.2877	68	131.6	-63.2	9.2	54	6	100	56.78	199.36
+MP101(15.5 to 16.8)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0987	275.2876	84	146	-77.2	13.7	54	3	100	64.21	243.17
+MP101(16.8 to 18.7)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0986	275.2876	85	120.3	-77.5	7.4	88	5	100	53.99	238.76
+MP101(20.7 to 21.3)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0986	275.2875	89	141.5	-66.4	8.4	121	4	100	64.44	203.58
+MP101(21.3 to 21.9)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0986	275.2874	89	126.6	-72.7	4.5	189	6	100	56.76	224.54
+MP101(22.3 to 24.2)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0986	275.2874	90	122.6	-72.9	9.6	93	4	100	54.69	225.48
+MP101(26.1 to 27.2)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0985	275.2874	94	108.9	-67.1	7.4	87	5	100	44.58	216.29
+MP101(30.8 to 31.9)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0985	275.2874	99	128.9	-72.4	2.3	1895	3	100	57.95	223.51
+MP101(31.9 to 36.7)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0984	275.2873	100	138.7	-70.7	5.5	337	3	100	63.3	217.86
+MP101(36.7 to 37.4)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0984	275.2873	105	125.8	-67.2	6.6	105	6	100	54.78	210.46
+MP101(37.4 to 40.7)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0984	275.2872	105	117	-63.7	5	189	5	100	47.58	207.07
+MP101(40.7 to 42.4)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0983	275.2872	109	122	-64.6	2.6	1205	4	100	51.22	206.47
+MP18(daisy stone)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0967	275.2853	222	78.6	-75	3.3	419	6	100	35.6	240.57
+MP105(0.0 to 6.9)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0946	275.2837	370	120.3	-67.1	6.9	179	4	100	51.37	212.09
+MP105(6.9 to 10.8)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0945	275.2837	377	118.5	-73.5	5.9	108	6	100	52.73	227.58
+MP105(20.2 to 27.3)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0945	275.2837	390	94.7	-84.7	1.8	1343	6	100	46.92	259.85
+MP105(27.3 to 29.6)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0943	275.2834	397	119.6	-80.1	4.7	384	4	100	53.36	246.59
+MP105(30.3 to 32.5)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0942	275.2834	400	86.9	-77.7	3.3	594	4	100	41.05	243.33
+MP105(32.5 to 35.1)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0941	275.2833	402	63.2	-76.5	5.8	134	6	100	31.83	248.23
+MP107(0.0 to 3.8)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0912	275.2813	584	99.6	-70.9	6.5	109	6	100	41.82	226.41
+MP107(3.8 to 10.2)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0911	275.2813	587	92.9	-69.9	2.7	814	5	100	37.69	227.09
+MP107(10.2 to 11.3)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0911	275.2812	593	85.2	-71	6.3	120	5	100	34.81	231.78
+MP107(11.3 to 14.6)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.091	275.2812	595	91.6	-63.5	5.8	135	6	100	32.15	218.81
+MP107(14.6 to 20.0)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0909	275.2811	598	88	-68.7	8.6	80	5	100	34.26	227.24
+MP43(0.0 to 2.8)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0854	275.2746	1080	105.8	-46.5	8.4	216	3	100	30.36	194.68
+MP43(2.8 to 7.1)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0853	275.2741	1083	106.7	-53.5	8.9	108	4	100	34.9	199.88
+MP43(16.7 to 25.4)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0852	275.274	1096	115.9	-60.2	12.7	53	4	100	44.89	202.25
+MP43(25.4 to 33.4)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0852	275.2741	1105	109.1	-53.4	8.7	203	3	100	36.43	198.31
+MP43(33.4 to 43.6)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0851	275.274	1113	104.5	-59.6	8.3	87	5	100	37.21	207.57
+MP121(10.6 to 14.4)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0843	275.2728	1182	107.1	-70.6	6.8	182	4	100	45.57	223.45
+MP121(23.3 to24.4)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0838	275.2723	1194	101.1	-61.9	4.5	422	4	100	36.6	212.12
+MP121(27.6 to 31.3)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0836	275.2722	1199	110.3	-62.6	9.2	101	4	100	42.72	208.51
+MP121(46.6 to 49.4)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0835	275.272	1205	112.6	-69.8	2.4	1512	4	100	48.15	220.17
+MP214(-0.1 to 1.5)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0838	275.2699	1289	105.4	-58.6	3.3	336	6	100	37.15	205.92
+MP214(1.5 to 5.4)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0836	275.2699	1290	104	-49.3	5.4	513	3	100	30.69	197.97
+MP214(5.4 to 6.6)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0837	275.2699	1294	111.4	-58.3	7.6	82	5	100	40.84	202.24
+MP214(6.6 to 8.8)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0837	275.2699	1297	99.7	-53.9	8.5	118	4	100	30.58	204.48
+MP214(11.0 to 13.1)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0836	275.2698	1301	97.3	-48.3	16.4	32	4	100	25.71	201.52
+MP214(60.3 to 67.9)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0835	275.2691	1351	287.7	53.6	5.2	218	5	100	35.62	199.36
+MP214(73.4 to 79.1)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0834	275.2687	1364	283.7	44.5	6.1	129	5	100	27.89	194.69
+MP214(79.1 to 90.0)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0837	275.2683	1370	271.8	42.7	6.7	131	5	100	19.04	201.51
+MP46(0.0 to 7.0)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0782	275.2667	1384	283.5	39.4	5.5	103	8	100	34.23	185.86
+MP46(7.0 to 8.0)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.078	275.2666	1387	282.8	36.3	16.2	59	3	100	36.82	179.3
+MP214(130.5 to 151.5)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0831	275.2673	1419	294.5	42.6	7.7	64	6	100	25.17	191.65
+MP214(157.0 to 165.0)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.083	275.2668	1447	300.5	39.6	2.4	478	8	100	23.21	190.42
+MP50(0.9 to 12.1)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0727	275.2605	1764	301.3	51.2	6.4	89	4	100	41.42	167.45
+MP50(12.1 to 15.1)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0727	275.2604	1775	286.1	56.9	8.3	86	5	100	40	171.17
+MP49(0.0 to 1.7)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0745	275.2604	1776	310.9	34.8	11.7	113	3	100	43.4	188.15
+MP49(1.7 to 5.6)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0745	275.2604	1778	307.7	36.2	3.1	599	5	100	36.55	203.65
+MP111(0.0 to 5.3)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.072	275.2608	1782	321.4	58.4	11.6	45	6	100	61.03	183.54
+MP111(5.3 to 18.2)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.072	275.2605	1788	301.3	54.8	11.9	33	6	100	45.41	192.09
+MP111(18.2 to 23.4)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0721	275.2603	1801	300.8	64.5	6.4	145	4	100	50.4	206.8
+MP111(37.6 to 43.1)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0709	275.2599	1820	328.7	24.4	3.6	341.4	6	100	46.85	143.05
+MP111(50.4 to 69.2)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0704	275.2599	1833	325.5	27.6	23.1	17	6	100	46.74	148.35
+MP111(75.5 to 82.8)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.07	275.2594	1858	316.7	20.8	13	36	5	100	38.58	154.79
+MP53(0.0 to 6.6)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0689	275.2593	1865	106.7	-39	3.4	226	9	100	27.14	189.16
+MP54(0.0 to 4.0)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0687	275.2594	1872	105.7	-42.1	7.8	140	4	100	28	191.75
+MP111(128.2 to 130.7)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0688	275.2584	1910	112.7	-33.9	7.8	97	5	100	28.84	181.93
+MP111(130.7 to 141.9)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0688	275.2583	1913	113.3	-45.9	3.8	416	6	100	35.11	189.11
+MP111(141.9 to 145.5)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0689	275.2582	1924	116.9	-44.5	4.7	268	5	100	36.83	185.48
+MP111(145.5 to 147.1)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0689	275.2582	1928	129.8	-45.4	4.9	250	6	100	46.05	176.14
+MP111(147.1 to 150)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.069	275.2581	1930	124.7	-47.1	5.4	155	3	100	43.5	181.76
+MP111(154.2 to 160.6)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0692	275.2578	1937	123.3	-40.9	8.7	113	6	100	39.36	177.96
+MP111(273.8 to 282.7)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0689	275.2554	2056	86.9	-51.6	13.6	32	5	100	21.07	210.43
+MP111(302.2 to 310.0)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0684	275.2548	2085	100.5	-50.9	6	235	3	100	29.3	201.45
+MP207(0.0 to 20.4)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0646	275.2473	2413	297.4	36.7	4.2	336	5	100	33.33	179.9
+MP207(20.4 to 40.8)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0647	275.2467	2426	297.9	37.8	4.9	248	5	100	34.19	180.18
+MP207(42.3 to 43.5)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0645	275.2462	2448	298.5	44.2	3.1	478	6	100	37.77	184.06
+MP207(45.0 to 53.3)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0645	275.2461	2451	293.8	40.4	5.7	137	6	100	32.66	184.9
+MP207(53.7 to 62.6)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0643	275.2459	2459	296.6	45.2	4.9	155	7	100	36.99	186.22
+MP207(62.6 to 71.5)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0641	275.2455	2468	290.9	41.9	9.2	54	6	100	31.43	187.97
+MP207(71.5 to 85.5)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.064	275.2452	2477	289.1	40.3	3.1	612	5	100	29.41	188.23
+MP209(1.2 to 7.3)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0608	275.2422	2482	293.7	45.3	6.8	99	5	100	35.07	188.36
+MP209(7.3 to 20.3)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0606	275.2421	2488	299	51.5	5.5	148	6	100	42.01	190.03
+MP209(20.3 to 33.6)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0603	275.2417	2501	289.9	43	6.1	120	7	100	31.3	189.41
+MP209(33.6 to 42.2)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0601	275.2412	2514	298.1	36.6	6.2	97	7	100	33.75	179.3
+MP209(42.2 to 51.1)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0598	275.241	2523	303.5	41.1	5	179	6	100	39.59	177.93
+MP209(51.1 to 65.5)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0595	275.2406	2532	288.1	34.8	3.4	378	5	100	26.12	185.8
+MP211(34.9 to 38.1)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0586	275.2384	2610	296.6	27.4	5.8	451	3	100	28.62	175.64
+MP211(39.2 to 46.6)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0584	275.2382	2615	290.7	36.4	4.9	351	4	100	28.63	184.77
+MP211(48.0 to 56.1)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0584	275.238	2623	297.9	33.1	5.2	311	4	100	32	177.47
+MP211(69.9 to 87.2)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0581	275.2374	2645	292.8	27.9	4.2	339	5	100	26.27	178.84
+MP303(0 to 20.4)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0524	275.2301	3043	305.2	43.4	2.9	566	5	100	41.91	178.27
+MP303(72.3 to 92.9)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.052	275.2288	3115	296.7	38.4	7.4	69	6	100	33.66	181.46
+MP303(113.5 to 125.6)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0512	275.2282	3157	294.2	43.7	5.6	87	8	100	34.58	186.83
+MP303(125.9 to 131.4)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0515	275.2278	3169	300.6	34.8	8.8	49	6	100	34.6	176.26
+MP303(131.4 to 141.6)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0517	275.2275	3174	302.2	45.2	3	518	5	100	40.8	182.05
+MP303(142.1 to 152.9)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0519	275.2273	3185	286.4	32.6	5.3	95	8	100	23.96	185.9
+MP212(0.0 to 10.2)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0473	275.2251	3350	298.5	42.6	6.1	232	4	100	36.95	182.88
+MP212(10.2 to 15.5)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0472	275.2248	3360	298.2	40.3	5.8	135	6	100	35.6	181.53
+MP212(15.5 to 22.2)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.047	275.2246	3366	295.1	43.2	6.8	128	5	100	34.94	185.82
+MP212(22.2 to 30.8)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0468	275.2243	3372	295.7	38.6	6.4	142	5	100	33.08	182.34
+MP306(2.6 to 26.7)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0431	275.2197	3635	290.4	34.6	2.8	336	8	100	27.59	183.99
+MP306(26.7 to 34.2)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0432	275.2191	3659	289.6	33.3	2.4	678	6	100	26.46	183.9
+MP306(39.0 to 44.5)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.043	275.2189	3671	290.3	32.9	1.9	1035	6	100	26.76	183.17
+MP306(44.5 to 73.6)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.043	275.2188	3677	294.6	40.8	5.6	122	6	100	33.4	184.55
+MP306(73.6 to 96.4)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0428	275.2184	3706	277.6	15.8	6.7	60	8	100	11.06	185.2
+MP306(96.4 to 102.1)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0428	275.2179	3728	279.1	18.7	14.1	20	6	100	13.2	185.19
+MP306(102.1 to 108.4)	Mamainse Point	i	DE-BFL:FS-C-DRILL:SO-POM	This study	Extrusive:Igneous	Lava Flow	Basalt	47.0428	275.2178	3734	280.9	7.2	7.9	44	8	100	10.06	179.67
