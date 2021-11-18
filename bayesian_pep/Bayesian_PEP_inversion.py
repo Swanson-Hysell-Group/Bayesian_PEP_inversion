@@ -724,17 +724,17 @@ def pole_position_2e( start, euler_1, rate_1, euler_2, rate_2, switchpoint, star
 
 def plot_trace_2e( trace, lon_lats, ages, central_lon = 30., central_lat = 30., num_points_to_plot = 500, num_paths_to_plot = 500, 
                   savefig = False, figname = '2_Euler_inversion_test.pdf', **kwargs):
-    def pole_position( start, euler_1, rate_1, euler_2, rate_2, switchpoint, time ):
+    def pole_position( start, euler_1, rate_1, euler_2, rate_2, switchpoint, start_age, age ):
 
         euler_pole_1 = EulerPole( euler_1[0], euler_1[1], rate_1)
         euler_pole_2 = EulerPole( euler_2[0], euler_2[1], rate_2)
         start_pole = PaleomagneticPole(start[0], start[1], age=time)
-
-        if time <= switchpoint:
-            start_pole.rotate( euler_pole_1, euler_pole_1.rate*time)
+        
+        if age >= switchpoint:
+            start_pole.rotate( euler_pole_1, euler_pole_1.rate*age)
         else:
             start_pole.rotate( euler_pole_1, euler_pole_1.rate*switchpoint)
-            start_pole.rotate( euler_pole_2, euler_pole_2.rate*(time-switchpoint))
+            start_pole.rotate( euler_pole_2, euler_pole_2.rate*(switchpoint-age))
 
         lon_lat = np.array([start_pole.longitude, start_pole.latitude])
 
