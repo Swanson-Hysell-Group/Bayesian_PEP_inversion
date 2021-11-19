@@ -232,28 +232,28 @@ class Pole(object):
         Initialize the pole with lon, lat, and A95 uncertainty. Removed norm from Rose version, here we assume everything is unit vector. 
         longitude, latitude, and A95 are all taken in degrees.
         """
-        self.longitude = longitude
-        self.latitude = latitude
-        self.colatitude = 90 - latitude
-        self.magnitude = magnitude
-        self._pole = spherical_to_cartesian(self.longitude, self.latitude, self.magnitude) # pole position in cartesian coordinates, easier for addition operations
+#         self.longitude = longitude
+#         self.latitude = latitude
+#         self.colatitude = 90 - latitude
+#         self.magnitude = magnitude
+        self._pole = spherical_to_cartesian(longitude, latitude, magnitude) # pole position in cartesian coordinates, easier for addition operations
         self._A95 = A95
 
-#     @property
-#     def longitude(self):
-#         return np.arctan2(self._pole[1], self._pole[0]) * rot.r2d
+    @property
+    def longitude(self):
+        return np.arctan2(self._pole[1], self._pole[0]) * r2d
 
-#     @property
-#     def latitude(self):
-#         return 90. - np.arccos(self._pole[2] / self.norm) * rot.r2d
+    @property
+    def latitude(self):
+        return 90. - np.arccos(self._pole[2] / self.magnitude) * r2d
 
-#     @property
-#     def colatitude(self):
-#         return np.arccos(self._pole[2] / self.norm) * rot.r2d
+    @property
+    def colatitude(self):
+        return np.arccos(self._pole[2] / self.magnitude) * r2d
 
-#     @property
-#     def norm(self):
-#         return np.sqrt(self._pole[0] * self._pole[0] + self._pole[1] * self._pole[1] + self._pole[2] * self._pole[2])
+    @property
+    def magnitude(self):
+        return np.sqrt(self._pole[0] * self._pole[0] + self._pole[1] * self._pole[1] + self._pole[2] * self._pole[2])
 
 #     @property
 #     def angular_error(self):
@@ -269,21 +269,21 @@ class Pole(object):
         # orientation
         p = pole._pole
         
-        lon, lat, intensity = cartesian_to_spherical(p)
+        lon, lat, _ = cartesian_to_spherical(p)
         colat = 90. - lat
         m1 = construct_euler_rotation_matrix(-lon * d2r, -colat * d2r, angle * d2r)
         m2 = construct_euler_rotation_matrix(0., colat * d2r, lon * d2r)
         self._pole = np.dot(m2, np.dot(m1, self._pole))
-        self.longitude = cartesian_to_spherical(self._pole.tolist())[0].tolist()[0]
-        self.latitude = cartesian_to_spherical(self._pole.tolist())[1].tolist()[0]
-        self._pole = spherical_to_cartesian(self.longitude, self.latitude, self.magnitude)
-        self.colatitude = 90 - self.latitude
+        longitude = cartesian_to_spherical(self._pole.tolist())[0].tolist()[0]
+        latitude = cartesian_to_spherical(self._pole.tolist())[1].tolist()[0]
+        self._pole = spherical_to_cartesian(longitude, latitude, self.magnitude)
+#         self.colatitude = 90 - self.latitude
 
     def _rotate(self, pole, angle):
         print(self.longitude, self.latitude)
         p = pole._pole
         
-        lon, lat, intensity = cartesian_to_spherical(p)
+        lon, lat, _ = cartesian_to_spherical(p)
         lon = T.as_tensor_variable(lon[0])
         lat = T.as_tensor_variable(lat[0])
         
@@ -427,15 +427,24 @@ def kappa_from_two_sigma(two_sigma):
 def vmf_logp(lon_lat, k, x):
 
 #     if x[1] < -90. or x[1] > 90.:
-# #         raise ValueError('input latitude must be within (-90, 90)')
+#         raise ZeroProbability
 #         return -np.inf
+
     if k < eps:
         return np.log(1. / 4. / np.pi)
-    
-    theta = pmag.angle(x, lon_lat)[0]
-    PdA = k*np.exp(k*np.cos(theta*d2r))/(2*np.pi*(np.exp(k)-np.exp(-k)))
-    logp = np.log(PdA)
 
+    mu = np.array([np.cos(lon_lat[1] * d2r) * np.cos(lon_lat[0] * d2r),
+                   np.cos(lon_lat[1] * d2r) * np.sin(lon_lat[0] * d2r),
+                   np.sin(lon_lat[1] * d2r)])
+    test_point = np.transpose(np.array([np.cos(x[1] * d2r) * np.cos(x[0] * d2r),
+                                        np.cos(x[1] * d2r) *
+                                        np.sin(x[0] * d2r),
+                                        np.sin(x[1] * d2r)]))
+
+    logp_elem = np.log( -k / ( 2. * np.pi * np.expm1(-2. * k)) ) + \
+        k * (np.dot(test_point, mu) - 1.)
+
+    logp = logp_elem.sum()
     return np.array(logp)
 
 
@@ -642,16 +651,15 @@ def pole_position_1e( start, euler_1, rate_1, start_age, age ):
     start_pole = PaleomagneticPole(start[0], start[1], age=start_age)
     
     euler_pole_1 = EulerPole( euler_1[0], euler_1[1], rate_1)
-    
 
     start_pole.rotate(euler_pole_1, euler_pole_1.rate*(start_age-age))
 
-    lon_lat = np.array([start_pole.longitude, start_pole.latitude])
+    lon_lat = np.ndarray.flatten(np.array([start_pole.longitude, start_pole.latitude]))
 
     return lon_lat
 
 
-def plot_trace_1e( trace, lon_lats, ages, central_lon = 30., central_lat = 30., num_points_to_plot = 200, num_paths_to_plot = 200, 
+def plot_trace_1e( trace, lon_lats, A95s,  ages, central_lon = 30., central_lat = 30., num_points_to_plot = 200, num_paths_to_plot = 200, 
                   savefig = False, figname = 'code_output/1_Euler_inversion_.pdf', **kwargs):
     def pole_position( start, euler_1, rate_1, time ):
 
@@ -660,7 +668,7 @@ def plot_trace_1e( trace, lon_lats, ages, central_lon = 30., central_lat = 30., 
 
         start_pole.rotate( euler_pole_1, euler_pole_1.rate*time)
 
-        lon_lat = np.array([start_pole.longitude, start_pole.latitude])
+        lon_lat = np.ndarray.flatten(np.array([start_pole.longitude, start_pole.latitude]))
 
         return lon_lat
     
@@ -697,7 +705,7 @@ def plot_trace_1e( trace, lon_lats, ages, central_lon = 30., central_lat = 30., 
     cbar = plt.colorbar(scalarMap, shrink=0.85)
     cbar.ax.set_xlabel('Age (Ma)', fontsize=12) 
     for i in range(len(lon_lats)):
-        this_pole = Pole(lon_lats[i][0], lon_lats[i][1], A95=5.)
+        this_pole = Pole(lon_lats[i][0], lon_lats[i][1], A95=A95s[i])
         this_pole.plot(ax, color=pole_colors[i])
     if savefig == True:
         plt.savefig(figname)
@@ -717,26 +725,26 @@ def pole_position_2e( start, euler_1, rate_1, euler_2, rate_2, switchpoint, star
         start_pole.rotate( euler_pole_1, euler_pole_1.rate*(start_age-switchpoint))
         start_pole.rotate( euler_pole_2, euler_pole_2.rate*(switchpoint-age))
 
-    lon_lat = np.array([start_pole.longitude, start_pole.latitude])
+    lon_lat = np.ndarray.flatten(np.array([start_pole.longitude, start_pole.latitude]))
 
     return lon_lat
 
 
-def plot_trace_2e( trace, lon_lats, ages, central_lon = 30., central_lat = 30., num_points_to_plot = 500, num_paths_to_plot = 500, 
+def plot_trace_2e( trace, lon_lats, A95s, ages, central_lon = 30., central_lat = 30., num_points_to_plot = 500, num_paths_to_plot = 500, 
                   savefig = False, figname = '2_Euler_inversion_test.pdf', **kwargs):
     def pole_position( start, euler_1, rate_1, euler_2, rate_2, switchpoint, start_age, age ):
 
         euler_pole_1 = EulerPole( euler_1[0], euler_1[1], rate_1)
         euler_pole_2 = EulerPole( euler_2[0], euler_2[1], rate_2)
-        start_pole = PaleomagneticPole(start[0], start[1], age=time)
-        
+        start_pole = PaleomagneticPole(start[0], start[1], age=start_age)
+
         if age >= switchpoint:
-            start_pole.rotate( euler_pole_1, euler_pole_1.rate*age)
+            start_pole.rotate( euler_pole_1, euler_pole_1.rate*(start_age-age))
         else:
-            start_pole.rotate( euler_pole_1, euler_pole_1.rate*switchpoint)
+            start_pole.rotate( euler_pole_1, euler_pole_1.rate*(start_age-switchpoint))
             start_pole.rotate( euler_pole_2, euler_pole_2.rate*(switchpoint-age))
 
-        lon_lat = np.array([start_pole.longitude, start_pole.latitude])
+        lon_lat = np.ndarray.flatten(np.array([start_pole.longitude, start_pole.latitude]))
 
         return lon_lat
     
@@ -747,8 +755,9 @@ def plot_trace_2e( trace, lon_lats, ages, central_lon = 30., central_lat = 30., 
     rates_2 = trace.rate_2
 
     start_directions = trace.start_pole
+    start_ages = trace.start_pole_age
     switchpoints = trace.switchpoint
-
+    
     interval = max([1,int(len(rates_1)/num_paths_to_plot)])
 
     #ax = plt.axes(projection = ccrs.Orthographic(0.,30.))
@@ -761,18 +770,18 @@ def plot_trace_2e( trace, lon_lats, ages, central_lon = 30., central_lat = 30., 
     pathlons = np.empty_like(age_list)
     pathlats = np.empty_like(age_list)
     
-    for start, e1, r1, e2, r2, switch \
+    for start, e1, r1, e2, r2, switch, start_age \
                  in zip(start_directions[::interval], 
                         euler_1_directions[::interval], rates_1[::interval],
                         euler_2_directions[::interval], rates_2[::interval],
-                        switchpoints[::interval]):
+                        switchpoints[::interval], start_ages[::interval]):
         for i,a in enumerate(age_list):
-            lon_lat = pole_position( start, e1, r1, e2, r2, switch, a)
+            lon_lat = pole_position( start, e1, r1, e2, r2, switch, start_age, a)
             pathlons[i] = lon_lat[0]
             pathlats[i] = lon_lat[1]
         
-        ax.plot(pathlons[int(switch):],pathlats[int(switch):],color='b', transform=ccrs.PlateCarree(), alpha=0.05)
-        ax.plot(pathlons[:int(switch)],pathlats[:int(switch)],color='r', transform=ccrs.PlateCarree(), alpha=0.05)
+        ax.plot(pathlons[int(switch):],pathlats[int(switch):],color='r', transform=ccrs.PlateCarree(), alpha=0.05)
+        ax.plot(pathlons[:int(switch)],pathlats[:int(switch)],color='b', transform=ccrs.PlateCarree(), alpha=0.05)
         
     # plot paleomagnetic observation poles here
     cNorm  = matplotlib.colors.Normalize(vmin=min(ages), vmax=max(ages))
@@ -783,7 +792,7 @@ def plot_trace_2e( trace, lon_lats, ages, central_lon = 30., central_lat = 30., 
     cbar = plt.colorbar(scalarMap, shrink=0.85)
     cbar.ax.set_xlabel('Age (Ma)', fontsize=12) 
     for i in range(len(lon_lats)):
-        this_pole = Pole(lon_lats[i][0], lon_lats[i][1], A95=5.)
+        this_pole = Pole(lon_lats[i][0], lon_lats[i][1], A95=A95s[i])
         this_pole.plot(ax, color=pole_colors[i])
     if savefig == True:
         plt.savefig(figname)
