@@ -44,6 +44,62 @@ cmap_purple.set_bad('w', alpha=0.0)
 cmap_list = [cmap_blue, cmap_red, cmap_green, cmap_orange, cmap_purple]
 cmaps = cycle(cmap_list)
 
+def generate_APWP_pole(start_pole, start_age, end_age, euler_pole, euler_rate):
+    # this function generates synthetic APWP poles by calculating end pole positions given a start pole position and age, 
+    # desired end age, euler rotation pole position and rate
+    # calculates end pole position by rotating the start pole with angle = age difference * rotation rate
+    
+    # all poles should be given in directions, they will be calculated into cartesian coordinates
+        
+    start_pole_cart = pmag.dir2cart(start_pole)[0]
+    euler_pole_cart = pmag.dir2cart(euler_pole)[0]
+    
+    age_diff = np.abs(end_age - start_age)
+    
+    end_pole = rotate(start_pole_cart,euler_pole_cart,age_diff*euler_rate)
+    
+    return pmag.cart2dir(end_pole)[0][:2]
+
+def generate_APWP_poles(number_of_poles, start_pole, start_age, end_age, euler_pole, euler_rate, pole_a95):
+    age_step = (start_age-end_age)/(number_of_poles-1)
+    ages = np.arange(start_age,end_age-age_step,-age_step)
+
+    pole_lons = []
+    pole_lats = []
+    pole_a95s = []
+
+    pole_lons.append(start_pole[0])
+    pole_lats.append(start_pole[1])
+    pole_a95s.append(pole_a95)
+
+    for n in range(1,number_of_poles):
+        pole = generate_APWP_pole(start_pole, ages[0], ages[n], euler_pole, euler_rate)
+        pole_lons.append(pole[0])
+        pole_lats.append(pole[1])
+        pole_a95s.append(pole_a95)
+
+    Euler_df = pd.DataFrame(data = np.array([pole_lons, pole_lats, ages, pole_a95s]).T, columns = ['pole_lon', 'pole_lat', 'pole_age', 'pole_a95'])
+
+    return Euler_df
+
+def plot_paleomagnetic_poles(dataframe, central_longitude=0, central_latitude=0, **kwargs):
+    ax = ipmag.make_orthographic_map(central_longitude, central_latitude, **kwargs)
+
+    ax.set_global()
+    
+    cNorm  = matplotlib.colors.Normalize(vmin=min(dataframe['pole_age']), vmax=max(dataframe['pole_age']))
+    scalarMap = matplotlib.cm.ScalarMappable(norm=cNorm, cmap='viridis_r')
+
+    dataframe['color'] = [colors.rgb2hex(scalarMap.to_rgba(dataframe['pole_age'].tolist()[i])) for i in range(dataframe.shape[0])]
+
+    for i in range(dataframe .shape[0]):
+        this_pole = Pole(dataframe['pole_lon'][i], dataframe['pole_lat'][i], A95 = dataframe['pole_a95'][i])
+        this_pole.plot(ax, color = dataframe['color'][i])
+        
+    cbar = plt.colorbar(scalarMap, shrink=0.75, location='bottom', pad=0.01)
+    cbar.ax.set_xlabel('Age (Ma)', fontsize=12) 
+    return ax
+
 # @as_op(itypes=[T.dvector, T.dvector, T.dscalar], otypes=[T.dvector])
 def rotate(pole, rotation_pole, angle):
     # The idea is to rotate the pole so that the Euler pole is
@@ -702,14 +758,14 @@ def plot_trace_1e( trace, lon_lats, A95s,  ages, central_lon = 30., central_lat 
 
     pole_colors = [colors.rgb2hex(scalarMap.to_rgba(ages[i])) for i in range(len(ages))]
         
-    cbar = plt.colorbar(scalarMap, shrink=0.85)
+    cbar = plt.colorbar(scalarMap, shrink=0.75, location='bottom', pad=0.01)
     cbar.ax.set_xlabel('Age (Ma)', fontsize=12) 
     for i in range(len(lon_lats)):
         this_pole = Pole(lon_lats[i][0], lon_lats[i][1], A95=A95s[i])
         this_pole.plot(ax, color=pole_colors[i])
     if savefig == True:
-        plt.savefig(figname)
-    plt.show()
+        plt.savefig(figname,dpi=600,bbox_inches='tight')
+    return ax
     
     
 @as_op(itypes=[T.dvector, T.dvector, T.dscalar, T.dvector, T.dscalar,  T.dscalar,  T.dscalar, T.dscalar], otypes=[T.dvector])
