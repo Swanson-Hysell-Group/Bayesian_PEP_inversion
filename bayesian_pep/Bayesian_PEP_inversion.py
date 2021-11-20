@@ -283,7 +283,7 @@ class Pole(object):
     properties and operations.
     """
 
-    def __init__(self, longitude, latitude, magnitude = 1, A95=None):
+    def __init__(self, longitude, latitude, magnitude = 1., A95=None):
         """
         Initialize the pole with lon, lat, and A95 uncertainty. Removed norm from Rose version, here we assume everything is unit vector. 
         longitude, latitude, and A95 are all taken in degrees.
@@ -292,7 +292,7 @@ class Pole(object):
 #         self.latitude = latitude
 #         self.colatitude = 90 - latitude
 #         self.magnitude = magnitude
-        self._pole = spherical_to_cartesian(longitude, latitude, magnitude) # pole position in cartesian coordinates, easier for addition operations
+        self._pole = np.ndarray.flatten(spherical_to_cartesian(longitude, latitude, magnitude)) # pole position in cartesian coordinates, easier for addition operations
         self._A95 = A95
 
     @property
@@ -309,7 +309,7 @@ class Pole(object):
 
     @property
     def magnitude(self):
-        return np.sqrt(self._pole[0] * self._pole[0] + self._pole[1] * self._pole[1] + self._pole[2] * self._pole[2])
+        return np.sqrt(np.dot(self._pole , self._pole))
 
 #     @property
 #     def angular_error(self):
@@ -329,10 +329,10 @@ class Pole(object):
         colat = 90. - lat
         m1 = construct_euler_rotation_matrix(-lon * d2r, -colat * d2r, angle * d2r)
         m2 = construct_euler_rotation_matrix(0., colat * d2r, lon * d2r)
-        self._pole = np.dot(m2, np.dot(m1, self._pole))
+        self._pole = np.ndarray.flatten(np.dot(m2, np.dot(m1, self._pole)))
         longitude = cartesian_to_spherical(self._pole.tolist())[0].tolist()[0]
         latitude = cartesian_to_spherical(self._pole.tolist())[1].tolist()[0]
-        self._pole = spherical_to_cartesian(longitude, latitude, self.magnitude)
+        self._pole = np.ndarray.flatten(spherical_to_cartesian(longitude, latitude, self.magnitude))
 #         self.colatitude = 90 - self.latitude
 
     def _rotate(self, pole, angle):
@@ -710,8 +710,7 @@ def pole_position_1e( start, euler_1, rate_1, start_age, age ):
 
     start_pole.rotate(euler_pole_1, euler_pole_1.rate*(start_age-age))
 
-    lon_lat = np.ndarray.flatten(np.array([start_pole.longitude, start_pole.latitude]))
-
+    lon_lat = np.array([start_pole.longitude, start_pole.latitude])
     return lon_lat
 
 
@@ -724,7 +723,7 @@ def plot_trace_1e( trace, lon_lats, A95s,  ages, central_lon = 30., central_lat 
 
         start_pole.rotate( euler_pole_1, euler_pole_1.rate*time)
 
-        lon_lat = np.ndarray.flatten(np.array([start_pole.longitude, start_pole.latitude]))
+        lon_lat = np.array([start_pole.longitude, start_pole.latitude])
 
         return lon_lat
     
