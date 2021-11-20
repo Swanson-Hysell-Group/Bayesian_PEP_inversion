@@ -283,7 +283,7 @@ class Pole(object):
     properties and operations.
     """
 
-    def __init__(self, longitude, latitude, magnitude = 1., A95=None):
+    def __init__(self, longitude, latitude, magnitude, A95=None):
         """
         Initialize the pole with lon, lat, and A95 uncertainty. Removed norm from Rose version, here we assume everything is unit vector. 
         longitude, latitude, and A95 are all taken in degrees.
@@ -727,7 +727,7 @@ def pole_position_tpw(start, tpw_angle, tpw_rate, start_age, age):
     return lon_lat
 
 
-def plot_trace_tpw(trace, lon_lats, A95s, ages, central_lon = 30., central_lat = 30., num_points_to_plot = 200, num_paths_to_plot = 200, 
+def plot_trace_tpw(trace, lon_lats, A95s, ages, central_lon = 30., central_lat = 30., num_paths_to_plot = 200, 
                   savefig = False, figname = 'code_output/tpw_inversion_.pdf', **kwargs):
     def pole_position(start, tpw_angle, tpw_rate, start_age, age):
 
@@ -824,7 +824,7 @@ def pole_position_1e( start, euler_1, rate_1, start_age, age ):
     return lon_lat
 
 
-def plot_trace_1e( trace, lon_lats, A95s,  ages, central_lon = 30., central_lat = 30., num_points_to_plot = 200, num_paths_to_plot = 200, 
+def plot_trace_1e( trace, lon_lats, A95s,  ages, central_lon = 30., central_lat = 30., num_paths_to_plot = 200, 
                   savefig = False, figname = 'code_output/1_Euler_inversion_.pdf', **kwargs):
     def pole_position( start, euler_1, rate_1, time ):
 
@@ -842,13 +842,13 @@ def plot_trace_1e( trace, lon_lats, A95s,  ages, central_lon = 30., central_lat 
 
     start_directions = trace.start_pole
 
-    interval = max([1,int(len(rates_1)/num_paths_to_plot)])
+    interval = max([1,int(len(rates_1)/num_paths_to_plot)])s
 
     ax = ipmag.make_orthographic_map(central_lon, central_lat, add_land=0, grid_lines = 1)
     
     plot_distributions(ax, euler_1_directions[:,0], euler_1_directions[:,1], **kwargs)
 
-    age_list = np.linspace(ages[0], ages[-1], num_paths_to_plot)
+    age_list = np.linspace(min(ages), max(ages), num_paths_to_plot)
     pathlons = np.empty_like(age_list)
     pathlats = np.empty_like(age_list)
     for start, e1, r1 in zip(start_directions[::interval], 
@@ -864,7 +864,7 @@ def plot_trace_1e( trace, lon_lats, A95s,  ages, central_lon = 30., central_lat 
     # plot paleomagnetic observation poles here
     cNorm  = matplotlib.colors.Normalize(vmin=min(ages), vmax=max(ages))
     scalarMap = matplotlib.cm.ScalarMappable(norm=cNorm, cmap='viridis_r')
-
+s
     pole_colors = [colors.rgb2hex(scalarMap.to_rgba(ages[i])) for i in range(len(ages))]
         
     cbar = plt.colorbar(scalarMap, shrink=0.75, location='bottom', pad=0.01)
@@ -895,7 +895,7 @@ def pole_position_2e( start, euler_1, rate_1, euler_2, rate_2, switchpoint, star
     return lon_lat
 
 
-def plot_trace_2e( trace, lon_lats, A95s, ages, central_lon = 30., central_lat = 30., num_points_to_plot = 500, num_paths_to_plot = 500, 
+def plot_trace_2e( trace, lon_lats, A95s, ages, central_lon = 30., central_lat = 30., num_paths_to_plot = 500, 
                   savefig = False, figname = '2_Euler_inversion_test.pdf', **kwargs):
     def pole_position( start, euler_1, rate_1, euler_2, rate_2, switchpoint, start_age, age ):
 
