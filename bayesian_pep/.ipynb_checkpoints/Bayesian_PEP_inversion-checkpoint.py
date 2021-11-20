@@ -283,7 +283,7 @@ class Pole(object):
     properties and operations.
     """
 
-    def __init__(self, longitude, latitude, magnitude, A95=None):
+    def __init__(self, longitude, latitude, magnitude=1.0, A95=None):
         """
         Initialize the pole with lon, lat, and A95 uncertainty. Removed norm from Rose version, here we assume everything is unit vector. 
         longitude, latitude, and A95 are all taken in degrees.
@@ -826,35 +826,38 @@ def pole_position_1e( start, euler_1, rate_1, start_age, age ):
 
 def plot_trace_1e( trace, lon_lats, A95s,  ages, central_lon = 30., central_lat = 30., num_paths_to_plot = 200, 
                   savefig = False, figname = 'code_output/1_Euler_inversion_.pdf', **kwargs):
-    def pole_position( start, euler_1, rate_1, time ):
+    def pole_position( start, euler_1, rate_1, start_age, age ):
+
+        start_pole = PaleomagneticPole(start[0], start[1], age=start_age)
 
         euler_pole_1 = EulerPole( euler_1[0], euler_1[1], rate_1)
-        start_pole = PaleomagneticPole(start[0], start[1], age=time)
 
-        start_pole.rotate( euler_pole_1, euler_pole_1.rate*time)
+        start_pole.rotate(euler_pole_1, euler_pole_1.rate*(start_age-age))
 
         lon_lat = np.array([start_pole.longitude, start_pole.latitude])
-
         return lon_lat
     
     euler_1_directions = trace.euler_1
     rates_1 = trace.rate_1
 
     start_directions = trace.start_pole
-
+    start_ages = trace.start_pole_age
+    
     interval = max([1,int(len(rates_1)/num_paths_to_plot)])
 
     ax = ipmag.make_orthographic_map(central_lon, central_lat, add_land=0, grid_lines = 1)
     
     plot_distributions(ax, euler_1_directions[:,0], euler_1_directions[:,1], **kwargs)
-
+    
+#     print(min(ages), max(ages))
     age_list = np.linspace(min(ages), max(ages), num_paths_to_plot)
     pathlons = np.empty_like(age_list)
     pathlats = np.empty_like(age_list)
-    for start, e1, r1 in zip(start_directions[::interval], 
-                        euler_1_directions[::interval], rates_1[::interval]):
+    for start, e1, r1, start_a in zip(start_directions[::interval], 
+                        euler_1_directions[::interval], rates_1[::interval], 
+                             start_ages[:interval]):
         for i,a in enumerate(age_list):
-            lon_lat = pole_position( start, e1, r1, a)
+            lon_lat = pole_position( start, e1, r1, start_a, a)
             pathlons[i] = lon_lat[0]
             pathlats[i] = lon_lat[1]
 
@@ -896,7 +899,7 @@ def pole_position_2e( start, euler_1, rate_1, euler_2, rate_2, switchpoint, star
 
 
 def plot_trace_2e( trace, lon_lats, A95s, ages, central_lon = 30., central_lat = 30., num_paths_to_plot = 500, 
-                  savefig = False, figname = '2_Euler_inversion_test.pdf', **kwargs):
+                  savefig = True, figname = '2_Euler_inversion_test.pdf', **kwargs):
     def pole_position( start, euler_1, rate_1, euler_2, rate_2, switchpoint, start_age, age ):
 
         euler_pole_1 = EulerPole( euler_1[0], euler_1[1], rate_1)
@@ -954,19 +957,16 @@ def plot_trace_2e( trace, lon_lats, A95s, ages, central_lon = 30., central_lat =
 
     pole_colors = [colors.rgb2hex(scalarMap.to_rgba(ages[i])) for i in range(len(ages))]
         
-    cbar = plt.colorbar(scalarMap, shrink=0.85)
+    cbar = plt.colorbar(scalarMap, shrink=0.75, location='bottom', pad=0.01)
     cbar.ax.set_xlabel('Age (Ma)', fontsize=12) 
     for i in range(len(lon_lats)):
         this_pole = Pole(lon_lats[i][0], lon_lats[i][1], A95=A95s[i])
         this_pole.plot(ax, color=pole_colors[i])
     if savefig == True:
-        plt.savefig(figname)
+        plt.savefig(figname,dpi=600,bbox_inches='tight')
     plt.show()
     
 
-
-    
-    
 
     
 def bin_trace(lon_samples, lat_samples, resolution):
