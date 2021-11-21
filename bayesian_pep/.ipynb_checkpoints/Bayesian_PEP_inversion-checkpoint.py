@@ -100,6 +100,8 @@ def plot_paleomagnetic_poles(dataframe, central_longitude=0, central_latitude=0,
     cbar.ax.set_xlabel('Age (Ma)', fontsize=12) 
     return ax
 
+
+
 # @as_op(itypes=[T.dvector, T.dvector, T.dscalar], otypes=[T.dvector])
 def rotate(pole, rotation_pole, angle):
     # The idea is to rotate the pole so that the Euler pole is
@@ -309,7 +311,7 @@ class Pole(object):
 
     @property
     def magnitude(self):
-        return np.sqrt(np.dot(self._pole , self._pole))
+        return np.sqrt(self._pole[0] * self._pole[0] + self._pole[1] * self._pole[1] + self._pole[2] * self._pole[2])
 
 #     @property
 #     def angular_error(self):
@@ -323,17 +325,19 @@ class Pole(object):
         # at the pole of the coordinate system, then perform the
         # requested rotation, then restore things to the original
         # orientation
+        
+        
         p = pole._pole
         
-        lon, lat, _ = cartesian_to_spherical(p)
+        lon, lat, mag = cartesian_to_spherical(p)
         colat = 90. - lat
-        m1 = construct_euler_rotation_matrix(-lon * d2r, -colat * d2r, angle * d2r)
-        m2 = construct_euler_rotation_matrix(0., colat * d2r, lon * d2r)
-        self._pole = np.ndarray.flatten(np.dot(m2, np.dot(m1, self._pole)))
-        longitude = cartesian_to_spherical(self._pole.tolist())[0].tolist()[0]
-        latitude = cartesian_to_spherical(self._pole.tolist())[1].tolist()[0]
-        self._pole = np.ndarray.flatten(spherical_to_cartesian(longitude, latitude, self.magnitude))
-#         self.colatitude = 90 - self.latitude
+        m1 = construct_euler_rotation_matrix(
+            -lon[0] * d2r, -colat[0] * d2r, angle * d2r)
+        
+        m2 = construct_euler_rotation_matrix(
+            0., colat[0] * d2r, lon[0] * d2r)
+        self._pole = np.dot(m2, np.dot(m1, self._pole))
+    
 
     def _rotate(self, pole, angle):
         print(self.longitude, self.latitude)
@@ -720,7 +724,6 @@ def pole_position_tpw(start, tpw_angle, tpw_rate, start_age, age):
     TPW = EulerPole(lon[0], lat[0], tpw_rate)
     TPW.rotate(start_pole, tpw_angle)
 
-
     start_pole.rotate(TPW, TPW.rate*(start_age-age))
     lon_lat = np.ndarray.flatten(np.array([start_pole.longitude, start_pole.latitude]))
 
@@ -728,7 +731,7 @@ def pole_position_tpw(start, tpw_angle, tpw_rate, start_age, age):
 
 
 def plot_trace_tpw(trace, lon_lats, A95s, ages, central_lon = 30., central_lat = 30., num_paths_to_plot = 200, 
-                  savefig = False, figname = 'code_output/tpw_inversion_.pdf', **kwargs):
+                  savefig = False, figname = 'code_output/tpw_inversion_.pdf', path_resolution=100, **kwargs):
     def pole_position(start, tpw_angle, tpw_rate, start_age, age):
 
         start_pole = PaleomagneticPole(start[0], start[1], age=start_age)
@@ -761,7 +764,7 @@ def plot_trace_tpw(trace, lon_lats, A95s, ages, central_lon = 30., central_lat =
 
     ax = ipmag.make_orthographic_map(central_lon, central_lat, add_land=0, grid_lines = 1)
                 
-    age_list = np.linspace(ages[0], ages[-1], num_paths_to_plot)
+    age_list = np.linspace(min(ages), max(ages), path_resolution)
     pathlons = np.empty_like(age_list)
     pathlats = np.empty_like(age_list)
     
