@@ -872,7 +872,7 @@ def plot_trace_1e( trace, lon_lats, A95s,  ages, central_lon = 30., central_lat 
     scalarMap = matplotlib.cm.ScalarMappable(norm=cNorm, cmap='viridis_r')
     
     if estimate_pole_age:
-        pole_colors = [colors.rgb2hex(scalarMap.to_rgba(trace['t'+str(i)].median())) for i in range(len(ages))]
+        pole_colors = [colors.rgb2hex(scalarMap.to_rgba(np.median(trace['t'+str(i)]))) for i in range(len(ages))]
     
     else:
         pole_colors = [colors.rgb2hex(scalarMap.to_rgba(ages[i])) for i in range(len(ages))]
