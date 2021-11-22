@@ -828,7 +828,7 @@ def pole_position_1e( start, euler_1, rate_1, start_age, age ):
 
 
 def plot_trace_1e( trace, lon_lats, A95s,  ages, central_lon = 30., central_lat = 30., num_paths_to_plot = 200, 
-                  savefig = False, figname = 'code_output/1_Euler_inversion_.pdf', **kwargs):
+                  savefig = False, figname = 'code_output/1_Euler_inversion_.pdf', path_resolution=100, estimate_pole_age = 0, **kwargs):
     def pole_position( start, euler_1, rate_1, start_age, age ):
 
         start_pole = PaleomagneticPole(start[0], start[1], age=start_age)
@@ -853,7 +853,7 @@ def plot_trace_1e( trace, lon_lats, A95s,  ages, central_lon = 30., central_lat 
     plot_distributions(ax, euler_1_directions[:,0], euler_1_directions[:,1], **kwargs)
     
 #     print(min(ages), max(ages))
-    age_list = np.linspace(min(ages), max(ages), num_paths_to_plot)
+    age_list = np.linspace(min(ages), max(ages), path_resolution)
     pathlons = np.empty_like(age_list)
     pathlats = np.empty_like(age_list)
     for start, e1, r1, start_a in zip(start_directions[::interval], 
@@ -870,8 +870,12 @@ def plot_trace_1e( trace, lon_lats, A95s,  ages, central_lon = 30., central_lat 
     # plot paleomagnetic observation poles here
     cNorm  = matplotlib.colors.Normalize(vmin=min(ages), vmax=max(ages))
     scalarMap = matplotlib.cm.ScalarMappable(norm=cNorm, cmap='viridis_r')
-
-    pole_colors = [colors.rgb2hex(scalarMap.to_rgba(ages[i])) for i in range(len(ages))]
+    
+    if estimate_pole_age:
+        pole_colors = [colors.rgb2hex(scalarMap.to_rgba(trace['t'+str(i)].median())) for i in range(len(ages))]
+    
+    else:
+        pole_colors = [colors.rgb2hex(scalarMap.to_rgba(ages[i])) for i in range(len(ages))]
         
     cbar = plt.colorbar(scalarMap, shrink=0.75, location='bottom', pad=0.01)
     cbar.ax.set_xlabel('Age (Ma)', fontsize=12) 
@@ -902,7 +906,7 @@ def pole_position_2e( start, euler_1, rate_1, euler_2, rate_2, switchpoint, star
 
 
 def plot_trace_2e( trace, lon_lats, A95s, ages, central_lon = 30., central_lat = 30., num_paths_to_plot = 500, 
-                  savefig = True, figname = '2_Euler_inversion_test.pdf', **kwargs):
+                  savefig = True, figname = '2_Euler_inversion_test.pdf', path_resolution=100, **kwargs):
     def pole_position( start, euler_1, rate_1, euler_2, rate_2, switchpoint, start_age, age ):
 
         euler_pole_1 = EulerPole( euler_1[0], euler_1[1], rate_1)
@@ -937,7 +941,7 @@ def plot_trace_2e( trace, lon_lats, A95s, ages, central_lon = 30., central_lat =
     plot_distributions(ax, euler_1_directions[:,0], euler_1_directions[:,1], cmap = 'Blues', **kwargs)
     plot_distributions(ax, euler_2_directions[:,0], euler_2_directions[:,1], cmap = 'Reds', **kwargs)
     
-    age_list = np.linspace(ages[0], ages[-1], num_paths_to_plot)
+    age_list = np.linspace(ages[0], ages[-1], path_resolution)
     pathlons = np.empty_like(age_list)
     pathlats = np.empty_like(age_list)
     
@@ -999,7 +1003,7 @@ def pole_position_1e_tpw(start, euler_1, rate_1, tpw_angle, tpw_rate, start_age,
 
 
 def plot_trace_1e_tpw(trace, lon_lats, A95s, ages, central_lon = 30., central_lat = 30., num_paths_to_plot = 200, 
-                  savefig = False, figname = 'code_output/1_Euler_inversion_.pdf', **kwargs):
+                  savefig = False, figname = 'code_output/1_Euler_inversion_.pdf', path_resolution=100, **kwargs):
     def pole_position(start, euler_1, rate_1, tpw_angle, tpw_rate, start_age, age):
 
         start_pole = PaleomagneticPole(start[0], start[1], age=start_age)
@@ -1042,7 +1046,7 @@ def plot_trace_1e_tpw(trace, lon_lats, A95s, ages, central_lon = 30., central_la
     
     plot_distributions(ax, euler_1_directions[:,0], euler_1_directions[:,1], cmap='Blues')
             
-    age_list = np.linspace(ages[0], ages[-1], num_paths_to_plot)
+    age_list = np.linspace(ages[0], ages[-1], path_resolution)
     pathlons = np.empty_like(age_list)
     pathlats = np.empty_like(age_list)
     
