@@ -894,7 +894,7 @@ def pole_position_2e( start, euler_1, rate_1, euler_2, rate_2, switchpoint, star
     euler_pole_2 = EulerPole( euler_2[0], euler_2[1], rate_2)
     start_pole = PaleomagneticPole(start[0], start[1], age=start_age)
 
-    if age >= switchpoint:
+    if age > switchpoint:
         start_pole.rotate( euler_pole_1, euler_pole_1.rate*(start_age-age))
     else:
         start_pole.rotate( euler_pole_1, euler_pole_1.rate*(start_age-switchpoint))
@@ -913,7 +913,7 @@ def plot_trace_2e( trace, lon_lats, A95s, ages, central_lon = 30., central_lat =
         euler_pole_2 = EulerPole( euler_2[0], euler_2[1], rate_2)
         start_pole = PaleomagneticPole(start[0], start[1], age=start_age)
 
-        if age >= switchpoint:
+        if age > switchpoint:
             start_pole.rotate( euler_pole_1, euler_pole_1.rate*(start_age-age))
         else:
             start_pole.rotate( euler_pole_1, euler_pole_1.rate*(start_age-switchpoint))
@@ -971,7 +971,7 @@ def plot_trace_2e( trace, lon_lats, A95s, ages, central_lon = 30., central_lat =
         this_pole.plot(ax, color=pole_colors[i])
     if savefig == True:
         plt.savefig(figname,dpi=600,bbox_inches='tight')
-    plt.show()
+    return ax
     
 @as_op(itypes=[T.dvector, T.dvector, T.dscalar, T.dscalar, T.dscalar, T.dscalar, T.dscalar], otypes=[T.dvector])
 def pole_position_1e_tpw(start, euler_1, rate_1, tpw_angle, tpw_rate, start_age, age):
