@@ -486,9 +486,9 @@ def kappa_from_two_sigma(two_sigma):
 @as_op(itypes=[T.dvector, T.dscalar, T.dvector], otypes=[T.dscalar])
 def vmf_logp(lon_lat, k, x):
 
-#     if x[1] < -90. or x[1] > 90.:
+    if x[1] < -90. or x[1] > 90.:
 #         raise ZeroProbability
-#         return -np.inf
+        return x[1]%90
 
     if k < eps:
         return np.log(1. / 4. / np.pi)
