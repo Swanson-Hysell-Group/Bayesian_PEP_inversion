@@ -1095,6 +1095,151 @@ def plot_trace_1e_tpw(trace, lon_lats, A95s, ages, central_lon = 30., central_la
         plt.savefig(figname)
     plt.show()
 
+
+    
+@as_op(itypes=[T.dvector, T.dvector, T.dscalar, T.dvector, T.dscalar, T.dscalar, T.dscalar, T.dscalar,  T.dscalar, T.dscalar], otypes=[T.dvector])
+def pole_position_2e_tpw(start, euler_1, rate_1, euler_2, rate_2, tpw_angle, tpw_rate, switchpoint, start_age, age):
+    
+    start_pole = PaleomagneticPole(start[0], start[1], age=start_age)
+    
+    euler_pole_1 = EulerPole(euler_1[0], euler_1[1], rate_1)
+    euler_pole_2 = EulerPole(euler_2[0], euler_2[1], rate_2)
+    
+    # make a TPW pole
+    test_1 = np.array([0.,0.,1.])
+    test_2 = np.array([1.,0.,0.])
+    if np.dot(start_pole._pole, test_1) > np.dot(start_pole._pole, test_2):
+        great_circle_pole = np.cross(start_pole._pole, test_2)
+    else:
+        great_circle_pole = np.cross(start_pole._pole, test_1)
+    lon, lat, _ = cartesian_to_spherical(great_circle_pole)
+
+    TPW = EulerPole(lon[0], lat[0], tpw_rate)
+    TPW.rotate(start_pole, tpw_angle)
+    
+    if age >= switchpoint:
+        this_euler_1 = euler_pole_1.copy()
+        this_euler_1.add(TPW)
+        start_pole.rotate( this_euler_1, euler_pole_1.rate*(start_age-age))
+    else:
+        this_euler_1 = euler_pole_1.copy()
+        this_euler_2 = euler_pole_1.copy()
+        this_euler_1.add(TPW)
+        this_euler_2.add(TPW)
+        start_pole.rotate( euler_pole_1, euler_pole_1.rate*(start_age-switchpoint))
+        start_pole.rotate( euler_pole_2, euler_pole_2.rate*(switchpoint-age))
+
+    lon_lat = np.ndarray.flatten(np.array([start_pole.longitude, start_pole.latitude]))
+
+    return lon_lat
+
+
+def plot_trace_2e_tpw(trace, lon_lats, A95s, ages, central_lon = 30., central_lat = 30., num_points_to_plot = 200, num_paths_to_plot = 200, 
+                  savefig = False, figname = 'code_output/1_Euler_inversion_.pdf', path_resolution = 100, **kwargs):
+    def pole_position(start, euler_1, rate_1, euler_2, rate_2, tpw_angle, tpw_rate, switchpoint, start_age, age):
+
+        start_pole = PaleomagneticPole(start[0], start[1], age=start_age)
+
+        euler_pole_1 = EulerPole(euler_1[0], euler_1[1], rate_1)
+        euler_pole_2 = EulerPole(euler_2[0], euler_2[1], rate_2)
+
+        # make a TPW pole
+        test_1 = np.array([0.,0.,1.])
+        test_2 = np.array([1.,0.,0.])
+        if np.dot(start_pole._pole, test_1) > np.dot(start_pole._pole, test_2):
+            great_circle_pole = np.cross(start_pole._pole, test_2)
+        else:
+            great_circle_pole = np.cross(start_pole._pole, test_1)
+        lon, lat, _ = cartesian_to_spherical(great_circle_pole)
+
+        TPW = EulerPole(lon[0], lat[0], tpw_rate)
+        TPW.rotate(start_pole, tpw_angle)
+
+        if age >= switchpoint:
+            this_euler_1 = euler_pole_1.copy()
+            this_euler_1.add(TPW)
+            start_pole.rotate( this_euler_1, euler_pole_1.rate*(start_age-age))
+        else:
+            this_euler_1 = euler_pole_1.copy()
+            this_euler_2 = euler_pole_1.copy()
+            this_euler_1.add(TPW)
+            this_euler_2.add(TPW)
+            start_pole.rotate( euler_pole_1, euler_pole_1.rate*(start_age-switchpoint))
+            start_pole.rotate( euler_pole_2, euler_pole_2.rate*(switchpoint-age))
+
+        lon_lat = np.ndarray.flatten(np.array([start_pole.longitude, start_pole.latitude]))
+
+        return lon_lat
+    
+    euler_1_directions = trace.euler_1
+    euler_rates_1 = trace.rate_1
+    euler_2_directions = trace.euler_2
+    euler_rates_2 = trace.rate_2
+    
+    tpw_angle = trace.tpw_angle
+    tpw_rate = trace.tpw_rate
+    
+    start_age = trace.start_pole_age
+    start_directions = trace.start_pole
+    
+    switchpoints = trace.switchpoint
+
+    interval = max([1,int(len(euler_rates_1)/num_paths_to_plot)])
+
+    ax = ipmag.make_orthographic_map(central_lon, central_lat, add_land=0, grid_lines = 1)
+    
+    plot_distributions(ax, euler_1_directions[:,0], euler_1_directions[:,1], cmap='Blues')
+    plot_distributions(ax, euler_2_directions[:,0], euler_2_directions[:,1], cmap='Greens')
+    
+    age_list = np.linspace(ages[0], ages[-1], path_resolution)
+    pathlons = np.empty_like(age_list)
+    pathlats = np.empty_like(age_list)
+    
+    tpw_directions = np.empty_like(trace.start_pole[:])
+    index=0
+    for start, tpw_a in zip(start_directions, tpw_angle):
+        test_1 = np.array([0.,0.,1.])
+        test_2 = np.array([1.,0.,0.])
+        start_pole = Pole(start[0], start[1], 1.0)
+        if np.dot(start_pole._pole, test_1) > np.dot(start_pole._pole, test_2):
+            great_circle_pole = np.cross(start_pole._pole, test_2)
+        else:
+            great_circle_pole = np.cross(start_pole._pole, test_1)
+        lon, lat, _ = cartesian_to_spherical(great_circle_pole)
+        TPW = Pole(lon[0], lat[0], 1.0)
+        TPW.rotate(start_pole, tpw_a)
+        tpw_directions[index, :] = np.ndarray.flatten(np.array([TPW.longitude, TPW.latitude]))
+        index += 1
+
+    plot_distributions(ax, tpw_directions[:,0], tpw_directions[:,1], cmap='Reds')
+    
+    for start, e1, r1, e2, r2, tpw_a, tpw_r, switchpoint, start_a in zip(start_directions[::interval], 
+                        euler_1_directions[::interval], euler_rates_1[::interval],
+                        euler_2_directions[::interval], euler_rates_2[::interval],
+                        tpw_angle[::interval], tpw_rate[::interval], switchpoints[::interval], start_age[::interval]):
+            
+        for i,a in enumerate(age_list):
+            lon_lat = pole_position( start, e1, r1, e2, r2, tpw_a, tpw_r, switchpoint, start_a, a)
+            pathlons[i] = lon_lat[0]
+            pathlats[i] = lon_lat[1]
+
+        ax.plot(pathlons,pathlats,color='b', transform=ccrs.Geodetic(), alpha=0.05)
+        
+        
+    # plot paleomagnetic observation poles here
+    cNorm  = matplotlib.colors.Normalize(vmin=min(ages), vmax=max(ages))
+    scalarMap = matplotlib.cm.ScalarMappable(norm=cNorm, cmap='viridis_r')
+
+    pole_colors = [colors.rgb2hex(scalarMap.to_rgba(ages[i])) for i in range(len(ages))]
+        
+    cbar = plt.colorbar(scalarMap, shrink=0.85)
+    cbar.ax.set_xlabel('Age (Ma)', fontsize=12) 
+    for i in range(len(lon_lats)):
+        this_pole = Pole(lon_lats[i][0], lon_lats[i][1], A95=A95s[i])
+        this_pole.plot(ax, color=pole_colors[i])
+    if savefig == True:
+        plt.savefig(figname)
+    plt.show()
     
 def bin_trace(lon_samples, lat_samples, resolution):
     """
