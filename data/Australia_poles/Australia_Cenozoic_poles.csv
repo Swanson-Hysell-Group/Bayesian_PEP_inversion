@@ -1,13 +1,13 @@
-PoleName,,SLat,SLon,PLat,PLon,A95,K,N,PolarityZone,PmagRef,AgeNominal,AgeLower,AgeUpper,AgeInfo,AgeRef,Gaussian_2sigma,GaussianOrUniform,Q,Paleolat,Age_error
-Holocene lake sediments,sedimentary,-38.2,143,89.4,144.6,1.5,168.5,57,,Idnurm1985a,0.005,0,0.01,Radiocarbon,Idnurm1985a,,uniform,,,
-Plio-Pleistocene mean,,,,87.7,353,3.2,41.1,48,,as compiled in Hansma2019,2,1,3,,,,uniform,,,
-Glenample Fm./Port Campbell Lst.,sedimentary,,,77.2,303.5,3.9,40.7,30,,Idnurm1985a,13,9,17,chronostratigraphy inferred from biostratigraphy (taken from Dickinson et al. 2002),Dickinson2002,,uniform,,,
-leucitite lavas,igneous,,,80.2,275.4,8.6,20.5,15,,Hansma2018a,16,15,17,Ar-Ar dates with range assigned by Hansma2018,,,uniform,,,
-Main Range Volcano,igneous,,,76.6,271.6,6.1,23.5,25,,as compiled in Hansma2019,23.45,20.2,26.7,3 Ar-Ar dates with uniform distribution extending to either end of report 2sigma errors,Knesel2008a,,uniform,,,
-Tweed Volcano,igneous,,,77.4,306.9,5.4,15.4,48,,as compiled in Hansma2019,23.9,23.1,24.7,6 Ar-Ar dates,Knesel2008a,,uniform,,,
-Pt. Addis Limestone,sedimentary,,,68.5,299.4,4.8,,,,Idnurm1985a,25.1,22.4,27.8,Ar-Ar and biostratigraphic,Idnurm1985a; McLaren et al. 2009a,,uniform,,,
-Springsure Volcano,igneous,-24.2,148.2,70.5,300.6,9.7,13.7,18,,Hansma2019,28.1,27.8,28.4,Ar-Ar Sanidine,Cohen2013a,0.3,gaussian,,,
-Peak Range,igneous,-22.5,147.8,64.6,291.8,8.8,10.1,29,,Hansma2019,29.65,28.2,31.1,Ar-Ar dates of 30.7 +/- 0.4; 30.3 +/- 0.4; 30.4 +/- 0.5; 29.0 +/- 0.4 and 28.6 +/- 0.4 Ma,Cohen2013a,,uniform,,,
-Hillsborough Volcano,igneous,-21.2,148.9,67.1,301.4,7.1,32.2,14,,Hansma2019,33.6,33.1,34.1,Ar-Ar k-spar date,Cohen2013a,0.5,gaussian,,,
-Browns Creek Formation,sedimentary,,,65.5,292.5,2.5,,,,Idnurm1994a,36.5,35,38,"A Late Eocene age is indicated for the basal Turritella clays by the nannofossils Cyclicargolithus reticulatus, lsthmolithus recurvus, Chiasmolithus oamaruensis, and the foraminifer Acarinina collactea (Shafik & Idnurm, in preparation). A combination of magneto- and biostrati- graphy (Shafik & Idnurm, in preparation) suggests that the Turritella clays are within Chrons 16-18. lsthmolithus recurvus and Chiasmolithus oamaruensis appear at 37 Ma on GTS 2020",,,uniform,,,
-North Rankin 1 Drill- core,sedimentary,,,61.7,298.4,5.1,,,,Idnurm1985a,59.75,57,62.5,"the presence of G. angulata and G. pseudomardi, which belong respectively to foraminiferal zones P3 and P4 (ages of 62.5 to 57 in GTS 2020)",,,uniform,,,
+PoleName,Rock type,SLat,SLon,PLat,PLon,A95,K,N,PmagRef,AgeNominal,AgeLower,AgeUpper,AgeInfo,AgeRef,Gaussian_2sigma,GaussianOrUniform
+Holocene lake sediments,sedimentary,-38.2,143,89.4,144.6,1.5,168.5,57,Idnurm1985a,0.005,0,0.01,Radiocarbon,Idnurm1985a,,uniform
+Plio-Pleistocene mean,,,,87.7,353,3.2,41.1,48,as compiled in Hansma2019,2,1,3,as compiled by \cite{Hansma2019a},,,uniform
+Glenample Fm./Port Campbell Lst.,sedimentary,-38.7,143.1,77.2,303.5,3.9,40.7,30,Idnurm1985a,13,9,17,chronostratigraphy inferred from biostratigraphy (taken from Dickinson et al. 2002),Dickinson2002,,uniform
+leucitite lavas,igneous,,,80.2,275.4,8.6,20.5,15,Hansma2018a,16,15,17,Ar-Ar dates with range assigned by Hansma2018,,,uniform
+Main Range Volcano,igneous,,,76.6,271.6,6.1,23.5,25,as compiled in Hansma2019,23.45,20.2,26.7,3 Ar-Ar dates with uniform distribution extending to either end of report 2sigma errors,Knesel2008a,,uniform
+Tweed Volcano,igneous,,,77.4,306.9,5.4,15.4,48,as compiled in Hansma2019,23.9,23.1,24.7,6 Ar-Ar dates,Knesel2008a,,uniform
+Pt. Addis Limestone,sedimentary,-38.4,144.3,68.5,299.4,4.8,47.8,4.8,Idnurm1985a,25.1,22.4,27.8,Ar-Ar and biostratigraphic,Idnurm1985a; McLaren et al. 2009a,,uniform
+Springsure Volcano,igneous,-24.2,148.2,70.5,300.6,9.7,13.7,18,Hansma2019,28.1,27.8,28.4,Ar-Ar Sanidine,Cohen2013a,0.3,gaussian
+Peak Range,igneous,-22.5,147.8,64.6,291.8,8.8,10.1,29,Hansma2019,29.65,28.2,31.1,Ar-Ar dates of 30.7 +/- 0.4; 30.3 +/- 0.4; 30.4 +/- 0.5; 29.0 +/- 0.4 and 28.6 +/- 0.4 Ma,Cohen2013a,,uniform
+Hillsborough Volcano,igneous,-21.2,148.9,67.1,301.4,7.1,32.2,14,Hansma2019,33.6,33.1,34.1,Ar-Ar k-spar date,Cohen2013a,0.5,gaussian
+Browns Creek Formation,sedimentary,,,65.5,292.5,2.5,99.9,33,Idnurm1994a,35.5,36.2,34.9,Based on biostratigraphy and magnetostratigraphy from \cite{Shafik1997a},,,uniform
+North Rankin 1 Drill- core,sedimentary,-19.6,116.1,61.7,298.4,5.1,,20,Idnurm1985a,59.75,57,62.5,"the presence of G. angulata and G. pseudomardi, which belong respectively to foraminiferal zones P3 and P4 (ages of 62.5 to 57 in GTS 2020)",,,uniform
