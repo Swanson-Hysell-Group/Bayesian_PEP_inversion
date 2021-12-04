@@ -1,13 +1,13 @@
-﻿Study/Region,Rock type,PLat,PLon,A95,K,N,PmagRef,AgeNominal,AgeLower,AgeUpper,AgeInfo,Gaussian_2sigma,GaussianOrUniform
-Holocene lake sediments,sedimentary,89.4,144.6,1.5,168.5,57,\cite{Idnurm1985a},0.005,0,0.01,Radiocarbon age from \cite{Idnurm1985a},,uniform
-Plio-Pleistocene mean,mixed,87.7,353,3.2,41.1,48,as compiled in \cite{Hansma2019a},2,1,3,as compiled in \cite{Hansma2019a},,uniform
-Glenample Fm./Port Campbell Lst.,sedimentary,77.2,303.5,3.9,40.7,30,\cite{Idnurm1985a},13,9,17,chronostratigraphy inferred from biostratigraphy (taken from \cite{Dickinson et al. 2002}),,uniform
-Cosgrove leucitite lavas,igneous,80.2,275.4,8.6,20.5,15,\cite{Hansma2018a},16,15,17,Ar-Ar dates with range assigned by \cite{Hansma2018a},,uniform
-Main Range Volcano,igneous,76.6,271.6,6.1,23.5,25,as compiled in \cite{Hansma2019a},23.45,20.2,26.7,3 Ar-Ar dates with uniform distribution extending to either end of report 2sigma errors from \cite{Knesel2008a},,uniform
-Tweed Volcano,igneous,77.4,306.9,5.4,15.4,48,as compiled in \cite{Hansma2019a},23.9,23.1,24.7,6 Ar-Ar dates from \cite{Knesel2008a},,uniform
-Pt. Addis Limestone,sedimentary,68.5,299.4,4.8,47.8,4.8,\cite{Idnurm1985a},25.1,22.4,27.8,Ar-Ar and biostratigraphic constraints from \cite{Idnurm1985a; McLaren2009a},,uniform
-Springsure Volcano,igneous,70.5,300.6,9.7,13.7,18,\cite{Hansma2019a},28.1,27.8,28.4,Ar-Ar Sanidine age from \cite{Cohen2013a},0.3,gaussian
-Peak Range,igneous,64.6,291.8,8.8,10.1,29,\cite{Hansma2019a},29.65,28.2,31.1,Ar-Ar dates of 30.7 +/- 0.4; 30.3 +/- 0.4; 30.4 +/- 0.5; 29.0 +/- 0.4 and 28.6 +/- 0.4 Ma from \cite{Cohen2013a},,uniform
-Hillsborough Volcano,igneous,67.1,301.4,7.1,32.2,14,\cite{Hansma2019a},33.6,33.1,34.1,Ar-Ar k-spar date  from \cite{Cohen2013a},0.5,gaussian
-Browns Creek Formation,sedimentary,65.5,292.5,2.5,,33,\cite{Idnurm1994a},35.5,36.2,34.9,Based on biostratigraphy and magnetostratigraphy from \cite{Shafik1997a},,uniform
-North Rankin 1 Drill- core,sedimentary,61.7,298.4,5.1,,20,\cite{Idnurm1985a},59.75,57,62.5,"the presence of G. angulata and G. pseudomardi, which belong respectively to foraminiferal zones P3 and P4 (ages of 62.5 to 57 in GTS 2020)",,uniform
+﻿Study/Region,Rock type,PLat,PLon,A95,N,PmagRef,AgeNominal,AgeLower,AgeUpper,AgeInfo,Gaussian_2sigma,GaussianOrUniform
+Holocene lake sediments,sedimentary,89.4,144.6,1.5,57,\cite{Idnurm1985a},0.005,0,0.01,Radiocarbon age from \cite{Idnurm1985a},,uniform
+Plio-Pleistocene mean,mixed,87.7,353,3.2,48,as compiled in \cite{Hansma2019a},2,1,3,as compiled in \cite{Hansma2019a},,uniform
+Glenample Fm./Port Campbell Lst.,sedimentary,77.2,303.5,3.9,30,\cite{Idnurm1985a},13,9,17,chronostratigraphy inferred from biostratigraphy (taken from \cite{Dickinson et al. 2002}),,uniform
+Cosgrove leucitite lavas,igneous,80.2,275.4,8.6,15,\cite{Hansma2018a},16,15,17,Ar-Ar dates with range assigned by \cite{Hansma2018a},,uniform
+Main Range Volcano,igneous,76.6,271.6,6.1,25,as compiled in \cite{Hansma2019a},23.45,20.2,26.7,3 Ar-Ar dates with uniform distribution extending to either end of report 2sigma errors from \cite{Knesel2008a},,uniform
+Tweed Volcano,igneous,77.4,306.9,5.4,48,as compiled in \cite{Hansma2019a},23.9,23.1,24.7,6 Ar-Ar dates from \cite{Knesel2008a},,uniform
+Pt. Addis Limestone,sedimentary,68.5,299.4,4.8,4.8,\cite{Idnurm1985a},25.1,22.4,27.8,Ar-Ar and biostratigraphic constraints from \cite{Idnurm1985a; McLaren2009a},,uniform
+Springsure Volcano,igneous,70.5,300.6,9.7,18,\cite{Hansma2019a},28.1,27.8,28.4,Ar-Ar Sanidine age from \cite{Cohen2013a},0.3,gaussian
+Peak Range,igneous,64.6,291.8,8.8,29,\cite{Hansma2019a},29.65,28.2,31.1,Ar-Ar dates of 30.7 +/- 0.4; 30.3 +/- 0.4; 30.4 +/- 0.5; 29.0 +/- 0.4 and 28.6 +/- 0.4 Ma from \cite{Cohen2013a},,uniform
+Hillsborough Volcano,igneous,67.1,301.4,7.1,14,\cite{Hansma2019a},33.6,33.1,34.1,Ar-Ar k-spar date  from \cite{Cohen2013a},0.5,gaussian
+Browns Creek Formation,sedimentary,65.5,292.5,2.5,33,\cite{Idnurm1994a},35.5,36.2,34.9,Based on biostratigraphy and magnetostratigraphy from \cite{Shafik1997a},,uniform
+North Rankin 1 Drill- core,sedimentary,61.7,298.4,5.1,20,\cite{Idnurm1985a},59.75,57,62.5,"the presence of G. angulata and G. pseudomardi, which belong respectively to foraminiferal zones P3 and P4 (ages of 62.5 to 57 in GTS 2020)",,uniform
