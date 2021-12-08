@@ -941,7 +941,7 @@ def plot_trace_2e( trace, lon_lats, A95s, ages, central_lon = 30., central_lat =
     plot_distributions(ax, euler_1_directions[:,0], euler_1_directions[:,1], cmap = 'Blues', **kwargs)
     plot_distributions(ax, euler_2_directions[:,0], euler_2_directions[:,1], cmap = 'Reds', **kwargs)
     
-    age_list = np.linspace(ages[0], ages[-1], path_resolution)
+    age_list = np.linspace(min(ages), max(ages), path_resolution)
     pathlons = np.empty_like(age_list)
     pathlats = np.empty_like(age_list)
     
@@ -955,8 +955,13 @@ def plot_trace_2e( trace, lon_lats, A95s, ages, central_lon = 30., central_lat =
             pathlons[i] = lon_lat[0]
             pathlats[i] = lon_lat[1]
         
-        ax.plot(pathlons[int(switch):],pathlats[int(switch):],color='r', transform=ccrs.Geodetic(), alpha=0.05)
-        ax.plot(pathlons[:int(switch)],pathlats[:int(switch)],color='b', transform=ccrs.Geodetic(), alpha=0.05)
+        old_lons = [pathlons[i] if age_list[i] > switch else None for i in range(len(age_list))]
+        old_lats = [pathlats[i] if age_list[i] > switch else None for i in range(len(age_list))]
+        young_lons = [pathlons[i] if age_list[i] <= switch else None for i in range(len(age_list))]
+        young_lats = [pathlats[i] if age_list[i] <= switch else None for i in range(len(age_list))]
+        
+        ax.plot(young_lons,young_lats,color='r', transform=ccrs.Geodetic(), alpha=0.05)
+        ax.plot(old_lons,old_lats,color='b', transform=ccrs.Geodetic(), alpha=0.05)
         
     # plot paleomagnetic observation poles here
     cNorm  = matplotlib.colors.Normalize(vmin=min(ages), vmax=max(ages))
@@ -1223,7 +1228,13 @@ def plot_trace_2e_tpw(trace, lon_lats, A95s, ages, central_lon = 30., central_la
             pathlons[i] = lon_lat[0]
             pathlats[i] = lon_lat[1]
 
-        ax.plot(pathlons,pathlats,color='b', transform=ccrs.Geodetic(), alpha=0.05)
+        old_lons = [pathlons[i] if age_list[i] > switch else None for i in range(len(age_list))]
+        old_lats = [pathlats[i] if age_list[i] > switch else None for i in range(len(age_list))]
+        young_lons = [pathlons[i] if age_list[i] <= switch else None for i in range(len(age_list))]
+        young_lats = [pathlats[i] if age_list[i] <= switch else None for i in range(len(age_list))]
+        
+        ax.plot(young_lons,young_lats,color='r', transform=ccrs.Geodetic(), alpha=0.05)
+        ax.plot(old_lons,old_lats,color='b', transform=ccrs.Geodetic(), alpha=0.05)
         
         
     # plot paleomagnetic observation poles here
