@@ -507,6 +507,28 @@ def vmf_logp(lon_lat, k, x):
     logp = logp_elem.sum()
     return np.array(logp)
 
+def fisher_logp(lon_lat, k, x):
+
+    if x[1] < -90. or x[1] > 90.:
+#         raise ZeroProbability
+        return x[1]%90
+
+    if k < eps:
+        return np.log(1. / 4. / np.pi)
+
+    mu = np.array([np.cos(lon_lat[1] * d2r) * np.cos(lon_lat[0] * d2r),
+                   np.cos(lon_lat[1] * d2r) * np.sin(lon_lat[0] * d2r),
+                   np.sin(lon_lat[1] * d2r)])
+    test_point = np.transpose(np.array([np.cos(x[1] * d2r) * np.cos(x[0] * d2r),
+                                        np.cos(x[1] * d2r) *
+                                        np.sin(x[0] * d2r),
+                                        np.sin(x[1] * d2r)]))
+
+    logp_elem = np.log( -k / ( 2. * np.pi * np.expm1(-2. * k)) ) + \
+        k * (np.dot(test_point, mu) - 1.)
+
+    logp = logp_elem.sum()
+    return np.array(logp)
 
 class VMF(Continuous):
     def __init__(self, lon_lat=[0,0], k=None, dtype = np.float64,
@@ -731,7 +753,7 @@ def pole_position_tpw(start, tpw_angle, tpw_rate, start_age, age):
 
 
 def plot_trace_tpw(trace, lon_lats, A95s, ages, central_lon = 30., central_lat = 30., num_paths_to_plot = 200, 
-                  savefig = False, figname = 'code_output/tpw_inversion_.pdf', path_resolution=100, **kwargs):
+                  savefig = False, figname = 'code_output/tpw_inversion_.pdf', path_resolution=16, scatter=0, posterior_n=100, **kwargs):
     def pole_position(start, tpw_angle, tpw_rate, start_age, age):
 
         start_pole = PaleomagneticPole(start[0], start[1], age=start_age)
@@ -747,8 +769,7 @@ def plot_trace_tpw(trace, lon_lats, A95s, ages, central_lon = 30., central_lat =
 
         TPW = EulerPole(lon[0], lat[0], tpw_rate)
         TPW.rotate(start_pole, tpw_angle)
-
-
+#         print(start_age-age)
         start_pole.rotate(TPW, TPW.rate*(start_age-age))
         lon_lat = np.ndarray.flatten(np.array([start_pole.longitude, start_pole.latitude]))
 
@@ -760,58 +781,74 @@ def plot_trace_tpw(trace, lon_lats, A95s, ages, central_lon = 30., central_lat =
     start_age = trace.start_pole_age
     start_directions = trace.start_pole
 
-    interval = max([1,int(len(tpw_rate)/num_paths_to_plot)])
+    interval = max(1, int(len(trace.start_pole_age[:]) / num_paths_to_plot))
 
     ax = ipmag.make_orthographic_map(central_lon, central_lat, add_land=0, grid_lines = 1)
                 
-    age_list = np.linspace(min(ages), max(ages), path_resolution)
-    pathlons = np.empty_like(age_list)
-    pathlats = np.empty_like(age_list)
+    age_list = np.linspace(max(ages), min(ages), path_resolution)
+    pathlats = np.zeros(path_resolution)
+    pathlons = np.zeros(path_resolution)
     
     tpw_directions = np.empty_like(trace.start_pole[:])
     index=0
-    for start, tpw_a in zip(start_directions, tpw_angle):
+    for start, tpw_a , tpw_r in zip(start_directions, tpw_angle, tpw_rate):
         test_1 = np.array([0.,0.,1.])
         test_2 = np.array([1.,0.,0.])
-        start_pole = Pole(start[0], start[1], 1.0)
+        start_pole = PaleomagneticPole(start[0], start[1], 1.0)
         if np.dot(start_pole._pole, test_1) > np.dot(start_pole._pole, test_2):
             great_circle_pole = np.cross(start_pole._pole, test_2)
         else:
             great_circle_pole = np.cross(start_pole._pole, test_1)
         lon, lat, _ = cartesian_to_spherical(great_circle_pole)
-        TPW = Pole(lon[0], lat[0], 1.0)
+        TPW = EulerPole(lon[0], lat[0], tpw_r)
         TPW.rotate(start_pole, tpw_a)
         tpw_directions[index, :] = np.ndarray.flatten(np.array([TPW.longitude, TPW.latitude]))
         index += 1
 
     plot_distributions(ax, tpw_directions[:,0], tpw_directions[:,1], cmap='Reds')
     
-    for start, tpw_a, tpw_r, start_a in zip(start_directions[::interval],  
-                                            tpw_angle[::interval], tpw_rate[::interval], 
-                                            start_age[::interval]):
-            
-        for i,a in enumerate(age_list):
-            lon_lat = pole_position( start, tpw_a, tpw_r, start_a, a)
-            pathlons[i] = lon_lat[0]
-            pathlats[i] = lon_lat[1]
+    if scatter != 1:
+        for start, tpw_a, tpw_r, start_a in zip(start_directions[::interval],  
+                                                tpw_angle[::interval], tpw_rate[::interval], 
+                                                start_age[::interval]):
 
-        ax.plot(pathlons,pathlats,color='b', transform=ccrs.Geodetic(), alpha=0.05)
-        
-        
+            for i,a in enumerate(age_list):
+                lon_lat = pole_position( start, tpw_a, tpw_r, start_a, a)
+                pathlons[i] = lon_lat[0]
+                pathlats[i] = lon_lat[1]
+
+            ax.plot(pathlons,pathlats,color='b', transform=ccrs.Geodetic(), alpha=0.05)
+    
+    posterior_likelihood_list = []
+    if scatter == 1:
+        posterior_interval= max([1,int(len(tpw_rate)/posterior_n)])
+        for start, tpw_a, tpw_r, start_a in zip(start_directions[::posterior_interval],  
+                                                tpw_angle[::posterior_interval], tpw_rate[::posterior_interval], 
+                                                start_age[::posterior_interval]):
+            posterior_likelihood = 0
+            for i,a in enumerate(age_list):
+                lon_lat = pole_position( start, tpw_a, tpw_r, start_a, a)
+                pathlons[i] = lon_lat[0]
+                pathlats[i] = lon_lat[1]
+                posterior_likelihood += fisher_logp(lon_lat=lon_lats[i], k=kappa_from_two_sigma(A95s[i]), x=lon_lat)
+            posterior_likelihood_list.append(posterior_likelihood)
+            ax.scatter(pathlons,pathlats,color='b', transform=ccrs.PlateCarree(), alpha=0.05)
+            
     # plot paleomagnetic observation poles here
     cNorm  = matplotlib.colors.Normalize(vmin=min(ages), vmax=max(ages))
     scalarMap = matplotlib.cm.ScalarMappable(norm=cNorm, cmap='viridis_r')
 
     pole_colors = [colors.rgb2hex(scalarMap.to_rgba(ages[i])) for i in range(len(ages))]
         
-    cbar = plt.colorbar(scalarMap, shrink=0.85)
+    cbar = plt.colorbar(scalarMap, shrink=0.85, location='bottom')
     cbar.ax.set_xlabel('Age (Ma)', fontsize=12) 
     for i in range(len(lon_lats)):
         this_pole = Pole(lon_lats[i][0], lon_lats[i][1], A95=A95s[i])
         this_pole.plot(ax, color=pole_colors[i])
     if savefig == True:
         plt.savefig(figname)
-    plt.show()    
+    plt.show()
+    return posterior_likelihood_list  
     
 
 @as_op(itypes=[T.dvector, T.dvector, T.dscalar, T.dscalar, T.dscalar], otypes=[T.dvector])
@@ -828,7 +865,7 @@ def pole_position_1e( start, euler_1, rate_1, start_age, age ):
 
 
 def plot_trace_1e( trace, lon_lats, A95s,  ages, central_lon = 30., central_lat = 30., num_paths_to_plot = 200, 
-                  savefig = False, figname = 'code_output/1_Euler_inversion_.pdf', path_resolution=100, estimate_pole_age = 0, **kwargs):
+                  savefig = False, figname = 'code_output/1_Euler_inversion_.pdf', path_resolution=100, estimate_pole_age = 0, scatter=0, posterior_n=100, **kwargs):
     def pole_position( start, euler_1, rate_1, start_age, age ):
 
         start_pole = PaleomagneticPole(start[0], start[1], age=start_age)
@@ -856,16 +893,32 @@ def plot_trace_1e( trace, lon_lats, A95s,  ages, central_lon = 30., central_lat 
     age_list = np.linspace(min(ages), max(ages), path_resolution)
     pathlons = np.empty_like(age_list)
     pathlats = np.empty_like(age_list)
-    for start, e1, r1, start_a in zip(start_directions[::interval], 
-                        euler_1_directions[::interval], rates_1[::interval], 
-                             start_ages[:interval]):
-        for i,a in enumerate(age_list):
-            lon_lat = pole_position( start, e1, r1, start_a, a)
-            pathlons[i] = lon_lat[0]
-            pathlats[i] = lon_lat[1]
+    
+    if scatter != 1:
+        for start, e1, r1, start_a in zip(start_directions[::interval], 
+                            euler_1_directions[::interval], rates_1[::interval], 
+                                 start_ages[:interval]):
+            for i,a in enumerate(age_list):
+                lon_lat = pole_position( start, e1, r1, start_a, a)
+                pathlons[i] = lon_lat[0]
+                pathlats[i] = lon_lat[1]
 
-        ax.plot(pathlons,pathlats,color='b', transform=ccrs.Geodetic(), alpha=0.05)
-        
+            ax.plot(pathlons,pathlats,color='b', transform=ccrs.Geodetic(), alpha=0.05)
+   
+    posterior_likelihood_list = []
+    if scatter == 1:
+        posterior_interval= max([1,int(len(rates_1)/posterior_n)])
+        for start, e1, r1, start_a in zip(start_directions[::posterior_interval], 
+                            euler_1_directions[::posterior_interval], rates_1[::posterior_interval], 
+                                 start_ages[::posterior_interval]):
+            posterior_likelihood = 0
+            for i,a in enumerate(ages):
+                lon_lat = pole_position( start, e1, r1, start_a, a)
+                pathlons[i] = lon_lat[0]
+                pathlats[i] = lon_lat[1]
+                posterior_likelihood += fisher_logp(lon_lat=lon_lats[i], k=kappa_from_two_sigma(A95s[i]), x=lon_lat)
+            posterior_likelihood_list.append(posterior_likelihood)
+            ax.scatter(pathlons,pathlats,color='b', transform=ccrs.PlateCarree(), alpha=0.05)
         
     # plot paleomagnetic observation poles here
     cNorm  = matplotlib.colors.Normalize(vmin=min(ages), vmax=max(ages))
@@ -884,7 +937,7 @@ def plot_trace_1e( trace, lon_lats, A95s,  ages, central_lon = 30., central_lat 
         this_pole.plot(ax, color=pole_colors[i])
     if savefig == True:
         plt.savefig(figname,dpi=600,bbox_inches='tight')
-    return ax
+    return ax, posterior_likelihood_list
     
     
 @as_op(itypes=[T.dvector, T.dvector, T.dscalar, T.dvector, T.dscalar,  T.dscalar,  T.dscalar, T.dscalar], otypes=[T.dvector])
@@ -906,7 +959,7 @@ def pole_position_2e( start, euler_1, rate_1, euler_2, rate_2, switchpoint, star
 
 
 def plot_trace_2e( trace, lon_lats, A95s, ages, central_lon = 30., central_lat = 30., num_paths_to_plot = 500, 
-                  savefig = True, figname = '2_Euler_inversion_test.pdf', path_resolution=100, **kwargs):
+                  savefig = True, figname = '2_Euler_inversion_test.pdf', path_resolution=100, scatter=0, posterior_n=100, **kwargs):
     def pole_position( start, euler_1, rate_1, euler_2, rate_2, switchpoint, start_age, age ):
 
         euler_pole_1 = EulerPole( euler_1[0], euler_1[1], rate_1)
@@ -945,24 +998,41 @@ def plot_trace_2e( trace, lon_lats, A95s, ages, central_lon = 30., central_lat =
     pathlons = np.empty_like(age_list)
     pathlats = np.empty_like(age_list)
     
-    for start, e1, r1, e2, r2, switch, start_age \
-                 in zip(start_directions[::interval], 
-                        euler_1_directions[::interval], rates_1[::interval],
-                        euler_2_directions[::interval], rates_2[::interval],
-                        switchpoints[::interval], start_ages[::interval]):
-        for i,a in enumerate(age_list):
-            lon_lat = pole_position( start, e1, r1, e2, r2, switch, start_age, a)
-            pathlons[i] = lon_lat[0]
-            pathlats[i] = lon_lat[1]
-        
-        old_lons = [pathlons[i] if age_list[i] > switch else None for i in range(len(age_list))]
-        old_lats = [pathlats[i] if age_list[i] > switch else None for i in range(len(age_list))]
-        young_lons = [pathlons[i] if age_list[i] <= switch else None for i in range(len(age_list))]
-        young_lats = [pathlats[i] if age_list[i] <= switch else None for i in range(len(age_list))]
-        
-        ax.plot(young_lons,young_lats,color='r', transform=ccrs.Geodetic(), alpha=0.05)
-        ax.plot(old_lons,old_lats,color='b', transform=ccrs.Geodetic(), alpha=0.05)
-        
+    if scatter !=1:
+        for start, e1, r1, e2, r2, switch, start_age \
+                     in zip(start_directions[::interval], 
+                            euler_1_directions[::interval], rates_1[::interval],
+                            euler_2_directions[::interval], rates_2[::interval],
+                            switchpoints[::interval], start_ages[::interval]):
+            for i,a in enumerate(age_list):
+                lon_lat = pole_position( start, e1, r1, e2, r2, switch, start_age, a)
+                pathlons[i] = lon_lat[0]
+                pathlats[i] = lon_lat[1]
+
+            old_lons = [pathlons[i] if age_list[i] > switch else None for i in range(len(age_list))]
+            old_lats = [pathlats[i] if age_list[i] > switch else None for i in range(len(age_list))]
+            young_lons = [pathlons[i] if age_list[i] <= switch else None for i in range(len(age_list))]
+            young_lats = [pathlats[i] if age_list[i] <= switch else None for i in range(len(age_list))]
+
+            ax.plot(young_lons,young_lats,color='r', transform=ccrs.Geodetic(), alpha=0.05)
+            ax.plot(old_lons,old_lats,color='b', transform=ccrs.Geodetic(), alpha=0.05)
+    
+    posterior_likelihood_list = []
+    if scatter == 1:
+        posterior_interval= max([1,int(len(rates_1)/posterior_n)])
+        for start, e1, r1, e2, r2, switch, start_age \
+                     in zip(start_directions[::posterior_interval], 
+                            euler_1_directions[::posterior_interval], rates_1[::posterior_interval],
+                            euler_2_directions[::posterior_interval], rates_2[::posterior_interval],
+                            switchpoints[::posterior_interval], start_ages[::posterior_interval]):
+            posterior_likelihood = 0  
+            for i,a in enumerate(ages):
+                lon_lat = pole_position( start, e1, r1, e2, r2, switch, start_age, a)
+                pathlons[i] = lon_lat[0]
+                pathlats[i] = lon_lat[1]
+                posterior_likelihood += fisher_logp(lon_lat=lon_lats[i], k=kappa_from_two_sigma(A95s[i]), x=lon_lat)
+            ax.scatter(pathlons,pathlats,color='b', transform=ccrs.PlateCarree(), alpha=0.05) 
+            posterior_likelihood_list.append(posterior_likelihood)
     # plot paleomagnetic observation poles here
     cNorm  = matplotlib.colors.Normalize(vmin=min(ages), vmax=max(ages))
     scalarMap = matplotlib.cm.ScalarMappable(norm=cNorm, cmap='viridis_r')
@@ -976,7 +1046,7 @@ def plot_trace_2e( trace, lon_lats, A95s, ages, central_lon = 30., central_lat =
         this_pole.plot(ax, color=pole_colors[i])
     if savefig == True:
         plt.savefig(figname,dpi=600,bbox_inches='tight')
-    return ax
+    return ax, posterior_likelihood_list
     
 @as_op(itypes=[T.dvector, T.dvector, T.dscalar, T.dscalar, T.dscalar, T.dscalar, T.dscalar], otypes=[T.dvector])
 def pole_position_1e_tpw(start, euler_1, rate_1, tpw_angle, tpw_rate, start_age, age):
@@ -1010,7 +1080,7 @@ def pole_position_1e_tpw(start, euler_1, rate_1, tpw_angle, tpw_rate, start_age,
 
 
 def plot_trace_1e_tpw(trace, lon_lats, A95s, ages, central_lon = 30., central_lat = 30., num_paths_to_plot = 200, 
-                  savefig = False, figname = 'code_output/1_Euler_inversion_.pdf', path_resolution=100, **kwargs):
+                  savefig = False, figname = 'code_output/1_Euler_inversion_.pdf', path_resolution=100, scatter=0, posterior_n=100, **kwargs):
     def pole_position(start, euler_1, rate_1, tpw_angle, tpw_rate, start_age, age):
 
         start_pole = PaleomagneticPole(start[0], start[1], age=start_age)
@@ -1050,7 +1120,7 @@ def plot_trace_1e_tpw(trace, lon_lats, A95s, ages, central_lon = 30., central_la
     start_directions = trace.start_pole
 
     interval = max([1,int(len(euler_rates_1)/num_paths_to_plot)])
-
+    
     ax = ipmag.make_orthographic_map(central_lon, central_lat, add_land=0, grid_lines = 1)
     
     plot_distributions(ax, euler_1_directions[:,0], euler_1_directions[:,1], cmap='Blues')
@@ -1076,26 +1146,42 @@ def plot_trace_1e_tpw(trace, lon_lats, A95s, ages, central_lon = 30., central_la
         index += 1
 
     plot_distributions(ax, tpw_directions[:,0], tpw_directions[:,1], cmap='Reds')
+   
+    posterior_likelihood_list = []
     
-    for start, e1, r1, tpw_a, tpw_r, start_a in zip(start_directions[::interval], 
-                        euler_1_directions[::interval], euler_rates_1[::interval], 
-                        tpw_angle[::interval], tpw_rate[::interval], start_age[::interval]):
-            
-        for i,a in enumerate(age_list):
-            lon_lat = pole_position( start, e1, r1, tpw_a, tpw_r, start_a, a)
-            pathlons[i] = lon_lat[0]
-            pathlats[i] = lon_lat[1]
+    if scatter!=1:
+        for start, e1, r1, tpw_a, tpw_r, start_a in zip(start_directions[::interval], 
+                            euler_1_directions[::interval], euler_rates_1[::interval], 
+                            tpw_angle[::interval], tpw_rate[::interval], start_age[::interval]):
 
-        ax.plot(pathlons,pathlats,color='b', transform=ccrs.Geodetic(), alpha=0.05)
-        
-        
+                for i,a in enumerate(age_list):
+                    lon_lat = pole_position( start, e1, r1, tpw_a, tpw_r, start_a, a)
+                    pathlons[i] = lon_lat[0]
+                    pathlats[i] = lon_lat[1]
+
+                ax.plot(pathlons,pathlats,color='b', transform=ccrs.Geodetic(), alpha=0.05)
+
+    if scatter==1:
+        posterior_interval= max([1,int(len(euler_rates_1)/posterior_n)])
+        for start, e1, r1, tpw_a, tpw_r, start_a in zip(start_directions[::posterior_interval], 
+                        euler_1_directions[::posterior_interval], euler_rates_1[::posterior_interval], 
+                        tpw_angle[::posterior_interval], tpw_rate[::posterior_interval], start_age[::posterior_interval]):
+            posterior_likelihood = 0                                               
+            for i,a in enumerate(ages):
+                lon_lat = pole_position( start, e1, r1, tpw_a, tpw_r, start_a, a)
+                pathlons[i] = lon_lat[0]
+                pathlats[i] = lon_lat[1]
+                posterior_likelihood += fisher_logp(lon_lat=lon_lats[i], k=kappa_from_two_sigma(A95s[i]), x=lon_lat)
+            ax.scatter(pathlons,pathlats,color='b', transform=ccrs.PlateCarree(), alpha=0.05) 
+            posterior_likelihood_list.append(posterior_likelihood)
+                                                          
     # plot paleomagnetic observation poles here
     cNorm  = matplotlib.colors.Normalize(vmin=min(ages), vmax=max(ages))
     scalarMap = matplotlib.cm.ScalarMappable(norm=cNorm, cmap='viridis_r')
 
     pole_colors = [colors.rgb2hex(scalarMap.to_rgba(ages[i])) for i in range(len(ages))]
         
-    cbar = plt.colorbar(scalarMap, shrink=0.85)
+    cbar = plt.colorbar(scalarMap, shrink=0.85, location='bottom')
     cbar.ax.set_xlabel('Age (Ma)', fontsize=12) 
     for i in range(len(lon_lats)):
         this_pole = Pole(lon_lats[i][0], lon_lats[i][1], A95=A95s[i])
@@ -1103,6 +1189,7 @@ def plot_trace_1e_tpw(trace, lon_lats, A95s, ages, central_lon = 30., central_la
     if savefig == True:
         plt.savefig(figname)
     plt.show()
+    return posterior_likelihood_list
 
 
     
@@ -1144,7 +1231,7 @@ def pole_position_2e_tpw(start, euler_1, rate_1, euler_2, rate_2, tpw_angle, tpw
 
 
 def plot_trace_2e_tpw(trace, lon_lats, A95s, ages, central_lon = 30., central_lat = 30., num_points_to_plot = 200, num_paths_to_plot = 200, 
-                  savefig = False, figname = 'code_output/1_Euler_inversion_.pdf', path_resolution = 100, **kwargs):
+                  savefig = False, figname = 'code_output/1_Euler_inversion_.pdf', path_resolution = 100, scatter=0, posterior_n=1000, **kwargs):
     def pole_position(start, euler_1, rate_1, euler_2, rate_2, tpw_angle, tpw_rate, switchpoint, start_age, age):
 
         start_pole = PaleomagneticPole(start[0], start[1], age=start_age)
@@ -1222,32 +1309,48 @@ def plot_trace_2e_tpw(trace, lon_lats, A95s, ages, central_lon = 30., central_la
 
     plot_distributions(ax, tpw_directions[:,0], tpw_directions[:,1], cmap='Reds')
     
-    for start, e1, r1, e2, r2, tpw_a, tpw_r, switchpoint, start_a in zip(start_directions[::interval], 
-                        euler_1_directions[::interval], euler_rates_1[::interval],
-                        euler_2_directions[::interval], euler_rates_2[::interval],
-                        tpw_angle[::interval], tpw_rate[::interval], switchpoints[::interval], start_age[::interval]):
-            
-        for i,a in enumerate(age_list):
-            lon_lat = pole_position( start, e1, r1, e2, r2, tpw_a, tpw_r, switchpoint, start_a, a)
-            pathlons[i] = lon_lat[0]
-            pathlats[i] = lon_lat[1]
+    posterior_likelihood_list = []
+    if scatter!=1:
+        for start, e1, r1, e2, r2, tpw_a, tpw_r, switchpoint, start_a in zip(start_directions[::interval], 
+                            euler_1_directions[::interval], euler_rates_1[::interval],
+                            euler_2_directions[::interval], euler_rates_2[::interval],
+                            tpw_angle[::interval], tpw_rate[::interval], switchpoints[::interval], start_age[::interval]):
 
-        old_lons = [pathlons[i] if age_list[i] > switch else None for i in range(len(age_list))]
-        old_lats = [pathlats[i] if age_list[i] > switch else None for i in range(len(age_list))]
-        young_lons = [pathlons[i] if age_list[i] <= switch else None for i in range(len(age_list))]
-        young_lats = [pathlats[i] if age_list[i] <= switch else None for i in range(len(age_list))]
-        
-        ax.plot(young_lons,young_lats,color='r', transform=ccrs.Geodetic(), alpha=0.05)
-        ax.plot(old_lons,old_lats,color='b', transform=ccrs.Geodetic(), alpha=0.05)
-        
-        
+                for i,a in enumerate(age_list):
+                    lon_lat = pole_position( start, e1, r1, e2, r2, tpw_a, tpw_r, switchpoint, start_a, a)
+                    pathlons[i] = lon_lat[0]
+                    pathlats[i] = lon_lat[1]
+                old_lons = [pathlons[i] if age_list[i] > switchpoint else None for i in range(len(age_list))]
+                old_lats = [pathlats[i] if age_list[i] > switchpoint else None for i in range(len(age_list))]
+                young_lons = [pathlons[i] if age_list[i] <= switchpoint else None for i in range(len(age_list))]
+                young_lats = [pathlats[i] if age_list[i] <= switchpoint else None for i in range(len(age_list))]
+
+
+                ax.plot(young_lons,young_lats,color='r', transform=ccrs.Geodetic(), alpha=0.05)
+                ax.plot(old_lons,old_lats,color='b', transform=ccrs.Geodetic(), alpha=0.05)
+
+    if scatter==1:
+        posterior_interval= max([1,int(len(euler_rates_1)/posterior_n)])
+        posterior_likelihood = 0
+        for start, e1, r1, e2, r2, tpw_a, tpw_r, switchpoint, start_a in zip(start_directions[::posterior_interval], 
+                    euler_1_directions[::posterior_interval], euler_rates_1[::posterior_interval],
+                    euler_2_directions[::posterior_interval], euler_rates_2[::posterior_interval],
+                    tpw_angle[::posterior_interval], tpw_rate[::posterior_interval], switchpoints[::posterior_interval], start_age[::posterior_interval]):
+            for i,a in enumerate(ages):
+                lon_lat = pole_position( start, e1, r1, e2, r2, tpw_a, tpw_r, switchpoint, start_a, a)
+                pathlons[i] = lon_lat[0]
+                pathlats[i] = lon_lat[1]
+                posterior_likelihood += fisher_logp(lon_lat=lon_lats[i], k=kappa_from_two_sigma(A95s[i]), x=lon_lat)
+            ax.scatter(pathlons,pathlats,color='b', transform=ccrs.PlateCarree(), alpha=0.05) 
+            posterior_likelihood_list.append(posterior_likelihood)
+
     # plot paleomagnetic observation poles here
     cNorm  = matplotlib.colors.Normalize(vmin=min(ages), vmax=max(ages))
     scalarMap = matplotlib.cm.ScalarMappable(norm=cNorm, cmap='viridis_r')
 
     pole_colors = [colors.rgb2hex(scalarMap.to_rgba(ages[i])) for i in range(len(ages))]
         
-    cbar = plt.colorbar(scalarMap, shrink=0.85)
+    cbar = plt.colorbar(scalarMap, shrink=0.85, location='bottom')
     cbar.ax.set_xlabel('Age (Ma)', fontsize=12) 
     for i in range(len(lon_lats)):
         this_pole = Pole(lon_lats[i][0], lon_lats[i][1], A95=A95s[i])
@@ -1255,6 +1358,7 @@ def plot_trace_2e_tpw(trace, lon_lats, A95s, ages, central_lon = 30., central_la
     if savefig == True:
         plt.savefig(figname)
     plt.show()
+    return posterior_likelihood_list
     
 def bin_trace(lon_samples, lat_samples, resolution):
     """
