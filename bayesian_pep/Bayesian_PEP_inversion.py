@@ -998,9 +998,11 @@ def pole_position_1e_tpw(start, euler_1, rate_1, tpw_angle, tpw_rate, start_age,
     TPW.rotate(start_pole, tpw_angle)
     
     this_euler = euler_pole_1.copy()
-    this_euler.add(TPW)
-    
     start_pole.rotate(this_euler, this_euler.rate*(start_age-age))
+    
+#     this_euler.add(TPW)
+    
+    start_pole.rotate(TPW, TPW.rate*(start_age-age))
 
     lon_lat = np.ndarray.flatten(np.array([start_pole.longitude, start_pole.latitude]))
 
@@ -1028,9 +1030,11 @@ def plot_trace_1e_tpw(trace, lon_lats, A95s, ages, central_lon = 30., central_la
         TPW.rotate(start_pole, tpw_angle)
 
         this_euler = euler_pole_1.copy()
-        this_euler.add(TPW)
-
         start_pole.rotate(this_euler, this_euler.rate*(start_age-age))
+    
+#     this_euler.add(TPW)
+    
+        start_pole.rotate(TPW, TPW.rate*(start_age-age))
 
         lon_lat = np.ndarray.flatten(np.array([start_pole.longitude, start_pole.latitude]))
 
