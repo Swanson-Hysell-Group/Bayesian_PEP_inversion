@@ -1,6 +1,6 @@
 # Bayesian PEP inversion
 
-This repository is for storing code related to Bayesian framework of doing paleomagnetic Euler pole inversion and apparent polar wander path analyses.
+This repository is for storing code related to Bayesian framework of doing paleomagnetic Euler pole inversion and apparent polar wander path analyses. An associated manuscript can be found in this repository: https://github.com/Swanson-Hysell-Group/Bayesian_PEP_inversion_manuscript 
 
 
 
@@ -18,8 +18,7 @@ This folder contains compiled data used for generating examples of apparent pola
 
 #### Jupyter Notebooks
 
-Notebooks are used to demonstrate the functions of the package.
-
+Notebooks are used to demonstrate the functions of the package, to conduct analysis, and to develop visualizations that are presented in the accompanying manuscript.
 
 
 #### code_output 
