@@ -82,24 +82,25 @@ def generate_APWP_poles(number_of_poles, start_pole, start_age, end_age, euler_p
 
     return Euler_df
 
-def plot_paleomagnetic_poles(dataframe, central_longitude=0, central_latitude=0, **kwargs):
+def plot_paleomagnetic_poles(dataframe, pole_lon = 'pole_lon', pole_lat = 'pole_lat', pole_a95 = 'pole_a95', 
+                             pole_age = 'pole_age', central_longitude=0, central_latitude=0, cmap = 'viridis_r', **kwargs):
     ax = ipmag.make_orthographic_map(central_longitude, central_latitude, **kwargs)
 
     ax.set_global()
+    ax.gridlines()
     
-    cNorm  = matplotlib.colors.Normalize(vmin=min(dataframe['pole_age']), vmax=max(dataframe['pole_age']))
-    scalarMap = matplotlib.cm.ScalarMappable(norm=cNorm, cmap='viridis_r')
+    cNorm  = matplotlib.colors.Normalize(vmin=min(dataframe[pole_age]), vmax=max(dataframe[pole_age]))
+    scalarMap = matplotlib.cm.ScalarMappable(norm=cNorm, cmap=cmap)
 
-    dataframe['color'] = [colors.rgb2hex(scalarMap.to_rgba(dataframe['pole_age'].tolist()[i])) for i in range(dataframe.shape[0])]
+    dataframe['color'] = [colors.rgb2hex(scalarMap.to_rgba(dataframe[pole_age].tolist()[i])) for i in range(dataframe.shape[0])]
 
     for i in range(dataframe .shape[0]):
-        this_pole = Pole(dataframe['pole_lon'][i], dataframe['pole_lat'][i], A95 = dataframe['pole_a95'][i])
+        this_pole = Pole(dataframe[pole_lon][i], dataframe[pole_lat][i], A95 = dataframe[pole_a95][i])
         this_pole.plot(ax, color = dataframe['color'][i])
         
-    cbar = plt.colorbar(scalarMap, shrink=0.75, location='bottom', pad=0.01)
+    cbar = plt.colorbar(scalarMap, shrink=0.85)
     cbar.ax.set_xlabel('Age (Ma)', fontsize=12) 
     return ax
-
 
 
 # @as_op(itypes=[T.dvector, T.dvector, T.dscalar], otypes=[T.dvector])
@@ -811,9 +812,9 @@ def plot_trace_1e(trace, lon_lats, A95s,  ages, central_lon = 30., central_lat =
             
     cNorm  = matplotlib.colors.Normalize(vmin=min(ages), vmax=max(ages))
     scalarMap = matplotlib.cm.ScalarMappable(norm=cNorm, cmap='viridis_r')
-    
+    posterior_interval= max([1,int(len(rates_1)/posterior_n)])
     if scatter == True:
-        posterior_interval= max([1,int(len(rates_1)/posterior_n)])
+        
         for start, e1, r1, start_a in zip(start_directions[::posterior_interval], 
                             euler_1_directions[::posterior_interval], rates_1[::posterior_interval], 
                                  start_ages[::posterior_interval]):
