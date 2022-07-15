@@ -1,6 +1,6 @@
 # Bayesian PEP inversion
 
-This repository is for storing code related to Bayesian framework of doing paleomagnetic Euler pole inversion and apparent polar wander path analyses. An associated manuscript can be found in this repository: https://github.com/Swanson-Hysell-Group/Bayesian_PEP_inversion_manuscript 
+This repository contains code and results associated with a Bayesian framework for paleomagnetic Euler pole inversion and apparent polar wander path analyses. An associated manuscript can be found in this repository: https://github.com/Swanson-Hysell-Group/Bayesian_PEP_inversion_manuscript 
 
 
 
@@ -35,7 +35,7 @@ Conda users can use the _environment.yml_ file in the repository to generate a w
 
 In terminal navigate to the repository where the environment.yml file is and type this in the command:
 
-`conda env creat -f environment.yml`
+`conda env create -f environment.yml`
 
 
 
