@@ -621,6 +621,91 @@ class Watson_Girdle(Continuous):
                                 dist_shape=self.shape,
                                 size=size)
 
+@as_op(itypes=[T.dvector, T.dscalar, T.dmatrix], otypes=[T.dscalar])
+def watsongirdlelogp(lon_lat, k, x):
+    
+    if k > 0:
+        raise ValueError('k has to be negative!')
+        return 
+    if k == 0:
+        return np.log(1. / 4. / np.pi)
+    
+    theta = np.array([pmag.angle(i, lon_lat) for i in x])
+    pw = 1/sc.hyp1f1(1/2, 3/2, k)/4/np.pi*np.exp(k*np.cos(theta*d2r)**2)
+    log_pw = np.sum(np.log(pw))
+    
+    return np.array(log_pw)
+
+class WatsonGirdle(Continuous):
+    def __init__(self, lon_lat=[0,0], k=None, dtype = np.float64, 
+                 *args, **kwargs):
+        super(WatsonGirdle, self).__init__(*args, **kwargs)
+        if k == 0:
+            k = np.log(1. / 4. / np.pi)
+            
+        self._lon_lat = T.as_tensor(lon_lat)
+        self._k = T.as_tensor_variable(floatX(k))
+    
+    def logp(self, value):
+        lon_lat = self._lon_lat
+        k = self._k
+        value = T.as_tensor(value)
+        
+        return watsongirdlelogp(lon_lat, k, value)
+    
+    def _random(self, lon_lat, k, size = None):
+        if np.abs(k) < 0:
+            k = np.log(1. / 4. / np.pi)
+        beta = np.pi / 2. - lon_lat[1] * d2r
+        gamma = lon_lat[0] * d2r
+        rotation_matrix = construct_euler_rotation_matrix(0, beta, gamma)
+
+        C1 = np.sqrt(abs(k))
+        C2 = np.arctan(C1)
+
+        this_lon = 0
+        this_lat = 0
+
+        i = 0
+        while i < 1:
+            U = np.random.random()
+            V = np.random.random()
+            S = 1/C1*np.tan(C2*U)
+            r0 = np.random.random()
+
+            if V < (1-k*S**2)*np.exp(k*S**2):
+                this_lon = 0
+                this_lat = 0
+                pos_neg = 0
+                colat = np.arccos(S)
+                this_lon = 2*np.pi*r0
+                pos_neg = random.choice([-1, 1])
+                this_lon = this_lon*r2d
+                this_lat = pos_neg*(90-colat*r2d)
+                i = i + 1
+
+        x = np.cos(this_lon*d2r)*np.cos(this_lat*d2r)
+        y = np.sin(this_lon*d2r)*np.cos(this_lat*d2r)
+        z = np.sin(this_lat*d2r)
+        
+        unrotated = pmag.dir2cart([this_lon, this_lat])[0]
+        if np.abs(k) < eps:
+            return np.array([this_lon, this_lat])
+        else:
+            rotated = np.transpose(np.dot(rotation_matrix, unrotated))
+            rotated_dir = pmag.cart2dir(rotated)
+        
+            return np.array([rotated_dir[0], rotated_dir[1]])
+
+    
+    def random(self, point=None, size=None):
+        lon_lat = self._lon_lat
+        k = self._k
+        
+        lon_lat, k = draw_values([self._lon_lat, self._k], point=point, size=size)
+        return generate_samples(self._random, lon_lat, k,
+                                dist_shape=self.shape,
+                                size=size)
     
     
 @as_op(itypes=[T.dvector, T.dscalar, T.dscalar, T.dscalar, T.dscalar], otypes=[T.dvector])
