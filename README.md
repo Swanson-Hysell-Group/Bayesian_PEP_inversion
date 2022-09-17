@@ -1,33 +1,38 @@
 # Bayesian PEP inversion
 
-This repository contains code and results associated with a Bayesian framework for paleomagnetic Euler pole inversion and apparent polar wander path analyses. An associated manuscript can be found in this repository: https://github.com/Swanson-Hysell-Group/Bayesian_PEP_inversion_manuscript 
+This repository contains code and results associated with a Bayesian framework for paleomagnetic Euler pole inversion and apparent polar wander path analyses. The associated paper in JGR-Solid Earth is: 
 
+**Bayesian paleomagnetic Euler pole inversion for paleogeographic reconstruction and analysis**
 
+Ian R. Rose<sup>1</sup>, Yiming Zhang<sup>1</sup>, and Nicholas L. Swanson-Hysell<sup>1</sup>
+
+<sup>1</sup>Department of Earth and Planetary Science, University of California, Berkeley, CA, USA
+
+The manuscript files be found in this repository: https://github.com/Swanson-Hysell-Group/Bayesian_PEP_inversion_manuscript 
+
+## Repository structure
 
 ### bayesian_pep
 
 This folder contains the Python library.
 
+### code_output
 
+This folder contains visualizations as well as raw PyMC output from the Jupyter notebooks .
 
-#### data 
+### data 
 
 This folder contains compiled data used for generating examples of apparent polar wander path inversions.
 
+### pygplates 
 
+This folder contains the pygplates library which is licensed with a CC BY 3.0 license and distributed by the EarthByte group: https://www.earthbyte.org/category/resources/software-workflows/pygplates/
 
-#### Jupyter Notebooks
+### Jupyter Notebooks
 
-Notebooks are used to demonstrate the functions of the package, to conduct analysis, and to develop visualizations that are presented in the accompanying manuscript.
+Jupyter notebooks within the main folder of the repository demonstrate the functions of the package, conduct analysis, and develop visualizations that are presented in the accompanying manuscript.
 
-
-#### code_output 
-
-This folder contains output figures and data from the Jupyter Notebooks.
-
-
-
-#### setting up Python environment
+## Setting up Python environment
 
 Conda users can use the _environment.yml_ file in the repository to generate a working Conda Python environment  that can execute the code in this repository. 
 
