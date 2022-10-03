@@ -2,11 +2,8 @@
 
 This repository contains code and results associated with a Bayesian framework for paleomagnetic Euler pole inversion and apparent polar wander path analyses. The associated paper in JGR-Solid Earth is: 
 
-**Bayesian paleomagnetic Euler pole inversion for paleogeographic reconstruction and analysis**
-
-Ian R. Rose<sup>1</sup>, Yiming Zhang<sup>1</sup>, and Nicholas L. Swanson-Hysell<sup>1</sup>
-
-<sup>1</sup>Department of Earth and Planetary Science, University of California, Berkeley, CA, USA
+Rose, I., Zhang, Y., and  Swanson-Hysell, N.L. (2022), **Bayesian paleomagnetic Euler pole inversion for paleogeographic reconstruction and analysis**, *JGR: Solid Earth*, doi:10.1029/2021JB023890.
+https://doi.org/10.1029/2021JB023890
 
 The manuscript files be found in this repository: https://github.com/Swanson-Hysell-Group/Bayesian_PEP_inversion_manuscript 
 
